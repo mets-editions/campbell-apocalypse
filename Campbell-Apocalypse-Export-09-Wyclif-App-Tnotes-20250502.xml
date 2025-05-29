@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-09-Wyclif-App-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes to Wycliffite LV Apocalypse</title>
+        <author>Campbell, Ethan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-03" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2024-03" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+          <resp from="2023-03" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-03" to="2023-08">Entered corrections for print edition</resp>
+          <resp from="2023-03" to="2023-08">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp from="2024-06" to="2024-07">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2023-08" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-08" to="2024-05">Entered corrections for print edition</resp>
+          <resp from="2023-08" to="2023-11">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-09-Wyclif-App-Tnotes"/>
+      <div type="text">
+        <p style="heading4">Prologue, Paragraph 2</p>
+        <note type="tnote" n="1"><space rend="indent1"/><hi rend="italic">Alle</hi>. The first word
+          of the Prologue and of each chapter in F begins with a rubricated initial letter, in blue
+          ink with red flourishes. B features more elaborate rubrication on its first page for the
+          Prologue and Chapter 1, with gilded initial letters and red and blue illuminations around
+          the borders of the text but afterward uses a more basic rubrication similar to F, with
+          initial letters in blue and red.</note>
+        <p style="heading4">Prologue, Paragraph 8</p>
+        <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">this</hi>. So F. B adds:
+            <hi rend="italic">Heer endiþ þe prologe and biginniþ þ</hi><hi rend="italic">e
+            Apocalips</hi>.</note>
+        <p style="heading4">Chapter 1, Paragraph 1</p>
+        <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">Apocalips</hi>. F marginal
+          note: <hi rend="italic">þat is, revelacion eþer schewing</hi>.</note>
+        <p style="heading4">Chapter 1, Paragraph 3</p>
+        <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">prickiden</hi>. F marginal
+          note: <hi rend="italic">eþer crucifieden</hi>.</note>
+        <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">kinredis</hi>. F marginal
+          note: <hi rend="italic">eþer lynagis</hi>.</note>
+        <p style="heading4">Chapter 1, Paragraph 6</p>
+        <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">garnement</hi>. F marginal
+          note: <hi rend="italic">eþer an awbe</hi> [white robe].</note>
+        <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">latoun</hi>. F marginal
+          note: <hi rend="italic">eþer dross of gold</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 3</p>
+        <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">that thei ben</hi>. So B.
+          F: <hi rend="italic">þei ben þat</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 5</p>
+        <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">collerie</hi>. F marginal
+          note: <hi rend="italic">þat is, a medicyn for iȝen gederide of dyverse eerbis</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 1</p>
+        <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">dore</hi>. F marginal
+          note: <hi rend="italic">þat is, þe undirstonding of scripturis</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 2</p>
+        <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">middil of the seete</hi>.
+          So F. B adds: <hi rend="italic">and in þe cumpas of þe seete</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 1</p>
+        <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">whiyt hors</hi>. F
+          marginal note: <hi rend="italic">þat is, holi chirche maad feir with baptem</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 2</p>
+        <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">reed hors</hi>. F
+          marginal note: <hi rend="italic">þat is, opene pursuers</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 3</p>
+        <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">blac hors</hi>. F
+          marginal note: <hi rend="italic">þat is, hiding hise vicis to sum men wiþ goode
+            werkis</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 4</p>
+        <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">pale hors</hi>. F
+          marginal note: <hi rend="italic">þat is, ipocritis shewing hem holie to þe peple þouȝ þei
+            be not</hi>.</note>
+        <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">helle</hi>. F marginal
+          note: <hi rend="italic">þ</hi><hi rend="italic">at is, men þat never ben fulle of worldli
+            goodis</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 1</p>
+        <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">fourty</hi>. So B. F: <hi
+            rend="italic">twenti</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 6</p>
+        <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">weren slayne</hi>. So F
+          and B. This phrase is not in the Vulgate and appears to be clarifying that this group of
+          evildoers did not die in the plagues.</note>
+        <p style="heading4">Chapter 11, Paragraph 1</p>
+        <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">reud</hi>. F marginal
+          note: <hi rend="italic">e</hi><hi rend="italic">þer mesure</hi>.</note>
+        <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">twei</hi>. F marginal
+          note: <hi rend="italic">þat is, Enok and Elye</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 1</p>
+        <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">And the temple . . .
+            greet hail</hi>. F marks the beginning of Chapter 12 here; modern convention assigns
+          this first verse to the end of Chapter 11.</note>
+        <p style="heading4">Chapter 12, Paragraph 5</p>
+        <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">maundementis</hi>. So B.
+          F: <hi rend="italic">maundement</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 6</p>
+        <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">And he stood . . . the
+            see</hi>. F places this sentence at the end of Chapter 12, following the Vulgate; the
+          Authorized Version and most modern versions of the Bible assign it to the first half of
+          13:1.</note>
+        <p style="heading4">Chapter 18, Paragraph 4</p>
+        <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">amonye</hi>. F marginal
+          note: <hi rend="italic">þat is, a swete tree</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 5</p>
+        <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">destitute</hi>. F
+          marginal note: <hi rend="italic">eþer forsaken</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 6</p>
+        <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">the brennyng of it</hi>.
+          So B. F: <hi rend="italic">brennyng þe of it</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 7</p>
+        <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">wiycchecraftis</hi>. F
+          marginal note: <hi rend="italic">eþer venemyngis</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 3</p>
+        <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">of God</hi>. So B. F: <hi
+            rend="italic">God of</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 5</p>
+        <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">houndis</hi>. F marginal
+          note: <hi rend="italic">þat is, false prechours</hi>.</note>
+        <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">wiycchis</hi>. F marginal
+          note: <hi rend="italic">eþer venemers</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 11</p>
+        <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">Apocalips</hi>. So F. B
+          adds: <hi rend="italic">þat Joon wroot in þe ile of Pathmos, þe whiche is þe ende of þe
+            Newe Testament</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 12</p>
+        <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">M.CCCC</hi>. F: <hi
+            rend="italic">M.CCC</hi>, followed by an erasure; the intended date is apparently 1408.
+          Elizabeth Solopova writes, “The date on fol. 385r may have been altered to avoid
+          censorship, but, according to Watson (1984), examination under UV light suggests that the
+          scribe first wrote ‘M.ccc’ and the ‘and’ symbol, erased the latter, wrote it in the right
+          place, and then forgot to insert the fourth ‘c’” (Solopova, <hi rend="italic">Manuscripts
+            of the Wycliffite Bible</hi>, p. 146).</note>
+      </div>
+    </body>
+  </text>
+</TEI>

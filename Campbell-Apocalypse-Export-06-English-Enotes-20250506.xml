@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-06-English-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes</title>
+        <author>Campbell, Ethan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-08" to="2024-08">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed and suggested explanatory notes</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-03" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2024-03" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-02" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed and suggested explanatory notes</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp from="2024-06" to="2024-07">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-09">Reviewed and suggested explanatory notes</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-03" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-03" to="2024-05">Entered corrections for print edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-06-English-Enotes"/>
+      <div type="text">
+        <p style="heading4">Prologue, Paragraph 1</p>
+        <note type="enote" n="1"><space rend="indent1"/><hi rend="italic">Seynt Poul the </hi><hi
+            rend="italic">apostil</hi>. Saint Paul the Apostle, one of the most influential leaders
+          in the early Christian church, is the named author of thirteen books in the New Testament,
+          including the Second Epistle to Timothy, which is quoted here. Though modern scholarship
+          disputes Paul’s authorship of the Epistles to Timothy, it was unquestioned in religious
+          writing of the fourteenth century.</note>
+        <note type="enote" n="2"><space rend="indent1"/><hi rend="italic">alle tho that wilne . . .
+            suffre persecucioun and anguyschis</hi>. 2 Timothy 3:12.</note>
+        <note type="enote" n="3"><space rend="indent1"/><hi rend="italic">I am with you al dayes to
+            the endyng </hi><hi rend="italic">of this world</hi>. Matthew 28:20. The precise sources
+          for the remainder of the quotation are unclear, but for <hi rend="italic">Have ye</hi><hi
+            rend="italic"> no drede</hi>, see Luke 12:32.</note>
+        <note type="enote" n="4"><space rend="indent1"/><hi rend="italic">“Affieth in me, for
+            </hi><hi rend="italic">I have overcomen the world.”</hi> John 16:33.</note>
+        <note type="enote" n="5"><space rend="indent1"/><hi rend="italic">thorugh his mildenesse
+            </hi><hi rend="italic">overecame hem</hi>. Throughout the <hi rend="italic">English
+            Apocalypse</hi>, phrases occasionally appear which have no clear connection to the
+          Anglo-Norman text they are ostensibly translating. In many cases, these are simply
+          mistranslations, and the source of the error can be found with reasonable certainty by
+          comparing alternatives from AN and Middle English, and from the Vulgate if applicable (for
+          example, see notes for 5.¶3 and 21.¶7, below). In other cases, the English translator
+          deliberately revises or makes additions, for reasons that may or may not be clear (see
+          notes for 13.¶9, <hi rend="italic">noon schal han power</hi> and <hi rend="italic">that
+            is</hi><hi rend="italic"> to seie</hi>, and 20.¶3 below). In still other cases, such as
+          this one, the appearance of an independent phrase is simply a mystery. It appears to be
+          either a mistranslation or a revision of the AN <hi rend="italic">en sa </hi><hi
+            rend="italic">humanité</hi> [in his humanity] (Fridner, p. 2), but the reason for the
+          change is unclear.</note>
+        <p style="heading4">Prologue, Paragraph 2</p>
+        <note type="enote" n="6"><space rend="indent1"/><hi rend="italic">alle</hi><hi rend="italic"
+            > tho that schulen be dampned</hi>. In this case, a mistranslation gives the phrase a
+          precisely opposite meaning. The AN <hi rend="italic">les</hi><hi rend="italic"> esliz
+            Damnedeu</hi> (Fridner, p. 2) are “the chosen of God,” not the damned.</note>
+        <note type="enote" n="7"><space rend="indent1"/><hi rend="italic">asilen . . . arisen</hi>.
+          The word <hi rend="italic">asilen</hi> is not attested in the <hi rend="italic">MED</hi>.
+          H uses <hi rend="italic">assailen</hi> [assail], and clearly the same meaning is intended
+          here. The unusual construction may be intended as a visual parallel with the word <hi
+            rend="italic">arisen</hi> in the manuscript line below it. The long hooked <hi
+            rend="italic">s</hi> (<hi rend="italic">ſ</hi>) of <hi rend="italic">asilen</hi>
+          resembles in shape the <hi rend="italic">r</hi> of <hi rend="italic">arisen</hi>, and the
+            <hi rend="italic">l</hi> of <hi rend="italic">asilen</hi> is nearly identical to the
+          long <hi rend="italic">s</hi> of <hi rend="italic">arisen</hi>. The parallel image of the
+          two words mirrors the parallelism in the sentence — when adversities “assail” the
+          righteous, at that moment the blessings of grace and glory “arise.”</note>
+        <p style="heading4">Prologue, Paragraph 3</p>
+        <note type="enote" n="8"><space rend="indent1"/><hi rend="italic">thre maner </hi><hi
+            rend="italic">sightis</hi>. Though no source is mentioned, the prologue may be referring
+          here to St. Augustine’s categorization of three types of vision — bodily, spiritual, and
+          intellectual — from his commentary <hi rend="italic">De Genesi ad litteram</hi> [<hi
+            rend="italic">The Literal Meaning of Genesis</hi>] (2:185–86). The prologue does not
+          explicitly list bodily vision as one of the <hi rend="italic">thre maner sightis</hi>, but
+          it does describe two types of <hi rend="italic">goostly</hi> or spiritual visions
+          (sleeping and waking) and another type of sight called <hi rend="italic">intellectus</hi>,
+          a spiritual understanding within the soul, given by God through revelation.</note>
+        <p style="heading4">Prologue, Paragraphs 3–4</p>
+        <note type="enote" n="9"><space rend="indent1"/><hi rend="italic">as Pharo saugh . . . but
+            he understode what </hi><hi rend="italic">it was to menen</hi>. Perhaps following
+          Augustine’s categories, the prologue provides two biblical examples of “ghostly” or
+          spiritual sight — Pharaoh, who saw dream visions in his sleep (Genesis 41:1–38) and Moses,
+          who saw a vision while awake (Exodus 3:1–6) — and one biblical example of “intellectual”
+          sight in the Apostle Paul, who ascended to heaven spiritually and saw the secrets of God
+          with his “spiritual eye” (2 Corinthians 12:2–4). The vision of John in the Apocalypse, the
+          prologue says, is an example of this latter category of intellectual sight, since John
+          both saw visions and understood what they meant.</note>
+        <p style="heading4">Prologue, Paragraph 4</p>
+        <note type="enote" n="10"><space rend="indent1"/><hi rend="italic">holy chirches of
+            Asie</hi>. The seven churches the angel instructs John to address in chapters 2–3 of the
+          Apocalypse — Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea — are
+          all located in Asia Minor, the southwestern peninsula of modern Turkey.</note>
+        <p style="heading4">Chapter 1, Paragraph 2</p>
+        <note type="enote" n="11"><space rend="indent1"/><hi rend="italic">sevene </hi><hi
+            rend="italic">spiritis</hi>. The “seven spirits” that gather around God’s throne appear
+          here and three more times in the opening chapters of the Apocalypse — in 3:1 (though both
+          manuscripts of the <hi rend="italic">English Apocalypse</hi> drop this mention which
+          appears in the Vulgate; see textual note for 3.¶1, <hi rend="italic">And to the </hi><hi
+            rend="italic">aungele</hi>), 4:5 (4.¶3), and 5:6 (5.¶3). These spirits are apparently
+          separate from the seven angels of the churches in Asia Minor, as they are <hi
+            rend="italic">sente into alle </hi><hi rend="italic">londis</hi> in 5:6, but what they
+          are is a matter of theological interpretation and debate. The gloss in chapter 5 provides
+          one of several traditional interpretations for their identity — they are “the seven giftis
+          of the Holi Goost” as listed in Isaias 11:2–3 (see note for 5.¶4, <hi rend="italic">the
+            seven giftis</hi>, below).</note>
+        <p style="heading4">Chapter 1, Paragraph 8</p>
+        <note type="enote" n="12"><space rend="indent1"/><hi rend="italic">sevene graces</hi><hi
+            rend="italic"> of the Hooly Goost</hi>. The seven graces, or spiritual gifts, of the
+          Holy Spirit which the gloss says the seven candlesticks represent are listed in Romans
+          12:6–8: prophecy, service, teaching, admonishing, giving, sovereignty (power or
+          authority), and mercy. They are not to be confused with the seven “gifts of the Spirit”
+          from the Book of Isaias, which the gloss assigns to the spirits around the throne (see
+          notes for 1.¶2, above, and 5.¶4, <hi rend="italic">the seven giftis</hi>, below).</note>
+        <note type="enote" n="13"><space rend="indent1"/><hi rend="italic">the maydenesse son</hi>.
+          A translation of the AN <hi rend="italic">le fiz de la Virge</hi> (Fridner, p. 7), from an
+          interpretation of the Vulgate <hi rend="italic">Filio hominis</hi>. In verse 1:13 of MS,
+          the angel who visits John is described as <hi rend="italic">oon</hi><hi rend="italic"> lyk
+            to the sone of man</hi>, following the LV, but the gloss follows H and other earlier
+          manuscripts of the <hi rend="italic">English Apocalypse</hi> in calling him <hi
+            rend="italic">the maidens son</hi>. This may be evidence that the biblical copy text the
+          Plimpton scribe worked from was incomplete or corrupted, requiring the LV to fill in gaps,
+          though the gloss accompanying it was complete. Alternatively, the scribe may simply have
+          preferred the LV translation in certain sections of the biblical text, but did not make
+          corresponding changes in the gloss. See also notes for 2.¶6, 4.¶4, <hi rend="italic">Bi
+            the voisis</hi>, 10.¶2, <hi rend="italic">heele</hi>, 13.¶6, <hi rend="italic">That he
+            biddith us</hi>, 17.¶3, <hi rend="italic">delices of the wyn</hi>, 18.¶2, and 18.¶11,
+            <hi rend="italic">vois of the hurlyng</hi>, below.</note>
+        <p style="heading4">Chapter 1, Paragraph 10</p>
+        <note type="enote" n="14"><space rend="indent1"/><hi rend="italic">prelatis</hi>. MS and H
+          use the same word here for the AN <hi rend="italic">prelat</hi> [church official] in place
+          of the Vulgate <hi rend="italic">angeli</hi> [angels] and LV <hi rend="italic"
+            >aungelis</hi>. It is the first example of a translation decision that will run
+          throughout chapter 2 of the AN and <hi rend="italic">English Apocalypse</hi> — referring
+          to the angels of the seven churches in Asia Minor, to whom the Apostle John is tasked to
+          bring messages, as prelates or bishops (see notes for <hi rend="italic">bischop</hi> in
+          2.¶¶1, 5, 7, and 11, below). The Plimpton manuscript begins to follow the Vulgate in using
+            <hi rend="italic">aungele</hi> starting in 3:1, but P continues to use <hi rend="italic"
+            >bisschop</hi> or simply <hi rend="italic">the chirche</hi> throughout chapter 3 as well
+          (see textual notes for <hi rend="italic">And to </hi><hi rend="italic">the aungele</hi> in
+          3.¶¶1, 4–5, and 7–9). These are not mistranslations; they represent rather a decision to
+          incorporate an interpretation of the text into the text itself at the expense of literal
+          meaning. The interpretation in question is not an unusual or controversial one — clearly
+          the intended audience for John’s messages to the churches is not angels but the leaders of
+          those churches. St. Jerome makes this point in his prologue to the Apocalypse, which
+          appears in translation at the start of the Wycliffite LV: <hi rend="italic">Joon writeth
+            to sevene chirchis of Asye and to her </hi><hi rend="italic">sevene bysshops of the
+            forseide thingis</hi> (Pro.¶7). The LV, however, stays faithful to the literal words in
+          the Vulgate and does not incorporate this interpretation into its translation. The gloss
+          commentary of the <hi rend="italic">English Apocalypse</hi> also makes frequent reference
+          to bishops and prelates and reflects on the qualities of a faithful church leader, for
+          example in the gloss that follows this passage (1.¶11).</note>
+        <p style="heading4">Chapter 1, Paragraph 11</p>
+        <note type="enote" n="15"><space rend="indent1"/><hi rend="italic">holi prelatis that gyven
+            hem to ryt bileve . . . conseile </hi><hi rend="italic">men after Goddis lawe</hi>.
+          Given the generally anticlerical tone of the gloss (see multiple notes for 13.¶9 — <hi
+            rend="italic">now </hi><hi rend="italic">gyven hem to his prelatis</hi>, <hi
+            rend="italic">noon schal han power</hi>, and <hi rend="italic">that is to seie</hi> — as
+          well as 16.¶11, a <hi rend="italic">child that cannot kepen an appil</hi>, 18.¶9, and
+          20.¶3, below), within a manuscript that contains Lollard material, it may be significant
+          that the MS alters H’s reference here to church officials shriving congregants through the
+          sacrament of penance (see textual note) — that is, hearing confession, prescribing works
+          of satisfaction, and absolving from sin — and instead focuses solely on the priest’s duty
+          to preach and <hi rend="italic">conseile men after Goddis lawe</hi>. Late fourteenth and
+          early fifteenth-century Lollards tended to be suspicious of the priestly office in general
+          and debated its necessity and role in performing sacraments like penance, especially if
+          the priest in question had fallen into mortal sin. For example, John Wyclif argues in his
+          late tract <hi rend="italic">De Blasphemia</hi> that “It is of no use, and is even
+          hurtful, to confess to a simoniacal priest,” and recommends that if all available priests
+          are sinful, the parishioner “ought then to prefer to confess to one of the faithful laity”
+          (Wyclif, <hi rend="italic">De Blasphemia</hi>, ed. Dziewicki, pp. 117, 125). Later
+          Lollards echo this argument, for example in conclusions 8 and 9 of the <hi rend="italic"
+            >Thirty-Seven Conclusions</hi>, a public document defending their beliefs before the
+          English Parliament in 1395 (Forshall, ed., <hi rend="italic">Remonstrance</hi>, pp.
+          18–22). The gloss makes many other references to <hi rend="italic">schrift</hi> and <hi
+            rend="italic">penaunce</hi> which MS leaves unchanged, but H’s reference here to <hi
+            rend="italic">prelatis</hi> who <hi rend="italic">shryven hem</hi> is its most direct
+          description of priests performing the sacrament.</note>
+        <p style="heading4">Chapter 2, Paragraph 1</p>
+        <note type="enote" n="16"><space rend="indent1"/><hi rend="italic">bischop of the chirche of
+            Effesie</hi>. See note for 1.¶10, above.</note>
+        <p style="heading4">Chapter 2, Paragraph 4</p>
+        <note type="enote" n="17"><space rend="indent1"/><hi rend="italic">“Though I have as muche
+            strengthe . . . al is</hi><hi rend="italic"> not worthi to me.”</hi> 1 Corinthians
+          13:2–3.</note>
+        <note type="enote" n="18"><space rend="indent1"/><hi rend="italic">“That Y </hi><hi
+            rend="italic">seie to oon, I seie to alle.”</hi> Mark 13:37. See also note for 3.¶10,
+          below.</note>
+        <p style="heading4">Chapter 2, Paragraph 5</p>
+        <note type="enote" n="19"><space rend="indent1"/><hi rend="italic">the chirche of
+            Smyrma</hi>. MS and H do not make reference to a bishop here, but they drop the Vulgate
+          and LV reference to an <hi rend="italic">aungel</hi>. See note for 1.¶10, above.</note>
+        <p style="heading4">Chapter 2, Paragraph 6</p>
+        <note type="enote" n="20"><space rend="indent1"/><hi rend="italic">By </hi><hi rend="italic"
+            >the asaute of fals men</hi>. The gloss here follows the translation of verse 2:9 that
+          appears in H and other early manuscripts of the <hi rend="italic">English Apocalypse</hi>,
+          rather than MS which follows LV (see textual note for 2.¶5, <hi rend="italic">and
+            art</hi><hi rend="italic"> blasfemed</hi>). See note for 1.¶8, <hi rend="italic">the
+            maydenesse son</hi>, above.</note>
+        <p style="heading4">Chapter 2, Paragraph 7</p>
+        <note type="enote" n="21"><space rend="indent1"/><hi rend="italic">bischop of the chirche
+            of</hi><hi rend="italic"> Pergame</hi>. See note for 1.¶10, above.</note>
+        <note type="enote" n="22"><space rend="indent1"/><hi rend="italic">Antifas</hi>. Little is
+          known about the early Christian martyr Antipas beyond what can be gleaned from the
+          Apocalypse text — that he was a leader in the church at Pergamum, that it was an evil
+          place (<hi rend="italic">where Satanas dwellith</hi>), and that he was martyred. Eastern
+          Orthodox tradition, which venerates Antipas as a saint, adds that he was the bishop of
+          Pergamum appointed by John the Apostle himself (which might explain his mention in the
+          text), and that he died by burning.</note>
+        <p style="heading4">Chapter 2, Paragraph 8</p>
+        <note type="enote" n="23"><space rend="indent1"/><hi rend="italic">the techyng of Balam,
+            that taught </hi><hi rend="italic">the kyng Balac . . . sacrificis of ydolis</hi>.
+          Balaam is a prophet whose story is told in the Book of Numbers, starting in chapter 22.
+          King Balak of Moab bribes him to curse Israel, but he refuses. However, the text later
+          blames Balaam for the idolatry and sexual sins of the Israelites, which lead to a deadly
+          plague (Numbers 31:16). The Apocalypse cites him here as an example of one who leads
+          others astray and compares him to the Nicolaitans, a group of heretics whose exact sin is
+          not named.</note>
+        <p style="heading4">Chapter 2, Paragraph 9</p>
+        <note type="enote" n="24"><space rend="indent1"/><hi rend="italic">manna hyd . . . new name
+            shal be writtun</hi>. For a description of manna, the bread from heaven which God uses
+          to feed the Israelites as they wander in the desert, see Exodus 16:4–35. The manna the
+          angel refers to here is <hi rend="italic">hyd</hi> [hidden], reserved for those in the
+          churches who overcome the persecutions and heresies mentioned in preceding verses. The <hi
+            rend="italic">harde ston</hi> on which God writes the names of those who have overcome
+          is a translation of the AN <hi rend="italic">blanche dure pierre</hi> [hard white stone].
+          The Vulgate has <hi rend="italic">et dabo illi caclculum candidum</hi> [and I will give
+          him a white stone/marble], and LV follows: <hi rend="italic">whyt stoon</hi>. It is
+          unclear why AN adds that the stone is hard or why the <hi rend="italic">English
+            Apocalypse</hi> drops that it is white, but the sense is that the stone is like a
+          monument with words etched into its face.</note>
+        <p style="heading4">Chapter 2, Paragraph 11</p>
+        <note type="enote" n="25"><space rend="indent1"/><hi rend="italic">bischop of the chirche of
+            Tiatire</hi>. See note for 1.¶10, above.</note>
+        <note type="enote" n="26"><space rend="indent1"/><hi rend="italic">cledes</hi>. A
+          translation of AN <hi rend="italic">archal</hi> or <hi rend="italic">orchal</hi> (Fridner,
+          pp. 7, 18) from the Vulgate <hi rend="italic">auricalco</hi> [copper or brass]. The same
+          word is translated in 1:15 as <hi rend="italic">latoune</hi>, where MS follows the LV. H
+          translates both instances of the word as <hi rend="italic">gleedes</hi> or <hi
+            rend="italic">gledes</hi> [live coals], since the angel’s feet are <hi rend="italic">as
+            in </hi><hi rend="italic">a brennynge chymeney</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 12</p>
+        <note type="enote" n="27"><space rend="indent1"/><hi rend="italic">a womman
+            Jezabelle</hi><hi rend="italic"> that seith sche is a prophetesse</hi>. Little is known
+          about the woman Jezebel who appears in the Apocalypse, beyond what can be intuited from
+          the text — that she styled herself a prophetess and led the Christians of Thyatira astray
+          with forbidden sexual practices and idol worship. Her name is likely an epithet, since it
+          is also the name of an ancient queen of Israel whose reign is recounted in the Book of 3
+          Kings, chapters 18–21, and her death in 4 Kings chapter 9. Queen Jezebel was married to
+          the evil King Ahab, led Israel in worshipping Canaanite gods, persecuted the prophet
+          Elijah, and died by defenestration in fulfillment of a prophecy that she would be eaten by
+          dogs (4 Kings 9:32–37). The fate promised to the “Jezebel” of the Apocalypse is no less
+          gruesome — those who have slept with her will be in torment, and her children (likely
+          referring to her followers) will be killed.</note>
+        <p style="heading4">Chapter 2, Paragraph 13</p>
+        <note type="enote" n="28"><space rend="indent1"/><hi rend="italic">the develis
+          techynge</hi>. Apparently a reference to the teaching of the aforementioned prophetess
+          Jezebel. The <hi rend="italic">English Apocalypse</hi> condenses several verses in
+          2:24–29, and here it cuts a further explanation about this teaching which the LV preserves
+          (see textual note for 2.¶13). LV describes it as <hi rend="italic">the highnesse of
+            </hi><hi rend="italic">Sathanas, hou thei seyn</hi> [as they call it], perhaps a mocking
+          reference to the followers of Jezebel calling their teaching “the highness of God.”</note>
+        <note type="enote" n="29"><space rend="indent1"/><hi rend="italic">misbilevande</hi>. All
+          manuscripts of the <hi rend="italic">English </hi><hi rend="italic">Apocalypse</hi> follow
+          AN in saying that those who overcome will have power over “misbelievers.” LV, however,
+          uses the more generic term <hi rend="italic">folkis</hi> [peoples, mankind] to translate
+          the Vulgate <hi rend="italic">gentes</hi> [nations], origin of the word “Gentiles” (see
+          note for 11.¶2, below). The <hi rend="italic">English Apocalypse</hi> translator is not
+          misreading or mistranslating a word here, but rather incorporating an interpretation into
+          it.</note>
+        <p style="heading4">Chapter 3, Paragraph 1</p>
+        <note type="enote" n="30"><space rend="indent1"/><hi rend="italic">I shal come to </hi><hi
+            rend="italic">thee as a theef</hi>. See Matthew 24:42–44, Luke 12:39–40, and 1
+          Thessalonians 5:1–3. See also note for 16.¶9, <hi rend="italic">“Lo</hi><hi rend="italic"
+            >, I come as a thef . . .”</hi> below.</note>
+        <note type="enote" n="31"><space rend="indent1"/><hi rend="italic">whanne thou shalt</hi><hi
+            rend="italic"> witen no word</hi>. The Vulgate in verse 3:3 reads <hi rend="italic"
+            >et</hi><hi rend="italic"> nescies qua hora veniam ad te</hi> [and you will not know
+          what hour I will come to you]. LV: <hi rend="italic">and thu shalt not wite in what our I
+            shal </hi><hi rend="italic">come to thee</hi>. The unusual phrasing in every manuscript
+          of the <hi rend="italic">English Apocalypse</hi> derives from an apparent mistranslation
+          in the AN: <hi rend="italic">quant vos ne saverez mot</hi> [when you will not know a word]
+          (Fridner, p. 21).</note>
+        <p style="heading4">Chapter 3, Paragraph 2</p>
+        <note type="enote" n="32"><space rend="indent1"/><hi rend="italic">clade in whiyt
+            clothinge</hi>. The soiled clothing represents sin and defilement, whereas white
+          clothing represents purification and righteousness. See Zacharias 3:3–4; Matthew
+          22:11–13.</note>
+        <p style="heading4">Chapter 3, Paragraph 3</p>
+        <note type="enote" n="33"><space rend="indent1"/><hi rend="italic">thei </hi><hi
+            rend="italic">have the name of goode lyf and ben dead</hi>. The gloss here does not
+          match the biblical passage above, which says simply <hi rend="italic">that men seyn thu
+            art deed</hi> (3.¶1). H follows the Vulgate in verse 3:1 in saying <hi rend="italic">men
+            </hi><hi rend="italic">seien that thou art ded and thou lyvest</hi>, but MS drops the
+          final phrase about living, perhaps a scribal error caused by the folio break (from fol.
+          206r to fol. 206v). Alternatively, this may be another example of the biblical copy text
+          being corrupt where the gloss is complete.</note>
+        <p style="heading4">Chapter 3, Paragraph 6</p>
+        <note type="enote" n="34"><space rend="indent1"/><hi rend="italic">“Lo, I schal make thine
+            ennemys</hi><hi rend="italic"> fale bifore thi feet.”</hi> Psalm 109:1 in the Vulgate;
+          Psalm 110:1 in the King James Version and most modern editions of the Bible. See also Luke
+          20:43, Acts 2:35, and Hebrews 1:13.</note>
+        <p style="heading4">Chapter 3, Paragraph 10</p>
+        <note type="enote" n="35"><space rend="indent1"/><hi rend="italic">ben wers . . .
+            defaute</hi><hi rend="italic"> of techynge</hi>. Whiting cites “to be worse than a Jew”
+          as a proverbial English phrase, and one quotation includes “a Sarsyn” (Whiting, J42, p.
+          310). The proverb reflects the idea the gloss expresses here — that Jews and Muslims are
+          less culpable for their unbelief in Christ than Christians who become unbelievers, because
+          they have not received the same teaching.</note>
+        <note type="enote" n="36"><space rend="indent1"/><hi rend="italic">onementis</hi>. A
+          translation of AN <hi rend="italic">oignement</hi> (Fridner, p. 28). The same word appears
+          in 3:18 in AN as <hi rend="italic">collire</hi> (Fridner, p. 26), from the Vulgate <hi
+            rend="italic">collyrio</hi> [lotion or salve], and MS translates it there as <hi
+            rend="italic">colerie, that is medicyne for </hi><hi rend="italic">iyen gaderid of
+            dyverse eerbis</hi>, following the LV. P translates the word in the biblical text and
+          the gloss as <hi rend="italic">oyle</hi> and <hi rend="italic">oynementez</hi>,
+          respectively.</note>
+        <note type="enote" n="37"><space rend="indent1"/><hi rend="italic">“That I seie to on,
+            I</hi><hi rend="italic"> saie to alle.”</hi> Mark 13:37. See also note for 2.¶4,
+          above.</note>
+        <p style="heading4">Chapter 4, Paragraph 2</p>
+        <note type="enote" n="38"><space rend="indent1"/><hi rend="italic">the two colurrs</hi><hi
+            rend="italic"> that ben in the reynebowe</hi>. The gloss here interprets the second half
+          of verse 4:3, which the MS biblical text omits. This is also the case for H and every
+          other manuscript of the <hi rend="italic">English Apocalypse</hi>, further evidence that
+          its biblical copytext was incomplete or corrupted in comparison to its gloss. See note for
+          1.¶8, <hi rend="italic">the maydenesse son</hi>, above.</note>
+        <note type="enote" n="39"><space rend="indent1"/><hi rend="italic">God saveth hise</hi>. The
+          translator frequently uses <hi rend="italic">hise</hi> as an absolute pronoun, rather than
+          as a possessive followed by a noun. In most cases, the subject is God or Jesus, and <hi
+            rend="italic">hise</hi> refers to his people or followers. See <hi rend="italic"
+            >MED</hi>, <hi rend="italic">his</hi> (pron.2), sense 1a(c), “his people, his subjects,
+          his followers or disciples.”</note>
+        <p style="heading4">Chapter 4, Paragraph 4</p>
+        <note type="enote" n="40"><space rend="indent1"/><hi rend="italic">twelve patriarkis and
+            prophetis and the twelve apostlis and the </hi><hi rend="italic">holi seyntis</hi>. The
+          twelve patriarchs are the twelve sons of Jacob, who are listed in Genesis 35:22–26 and
+          correspond to the Twelve Tribes of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+          Joseph, Benjamin, Dan, Naphtali, Gad, and Asher. These tribes will be named in Apocalypse
+          7:4–8, but in a different order and with the tribe of Manasseh (an offshoot of Joseph)
+          replacing Dan (see note for 7.¶2, below). It is unclear whether the gloss intends the word
+            <hi rend="italic">prophetis</hi> to refer to the patriarchs, or if this is a separate
+          group, perhaps the authors of the prophetic books of the Hebrew Bible — in which case they
+          would not count toward the total of 24 elders on thrones in the passage. The Twelve
+          Apostles are the twelve disciples of Jesus listed in Matthew 10:2–4, Mark 3:16–19, and
+          Luke 6:13–16: Simon Peter, Andrew, James, John, Philip, Bartholomew, Thomas, Matthew,
+          James the son of Alphaeus, Thaddeus, Simon the Zealot, and Judas Iscariot, with Matthias
+          here replacing Judas (Acts 1:26). The <hi rend="italic">holi seyntis</hi>, like the <hi
+            rend="italic">prophetis</hi>, might refer to the Apostles or be a separate group.</note>
+        <note type="enote" n="41"><space rend="indent1"/><hi rend="italic">Bi the </hi><hi
+            rend="italic">voisis</hi>. Neither MS nor P include the reference to “voices” in 4:5,
+          though the word appears in the Vulgate, AN, and one late manuscript of the <hi
+            rend="italic">English Apocalypse</hi> (see textual note for 4.¶3, <hi rend="italic"
+            >lightynge and thundrynge</hi>). The gloss’s reference to it here is further evidence
+          that the gloss is keyed to a separate and less corrupt biblical text than the biblical
+          copy text for Plimpton. See note for 1.¶8, <hi rend="italic">the maydenesse son</hi>,
+          above.</note>
+        <p style="heading4">Chapter 4, Paragraph 6</p>
+        <note type="enote" n="42"><space rend="indent1"/><hi rend="italic">the lioun is dede . . .
+            the cry of his </hi><hi rend="italic">fadir</hi>. The belief that lion cubs were born
+          dead and brought to life after three days when their father breathed on them, and with it
+          the interpretation of lions as symbols for Christ, was commonplace in biblical
+          commentaries by the fourteenth century. Its earliest iteration may be traced to the
+          second-century Greek text <hi rend="italic">Physiologus</hi> (Curley, ed., pp. 3–4),
+          translated into Latin in the fifth century, whose descriptions of the allegorical meanings
+          of various animals were often referenced, with or without citation, in medieval
+          bestiaries. See also note for 5.¶2, <hi rend="italic">as the lion doith awey</hi>,
+          below.</note>
+        <note type="enote" n="43"><space rend="indent1"/><hi rend="italic">the olde lawe</hi>. The
+          “Old Law” refers to the Law of Moses, the legal code for ancient Israel which begins with
+          the Ten Commandments in Exodus 20 and includes all of the sacrificial and purification
+          regulations that follow in the books of Exodus, Leviticus, Numbers, and Deuteronomy. As
+          the gloss illustrates here, Christian theologians viewed Christ’s death on the cross as a
+          type of blood sacrifice that satisfied the requirements of the Old Law for Christian
+          believers and instituted a New Law rooted in the teachings of Jesus.</note>
+        <note type="enote" n="44"><space rend="indent1"/><hi rend="italic">And bi the</hi><hi
+            rend="italic"> oxe . . . clerest is of sight</hi>. The association of Gospel writers
+          with various creatures is traditional — Luke with an ox, Matthew with a man (or angel),
+          and John with an eagle. The gloss does not mention the association of Mark with a lion,
+          possibly because the lion has already been mentioned as a figure of Christ a few lines
+          earlier (see note for <hi rend="italic">the lioun is dede</hi>, above), or because the AN
+          copy text was corrupt. Fridner notes that a few copies of AN include the line <hi
+            rend="italic">Par le leon </hi><hi rend="italic">est signefié seint Marc, pur ceo qu’il
+            parolle especiaument </hi><hi rend="italic">de la resurrectiun</hi> [By the lion is
+          signified Saint Mark, for he speaks especially of the resurrection] (Fridner, p.
+          219).</note>
+        <note type="enote" n="45"><space rend="indent1"/><hi rend="italic">“bisi</hi><hi
+            rend="italic"> to do wel not oneli bifor God but also biforne</hi><hi rend="italic"> the
+            folk.”</hi> 2 Corinthians 8:21.</note>
+        <p style="heading4">Chapter 5, Paragraph 1</p>
+        <note type="enote" n="46"><space rend="indent1"/><hi rend="italic">the leon of the kynde of
+            Juda that is roote </hi><hi rend="italic">of Davith</hi>. Both Jesus and his ancestor
+          King David belonged to the Israelite tribe of Judah, and Jesus is named here the “lion of
+          Judah,” a reference to Genesis 49:9–10, which associates the tribe of Judah with a lion
+          and foretells that it will produce a line of kings. Jesus is also named here the “root of
+          David” in reference to a prophecy in Isaias 11:1–10 that a messianic figure will arise
+          from the “root of Jesse,” David’s father — in other words, from the lineage of King David.
+          The Apostle Paul explicitly identifies this figure as Christ and calls him the “Root of
+          Jesse” in Romans 15:12. See also note for 22.¶8, below.</note>
+        <p style="heading4">Chapter 5, Paragraph 2</p>
+        <note type="enote" n="47"><space rend="indent1"/><hi rend="italic">the saveour to bien man
+            agen</hi>. The direct biblical reference for the gloss’s description of Jesus “buying
+          mankind again” — paying a ransom or redemption price — might be 1 Peter 1:18–19, which
+          speaks of Christian believers being redeemed not by silver or gold but by Christ’s blood;
+          the Vulgate <hi rend="italic">redempti</hi> [redeemed] is translated by the Wycliffite LV
+          as <hi rend="italic">bought agen</hi>. The specific financial metaphor of Christ “buying”
+          humanity’s salvation with his sacrifice appears elsewhere in the New Testament epistles,
+          for example in 1 Corinthians 6:20, <hi rend="italic">ye ben bought with greet pris</hi>
+          (LV). But the general metaphor of sin as a financial debt that must be repaid to God or
+          forgiven runs throughout the Bible, including the well-known phrase from the Lord’s
+          Prayer, “Forgive us our debts as we forgive our debtors” (Matthew 6:12; Luke 11:4), and
+          the parables of Jesus that use debt as an analogy for sin (see Matthew 18:21–34; Luke
+          7:36–50).</note>
+        <note type="enote" n="48"><space rend="indent1"/><hi rend="italic">the seven sacramentis of
+            holi chirche or the seven giftis</hi><hi rend="italic"> of the Holi Gost</hi>. The gloss
+          gives two possible interpretations for the seven clasps (better known in modern English as
+          the “seven seals”). The first possibility is that they are the seven sacraments of the
+          church, the most important rituals of the Christian faith through which God extends grace
+          to mankind — baptism, confirmation, the Eucharist (or Communion), penance (which includes
+          confession, satisfaction, and absolution), extreme unction (or anointing), ordination, and
+          marriage. The other potential interpretation the gloss provides for the seven clasps is
+          that they are the seven “gifts of the Spirit” from Isaias 11:2–3 (see note for 5.¶4,
+          below).</note>
+        <note type="enote" n="49"><space rend="indent1"/><hi rend="italic">as the lion doith awey
+            his trace with his</hi><hi rend="italic"> tayle . . . lyved as to the godhed</hi>. The
+          belief that lions swept away their own tracks with their tails to hide and slept with
+          their eyes open can be traced to the second-century <hi rend="italic">Physiologus</hi>, in
+          the same passage which claims that lion cubs are born dead for three days (see note for
+          4.¶6, above). The gloss uses these traits to draw parallels between the lion and Christ,
+          who hid his divine nature from “the proud” and was both dead in the flesh and alive in
+          spirit at the same time after the Crucifixion. In a similar way, the <hi rend="italic"
+            >Physiologus</hi> says that Christ, “the spiritual lion of the tribe of Judah . . . hid
+          his intelligible tracks (that is, his divine nature), from the unbelieving Jews,” and that
+          he “physically slept on the cross, but his divine nature always keeps watch in the right
+          hand of the Father” (Curley, ed. and trans., pp. 3–4).</note>
+        <p style="heading4">Chapter 5, Paragraph 3</p>
+        <note type="enote" n="50"><space rend="indent1"/><hi rend="italic">harpis and fithelis
+            of</hi><hi rend="italic"> gold ful of swete smele</hi>. The word <hi rend="italic"
+            >fithelis</hi> [fiddles] appears in both MS and earlier manuscripts, including H and P,
+          and is an apparent mistranslation of the AN <hi rend="italic">phioles</hi> (Fridner, p.
+          40), from the Vulgate <hi rend="italic">phialas</hi> [vials]. LV translates the word as
+            <hi rend="italic">viols</hi>, an alternate spelling of <hi rend="italic">MED</hi>, <hi
+            rend="italic">fiole</hi> (n.), sense 1a, “A small glass or metal bowl or cup for
+          liquids, incense, etc.” However, the Middle English <hi rend="italic">viol</hi> can also
+          refer to a violin or fiddle (see <hi rend="italic">MED</hi>, <hi rend="italic">viol</hi>
+          [n.]), which might explain the translator’s confusion. Adding to the potential confusion
+          with <hi rend="italic">phioles</hi> is the word’s pairing with a musical instrument — <hi
+            rend="italic">harpes</hi> in AN, translated directly to Middle English as <hi
+            rend="italic">harpis</hi> — though the phrase <hi rend="italic">ful of</hi><hi
+            rend="italic"> swete smele</hi> should make clear that the <hi rend="italic"
+            >phioles</hi>, unlike the harps, are objects that can be filled with perfume or incense.
+          Only one later manuscript of the <hi rend="italic">English Apocalypse</hi>, Bodley Laud
+          Misc. 33, accurately translates the word as <hi rend="italic">fiolis</hi> [vials]
+          (Fridner, p. 40). Since <hi rend="italic">fithelis</hi> is attested in the earliest
+          manuscripts, its usage in MS did not likely originate with the LV.</note>
+        <note type="enote" n="51"><space rend="indent1"/><hi rend="italic">and sungen</hi>. MS and H
+          both omit the object of the verb “sing,” which appears in the Vulgate as <hi rend="italic"
+            >canticum novum</hi> [new song], AN as <hi rend="italic">chaunçon novele</hi> [new
+          song], and LV as “a new song.” Three other manuscripts of the <hi rend="italic">English
+            Apocalypse</hi>, including two of the earliest copies, contain some variation on <hi
+            rend="italic">new songes</hi> (Fridner, p. 40), and the gloss below also refers to <hi
+            rend="italic">new songis</hi> (see 5.¶4) — an instance of MS and H departing together
+          from what was likely the original translation.</note>
+        <p style="heading4">Chapter 5, Paragraph 4</p>
+        <note type="enote" n="52"><space rend="indent1"/><hi rend="italic">the seven giftis of the
+            Holi Goost that</hi><hi rend="italic"> Jhesu Crist hade, as Ysaye saith</hi>. Many of
+          the prophecies of Isaiah, from the book of the Hebrew Bible that bears his name, were
+          interpreted by later Christian writers as foretelling the life of Jesus Christ. Isaias
+          11:2 lists seven “gifts of the Spirit,” which the Apocalypse commentary here notes were
+          all possessed by Jesus; this passage in Isaias as a whole describes a figure traditionally
+          interpreted by Christian theologians as Christ. The gloss here also supplies an identity
+          for the <hi rend="italic">sevene spiritis</hi> around the throne of God, which first
+          appeared in 1:4, and says they embody the seven gifts (see note for 1.¶2, above). The LV
+          translates the seven gifts as <hi rend="italic">wisdom</hi>, <hi rend="italic"
+            >undurstondyng</hi>, <hi rend="italic">counsel</hi>, <hi rend="italic">strengthe</hi>,
+            <hi rend="italic">kunnyng</hi> [knowledge], <hi rend="italic">pitee</hi> [piety], and
+            <hi rend="italic">drede</hi> [fear] <hi rend="italic">of the Lord</hi>.</note>
+        <note type="enote" n="53"><space rend="indent1"/><hi rend="italic">violis</hi>. The biblical
+          text uses <hi rend="italic">fithelis</hi> [fiddles] to describe these receptacles of
+          perfume (see note for 5.¶3, above), while the gloss follows the LV in using <hi
+            rend="italic">violis</hi>, which can mean either “vials” or “violins.” See <hi
+            rend="italic">MED</hi>, <hi rend="italic">viol</hi> (n.) and alternate spellings for <hi
+            rend="italic">fiole</hi> (n.). This may be a rare example of the LV’s influence on the
+          gloss in addition to the biblical text. H, P, and other early manuscripts omit the phrase
+          in the gloss which contains the word (see textual note, <hi rend="italic">That thei hadden
+            the violis</hi>), whereas six later manuscripts in addition to Plimpton use <hi
+            rend="italic">phioles</hi> or <hi rend="italic">viols</hi> (Fridner, p. 42).</note>
+        <p style="heading4">Chapter 6, Paragraph 7</p>
+        <note type="enote" n="54"><space rend="indent1"/><hi rend="italic">with swerde and with
+            hunger and of the deeth of</hi><hi rend="italic"> the bestis of erthe</hi>. The Vulgate
+          includes the conjunction <hi rend="italic">et</hi> [and] after <hi rend="italic"
+            >morte</hi> [death] to make clear that the horseman brings four distinct types of
+          destruction: the sword (war), hunger (famine), death (translated “plague” or “pestilence”
+          in modern editions), and the beasts of the earth. AN and LV follow suit. By dropping the
+          conjunction — a mistranslation that appears in all manuscripts — the <hi rend="italic"
+            >English Apocalypse</hi> appears to reduce the types of destruction to three, with “the
+          death of the beasts of the earth” as the third. The gloss, however, separates them again,
+          and regards <hi rend="italic">deeth</hi> and <hi rend="italic">the bestes of the</hi><hi
+            rend="italic"> erthe</hi> as betokening two separate things (6.¶8). Modern editions
+          which translate the original Greek rather than the Vulgate also make the pronoun <hi
+            rend="italic">hym</hi> at the start of this sentence plural, to indicate that each one
+          of the four riders, traditionally known as the Four Horsemen of the Apocalypse, carries a
+          means of destruction, rather than the last rider carrying all four. For example, the King
+          James Version of 1611 reads: “And power was given unto them over the fourth part of the
+          earth, to kill with sword, and with hunger, and with death, and with the beasts of the
+          earth.”</note>
+        <p style="heading4">Chapter 6, Paragraph 11</p>
+        <note type="enote" n="55"><space rend="indent1"/><hi rend="italic">And the heven partide
+            </hi><hi rend="italic">as a book folden</hi>. This unusual image appears in both MS and
+          H and the AN original. The word <hi rend="italic">partide</hi> translates the Vulgate <hi
+            rend="italic">recessit</hi>, “receded” or “departed.” However, since the AN and Middle
+          English translators have replaced the original biblical metaphor of a scroll being rolled
+          up with that of a book, <hi rend="italic">partide</hi> also suggests the image of heaven
+          opening like a book’s pages.</note>
+        <p style="heading4">Chapter 6, Paragraph 13</p>
+        <note type="enote" n="56"><space rend="indent1"/><hi rend="italic">And</hi><hi rend="italic"
+            > his membris that shul be than in tribulacions, that bitokeneth</hi><hi rend="italic">
+            the harde haire</hi>. The biblical text above (6.¶11) describes the darkening of the sun
+          with the metaphor of <hi rend="italic">the sak of an hayre</hi> — a piece of sackcloth
+          made from coarse animal skin with hair, also called a haircloth. See <hi rend="italic"
+            >MED</hi>, <hi rend="italic">her(e</hi> (n.2), sense 3, which notes that haircloth could
+          be used to make a shroud, the awning of a boat, or an altar covering, any one of which
+          fits the metaphor of the sun being covered or shaded. The gloss extends this metaphor
+          further, with a reference to another common use for haircloth — as an uncomfortable
+          garment or hairshirt, which could serve as an aid in penance (see sense 2). The
+          apocalyptic tribulations that Jesus’s followers will undergo are like the “hard” or rough
+          cloth of a penitential garment that will lead them to greater righteousness.</note>
+        <p style="heading4">Chapter 7, Paragraph 2</p>
+        <note type="enote" n="57"><space rend="indent1"/><hi rend="italic">Of the kynde of</hi><hi
+            rend="italic"> Ruben . . . Of the kynde of Manasse, as manye</hi>. The twelve <hi
+            rend="italic">kyndes</hi> listed here are twelve tribes of Israel, descended from the
+          twelve sons of Jacob listed in Genesis 35:22–26 (see note for 4.¶4, <hi rend="italic"
+            >twelve patriarkis</hi>, above). However, the tribe of Manassah, which along with the
+          tribe of Ephraim was descended from a son of Joseph (see Genesis 41:51–52), replaces Dan
+          in the list of twelve. The biblical text gives no explanation for the absence of either
+          Dan or Ephraim, but the two tribes may be excluded because they led a rebellion which
+          caused the kingdom of Israel to divide following King Solomon’s death, and their lands
+          served as the locations of two golden idols which the northern half of the kingdom
+          established in competition with the Temple at Jerusalem (3 Kings 12:25–30). The <hi
+            rend="italic">English Apocalypse</hi> translation follows a slightly different ordering
+          than the AN and Vulgate in placing Manassah last in the list (see the textual note for
+          this passage), perhaps to emphasize the replacement.</note>
+        <p style="heading4">Chapter 7, Paragraph 3</p>
+        <note type="enote" n="58"><space rend="indent1"/><hi rend="italic">soithfaste penance
+            bitokeneth fourti, and the feith </hi><hi rend="italic">of the Gospelis foure</hi>. The
+          association of penance with the number forty is a traditional one, as it is the number of
+          days the Flood of Noah lasted (Genesis 7:12), the number of years the nation of Israel
+          wandered in the desert (Exodus 16:35), and the number of days Jesus spent fasting in the
+          wilderness before starting his public ministry (Matthew 4:2; Mark 1:13; Luke 4:2). In the
+          church calendar, the season of Lent, the period from Ash Wednesday to Easter which is
+          associated with fasting and penance, is also forty days excluding Sundays. The number four
+          is here associated with “the faith of the Gospels” because there are four Gospel accounts
+          in the New Testament: the Books of Matthew, Mark, Luke, and John.</note>
+        <p style="heading4">Chapter 7, Paragraph 4</p>
+        <note type="enote" n="59"><space rend="indent1"/><hi rend="italic">a </hi><hi rend="italic"
+            >gret asemblé that noon myght telle of alle manere of </hi><hi rend="italic">men</hi>.
+          The “great assembly” here may include the 144,000 members of the tribes of Israel
+          mentioned previously, but it is distinct from them and so vast as to be uncountable. The
+          phrase <hi rend="italic">of alle manere of men</hi> is a translation of AN <hi
+            rend="italic">de tutes manieres de genz</hi> [of all manners of people] (Fridner, p.
+          56), which is an abridgement of the Vulgate <hi rend="italic">ex omnibus gentibus, et
+            tribubus, et populis, et</hi><hi rend="italic"> linguis</hi> [from all nations and
+          tribes and peoples and languages]. This international multitude will later be identified,
+          in verse 14, as martyrs and other victims of persecution (7.¶8).</note>
+        <note type="enote" n="60"><space rend="indent1"/><hi rend="italic">palmis</hi><hi
+            rend="italic"> in her hondis</hi>. Palm branches were traditionally associated with
+          victory, and they recall Jesus’s Triumphant Entry into Jerusalem the week before his
+          Crucifixion, when crowds waved palm branches and laid them in the road as he rode a donkey
+          in the manner of a conquering king. All four Gospels recount the event, but only John
+          specifically notes that the branches were from palm trees (John 12:12–15).</note>
+        <p style="heading4">Chapter 7, Paragraph 8</p>
+        <note type="enote" n="61"><space rend="indent1"/><hi rend="italic">coverne</hi>. A
+          translation of AN <hi rend="italic">gouvernera</hi> (Fridner, p. 58) and Vulgate <hi
+            rend="italic">reget</hi> [shepherd]. H uses <hi rend="italic">governe</hi>, and the MS
+          spelling is unusual. However, see alternate spellings for <hi rend="italic">MED</hi>, <hi
+            rend="italic">governour</hi> (n.) and <hi rend="italic">governing(e</hi>, (ger.). In the
+          passage, the Lamb on the throne protects his people from <hi rend="italic">the </hi><hi
+            rend="italic">sunne</hi> and <hi rend="italic">noon hete</hi>, which may have prompted
+          the scribe to think of the similar word <hi rend="italic">coveren</hi> [cover], which can
+          also imply protection (see <hi rend="italic">coveren</hi> [v.1], sense 10b).</note>
+        <p style="heading4">Chapter 8, Paragraph 2</p>
+        <note type="enote" n="62"><space rend="indent1"/><hi rend="italic">voices</hi>. See <hi
+            rend="italic">MED</hi>, <hi rend="italic">voice</hi> (n.), sense 2a: “The sound or noise
+          of thunder . . . a thunderclap.”</note>
+        <p style="heading4">Chapter 9, Paragraph 1</p>
+        <note type="enote" n="63"><space rend="indent1"/><hi rend="italic">the depe pit</hi>. The
+          bottomless pit or abyss referenced here may be associated with hell, but it might also be
+          considered a specific place where demons are held prisoner. Demons in a scene from the
+          Gospel of Luke express their fear of it when Jesus threatens to send them there (Luke
+          8:31), and the Apostle Paul uses the same word to describe where Jesus goes after his
+          death (Romans 10:7). It will be described later in the Apocalypse as the place from which
+          several tribulations will arise, such as the smoke and giant locusts in verses 2 and 3 and
+          the Beast in 11:7 (11.¶6), and as the place where Satan will be imprisoned in 20:1–2
+          (20.¶1). The demon Abaddon will be described as the <hi rend="italic">aungele of the
+            pit</hi> in 9:11 (9.¶3), in the Vulgate <hi rend="italic">angelum abyssi</hi> [angel of
+          the abyss].</note>
+        <p style="heading4">Chapter 9, Paragraph 2</p>
+        <note type="enote" n="64"><space rend="indent1"/><hi rend="italic">Bi the heigh . . . heigh
+            </hi><hi rend="italic">lif</hi>. The translation plays with the double meaning of the
+          Middle English homonym <hi rend="italic">heigh</hi> in the gloss. The <hi rend="italic"
+            >heigh</hi> [hay, or grass] will not be harmed by the plague of locusts, in the same way
+          that God will not allow spiritual harm to come to those of <hi rend="italic">heigh</hi>
+          [high, or holy] life. This wordplay is unique to the Middle English, as the AN original
+          uses the words <hi rend="italic">fein</hi> [hay] and <hi rend="italic">haute</hi> [high,
+          holy] (Fridner, p. 68). Punning on the literal and figurative meanings of “high” can also
+          be seen in the preceding sentence, in the description of the locusts themselves, which <hi
+            rend="italic">mow not fleen highe</hi> [cannot fly high], in the same way the
+          Antichrist’s disciples cannot <hi rend="italic">fleen</hi><hi rend="italic"> highe</hi>
+          figuratively, in spiritual understanding or good works.</note>
+        <p style="heading4">Chapter 9, Paragraph 3</p>
+        <note type="enote" n="65"><space rend="indent1"/><hi rend="italic">in Latyn
+          Exterminans</hi>. The original Greek text of the Apocalypse lists the Hebrew (Abaddon) and
+          Greek (Apollyon) names for the demon. The Latin name Exterminans, which also means
+          “destruction,” originates with the Vulgate.</note>
+        <p style="heading4">Chapter 9, Paragraph 6</p>
+        <note type="enote" n="66"><space rend="indent1"/><hi rend="italic">foure corneres</hi>. A
+          mistranslation of the Vulgate <hi rend="italic">cornibus</hi> [horns], which originates
+          with the AN and is followed by all manuscripts of the <hi rend="italic">English
+            Apocalypse</hi> (Fridner, p. 71). The LV also has <hi rend="italic">foure corners</hi>
+          here, possibly evidence of influence from the earlier Apocalypse, but just as likely an
+          independent mistranslation, perhaps the result of confusion with the proverbial phrase
+          “four corners of the earth” used elsewhere in the text — see 7:1 (7.¶1) and 20:7
+          (20.¶4).</note>
+        <note type="enote" n="67"><space rend="indent1"/><hi rend="italic">and bi</hi><hi
+            rend="italic"> an oure . . . and bi a yeer</hi>. H and several other manuscripts omit
+          the first <hi rend="italic">and</hi> in this series, but the sense is nevertheless
+          confusing. The Vulgate <hi rend="italic">qui parati erant in</hi><hi rend="italic">
+            horam</hi> [who were ready for an hour] indicates that the angels are prepared and
+          waiting for these lengths of time before they strike.</note>
+        <p style="heading4">Chapter 9, Paragraph 9</p>
+        <note type="enote" n="68"><space rend="indent1"/><hi rend="italic">woundis</hi>. For the use
+          of “wounds” to mean “plagues,” see <hi rend="italic">MED</hi>, <hi rend="italic"
+            >wound</hi> (n.), sense 5b. Two of the four illustrative quotes in this <hi
+            rend="italic">MED</hi> entry are verse 11:6 of the Apocalypse (11.¶4), one from an <hi
+            rend="italic">English Apocalypse</hi> manuscript, Bodley Rawlinson C.750, and the other
+          from the Wycliffite EV. The text will use <hi rend="italic">woundis</hi> to mean “plagues”
+          throughout, but see note for 16.¶1, below, for one example of <hi rend="italic"
+            >wounde</hi> meaning a literal physical wound.</note>
+        <p style="heading4">Chapter 10, Paragraph 2</p>
+        <note type="enote" n="69"><space rend="indent1"/><hi rend="italic">“I am not come . . . to
+            fulfillen it.”</hi> Matthew 5:17.</note>
+        <note type="enote" n="70"><space rend="indent1"/><hi rend="italic">heele</hi>. The earliest
+          manuscripts of the <hi rend="italic">English Apocalypse</hi>, including H and P, use this
+          term for “conceal,” both in the biblical text verse 10:4 (see textual note for 10.¶1) and
+          in the gloss. MS follows the LV in using <hi rend="italic">marke</hi> in the biblical
+          text, which means to seal or conceal; see <hi rend="italic">MED</hi>, <hi rend="italic"
+            >marken</hi> (v.1), sense 5. MS uses <hi rend="italic">heele</hi> in the gloss, however,
+          providing further evidence that though the biblical text may be influenced by the LV, the
+          commentary remains keyed to the earlier translation. See note for 1.¶8, <hi rend="italic"
+            >the maydenesse son</hi>, above.</note>
+        <p style="heading4">Chapter 11, Paragraph 2</p>
+        <note type="enote" n="71"><space rend="indent1"/><hi rend="italic">misbilevende</hi>. MS’s
+          word for “unbelievers,” which H renders as <hi rend="italic">mysbilevande men</hi>, is a
+          translation of AN <hi rend="italic">mescreanz</hi> [heretics, unbelievers] from the
+          Vulgate <hi rend="italic">gentibus</hi>, a word which literally means “the nations,”
+          referring to all nations besides Israel, and from which the word “Gentiles” derives.
+          Though <hi rend="italic">gentil</hi> as a word for non-Jews was available in the
+          fourteenth century (see <hi rend="italic">MED</hi>, <hi rend="italic">gentil</hi> [n.],
+          sense 3), LV translates the Vulgate here as <hi rend="italic">hethen</hi> [heathen] <hi
+            rend="italic">men</hi>. Later translations such as the Douay-Rheims and the King James
+          Version use “Gentiles.” See also note for 21.¶11, below.</note>
+        <p style="heading4">Chapter 11, Paragraph 3</p>
+        <note type="enote" n="72"><space rend="indent1"/><hi rend="italic">“I chastise . . . maad
+            reprevable.”</hi> 1 Corinthians 9:27.</note>
+        <note type="enote" n="73"><space rend="indent1"/><hi rend="italic">puten hem out thurgh
+            techynge</hi>. MS and H both depart from the AN original here in saying that the
+          Antichrist’s disciples will be driven out by <hi rend="italic">techynge</hi>, not by <hi
+            rend="italic">escomengement</hi>, or excommunication (Fridner, p. 80). Since the
+          alteration appears in the earliest manuscripts of the <hi rend="italic">English
+            Apocalypse</hi>, it is not specifically Lollard in origin, but the Lollard compiler of
+          the Plimpton manuscript would certainly have approved the emphasis on good teaching and
+          preaching rather than on the church’s institutional processes.</note>
+        <note type="enote" n="74"><space rend="indent1"/><hi rend="italic">two and fourti monethis .
+            . . two tymes </hi><hi rend="italic">and half a tyme</hi>. MS is incomplete in this
+          passage, so H supplies nine missing words to make the description comprehensible (see
+          textual note, <hi rend="italic">a yere</hi>). The gloss here interprets the 42-month
+          period of persecution described in 11:2 (see 11.¶2) and links it to <hi rend="italic">the
+            tyme that is</hi><hi rend="italic"> tolde biforn</hi>; that is, the earlier description
+          of an angel slaying one-third of mankind <hi rend="italic">bi an oure and bi</hi><hi
+            rend="italic"> a day and bi a moneth and bi a yeer</hi> (see 9:15; 9.¶6). By
+          interpreting the “hour” as half a year and the other three time periods as full years, the
+          gloss reaches the three-and-a-half year total which corresponds with 42 months, and also
+          with 1,260 days in the passage that immediately follows (see 11:3; 11.¶4). The gloss also
+          looks forward to a later passage <hi rend="italic">that shale be sette biforn</hi>, in
+          which a woman representing the church will hide from a dragon representing the devil, for
+            <hi rend="italic">oo tyme and two tymes and half a</hi><hi rend="italic"> tyme</hi>
+          (12:14), or three-and-a-half years. This later phrase will be omitted in MS, though it
+          does appear in H (see textual note for 12.¶9, <hi rend="italic">bi </hi><hi rend="italic"
+            >a tyme</hi>). Both MS and H also appear to have omitted a necessary phrase in this
+          passage, as neither the <hi rend="italic">two tymes and half a tyme</hi> of MS nor the <hi
+            rend="italic">o tyme and half a tyme</hi> of H fully add up.</note>
+        <p style="heading4">Chapter 11, Paragraph 5</p>
+        <note type="enote" n="75"><space rend="indent1"/><hi rend="italic">Enok and Elie</hi>. The
+          two prophets referenced here are Enoch and Elijah. Enoch is a patriarch in the Book of
+          Genesis, the great-grandfather of Noah, and supposed author of the non-biblical
+          apocalyptic text the Book of Enoch; Elijah was a prophet of ancient Israel who was
+          persecuted by King Ahab and Queen Jezebel (see note for 2.¶12, above). The gloss presents
+          both figures as a model for preachers who <hi rend="italic">duren</hi> [endure] <hi
+            rend="italic">in so great persecucioun</hi>. What they also have in common in biblical
+          accounts is that both ascend directly to heaven without suffering physical death (Genesis
+          5:21–24; 4 Kings 2:1–12).</note>
+        <note type="enote" n="76"><space rend="indent1"/><hi rend="italic">“If </hi><hi
+            rend="italic">that we han . . . paied with that.”</hi> 1 Timothy 6:8.</note>
+        <note type="enote" n="77"><space rend="indent1"/><hi rend="italic">han</hi><hi rend="italic"
+            > myghte to closen that thei be not drede</hi>. What exactly the <hi rend="italic">good
+            prechours</hi> have the power to do to counteract the <hi rend="italic">manas</hi>
+          [menace] <hi rend="italic">of the proude mighti</hi> is unclear, since the word <hi
+            rend="italic">closen</hi> has a wide variety of potential meanings — see <hi
+            rend="italic">MED</hi>, <hi rend="italic">closen</hi> (v.). In subsequent lines in the
+          gloss, the good preachers are able to turn lecherous people to blood by making them aware
+          of their filth, and to smite covetous people with <hi rend="italic">woundis</hi> [plagues]
+          by revealing their sin, both presumably figurative actions. “Closing” the menace of the
+          mighty might mean shutting it out of the church (senses 1, 10), refuting or embarrassing
+          it (sense 5b), imprisoning or entombing it (senses 5b, 6a), or covering it up (sense 8a,
+          11b).</note>
+        <p style="heading4">Chapter 11, Paragraph 10</p>
+        <note type="enote" n="78"><space rend="indent1"/><hi rend="italic">as he dide</hi><hi
+            rend="italic"> Job</hi>. A reference to the Book of Job, which tells the story of a
+          righteous man afflicted with torments by Satan to test his faith (see Job 1:1–2:8).</note>
+        <p style="heading4">Chapter 11, Paragraph 12</p>
+        <note type="enote" n="79"><space rend="indent1"/><hi rend="italic">biforn Godis face
+            fellen</hi>. A slight mistranslation of the Vulgate, in which the elders sit <hi
+            rend="italic">in conspectu</hi><hi rend="italic"> Dei</hi> [in the sight of God] and <hi
+            rend="italic">ceciderunt in </hi><hi rend="italic">facies suas</hi> [fell on their
+          faces]. In the AN from which the MS translates, the elders who sit <hi rend="italic"
+            >devant la </hi><hi rend="italic">face Deu cheïrent adenz</hi> [before the face of God
+          fell facedown] (Fridner, p. 88). Compare with the LV, which translates directly from the
+          Vulgate: <hi rend="italic">in the sight of the Lord</hi><hi rend="italic"> fellen on her
+            facis</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 2</p>
+        <note type="enote" n="80"><space rend="indent1"/><hi rend="italic">aperide</hi>. Plimpton is
+          the only one of the <hi rend="italic">English Apocalypse</hi> manuscripts to follow the LV
+          in using the word <hi rend="italic">apperide</hi> here, rather than <hi rend="italic"
+            >shewed</hi>. Verses 11:19 and 12:1, both of which appear at the start of chapter 12 in
+          the MS, seem to have been influenced by LV generally in their word choices (see textual
+          notes for 12.¶1, <hi rend="italic">voises and</hi><hi rend="italic"> thundres</hi>, and
+          12.¶2, <hi rend="italic">aperide</hi>).</note>
+        <p style="heading4">Chapter 12, Paragraph 4</p>
+        <note type="enote" n="81"><space rend="indent1"/><hi rend="italic">seven hedis and ten
+            hornes</hi>. MS and H both omit the phrase that follows in the Vulgate: <hi
+            rend="italic">et in capitibus</hi><hi rend="italic"> ejus diademata septem</hi> [and on
+          his heads seven crowns]. LV includes the phrase, translated as <hi rend="italic">and in
+            the heedis </hi><hi rend="italic">of him seven diademes</hi>, and one late manuscript of
+          the <hi rend="italic">English Apocalypse</hi>, Bodley Rawlinson C.750, follows suit
+          (Fridner, p. 91). The original translation may have mistakenly dropped the phrase because
+          the AN French words for “horns” (<hi rend="italic">cornes</hi>) and “crowns” (<hi
+            rend="italic">corones</hi>) look nearly identical. The gloss that follows (12.¶5) makes
+          no mention of the crowns either, but see verse 13:1 (13.¶1), a parallel passage which
+          includes <hi rend="italic">ten diademes</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 5</p>
+        <note type="enote" n="82"><space rend="indent1"/><hi rend="italic">seven hed synnes</hi>.
+          The gloss interprets the dragon’s seven heads as a series of tyrants who commit the Seven
+          Deadly Sins (pride, greed, lust, envy, gluttony, wrath, and sloth), with a pun on <hi
+            rend="italic">hed</hi> as “chief” or “primary.” The gloss then links the dragon’s
+          actions directly to two of the Deadly Sins, <hi rend="italic">coveitise</hi> [greed] and
+            <hi rend="italic">lecherie</hi> [lust], with the former “maintaining” or supporting the
+          latter. Commentaries on the Seven Deadly Sins frequently described the ways the various
+          sins interacted with one another in this manner. For example, the Parson’s sermon in
+          Chaucer’s <hi rend="italic">Canterbury Tales</hi> lists the fifth of the Deadly Sins as
+          “Avarice and Coveitise” and quotes the Apostle Paul in 1 Timothy 6:10 saying “the roote of
+          alle harmes is Coveitise” (<hi rend="italic">CT</hi> X[I].738). In its discourse on
+          “Lecherie,” the seventh of the Deadly Sins, the Parson’s sermon draws a link similar to
+          the gloss, describing the way the physical temptation of lust flows from the broader
+          spiritual sin of greed: “for the coveitise of eyen [eyes] folweth the coveitise of the
+          herte” (852).</note>
+        <note type="enote" n="83"><space rend="indent1"/><hi rend="italic">to devoren childer
+            thourgh</hi><hi rend="italic"> synne whan thei ben borun thurgh baptem</hi>. See 1 Peter
+          5:8–9 for the biblical image of the devil as a lion looking to devour Christian believers.
+          The “children” that the gloss refers to here may be literal children or, with the
+          reference to being <hi rend="italic">borun thurgh baptem</hi>, any members of the church
+          who have experienced rebirth through the sacrament of baptism (see, for example, the
+          imagery of baptism as rebirth in John 3:3–5 and Romans 6:3–4). The gloss clearly does not
+          view baptism as an automatic protection from sin; in fact, it may even serve as an
+          allurement for the devil, who wishes to lead Christians astray.</note>
+        <p style="heading4">Chapter 12, Paragraph 8</p>
+        <note type="enote" n="84"><space rend="indent1"/><hi rend="italic">For than he hath beste
+            tyme, for his </hi><hi rend="italic">tyme is schortest</hi>. The passage of commentary
+          that concludes with this line gives several examples of the devil being frustrated by
+          righteous people, who resist his temptations, set their hearts on spiritual things, act
+          with meekness, and practice penance. The final example of righteous people thwarting the
+          devil is the <hi rend="italic">old man and woman</hi> on their deathbeds who resist the
+          devil’s final attacks on their faith. The phrase <hi rend="italic">For </hi><hi
+            rend="italic">than he hath beste tyme</hi> is not in the AN original, which notes simply
+          that the devil tries to encumber people with sin when he knows his time is short (Fridner,
+          p. 96). The meaning of <hi rend="italic">beste</hi> in this context is not fully clear —
+          it might imply that the devil is more successful in these attacks because he is more
+          vigorous, or it may mean that this near-death time is simply the most important or the
+          most urgent, both for the devil and for the one resisting him.</note>
+        <p style="heading4">Chapter 13, Paragraph 2</p>
+        <note type="enote" n="85"><space rend="indent1"/><hi rend="italic">a liberde of divers
+            colours</hi>. The biblical text in the preceding paragraph does not explicitly mention
+          the leopard’s colors or spots, but its interpretation as a symbol for hypocrisy or deceit
+          is traditional. <hi rend="italic">The Book</hi><hi rend="italic"> of Vices and
+            Virtues</hi> (ca. 1400) comments on this same passage: “The body of the best, as seith
+          seynt John, was lik a liberd, for right as a leopard hath dyverse coloures, right so hath
+          the devel dyverse suteltees and giles” (Francis, ed., <hi rend="italic">Book of Vices and
+            Virtues</hi>, p. 10).</note>
+        <note type="enote" n="86"><space rend="indent1"/><hi rend="italic">And hym is geven power
+            two and fourti monethis</hi>. The gloss comments here on a passage the biblical text has
+          not yet reached, verse 13:5 (see 13.¶4).</note>
+        <p style="heading4">Chapter 13, Paragraph 6</p>
+        <note type="enote" n="87"><space rend="indent1"/><hi rend="italic">“The erthe is goven . . .
+            the unpitous.”</hi> Job 9:24.</note>
+        <note type="enote" n="88"><space rend="indent1"/><hi rend="italic">Abel the first man that
+            was sclaynn</hi>. A reference to the story of Cain and Abel, the first murder in human
+          history according to the Book of Genesis. Cain kills his younger brother Abel over
+          jealousy that Abel’s animal sacrifices are pleasing to God (Genesis 4:1–8), which the
+          gloss presents as evidence that God’s chosen people have always been persecuted.</note>
+        <note type="enote" n="89"><space rend="indent1"/><hi rend="italic">That he biddith us . . .
+            stedfast bileve</hi><hi rend="italic"> and suffrance</hi>. This sentence glosses verse
+          10 of the biblical text above (13.¶5). However, its description of people suffering <hi
+            rend="italic">peyne and tormentis and persecuciouns in pacience</hi> is clearly a
+          reference to the second half of the verse about <hi rend="italic">the</hi><hi
+            rend="italic"> pacience and the feith of seyntis</hi>, which has been dropped from the
+          MS (see textual note for 13.¶5, <hi rend="italic">swerd</hi>) — another indication that
+          the copy text for the biblical translation was likely corrupt while the gloss was more
+          complete. see note for 1.¶8, <hi rend="italic">the maydenesse son</hi>, above.</note>
+        <p style="heading4">Chapter 13, paragraph 8</p>
+        <note type="enote" n="90"><space rend="indent1"/><hi rend="italic">telle</hi>. This
+          translation of the Vulgate <hi rend="italic">computet</hi> [calculate] and AN <hi
+            rend="italic">acunte</hi> [account] (Fridner, p. 105) expresses a wide range of meanings
+          in Middle English; see <hi rend="italic">MED</hi>, <hi rend="italic">tellen</hi> (v.),
+          which lists eighteen senses. The primary meaning in the gloss appears to be <hi
+            rend="italic">MED</hi> sense 17a, “To count, reckon” or 17e, “To calculate,” but a
+          variety of secondary meanings may be relevant, including to say, tell a story, write,
+          disclose, announce, describe, preach, prophesy, report, argue, discern, and judge. The LV
+            <hi rend="italic">acounte</hi>, which is closer to the AN <hi rend="italic">acunte</hi>,
+          has a similar range of meanings as the modern English “account,” which can mean to “make
+          an accounting” or “give an account”; see <hi rend="italic">MED</hi>, <hi rend="italic"
+            >accounten</hi> (v.), which lists six senses. In context, the passage says that only
+          those with proper understanding can “tell” the number of the beast — calculate it, report
+          it to others, and discern its significance.</note>
+        <p style="heading4">Chapter 13, Paragraph 9</p>
+        <note type="enote" n="91"><space rend="indent1"/><hi rend="italic">as the serpent
+            disceyved</hi><hi rend="italic"> Eve</hi>. A reference to the story of the Fall of
+          Mankind in Genesis, in which a serpent (often associated with Satan) persuades Eve to eat
+          a forbidden fruit by casting doubt on the truthfulness of God’s words (Genesis 3:1–7). The
+          gloss links the dragon of the Apocalypse to this serpent, and to false preachers who
+          similarly deceive.</note>
+        <note type="enote" n="92"><space rend="indent1"/><hi rend="italic">the</hi><hi rend="italic"
+            > Holi Gost descendith in hem in the liknesse of fier</hi>. A reference to the day of
+          Pentecost in the Book of Acts, in which the Holy Spirit descends like tongues of fire onto
+          Jesus’s followers and allows them to speak in other languages (Acts 2:1–4). It is unclear
+          why the gloss describes this event as occurring <hi rend="italic">priveli</hi> [secretly],
+          since the Pentecost scene is a very public one involving people from all nations (2:5–13),
+          and it concludes with a public sermon from Peter to thousands of people (2:14–41).
+          However, in the chapter before this scene, Jesus privately promises the disciples he will
+          send the Holy Spirit (Acts 1:4–5), and in the Gospel of John, Jesus bestows the Holy
+          Spirit on his disciples while they are hiding in a locked room, though it appears as a
+          breath rather than fire (John 20:22). The gloss draws a contrast between these
+          manifestations of the Holy Spirit, meant to instill faith in Christian believers, and the
+          public spectacle of the Antichrist raining fire onto the earth and performing other
+          miracles for the purpose of deception and power.</note>
+        <note type="enote" n="93"><space rend="indent1"/><hi rend="italic">now gyven hem to his
+            prelatis</hi><hi rend="italic"> . . . speken of God</hi>. This passage is an English
+          interpolation not found in the AN original (Fridner, p. 107), which expresses traditional
+          concerns about hypocritical priests and other church officials who appear righteous but
+          commit sexual sins in private.</note>
+        <note type="enote" n="94"><space rend="indent1"/><hi rend="italic">noon </hi><hi
+            rend="italic">schal han power in holi chirche to gyve londis ne </hi><hi rend="italic"
+            >rentis ne resceyve</hi>. MS adds the phrase <hi rend="italic">in holi chirche</hi>,
+          which is not in H or in the AN original (see textual note), in order to focus the critique
+          on church officials who earn money from “lands and rents,” a highly contentious issue in
+          the fourteenth century especially among monastic orders, whose members were not
+          technically allowed to own property but could do so through the legal loophole of communal
+          ownership. John Wyclif and his Lollard followers came to believe that monastic orders,
+          whom they called “possessioners,” and any church officials whose wealth came from land
+          ownership, should be dispossessed by the government if they fell into mortal sin. Wyclif
+          argues that this condition describes the entire contemporary church, which warrants
+          forcing all clergy to return to a state of poverty (see Wyclif, <hi rend="italic">De
+            Civili Dominio</hi>, ed. Loserth, 3:49–60). The poet William Langland echoes the
+          sentiment in <hi rend="italic">Piers Plowman</hi>:<quote><lg>
+            <l>“A medicyne moot [is needed] therto that may amende prelates,</l>
+            <l>That sholden preie for the pees; possession hem letteth [hinders].</l>
+            <l>Taketh hire landes, ye lordes, and let hem lyve by dymes [tithes];</l>
+            <l>If possession be poison, and inparfite hem make,</l>
+            <l>Good were to deschargen hem for Holy Chirches sake,</l>
+            <l>And purgen hem of poison, er [before] more peril falle.”</l>
+            <l>(Langland, <hi rend="italic">Piers </hi><hi rend="italic">Plowman</hi>, ed. Schmidt,
+              15.561–66)</l>
+          </lg></quote></note>
+        <p style="enote-noindent"><space rend="indent1"/>The MS scribe may also have added the
+          phrase in anticipation of the anticlerical passage to follow in the gloss. (See the next
+          note, below.)</p>
+        <note type="enote" n="95"><space rend="indent1"/><hi rend="italic">that</hi><hi
+            rend="italic"> is to seie that he be comen . . . ypocritis and eretikis</hi>. This
+          passage, which is an English interpolation not found in the AN original, expresses
+          traditional concerns about corrupt priests and other “prelates” or church officials who
+          have become wealthy through simony, the selling of ecclesiastical offices for money, so
+          named for Simon the Magician in Acts 8:9–24, who attempts to purchase the power of the
+          Holy Spirit from the Apostle Peter. The passage also expresses a common anticlerical
+          suspicion that young men <hi rend="italic">go to the ordre</hi>, a reference to the
+          priesthood and also possibly religious orders of monks and friars, for the purpose of
+          satisfying the <hi rend="italic">bodili delites</hi> of gluttony and lust. For example, a
+          late fourteenth-century Lollard sermon entitled “On the Leaven of the Pharisees,” after
+          listing several of the sexual sins priests and friars engage in, complains that young men
+          are attracted to these orders and their hypocritical vows of celibacy for this very
+          reason: “It semeth the devyl gedreth [gathers] siche lumpis of yonge men, fatte and
+          lykynge [healthy, amorous] and ydyl, and byndith hem fro wyves” (Matthew, ed., <hi
+            rend="italic">English Works</hi>, pp. 6–7). Linking priests, members of religious
+          orders, and popes with the Antichrist is also a hallmark of John Wyclif’s writings and
+          sermons starting in the 1370s, and a theme taken up vigorously by his followers in the
+          Lollard movement. For example, the early fifteenth-century Lollard tract <hi rend="italic"
+            >The Lanterne of Light</hi> (Dean, ed. <hi rend="italic">Medieval English Political
+            Writings</hi>) describes Antichrist metaphorically as a serpent, with the pope at its
+          head and other church officials making up its body and tail: “in the court of Rome is the
+          heed of Anticrist and in archebischopis and bischopis is the bodi of Anticrist. But in
+          thise cloutid [rag-tag] sectis, as mounkis, chanouns, and freris [friars] is the venymous
+          taile of Anticrist” (lines 319–22). In a commentary on Revelation 16, the tract also
+          includes “the pseudo-prophete or fals prechour” as part of Antichrist’s tail (lines
+          399–400). As the <hi rend="italic">English Apocalypse</hi> demonstrates, this anticlerical
+          strain in English religious writing predates Wyclif and his followers, but it may help to
+          explain why the compiler of the Plimpton manuscript, which contains Lollard material in
+          addition to the Wycliffite New Testament, was drawn to this version of the Apocalypse in
+          the first place.</note>
+        <note type="enote" n="96"><space rend="indent1"/><hi rend="italic">The noumbre of his
+            </hi><hi rend="italic">name . . . sothfast light</hi>. The gloss engages in somewhat
+          tortuous numerology to find meaning in the beast’s number 666, by taking its Roman
+          numerals, DCLXVI, and arranging them to form the Latin phrase <hi rend="italic">dic
+            lux</hi>, “to say light” which the gloss takes to mean “so-called light” or “alleged
+          light.” The beast’s number thus represents the Antichrist, whose false light contrasts
+          with the true light of Christ.</note>
+        <p style="heading4">Chapter 14, Paragraph 5</p>
+        <note type="enote" n="97"><space rend="indent1"/><hi rend="italic">Babiloyne the greet
+            citee</hi>. The ancient city and empire of Babylon was an enemy of Israel, and much of
+          the history, prophecy, and poetry of the Hebrew Bible revolves around Babylon’s conquering
+          of Israel, the destruction of Jerusalem, and the Israelites who went into exile in the
+          city of Babylon under the rule of King Nebuchadnezzar (4 Kings 25:1–12). The Book of
+          Daniel, among others, also recounts the fall of Babylon a generation later (Daniel
+          5:1–31). By the time of the New Testament, Babylon had not existed for more than 500
+          years, but it appears in the Apocalypse as both a general figure of decadence and decay,
+          represented as a prostitute and contrasted with the city of New Jerusalem that descends
+          from heaven in 21:2 (21.¶1), and as a specific metaphor for Rome, whose fall is
+          prophetically predicted throughout the Apocalypse. See, for example, verses 16:19
+          (16.¶12), 17:16–18 (17.¶8), and 18:2 (18.¶1).</note>
+        <note type="enote" n="98"><space rend="indent1"/><hi rend="italic">his leccherie</hi>. The
+          pronoun <hi rend="italic">his</hi> in Middle English can have either a male or female
+          antecedent, though the restrictively feminine <hi rend="italic">hir</hi> is often
+          preferred when the antecedent is female (not to be confused with the plural possessive <hi
+            rend="italic">her</hi> or <hi rend="italic">here</hi>, “their”). H is relatively
+          consistent in using <hi rend="italic">his</hi> to refer to Babylon, the city which is
+          represented throughout the Apocalypse as an immoral woman, but also occasionally uses
+          plural pronouns. MS consistently uses feminine pronouns for Babylon in the biblical text
+          but at times uses less restrictive pronouns in the gloss. See also note for 18.¶5,
+          below.</note>
+        <p style="heading4">Chapter 14, Paragraph 7</p>
+        <note type="enote" n="99"><space rend="indent1"/><hi rend="italic">losengouris</hi>. The <hi
+            rend="italic">MED</hi> entry for <hi rend="italic">losengour</hi> (n.), senses 1a to 1e,
+          cites a wide range of possible meanings for this general term of abuse, including
+          flatterer, liar, backbiter, calumniator, deceiver of women, hypocrite, evil counselor,
+          rascal, coward, and idler.</note>
+        <p style="heading4">Chapter 14, Paragraph 11</p>
+        <note type="enote" n="100"><space rend="indent1"/><hi rend="italic">That thai weren </hi><hi
+            rend="italic">holdun litil bi in this world and unworthi</hi>. This phrase in MS and H
+          does not appear in the AN original, which instead interprets the imagery of the sickle and
+          harvest as God’s desire for the company of his saints (see Fridner, p. 117). Three
+          manuscripts of the <hi rend="italic">English </hi><hi rend="italic">Apocalypse</hi> simply
+          omit any phrase here, and another, Cambridge University St. John’s College G.25,
+          translates the AN more accurately, though it describes the saints themselves as requesting
+          the harvest so that they can join one another’s company: <hi rend="italic">þat þei bidden
+            oure lord sende his sikel on þe </hi><hi rend="italic">corn</hi> (Fridner, p. 117). The
+          image of people who are “held little by the world and unworthy” does not have an obvious
+          connection to anything in the biblical passage the gloss is interpreting here, and it is
+          unclear where it originates.</note>
+        <p style="heading4">Chapter 14, Paragraph 12</p>
+        <note type="enote" n="101"><space rend="indent1"/><hi rend="italic">diche . . . lakes</hi>.
+          These words for “ditch” and “lakes” translate the AN <hi rend="italic">fosse</hi> [pit]
+          and <hi rend="italic">lai</hi> [lakes] (Fridner, p. 118), but both are the same word in
+          the Vulgate: <hi rend="italic">lacum/lacu</hi> [lake]. In context, the pit or lake where
+          the harvested grapes are being collected and trampled is obviously a winepress. The word
+            <hi rend="italic">diche</hi> in Middle English does not in itself appear to carry this
+          connotation, but see <hi rend="italic">MED</hi>, <hi rend="italic">lak(e</hi> (n.1), sense
+          3d, which quotes this passage from H and the Wycliffite EV.</note>
+        <p style="heading4">Chapter 14, Paragraph 13</p>
+        <note type="enote" n="102"><space rend="indent1"/><hi rend="italic">confessouris . . . bynde
+            and </hi><hi rend="italic">unbynde</hi>. In context alongside the martyrs and apostles,
+          the “confessors” in this passage are clearly those referred to in <hi rend="italic"
+            >MED</hi>, <hi rend="italic">confessour</hi> (n.), sense 1, “One who avows Christianity
+          in the face of persecution and torture.” However, the group’s ability to “bind and unbind”
+          is a reference to Matthew 16:19, in which Jesus gives the disciple Peter “keys to the
+          kingdom,” traditionally interpreted as the spiritual authority of Christian priests. Thus
+            <hi rend="italic">confessouris</hi> seems also to refer to priests more generally, as in
+            <hi rend="italic">MED</hi> sense 2, “A priest who hears confessions, prescribes penance,
+          and grants absolution.”</note>
+        <note type="enote" n="103"><space rend="indent1"/><hi rend="italic">not peyne of Purgatorie,
+            for </hi><hi rend="italic">it is evermore lastinge</hi>. The gloss emphasizes that the
+          winepress of God’s wrath in the biblical passage above represents eternal hell, not merely
+          Purgatory, the hell-like place of temporary torment for souls burdened by sins that were
+          not absolved through the sacrament of penance during their earthly lives.</note>
+        <note type="enote" n="104"><space rend="indent1"/><hi rend="italic">and othere that han cure
+            of soulis</hi>. “Cure of souls” is the responsibility for pastoral care and spiritual
+          guidance that a church official has for the people in a particular congregation or parish.
+          The gloss is speaking here mainly of powerful prelates in the church and political leaders
+          who should <hi rend="italic">kepe</hi> [care for] all the people they have authority over,
+          rather than causing them <hi rend="italic">peynes and sorewis</hi> which will rise to
+          heaven and stir God’s wrath. But the “others” who have cure of souls might also include
+          low-ranking parish priests and lay leaders.</note>
+        <note type="enote" n="105"><space rend="indent1"/><hi rend="italic">the thousynde pas and
+            sixe</hi><hi rend="italic"> hundrid</hi>. The gloss interprets a phrase that is missing
+          from verse 14:20 (14.¶12) above — that is, the measure of distance that the blood flows at
+          1,600 <hi rend="italic">pas</hi> [paces]. The AN gloss does not contain the phrase; it is
+          apparently added by the Middle English translator working from the Vulgate. The Vulgate in
+          14:20 gives the measurement of the blood’s flow in <hi rend="italic">stadia</hi>, a
+          phonetic rendering of a word from the Apocalypse’s original Greek. The precise length of
+          an ancient Greek <hi rend="italic">stadion</hi> is unknown, but estimates are in the range
+          of 600 feet (see <hi rend="italic">MED</hi>, <hi rend="italic">stadial</hi> [adj.], sense
+          1). LV translates <hi rend="italic">stadia</hi> as <hi rend="italic">furlongis</hi>
+          [furlongs], an unrelated English measure which happens to be similar in length at
+          one-eighth of a mile, or 656 feet. The word <hi rend="italic">pas</hi> in the MS means a
+          pace or stride, an inexact measurement but significantly shorter than the stadion or
+          furlong. See <hi rend="italic">MED</hi>, <hi rend="italic">pas(e</hi>, (n.1), sense 4a, “A
+          unit of linear measure of approximately five feet.” In comparative terms, the Vulgate and
+          LV measure the blood as flowing nearly 200 miles, the MS approximately one and a half
+          miles. See also note for 21.¶6, below.</note>
+        <p style="heading4">Chapter 15, Paragraph 1</p>
+        <note type="enote" n="106"><space rend="indent1"/><hi rend="italic">harpes of gold</hi>. A
+          mistranslation of AN <hi rend="italic">les </hi><hi rend="italic">harpes Deu</hi> [harps
+          of God] (Fridner, p. 120), or perhaps a scribal error that changed <hi rend="italic"
+            >God</hi> to <hi rend="italic">golde</hi>. LV: <hi rend="italic">the</hi><hi
+            rend="italic"> harpis of God</hi>.</note>
+        <p style="heading4">Chapter 15, Paragraph 2</p>
+        <note type="enote" n="107"><space rend="indent1"/><hi rend="italic">In that</hi><hi
+            rend="italic"> it is mengid with fier . . . Holi Gost</hi>. The Holy Ghost or Holy
+          Spirit, the third person of the Trinity, is often depicted in the New Testament with
+          images of fire, for example in Acts 2:3, when it appears as “tongues of fire” over the
+          disciples at Pentecost. The dual image of the waters of baptism and the Holy Spirit’s
+          fire, which the gloss uses to interpret the “sea of glass mingled with fire” in Revelation
+          15:2, also recalls John the Baptist’s prophecy that the coming Christ will “baptize you
+          with the Holy Spirit and with fire,” in Matthew 3:11 and Luke 3:16.</note>
+        <note type="enote" n="108"><space rend="indent1"/><hi rend="italic">To beren hym reverence,
+            it schal</hi><hi rend="italic"> turne to the halewen into withouten ende in the
+            love</hi><hi rend="italic"> that thei have in hym</hi>. The meaning of this sentence is
+          obscure, in part because it is not fully clear what <hi rend="italic">it</hi> refers to —
+          it appears to be something that will <hi rend="italic">turne</hi> or shift into something
+          eternal, <hi rend="italic">withouten ende</hi>, for the saints. The AN original may
+          provide some insight here, as it says <hi rend="italic">reverence</hi> for God <hi
+            rend="italic">remeindra as seinz pardurablement</hi><hi rend="italic"> ove l’amur qu’il
+            unt vers lui</hi> [will remind the saints eternally of the love they have for him]
+          (Fridner, p. 122). The sense of the English translation may be that the belief the saints
+          have in God (their <hi rend="italic">sothfast bileve</hi>, earlier in the passage), or
+          their reverence for him, will ultimately transform into a love that endures
+          eternally.</note>
+        <p style="heading4">Chapter 15, Paragraph 3</p>
+        <note type="enote" n="109"><space rend="indent1"/><hi rend="italic">clene stone</hi>. The
+          word apparently meant here is <hi rend="italic">stole</hi> [robe], a translation of the AN
+            <hi rend="italic">purpre</hi> [fine cloth] (Fridner, p. 123) or Vulgate <hi
+            rend="italic">lino</hi> [linen], but since <hi rend="italic">stone</hi> is attested in
+          all manuscripts of the <hi rend="italic">English Apocalypse</hi>, it does not appear to be
+          a scribal error. The adjective <hi rend="italic">clene</hi> as applied to stones means
+          “bright, shining; gleaming, sparkling” (<hi rend="italic">MED</hi>, <hi rend="italic"
+            >clene</hi> [adj.], sense 4b), and the apparent meaning is that the angels are “clothed”
+          or bedecked in precious jewels, but the source of this image or potential error is
+          unclear.</note>
+        <p style="heading4">Chapter 16, Paragraph 1</p>
+        <note type="enote" n="110"><space rend="indent1"/><hi rend="italic">wounde</hi>. Though the
+          AN <hi rend="italic">plaie</hi> [plague] and its Middle English translation <hi
+            rend="italic">wounde</hi> are used for “plague” here and several times above (see note
+          for 9.¶9, above), the Vulgate word here is different — <hi rend="italic">vulnus</hi>
+          [wound] rather than <hi rend="italic">plaga</hi> [plague]. The affliction given to the
+          people who follow the Beast appears to be a physical wound, perhaps sores or a skin
+          disease. The gloss does not give any further insight to the word’s literal meaning, but it
+          interprets the wound as <hi rend="italic">temptaciouns . . . for erthly thingis and delit
+            of</hi><hi rend="italic"> her flesch</hi> (16.¶4).</note>
+        <p style="heading4">Chapter 16, Paragraph 3</p>
+        <note type="enote" n="111"><space rend="indent1"/><hi rend="italic">schedden the blood</hi>.
+          The Middle English word <hi rend="italic">schedden</hi> has the double meaning of “pouring
+          out” and “shedding,” as in shedding blood (<hi rend="italic">MED</hi>, <hi rend="italic"
+            >sheden</hi> [v.], senses 6 and 7). Thus in addition to the poetic justice of the
+          punishment described here, that those who shed blood are forced to drink blood, the
+          language itself contains an ironic echo starting in verse 16:4, as the angel <hi
+            rend="italic">schede his viole</hi> [poured out his vial] in punishment on those who <hi
+            rend="italic">schedden the blood</hi> of saints. The same echo can be heard in the
+          Vulgate, with <hi rend="italic">effudit phialam</hi> [he poured out the vial] and <hi
+            rend="italic">sanguinem . . . effuderent</hi> [they shed blood], and in the AN, with <hi
+            rend="italic">espandi</hi> [poured out] and <hi rend="italic">espandu</hi> [shed]
+          (Fridner, p. 126).</note>
+        <p style="heading4">Chapter 16, Paragraph 4</p>
+        <note type="enote" n="112"><space rend="indent1"/><hi rend="italic">aungil of wynd</hi>. The
+          “angel of wind” who accompanies the “angel of water” in verses 16:5–6 above (16.¶3)
+          apparently refers to the unidentified voice in verse 7 which speaks in agreement with the
+          first angel: <hi rend="italic">“Ye, Lord, rightful and sothfast ben thi</hi><hi
+            rend="italic"> jugementis.”</hi> The association with wind, which is not in the biblical
+          text, might reflect that the voice is disembodied.</note>
+        <p style="heading4">Chapter 16, Paragraph 8</p>
+        <note type="enote" n="113"><space rend="indent1"/><hi rend="italic">his techinge</hi>. Both
+          MS <hi rend="italic">techinge</hi> and H <hi rend="italic">prechyng</hi> depart from the
+          AN <hi rend="italic">tormenz</hi> [torments] (Fridner, p. 129). Fridner proposes that <hi
+            rend="italic">prechyng</hi> is a misreading of the AN variant <hi rend="italic"
+            >turment</hi> as <hi rend="italic">serment</hi> [sermon] (p. 235n), but all three words
+          make sense in context — both the physical torments of the Antichrist and his false
+          preaching and teaching might cause people to forsake their faith.</note>
+        <p style="heading4">Chapter 16, Paragraph 9</p>
+        <note type="enote" n="114"><space rend="indent1"/><hi rend="italic">the grete day of God
+            almyghti</hi>. The “day of the Lord” — also known in English as Judgment Day or Doomsday
+          — is described in the Apocalypse and several other places in the New Testament as a period
+          of time at the end of human history when Jesus will return to earth and pass divine
+          judgment on humanity. See, for example, 1 Thessalonians 5:2 and 2 Peter 3:10. Apocalypse
+          6:17 above refers to it as <hi rend="italic">the greet day of</hi><hi rend="italic">
+            here</hi> [God and the Lamb’s] <hi rend="italic">wraththe</hi> (6.¶12).</note>
+        <note type="enote" n="115"><space rend="indent1"/><hi rend="italic">“Lo, I come as a thef .
+            . . men see </hi><hi rend="italic">not his foulnesse.”</hi> The theme of Jesus returning
+          suddenly, like a thief, and bringing judgment to people who may not be prepared is
+          mentioned above in verse 3:3 (3.¶1) and runs throughout the four Gospels, particularly in
+          parables. See, for example, Matthew 24:42–44 and Luke 12:39–40, in which Jesus’s return is
+          compared to the owner of a house keeping watch, not knowing when a thief will break in. In
+          a parallel to this parable, Mark 13:32–37 describes the master of a house setting his
+          servants to guard the door while he is away — though in this case, they are warned to
+          watch out not for thieves but for the master’s own return, whose time is unknown.
+          Elsewhere in the New Testament, 1 Thessalonians 5:2 says <hi rend="italic">the day of the
+            Lord</hi> (see note for <hi rend="italic">the grete day of God almighti</hi>, above)
+          will come as a <hi rend="italic">theef in the night</hi> (LV). Nakedness here represents
+          unpreparedness, whereas clothing represents righteousness (see Isaias 61:10; Ephesians
+          6:11–17).</note>
+        <p style="heading4">Chapter 16, Paragraph 11</p>
+        <note type="enote" n="116"><space rend="indent1"/><hi rend="italic">froschis . . . bynymen
+            othere her reste</hi>. The observations that frogs live in foul or muddy water and have
+          loud croaks which keep people awake were commonplace in medieval bestiaries. For example,
+          Isidore of Seville’s <hi rend="italic">Etymologies</hi> (seventh century) says, “Frogs
+            (<hi rend="italic">rana</hi>) are named from their garrulity (compare <hi rend="italic"
+            >rancare</hi>, ‘roar’) because they fill their native swamps with noise, and make their
+          voices resound in unruly croaking” (ed. and trans. Barney, et al., 12.6.58; p. 263). The
+          gloss associates the frogs’ loud croaking with false preaching that does not give people
+          rest.</note>
+        <note type="enote" n="117"><space rend="indent1"/><hi rend="italic">a child that cannot
+            kepyn </hi><hi rend="italic">an appil</hi>. The origin and exact mechanics of this trick
+          involving a child and an apple are unclear, though Whiting cites several proverbial
+          English phrases about children loving apples that date to the fourteenth and fifteenth
+          centuries: “A Child loves an apple more than a castle,” children “love an apple more than
+          gold,” and “A Child’s love is lost for an apple” (Whiting, C204, C207, p. 82). It is one
+          of many examples in this glossed passage of the devil working through false “clerks” and
+          “prelates” — that is, priests and other officials in the church’s hierarchy — to feign
+          spiritual authority and lead people astray. These clergy are described as beholden to
+          three of the Seven Deadly Sins — <hi rend="italic">pride</hi><hi rend="italic">,
+            coveitise</hi> [greed]<hi rend="italic">, and leccherie</hi> [lust] — and their false
+          preaching is compared to the croaking of frogs in the night, which robs people of their
+          rest (see note for <hi rend="italic">froschis</hi>, above). The apple trick is one example
+          of the wonders and false miracles that win over worldly “princes” or rulers, and “steer
+          them against” ordinary Christians. This concern that the Antichrist’s priestly followers
+          would lead people astray and corrupt both the church and secular authorities was a common
+          theme in fourteenth-century English religious writing, and it would become even more
+          prominent after the 1370s with the popularity of John Wyclif’s anticlerical writing and
+          the rise of the Lollard movement, whose anticlericalism was often even more extreme.
+          Though the <hi rend="italic">English Apocalypse</hi> predates the Lollards by several
+          decades, the spirited anticlericalism of passages like this one is likely one reason the
+          compiler of the Plimpton manuscript selected it for inclusion at the end of the otherwise
+          Wycliffite New Testament. James Morey writes that “for many reform-minded medieval
+          clerics, the Apocalypse was not so much the last book of the Bible that recounts the end
+          of time but an allegory of how the Antichrist represents the Pope,” and points to this
+          passage in particular as one that “would resonate with the most strident Lollard” (Morey,
+          “The Wycliffites,” p. 93).</note>
+        <note type="enote" n="118"><space rend="indent1"/><hi rend="italic">this word Ermaledoun . .
+            . “risynge temptatiouns.”</hi> The Hebrew place name <hi rend="italic">Har Megiddo</hi>,
+          rendered here as <hi rend="italic">Ermaledoun</hi> and in most modern English translations
+          as Armageddon, refers to a mountain or raised fortification near Megiddo, an ancient city
+          and battlefield north of Jerusalem (see Judges 5:19; 4 Kings 23:29–30). The gloss here
+          gives an interpretation of <hi rend="italic">Har</hi>, or “raised place,” in the word’s
+          etymology, to mean “rising temptations.” H has a slightly different reading, <hi
+            rend="italic">risyng to temptacioun</hi>, which MS may also have intended (see textual
+          note), but the general sense is similar.</note>
+        <p style="heading4">Chapter 16, Paragraph 13</p>
+        <note type="enote" n="119"><space rend="indent1"/><hi rend="italic">sotil science</hi>. The
+          word <hi rend="italic">sotil</hi>, equivalent to the modern “subtle,” has a range of
+          meanings, and in the context of this passage about devils dwelling in the air seems to
+          have a primarily physical meaning, that the devils’ bodies are light or ethereal (see <hi
+            rend="italic">MED</hi>, <hi rend="italic">sotil</hi> [adj.], sense 3c). However, <hi
+            rend="italic">sotil</hi> can also mean sly, treacherous, or deceitful (sense 2b), crafty
+          in the manner of the “subtle serpent” in the Garden of Eden, especially when paired with
+            <hi rend="italic">science</hi>, whose primary meaning is knowledge or skill but can also
+          mean cleverness or craftiness (see <hi rend="italic">MED</hi>, <hi rend="italic"
+            >science</hi> [n.], sense 4). In fact, the <hi rend="italic">MED</hi> cites this line
+          from Fridner’s edition of H as an example of sense 2b. Both the tangible and abstract
+          meanings make sense in context, and both may be intended here — the devils are airy in
+          substance and deceitful in their craftiness.</note>
+        <p style="heading4">Chapter 17, Paragraph 3</p>
+        <note type="enote" n="120"><space rend="indent1"/><hi rend="italic">maumetrie</hi>. A term
+          of abuse derived from <hi rend="italic">Mahomet</hi>, the Old English name for the Prophet
+          Mohammed; see <hi rend="italic">MED</hi> etymology for <hi rend="italic">maumetri(e</hi>
+          (n.), Old English <hi rend="italic">mahometerie</hi>. In some contexts, it refers
+          specifically to the religion of Islam, but here the term is generalized and refers to any
+          type of false or idolatrous religion.</note>
+        <note type="enote" n="121"><space rend="indent1"/><hi rend="italic">delices of the</hi><hi
+            rend="italic"> wyn . . . thei ben drunken</hi>. The gloss references here the second
+          half of verse 2, which was dropped above (17.¶1), further evidence that the biblical copy
+          text was incomplete or corrupt while the gloss was not. See note for 1.¶8, <hi
+            rend="italic">the maydenesse son</hi>, above.</note>
+        <note type="enote" n="122"><space rend="indent1"/><hi rend="italic">“Bi her frut yee
+            </hi><hi rend="italic">schulen knowen hem.”</hi> Matthew 7:16.</note>
+        <p style="heading4">Chapter 17, Paragraph 9</p>
+        <note type="enote" n="123"><space rend="indent1"/><hi rend="italic">“But oure Lord . . . his
+            mouth,” Isaye seith</hi>. Isaias 11:4. (See also Isaias 30:27–28.)</note>
+        <note type="enote" n="124"><space rend="indent1"/><hi rend="italic">thei schulen haten hem .
+            . . as Isaye seith</hi>. It is unclear which passage in Isaias the gloss is citing here,
+          but the image of the damned hating and reproving those whom they believe responsible for
+          their pain echoes Isaias 8:21, in which people suffering from hunger express anger toward
+          God and their king.</note>
+        <p style="heading4">Chapter 18, Paragraph 2</p>
+        <note type="enote" n="125"><space rend="indent1"/><hi rend="italic">the fornicacioun of
+            kyngis is bitokenede leccherie</hi>. The gloss references here the second half of verse
+          3, which was dropped above (18.¶1), further evidence that the biblical copy text was
+          incomplete or corrupt while the gloss was not. See note for 1.¶8, <hi rend="italic">the
+            maydenesse son</hi>, above.</note>
+        <p style="heading4">Chapter 18, Paragraph 3</p>
+        <note type="enote" n="126"><space rend="indent1"/><hi rend="italic">dilyces</hi>. This word
+          for “delights,” spelled <hi rend="italic">delices</hi> elsewhere in MS, is a
+          mistranslation here. The confusion appears to come from a misreading of the Vulgate’s <hi
+            rend="italic">delictorum</hi> [sins], which the AN accurately translates as <hi
+            rend="italic">mesfèz</hi> (Fridner, p. 148).</note>
+        <p style="heading4">Chapter 18, Paragraph 5</p>
+        <note type="enote" n="127"><space rend="indent1"/><hi rend="italic">he sat as </hi><hi
+            rend="italic">a quene</hi>. As this passage demonstrates, the Middle English pronouns
+            <hi rend="italic">he</hi>, <hi rend="italic">hym</hi>, and <hi rend="italic">hys</hi>
+          can have either male or female antecedents. H is relatively consistent in using these
+          pronouns for the feminine figure of Babylon, whereas MS tends to use the feminine pronouns
+            <hi rend="italic">sche</hi> and <hi rend="italic">hir</hi> for Babylon in the biblical
+          text and occasionally, as here, the less restrictive pronouns in the gloss. See also note
+          for 14.¶5, above.</note>
+        <note type="enote" n="128"><space rend="indent1"/><hi rend="italic">the fier of helle schal
+            brennen hem, for the brennynge</hi><hi rend="italic"> wil in evel</hi>. The syntax here
+          is obscure, but the sense appears to be that the fires of hell are poetic justice for the
+          unrighteous souls who had a “burning will to do evil.”</note>
+        <note type="enote" n="129"><space rend="indent1"/><hi rend="italic">For the juge is stronge
+            . . . </hi><hi rend="italic">book that Salomon maad</hi>. It is unclear which passage or
+          which of “Solomon’s books” (Job, Proverbs, Ecclesiastes, Canticles, Wisdom, or
+          Ecclesiasticus) is referred to here, but see Ecclesiasticus 35:14–15.</note>
+        <p style="heading4">Chapter 18, Paragraph 9</p>
+        <note type="enote" n="130"><space rend="indent1"/><hi rend="italic">these marchaundis and
+            the biggers bitokeneth</hi><hi rend="italic"> symonyes</hi>. The gloss in MS gives this
+          passage a more anticlerical interpretation than H, as it compares the merchants who weep
+          over the destruction of Babylon to simony, the corrupt practice of selling ecclesiastical
+          offices for money, whereas H compares the merchants to <hi rend="italic">gavelers</hi> or
+          usurers, those who lend money at interest. Simony and usury were both viewed as sins of a
+          similar type, in that both involved the misuse of money, but simony was typically limited
+          to priests or other church officials. Both usury and simony were also traditionally linked
+          to the sin of “sodomy,” a broad term for any non-procreative sexual practice; for example,
+          the Lollard proclamation <hi rend="italic">Thirty-Seven Conclusions of the Lollards</hi>
+          refers to simony as “gostli [spiritual] sodomie and eresie” (Forshall, ed., <hi
+            rend="italic">Remonstrance</hi>, p. 7). John Wyclif argues in the treatise <hi
+            rend="italic">On Simony</hi> that “just as sodomy in the time of the law of nature was
+          one of the most serious sins against nature, so simony in the time of the law of grace is
+          one of the most serious sins against grace” (Wyclif, <hi rend="italic">On</hi><hi
+            rend="italic"> Simony</hi>, trans. McVeigh, p. 36).</note>
+        <p style="heading4">Chapter 18, Paragraph 11</p>
+        <note type="enote" n="131"><space rend="indent1"/><hi rend="italic">vois of the hurlyng . .
+            . and drynkis</hi>. The gloss references here the second half of verse 22, which was
+          dropped above (18.¶10), further evidence that the biblical copy text was incomplete or
+          corrupt while the gloss was not. See note for 1.¶8, <hi rend="italic">the maydenesse
+            son</hi>, above.</note>
+        <note type="enote" n="132"><space rend="indent1"/><hi rend="italic">the grete lordis
+            </hi><hi rend="italic">of the world . . . preysyng and lordschipe</hi>. The phrasing in
+          this passage is difficult, but the gloss is addressing the issue of proper limits on a
+          lord’s or a knight’s power. The <hi rend="italic">grete lordis of the world</hi> are meant
+          to use their power for only two things: keeping the public peace and defending the church.
+          Alternatively, the gloss says, the biblical text could be applied to those who have the
+          responsibility to <hi rend="italic">techen and governen and kepen</hi> [protect] other
+          people, that they should be <hi rend="italic">quenchid</hi> [satisfied] with the praise
+          and authority they have received and not seek to gain more, leading to corruption and
+          cruelty. H has an interesting mistranslation of <hi rend="italic">clerkes</hi> for <hi
+            rend="italic">knyghtis</hi> in this passage (see textual note), a reading that focuses
+          the critique on potentially corrupt church officials.</note>
+        <p style="heading4">Chapter 19, Paragraph 8</p>
+        <note type="enote" n="133"><space rend="indent1"/><hi rend="italic">And the grete</hi><hi
+            rend="italic"> . . . by many watris</hi>. The <hi rend="italic">grete</hi> and <hi
+            rend="italic">litle</hi> in this gloss are references to the <hi rend="italic">litil and
+            michil</hi> in verse 5 (19.¶3).</note>
+        <note type="enote" n="134"><space rend="indent1"/><hi rend="italic">worthili resceyven the
+            sacrament of the auter</hi>. The “sacrament of the altar” is the Eucharist, or
+          Communion, the ritual of eating and drinking Christ’s body and blood in the form of a
+          bread wafer and wine, which took place at the altar in the front of a church and was the
+          centerpiece of all medieval Christian worship services. The priest would elevate the
+          wafer, also known as a “host,” and the chalice of wine above his head and then partake,
+          but most non-clerical Christians would take the Eucharist only once or twice a year, for
+          instance on Easter Sunday. The gloss’s insistence on people “worthily receiving” the
+          sacrament is likely a reference to 1 Corinthians 11:29, the Apostle Paul’s warning that
+          partaking unworthily could result in judgment, and to the church’s requirement that
+          communicants go through confession and the process of penance before partaking the
+          sacrament. The Eucharist was not the ritual that cleansed people of their sin, but rather
+          one which united a church body with Christ through his presence. The Eucharist was also a
+          flashpoint in anticlerical and philosophical debates in the late fourteenth century, as
+          John Wyclif and his later followers the Lollards denied the doctrine of
+          transubstantiation, the belief that bread and wine became the literal body and blood of
+          Christ, and questioned whether the sacrament would lose its power if the priest himself
+          had unconfessed sins. See also notes for 1.¶11, <hi rend="italic">holi prelatis</hi>,
+          5.¶2, <hi rend="italic">the seven</hi><hi rend="italic"> sacramentis</hi>, and 13.¶9, <hi
+            rend="italic">that is to seie</hi>, above.</note>
+        <p style="heading4">Chapter 19, Paragraph 11</p>
+        <note type="enote" n="135"><space rend="indent1"/><hi rend="italic">“Cometh and gedere
+            togidere . . . and </hi><hi rend="italic">of mykil.”</hi> This invitation from the angel
+          to carrion-eating birds to attend a feast of dead bodies recalls several biblical passages
+          in which God feeds birds with the flesh of armies or other groups he has destroyed. See,
+          for example, Psalm 78:2, Jeremias 19:7, and Ezechiel 39:4, among many others. See also 1
+          Kings (1 Samuel in most modern editions) 17:44–46, in which David and Goliath each
+          threaten to kill and feed the other to the birds, and Job 39:27–30, where after a poetic
+          description of horses excitedly charging into battle, an eagle feeds its young with the
+          blood of the slain. The profane feast in this passage also parodies the <hi rend="italic"
+            >soper of the bridales</hi> [wedding feast] <hi rend="italic">of the Lomb</hi> in verse
+          9 above (19.¶6), as well as the “heavenly feast” Jesus describes several times in the
+          Gospels, both directly and in parable form. See, for example, Matthew 8:11 and 22:1–14,
+          and Luke 13:29 and 14:15–23.</note>
+        <p style="heading4">Chapter 19, Paragraph 12</p>
+        <note type="enote" n="136"><space rend="indent1"/><hi rend="italic">and he</hi><hi
+            rend="italic"> that dide the wondris</hi>. The conjunction here and in AN changes the
+          meaning of the Vulgate slightly. Rather than the false prophet himself performing wonders,
+          there appear to be three people or groups — the Beast, false prophets, and one performing
+          wonders. However, the next sentence says, <hi rend="italic">These two ben cast</hi><hi
+            rend="italic"> into the pit</hi>, indicating that the translator knows there are only
+          two people, the Beast and the false prophet. LV: <hi rend="italic">the fals profete that
+            made signes</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 13</p>
+        <note type="enote" n="137"><space rend="indent1"/><hi rend="italic">the grete delite . . .
+            that dampned men shulen have</hi>. The question of whether the blessed in heaven are
+          able to observe the damned in hell — and if so, what their reaction might be — was a
+          matter of debate among early Church Fathers. The gloss follows Thomas Aquinas in asserting
+          that the righteous not only do not pity the damned but actively “delight” in their
+          torments. In the <hi rend="italic">Summa Theologica</hi> (ca. 1274), Aquinas argues that
+          since souls in heaven are fully knowledgeable and perfectly happy, “Nothing should be
+          denied the blessed that belongs to the perfection of their beatitude . . . Wherefore in
+          order that the happiness of the saints may be more delightful to them and that they may
+          render more copious thanks to God for it, they are allowed to see perfectly the sufferings
+          of the damned” (Aquinas, <hi rend="italic">Summa Theologica</hi>, trans. Fathers of the
+          Dominican Province, Third Part Supplement, 94.1, p. 107).</note>
+        <note type="enote" n="138"><space rend="indent1"/><hi rend="italic">“He </hi><hi
+            rend="italic">shal sleen . . . spirit of his lippis.”</hi> Isaias 11:4.</note>
+        <note type="enote" n="139"><space rend="indent1"/><hi rend="italic">But thei</hi><hi
+            rend="italic"> shulen not be in so grete peyne . . . grete joye in</hi><hi rend="italic"
+            > hevene and erthe</hi>. The gloss emphasizes that though the church will endure the
+          painful persecution Antichrist <hi rend="italic">schal doun</hi> [do] <hi rend="italic">to
+            Cristen folk</hi>, it will not be as painful or permanent as the sufferings of the
+          damned, and it will be offset by the pleasure of seeing the wicked’s destruction. See note
+          for <hi rend="italic">the grete delite</hi>, above.</note>
+        <p style="heading4">Chapter 20, Paragraph 3</p>
+        <note type="enote" n="140"><space rend="indent1"/><hi rend="italic">His </hi><hi
+            rend="italic">profetis . . . seiden hem the sothe</hi>. This passage within the English
+          interpolation is clearly anticlerical, as it describes the devil’s prophets within the
+          church, including prideful men, lechers, and <hi rend="italic">losengeris</hi>
+          [flatterers]. However, its precise sense is unclear at a few points. The phrase <hi
+            rend="italic">maken hem holi</hi> might refer to the flatterers making themselves holy,
+          by establishing themselves in holy orders through ordination, or it might mean they confer
+          holiness upon their wealthy and powerful parishioners, perhaps through flattery or through
+          absolution within the sacrament of penance. Either way, they do so for wrong reasons,
+          either for <hi rend="italic">drede</hi>, fear of those parishioners, for <hi rend="italic"
+            >love</hi>, or for <hi rend="italic">ler</hi>, loss. MS repeats <hi rend="italic"
+            >love</hi> twice in a clear scribal error; H uses the alliterative phrase <hi
+            rend="italic">for love oither for ler</hi>. Fridner proposes <hi rend="italic">lof</hi>
+          [praise] as the intended word in place of <hi rend="italic">love</hi> (p. 244n), which
+          makes more sense in context — the flattering priests do their dishonest work in the church
+          out of fear, or in order to win praise, or because they will face loss if they do not. The
+          next sentence continues this theme and appears to reference the priests’ dishonesty in
+          preaching, as they will not gain anything they hope from their parishioners if they <hi
+            rend="italic">seiden hem the sothe</hi> [tell them the truth].</note>
+        <note type="enote" n="141"><space rend="indent1"/><hi rend="italic">The put he caste him in
+            . . . that </hi><hi rend="italic">is the fend of helle</hi>. This section of commentary
+          is an English interpolation that does not appear in the AN original (Fridner, pp. 170–71,
+          244n). It contains anticlerical themes likely to be attractive to the Lollard compiler of
+          the Plimpton manuscript, including the statement that hypocritical preachers who deceive
+          their flocks are <hi rend="italic">werse than any devel in helle</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 4</p>
+        <note type="enote" n="142"><space rend="indent1"/><hi rend="italic">Gog and Magog . . .
+            gravel </hi><hi rend="italic">of the see</hi>. Gog and Magog were ancient kings or
+          kingdoms, which warred against Israel and were the subject of several prophecies of
+          Ezekiel (see Ezechiel 38–39). In the Apocalypse, Gog and Magog become general symbols for
+          the enemies of God’s people. <hi rend="italic">Gravel of the sea</hi> [sand on the
+          seashore] is a biblical metaphor for a massive uncountable army — see, for example, Josue
+          11:4 and Judges 7:12.</note>
+        <p style="heading4">Chapter 20, Paragraph 6</p>
+        <note type="enote" n="143"><space rend="indent1"/><hi rend="italic">the dede and </hi><hi
+            rend="italic">the qwyk</hi>. A mistranslation of the AN <hi rend="italic">les morz granz
+            </hi><hi rend="italic">and petiz</hi> [the dead great and small] (Fridner, p. 175). LV:
+            <hi rend="italic">dede men greete and smale</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 3</p>
+        <note type="enote" n="144"><space rend="indent1"/><hi rend="italic">and of grace</hi>. A
+          mistranslation of the Vulgate <hi rend="italic">gratis</hi> [freely] which originates with
+          AN: <hi rend="italic">et par grace</hi> [and of grace] (Fridner, p. 178). The full verse
+          translated accurately in LV reads: <hi rend="italic">I shal gife freli</hi> [freely] <hi
+            rend="italic">of the</hi><hi rend="italic"> welle of qwik</hi> [living] <hi
+            rend="italic">watir to him that thirsteth</hi>. The mistranslation, however, allows the
+          subsequent gloss to discourse at length on the subject of God’s saving grace in Christ
+          (21.¶4).</note>
+        <note type="enote" n="145"><space rend="indent1"/><hi rend="italic">and to hem that loven
+            huntyng</hi>. A mistranslation of the AN <hi rend="italic">ces qui enveniment</hi>
+          [those who poison] (Fridner, p. 178). This verse and the gloss that follows (21.¶4) are
+          the only places MS includes hunters among the list of sinners; H does so here and also in
+          9:20 and 22:15 (see textual notes for 9.¶9 and 22.¶6). Fridner speculates that the
+          translator drew a connection between the AN <hi rend="italic">venefique</hi> [poisoner]
+          and <hi rend="italic">venëor</hi> [hunter], from the Latin <hi rend="italic">venator</hi>
+          (pp. 226–27). MS adds the more accurate <hi rend="italic">venym doeres</hi> [poisoners,
+          sorcerers] to the list as well, which H does not.</note>
+        <p style="heading4">Chapter 21, Paragraph 5</p>
+        <note type="enote" n="146"><space rend="indent1"/><hi rend="italic">margaritis</hi>. All
+          manuscripts of the <hi rend="italic">English Apocalypse</hi> contain this description of
+          pearls in the twelve gates of the heavenly city. It might appear at first to be a
+          mistranslation of the AN <hi rend="italic">angeles</hi> [angels] (Fridner, p. 184) and
+          Vulgate <hi rend="italic">angelos</hi>, which the LV translates <hi rend="italic"
+            >angelis</hi>. However, pearls also appear in the twelve gates a few verses later, in
+          21:21 (21.¶10), rendered in the Vulgate as <hi rend="italic">margaritae</hi> [pearls].
+          While it is unclear exactly why the Middle English translation cuts the angels from verse
+          12 and replaces them with pearls, the word choice should be viewed as an interpretive
+          translation that looks ahead in the text rather than a mistranslation. For more on the
+          symbolic significance of pearls, see the note for 21.¶10, below.</note>
+        <p style="heading4">Chapter 21, Paragraph 6</p>
+        <note type="enote" n="147"><space rend="indent1"/><hi rend="italic">twelve thousand
+            paas</hi>. The translation of the AN <hi rend="italic">pas</hi> [paces] (Fridner, p.
+          185) gives a significantly smaller sense of size than the Vulgate <hi rend="italic"
+            >stadia</hi>, which are roughly 600 feet, or the LV translation’s <hi rend="italic"
+            >furlongis</hi>, at 650 feet (see note for 14.¶13, <hi rend="italic">the thousynde
+            pas</hi>, above). It is unclear why the translators chose a shorter measure, but in
+          comparative terms, the heavenly city in the Vulgate and LV is approximately 1,500 miles
+          long; in the AN and <hi rend="italic">English Apocalypse</hi>, it is less than twelve
+          miles long.</note>
+        <p style="heading4">Chapter 21, Paragraph 7</p>
+        <note type="enote" n="148"><space rend="indent1"/><hi rend="italic">vertu</hi>. A
+          mistranslation of AN <hi rend="italic">verdur</hi> (Fridner, p. 185). The Middle English
+            <hi rend="italic">verdure</hi> [green, flourishing] would be a better choice, as it
+          would give a double meaning to the jasper’s green color, in the same way that the
+          crystal’s physical <hi rend="italic">brightnesse</hi> represents the spiritual brightness
+          of baptism and penance.</note>
+        <p style="heading4">Chapter 21, Paragraph 9</p>
+        <note type="enote" n="149"><space rend="indent1"/><hi rend="italic">stedfast bileeve as
+            Abraham hadde</hi>. The patriarch Abraham, through whom God makes a covenant with the
+          people of Israel that they will inherit the Promised Land of Canaan (Genesis 15:1–20), is
+          held up by the Apostle Paul in the New Testament as a paragon of faith. In Romans 4:1–25
+          and Galatians 3:6–9, Paul draws a distinction between Abraham’s faith and his works, using
+          Genesis 15:6 to argue that Christians are counted righteous in God’s eyes the same way
+          Abraham was, for their faith in Christ. See also James 2:21–24, which uses Abraham’s faith
+          to make a different argument about faith and works, and Hebrews 11:8–19, which recounts
+          the life of Abraham as one of several ancient heroes of faith. In the gloss, Abraham’s <hi
+            rend="italic">stedfast bileeve</hi> is compared to the “cleanness” of the gemstone
+          jasper. The word <hi rend="italic">clene</hi> in its literal sense means physically pure
+          or clean (<hi rend="italic">MED</hi>, <hi rend="italic">clene</hi> [adj.], sense 1), when
+          applied to a gemstone “bright, shining; gleaming, sparkling” (sense 4b), and in its
+          figurative sense “morally clean, righteous, pure” (sense 2a).</note>
+        <note type="enote" n="150"><space rend="indent1"/><hi rend="italic">“Oure conversacioun is
+            in heven.”</hi> Philippians 3:20. For the definition of <hi rend="italic"
+            >conversacioun</hi>, a translation of the Vulgate <hi rend="italic">conversatio</hi> and
+          AN <hi rend="italic">conversatiun</hi> (Fridner, p. 190), see <hi rend="italic">MED</hi>,
+            <hi rend="italic">conversacioun</hi> (n.), senses 2a and 3. LV translates it as <hi
+            rend="italic">living</hi>.</note>
+        <note type="enote" n="151"><space rend="indent1"/><hi rend="italic">Sardonycle that is of
+            thre coloures</hi>. The three-layered stone described here is sardonyx, the fifth stone
+          listed in verse 21:20 (21.¶8). The sixth stone, <hi rend="italic">sardoyne</hi> [sard,
+          carnelian] is missing in the gloss’s list and does not receive an interpretation. H lists
+          the three-colored stone as <hi rend="italic">sardoyne</hi>, an apparent error caused by
+          the two stones’ nearly identical spelling; carnelian is typically solid in color, and as
+          Fridner observes, “sardonyx . . . is required here because it is layered” (p. 247). Two
+          manuscripts of the <hi rend="italic">English Apocalypse</hi> — Cambridge, Caius College
+          231/117 and Manchester, Rylands Library English 92 — supply an interpretation for a sixth
+          stone called <hi rend="italic">sardins</hi>, which is simply an alternate spelling for
+          sardonyx (see <hi rend="italic">MED</hi>, <hi rend="italic">sardin(e</hi> [n.] and also
+          verse 4:3 [4.¶1]). Their descriptions, however, seem to fit better with the red carnelian,
+          a confusion no doubt again due to the similar spelling of <hi rend="italic"
+            >sardonycle</hi> and <hi rend="italic">sardoyne</hi>. The gloss in Rylands Library
+          English 92 reads: <hi rend="italic">Sardins is of reed colour as he brynnyde</hi> [as if
+          it burned]. <hi rend="italic">This colour techeth men how Crist conforteth</hi><hi
+            rend="italic"> mennes charité</hi> [inspires people’s love] <hi rend="italic">and maketh
+            </hi><hi rend="italic">hem bolde to be martires</hi> [martyrs] <hi rend="italic">and
+            shede her blood</hi><hi rend="italic"> for his love</hi> (Fridner, p. 190).</note>
+        <note type="enote" n="152"><space rend="indent1"/><hi rend="italic">cold</hi>. A
+          mistranslation of AN <hi rend="italic">froter</hi> [rubbing] (Fridner, p. 191); the
+          translator likely read <hi rend="italic">froid</hi> [cold]. Topaz does not change color in
+          the cold, but rubbing may cloud and darken its natural light color, a metaphor the
+          commentary applies to the wise who do not give their hearts to the world.</note>
+        <note type="enote" n="153"><space rend="indent1"/><hi rend="italic">That the wal is jasper .
+            . . and bidden for</hi><hi rend="italic"> hem</hi>. The list of symbolic meanings for
+          the twelve gemstones in the heavenly city draws from the tradition of medieval lapidaries,
+          reference works on the properties of precious and semi-precious stones. Though the
+          tradition was ancient and often associated with astrology and magic, Christian lapidaries
+          produced by such writers as Isidore of Seville (seventh century) and Marbod of Rennes
+          (twelfth century) were popular in the Middle Ages and focused on biblical references,
+          including this passage from Apocalypse 21:18–21. Gemstones in the Bible, when they are
+          given explicit interpretations, typically represent wisdom. See, for example, Job
+          28:12–19, which lists several gemstones, along with silver and gold, and concludes that
+          wisdom is more valuable than all of them. See also the descriptions of the heavenly city
+          in the late fourteenth-century poem <hi rend="italic">Pearl</hi>, which are taken directly
+          from the Apocalypse and include a rhyming list of the twelve stones (Andrew and Waldron,
+          eds., <hi rend="italic">Poems of the Pearl Manuscript</hi>, pp. 101–02; lines
+          985–1020).</note>
+        <p style="heading4">Chapter 21, Paragraph 10</p>
+        <note type="enote" n="154"><space rend="indent1"/><hi rend="italic">margaritis</hi>. Pearls
+          held a wide range of symbolic meanings in Christian literature of the fourteenth century.
+          Two of these potential symbols are noted in the gloss for this verse (21.¶12), where the
+          cleanness and brightness of a pearl represents virtue and purity. The Middle English word
+            <hi rend="italic">bright</hi>, whose literal meaning refers to the physical brightness
+          or a light or jewel (<hi rend="italic">MED</hi>, <hi rend="italic">bright</hi> [adj.],
+          sense 1), carries the figurative sense of “morally pure, free of sin,” “enlightened,” or
+          “splendid, glorious” in virtue (sense 5). An excellent source for exploring the
+          multifaceted significance of pearls is the late fourteenth-century poem <hi rend="italic"
+            >Pearl</hi> (Andrew and Waldron, eds., <hi rend="italic">Poems </hi><hi rend="italic">of
+            the Pearl Manuscript</hi>, pp. 53–110). The “pearl” of <hi rend="italic">Pearl</hi> is
+          both a young girl who has died, who appears to the narrator as a queen of heaven in a
+          dream vision, and the recurring image of a precious jewel that represents spiritual truths
+          to the Dreamer, who frequently refers to himself as a “jeweler.” The pearl is “wemlez
+          [flawless], clene, and clere, / And endelez rounde [eternally round]” (lines 737–38),
+          representing righteous perfection, truth, and eternity. The poem references Jesus’s
+          parable of the Pearl of Great Price (Matthew 13:45–46), in which a merchant sells
+          everything to obtain a pearl which may represent wisdom (see also Matthew 7:6), salvation,
+          heaven, or Christ himself (lines 729–35). Some commentators have also noted that the size,
+          shape, and color of the pearl recalls a Eucharistic wafer, the sacramental element of
+          Christ’s body (see Baldwin, “Sacramental Perfection in <hi rend="italic">Pearl</hi>, <hi
+            rend="italic">Patience</hi>, and <hi rend="italic">Cleanness</hi>,” p. 129).</note>
+        <p style="heading4">Chapter 21, Paragraph 11</p>
+        <note type="enote" n="155"><space rend="indent1"/><hi rend="italic">hethene men</hi>. Verse
+          21:26 does not appear in the Anglo-Norman Apocalypse (Fridner, p. 248) and may be
+          translated directly from the Vulgate or borrowed from LV. There is no commentary for it in
+          the gloss below. The word MS translates as <hi rend="italic">hethene men</hi> and H as <hi
+            rend="italic">the folk</hi> (see textual note, <hi rend="italic">thei schulen bryng
+            glorie</hi>) is the Vulgate <hi rend="italic">gentium</hi>, meaning “the nations” and
+          often translated in modern editions as “the Gentiles.” See note for 11.¶2, above.</note>
+        <p style="heading4">Chapter 22, Paragraph 2</p>
+        <note type="enote" n="156"><space rend="indent1"/><hi rend="italic">the cros</hi>. The cross
+          of Jesus’s Crucifixion is frequently referred to in Middle English literature as a “tree,”
+          or the “tree of death,” in ironic contrast with the Tree of Life in the Garden of Eden and
+          in the New Jerusalem of the Apocalypse. See <hi rend="italic">MED</hi>, <hi rend="italic"
+            >tre</hi> (n.), sense 1b.</note>
+        <note type="enote" n="157"><space rend="indent1"/><hi rend="italic">“That is lyf . . . whom
+            </hi><hi rend="italic">he sent.”</hi> John 17:3.</note>
+        <note type="enote" n="158"><space rend="indent1"/><hi rend="italic">“He that avoweth . . .
+            my Fader </hi><hi rend="italic">in hevene.”</hi> Matthew 10:32.</note>
+        <note type="enote" n="159"><space rend="indent1"/><hi rend="italic">is expouned bifore</hi>.
+          The absence of sun, moon, and lantern in the heavenly city is interpreted above in the
+          gloss for verse 21:23 (21.¶12): <hi rend="italic">whanne</hi><hi rend="italic"> it is
+            glorified it schal han no myste</hi> [need] <hi rend="italic">of prechynge ne of techere
+            ne of kepere</hi> [guard].</note>
+        <p style="heading4">Chapter 22, Paragraph 7</p>
+        <note type="enote" n="160"><space rend="indent1"/><hi rend="italic">Thei doon as the hond
+            doith . . . </hi><hi rend="italic">for thei been not sory for here synnes</hi>. See 2
+          Peter 2:20–22. The analogy of a dog returning to eat its own vomit comes from Proverbs
+          26:11. See also Whiting H567 (p. 295).</note>
+        <p style="heading4">Chapter 22, Paragraph 8</p>
+        <note type="enote" n="161"><space rend="indent1"/><hi rend="italic">“I am </hi><hi
+            rend="italic">rote and kynd of Davyth.”</hi> See note for 5.¶1, above.</note>
+        <p style="heading4">Chapter 22, Paragraph 14</p>
+        <note type="enote" n="162"><space rend="indent1"/><hi rend="italic">false discretifris . . .
+            to</hi><hi rend="italic"> wynnen erthli goodis</hi>. The gloss includes among those who
+          are subject to the Apocalypse’s curses <hi rend="italic">discretfris</hi>, experts in
+          papal decretals known as “decretists.” See <hi rend="italic">MED</hi>, <hi rend="italic"
+            >decretiste</hi> (n.), which notes that the term is “used contemptuously.” The gloss
+          says that these experts, with their overly subtle readings, turn the <hi rend="italic"
+            >gostli</hi> or spiritual insights of scripture into a means by which they can win
+          worldly wealth.</note>
+        <note type="enote" n="163"><space rend="indent1"/><hi rend="italic">“That day ne that houre
+            . . . oneli the Fader.”</hi> Mark 13:32.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-07-English-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes</title>
+        <author>Campbell, Ethan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-03" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2024-03" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+          <resp from="2023-03" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-03" to="2023-08">Entered corrections for print edition</resp>
+          <resp from="2023-03" to="2023-08">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp from="2024-06" to="2024-07">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2023-08" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-08" to="2024-05">Entered corrections for print edition</resp>
+          <resp from="2023-08" to="2023-11">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-07-English-Tnotes"/>
+      <div type="text">
+        <p style="bodyfirst">H (the earliest extant manuscript of the <hi rend="italic">English
+            Apocalypse</hi>) and P (another early copy which predates the Wycliffite LV) supply
+          alternate readings for apparent scribal errors in MS. Significant deviations from MS are
+          also noted here, including those places where MS exhibits influence from LV. LV Apocalypse
+          quotations in these notes are taken from the edition that appears as Appendix A in this
+          volume.</p>
+        <p style="heading4">Prologue, Paragraph 1</p>
+        <note type="tnote" n="1"><space rend="indent1"/><hi rend="italic">Seynt</hi>. The first word
+          of the Prologue and of each chapter begins with a rubricated initial letter.</note>
+        <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">chosen</hi>. So H. MS: <hi
+            rend="italic">chosne</hi>.</note>
+        <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">and seeth and</hi><hi
+            rend="italic"> understondith and seeth the tribulaciouns</hi>. So MS. H: <hi
+            rend="italic">seiȝ </hi><hi rend="italic">and understood þe tribulaciouns and þe
+            sorouȝes</hi>.</note>
+        <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">Sone</hi>. So H. MS: <hi
+            rend="italic">sonee</hi>. Apparent scribal error.</note>
+        <p style="heading4">Prologue, Paragraph 2</p>
+        <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">to his servant</hi>. So
+          MS. H: <hi rend="italic">took his servaunt</hi>.</note>
+        <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">schulen be chaungid</hi>.
+          So MS. Marginal insertion.</note>
+        <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">asilen</hi>. So MS. H: <hi
+            rend="italic">assailen</hi>. (See explanatory note.)</note>
+        <p style="heading4">Prologue, Paragraph 3</p>
+        <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">wakynge</hi>. So MS. H:
+            <hi rend="italic">makyng</hi>.</note>
+        <p style="heading4">Prologue, Paragraph 4</p>
+        <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">he understode</hi>. MS:
+            <hi rend="italic">it understode</hi>.</note>
+        <p style="heading4">Prologue, Paragraph 5</p>
+        <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">is on this</hi>. So H.
+          MS: <hi rend="italic">on þis</hi>.</note>
+        <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">“the Apocalips.”</hi> MS:
+            <hi rend="italic">þ</hi><hi rend="italic">e pocalips</hi>. Emended for sense. H: <hi
+            rend="italic">þapocalips</hi>.</note>
+        <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">sevene sightis</hi>. MS:
+            <hi rend="italic">sevene sevene siȝtis</hi>. Scribal error. MS has a note in the bottom
+          margin which is apparently a correction: <hi rend="italic">sevene</hi><hi rend="italic">
+            siȝts</hi>.</note>
+        <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">tellen</hi>. So MS. H
+          adds: <hi rend="italic">And God </hi><hi rend="italic">almiȝtful be at oure bigynnyng ȝif
+            it be his</hi><hi rend="italic"> wille. Amen.</hi></note>
+        <p style="heading4">Chapter 1, Paragraph 1</p>
+        <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">Apocalips</hi>. The first
+          word of each chapter begins with a rubricated initial letter. The first page of the
+          biblical text, fol. 204r, features a second scribal hand with a smaller and tighter
+          textura script, which runs from verse 1:1 to the middle of the gloss following verse 1:16
+          (1.¶8). The following page, fol. 204v, returns to the original scribal hand from the
+          Prologue, which continues to the end of the Apocalypse.</note>
+        <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">God</hi>. As noted in the
+          introduction to this edition, the Plimpton manuscript in general does not contain
+          illuminations, and even its rubricated initial letters tend to be understated. The one
+          slight exception to this rule is this first page of the biblical text (fol. 204r), which
+          is written in a more formal textura hand than the rest of the Apocalypse. The stems of
+          several letters on the top line have flourishes which curve into the margin, in particular
+          the two iterations of the word <hi rend="italic">which(e)</hi> and the initial <hi
+            rend="italic">s</hi> of <hi rend="italic">servauntis</hi>. The <hi rend="italic">h</hi>
+          in <hi rend="italic">Jhesu</hi>, appropriately, extends above the top line and curves into
+          a shape resembling a shepherd’s crook. The <hi rend="italic">d</hi> of <hi rend="italic"
+            >God</hi> becomes a circle with what appear to be two eyes, a nose, and a frowning face.
+          (See Figure 1 on p. vi.)</note>
+        <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">to be maad</hi>. MS: <hi
+            rend="italic">to to be maad</hi>. Scribal error.</note>
+        <p style="heading4">Chapter 1, Paragraphs 1–4</p>
+        <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">Apocalips of</hi><hi
+            rend="italic"> Jhesu Crist . . . to comynge, almyghti</hi>. So MS, following LV. H, P,
+          and other early manuscripts of the <hi rend="italic">English Apocalypse</hi> omit verses
+          1:1–8. MS continues to follow LV in verses 1:9–16 and 3:12–22 (see textual notes, below,
+          for 1.¶5, 1.¶7, <hi rend="italic">And Y turnede</hi>, 3.¶4–5, <hi rend="italic">And
+            </hi><hi rend="italic">to the aungele</hi>, and 3.¶¶7–9, <hi rend="italic">And to the
+            aungele</hi>; these textual notes provide alternate readings from H, whose translation
+          predates LV).</note>
+        <p style="heading4">Chapter 1, Paragraph 5</p>
+        <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">I, Joon, youre brother .
+            . . to Loadicia</hi>. So MS, following LV. H verses 1:9–11: <hi rend="italic">[9] Ich,
+            Johan, youre broþ</hi><hi rend="italic">er and partinere in tribulaciouns and duelle in
+            pacience in </hi><hi rend="italic">Jhesu Crist, was in an yle of the see that </hi><hi
+            rend="italic">is cleped Pathmos and was exiled for Goddes wordes and </hi><hi
+            rend="italic">for I bare witnesse of Jesu Crist. [10] And </hi><hi rend="italic">on a
+            Sonenday, in gost Ich herd a grete voice </hi><hi rend="italic">biside me as it were þe
+            soune of a trumpe</hi><hi rend="italic"> [11] þat seide to me, “Write in þe book</hi><hi
+            rend="italic"> þat þou seest and sende it to þe </hi><hi rend="italic">seven chirches of
+            Asye, þat is to wyte to Ephesie</hi><hi rend="italic">, Smirme, Pargame, Tiatire, Carde,
+            Philadelphe, &amp; Laodice.”</hi></note>
+        <p style="heading4">Chapter 1, Paragraph 6</p>
+        <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">Glose</hi>. MS marks the
+          start of glosses here and in 1.¶8 with the word <hi rend="italic">glose</hi> in red. The
+          glossed sections are inconsistently labeled thereafter; this edition standardizes
+          them.</note>
+        <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">trumpe and</hi>. So MS.
+          H: <hi rend="italic">buscyne</hi> [trumpet] <hi rend="italic">that</hi>.</note>
+        <p style="heading4">Chapter 1, Paragraph 7</p>
+        <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">Texte</hi>. MS marks the
+          beginning of each section of biblical text with the word <hi rend="italic">texte</hi> or
+            <hi rend="italic">tixte</hi> in red; this edition standardizes the spelling. The one
+          exception is chapter beginnings, which are marked with a rubricated initial capital and
+          the chapter number in the margin.</note>
+        <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">And </hi><hi
+            rend="italic">Y turnede . . . in his vertu</hi>. So MS, following LV. H verses 1:12–16:
+            <hi rend="italic">[12] And I tourned me to see þ</hi><hi rend="italic">e voice þat spaak
+            to me, and I seiȝ </hi><hi rend="italic">seven candelstickes. [13] On þat semed the
+            maidens son þ</hi><hi rend="italic">at was cloþed in an aube riȝth unto </hi><hi
+            rend="italic">the erþe and gird under his tittes wiþ a</hi><hi rend="italic"> girdel of
+            golde. [14] His heued and his here was</hi><hi rend="italic"> white as wolle and as
+            snow, and his eiȝen</hi><hi rend="italic"> as flaume of fyre, [15] and his feet as
+            gleedes</hi><hi rend="italic"> brennande. His voice was as voice of many watres,
+            [16</hi><hi rend="italic">] and he had in his riȝth honde seven sterres</hi><hi
+            rend="italic">, and out at his mouþe com a swerd kervyng</hi><hi rend="italic"> on boþe
+            parties. And his visage was as þ</hi><hi rend="italic">e sonne whan it shyneþ
+            briȝttest.</hi></note>
+        <p style="heading4">Chapter 1, Paragraph 8</p>
+        <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">The undoynge of
+          this</hi>. So MS. H omits.</note>
+        <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">garnement that he was
+            claad</hi>. So MS. H: <hi rend="italic">aube þ</hi><hi rend="italic">at he was
+            cloþed</hi>.</note>
+        <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">helpen the othere</hi>.
+          So MS. H adds: <hi rend="italic">forto done wel</hi>.</note>
+        <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">vyres and</hi>. So MS. H
+          omits.</note>
+        <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">wise men</hi>. So MS. H:
+            <hi rend="italic">wise clerkes</hi>.</note>
+        <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">wirchynge</hi>. So H. MS:
+            <hi rend="italic">wrchynge</hi>. Scribal error.</note>
+        <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">puple of goode
+            leveyng</hi>. So MS. H omits.</note>
+        <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">kittith</hi>. So MS. H:
+            <hi rend="italic">kerveþ</hi>.</note>
+        <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">on half</hi>. So H. MS:
+            <hi rend="italic">on</hi>
+          <hi rend="italicstrikethrough">þe on</hi>
+          <hi rend="italic">half</hi>.</note>
+        <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">yvele</hi>. So MS. H: <hi
+            rend="italic">quede</hi> [wicked].</note>
+        <p style="heading4">Chapter 1, Paragraph 9</p>
+        <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">“Nyl thu dreden.”</hi> So
+          MS, possibly following LV. H: <hi rend="italic">Be þou nouȝth adred</hi>.</note>
+        <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">helle and of</hi><hi
+            rend="italic"> deith</hi>. So MS, possibly following LV. H: <hi rend="italic">hevene and
+            of</hi><hi rend="italic"> helle</hi>.</note>
+        <p style="heading4">Chapter 1, Paragraph 10</p>
+        <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">of Asie</hi>. So MS. H
+          omits, following AN and Vulgate. MS marks the end of many sections of biblical text,
+          starting here, with the word <hi rend="italic">ende</hi> in red. The label is
+          inconsistently applied; this edition omits it and standardizes <hi rend="italic"
+            >Glose</hi> to mark the beginning of the glossed sections.</note>
+        <p style="heading4">Chapter 1, Paragraph 11</p>
+        <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">after </hi><hi
+            rend="italic">Goddis lawe</hi>. So MS. H: <hi rend="italic">and to shryven
+          hem</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 1</p>
+        <note type="tnote" n="37"><space rend="indent1"/><hi rend="italic">comaundith</hi>. So MS.
+          H: <hi rend="italic">comeþ</hi>.</note>
+        <note type="tnote" n="38"><space rend="indent1"/><hi rend="italic">for</hi><hi rend="italic"
+            > the synnes of the puple</hi>. So MS. H: <hi rend="italic">for þ</hi><hi rend="italic"
+            >e synnes of þe folk</hi>. Every manuscript of the <hi rend="italic">English</hi><hi
+            rend="italic"> Apocalypse</hi> includes a variation on this phrase, but it is not in the
+          AN or Vulgate. It appears to be an interpretive addition original to the Middle English
+          translator.</note>
+        <p style="heading4">Chapter 2, Paragraph 2</p>
+        <note type="tnote" n="39"><space rend="indent1"/><hi rend="italic">thyng</hi>. MS: <hi
+            rend="italic">ȝyng</hi>. Scribal error. H: <hi rend="italic">þing</hi>.</note>
+        <note type="tnote" n="40"><space rend="indent1"/><hi rend="italic">first</hi>. So MS. H: <hi
+            rend="italic">aforne</hi>.</note>
+        <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">But thou do</hi>. MS: <hi
+            rend="italicstrikethrough">but þou do</hi>
+          <hi rend="italic">but þou do</hi>.</note>
+        <note type="tnote" n="42"><space rend="indent1"/><hi rend="italic">thi candilstike</hi>. So
+          MS. H: <hi rend="italic">þee and þi candelstik</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 5</p>
+        <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">and art blasfemed . . .
+            these thingis whiche thu </hi><hi rend="italic">schalt suffre</hi>. So MS, following LV.
+          The script from here to the end of the folio page is written in a darker ink and runs into
+          the lower margin, suggesting a later addition or correction. H: <hi rend="italic">þe
+            assaut of fals</hi><hi rend="italic"> folk þat blasfemen þee</hi>.</note>
+        <note type="tnote" n="44"><space rend="indent1"/><hi rend="italic">and he that
+            overcometh</hi>. So MS and H. Four manuscripts of the <hi rend="italic">English
+            Apocalypse</hi> follow the AN and Vulgate in starting verse 11 with <hi rend="italic"
+            >he</hi><hi rend="italic"> þat haþ eris, here he what þe spirit </hi><hi rend="italic"
+            >seiþ to þe chirchis</hi> (Fridner, p. 14).</note>
+        <p style="heading4">Chapter 2, Paragraph 6</p>
+        <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">By the tribulacioun</hi>.
+          So MS. H: <hi rend="italic">By þ</hi><hi rend="italic">e temptacioun</hi>.</note>
+        <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">Lord</hi>. So MS.
+          Marginal insertion.</note>
+        <note type="tnote" n="47"><space rend="indent1"/><hi rend="italic">in that he</hi>. So H.
+          MS: <hi rend="italic">in þat þat he</hi>. Apparent scribal error.</note>
+        <p style="heading4">Chapter 2, Paragraph 7</p>
+        <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">ye woneth</hi>. MS and H:
+            <hi rend="italic">he woneþ</hi>.</note>
+        <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">my name</hi>. MS: <hi
+            rend="italicstrikethrough">my</hi>
+          <hi rend="italic">my name</hi>.</note>
+        <note type="tnote" n="50"><space rend="indent1"/><hi rend="italic">and thu holdist . . .
+            where Satanas dwellith</hi>. So MS in a marginal addition, following LV. H omits.</note>
+        <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">In as moche ye </hi><hi
+            rend="italic">have forsake my lawe</hi>. So MS. MS and H translate this line from the
+          AN, but it is not in the Vulgate. It appears to be an interpretive addition original to
+          the AN translator.</note>
+        <p style="heading4">Chapter 2, Paragraph 8</p>
+        <note type="tnote" n="52"><space rend="indent1"/><hi rend="italic">o thinge</hi>. So MS. H:
+            <hi rend="italic">oo þing</hi>. Both follow AN: <hi rend="italic">une </hi><hi
+            rend="italic">chose</hi> [one thing] (Fridner, p. 16). LV follows the Vulgate: <hi
+            rend="italic">a fewe thingis</hi>. See also textual note for 2.¶12, below.</note>
+        <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">eten of the</hi>. MS: <hi
+            rend="italic">eten of of þe þe</hi>. Scribal error. H: <hi rend="italic">seen
+          þe</hi>.</note>
+        <note type="tnote" n="54"><space rend="indent1"/><hi rend="italic">holden the techyng</hi>.
+          So MS. H: <hi rend="italic">holden þe lore</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 9</p>
+        <note type="tnote" n="55"><space rend="indent1"/><hi rend="italic">“And to hym.”</hi> So MS.
+          H: <hi rend="italic">unto hym</hi>. LV follows the Vulgate in starting verse 17 with <hi
+            rend="italic">He that</hi><hi rend="italic"> hath eeres, here he what the Spiritt seith
+            to the</hi><hi rend="italic"> chirchis</hi>, which none of the <hi rend="italic">English
+            Apocalypse</hi> manuscripts do. The AN manuscript that Fridner transcribes does not
+          include the start of this verse, but he supplies it from one that does (Fridner, p. 16),
+          so it may be that the Middle English translator was working from a corrupt AN copy.</note>
+        <p style="heading4">Chapter 2, Paragraph 10</p>
+        <note type="tnote" n="56"><space rend="indent1"/><hi rend="italic">sobirnesse</hi>. So MS.
+          H: <hi rend="italic">me</hi><hi rend="italic">þfulnesse</hi> [moderation].</note>
+        <note type="tnote" n="57"><space rend="indent1"/><hi rend="italic">blisse of heven, and that
+            is manna</hi>. So MS. H: <hi rend="italic">mete of hevene, and þat is manna</hi><hi
+            rend="italic"> aungels mete</hi>.</note>
+        <note type="tnote" n="58"><space rend="indent1"/><hi rend="italic">veniaunce</hi>. So MS. H:
+            <hi rend="italic">wreche</hi> [retribution].</note>
+        <note type="tnote" n="59"><space rend="indent1"/><hi rend="italic">at </hi><hi rend="italic"
+            >the day</hi>. So H. MS: <hi rend="italic">þe at day</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 11</p>
+        <note type="tnote" n="60"><space rend="indent1"/><hi rend="italic">thi charité</hi>. So MS
+          and H. LV adds, following the Vulgate: <hi rend="italic">and thi service and thi
+            pacience</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 12</p>
+        <note type="tnote" n="61"><space rend="indent1"/><hi rend="italic">o thing</hi>. So MS and
+          H, following AN. LV follows the Vulgate: <hi rend="italic">a fewe thingis</hi>. See also
+          textual note for 2.¶8, above.</note>
+        <note type="tnote" n="62"><space rend="indent1"/><hi rend="italic">that sterith</hi>. So MS.
+          H: <hi rend="italic">for to techen and out drawen</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 13</p>
+        <note type="tnote" n="63"><space rend="indent1"/><hi rend="italic">“To you . . . the develis
+            techynge.”</hi> So MS and H, following AN. LV follows the Vulgate in expanding on this
+          phrase: <hi rend="italic">and to other that ben</hi><hi rend="italic"> at Tiatire, who
+            ever han not this teching and that</hi><hi rend="italic"> knewen not the highnesse of
+            Sathanas, hou thei seyn</hi>. See also explanatory note.</note>
+        <note type="tnote" n="64"><space rend="indent1"/><hi rend="italic">yee han</hi>. So H. MS:
+            <hi rend="italic">he </hi><hi rend="italic">han</hi>.</note>
+        <note type="tnote" n="65"><space rend="indent1"/><hi rend="italic">to the deeth</hi>. So MS
+          and H, following AN. LV follows the Vulgate: <hi rend="italic">til I come</hi>.</note>
+        <note type="tnote" n="66"><space rend="indent1"/><hi rend="italic">And he that </hi><hi
+            rend="italic">overcometh . . . dai sterre</hi>. MS and H remove a clause from verse 26
+          and omit verses 27 and 29. LV: <hi rend="italic">[26</hi><hi rend="italic">] “And to him
+            that shal overcome and that shal kepe</hi><hi rend="italic"> til in to the ende my
+            werkis I shal gife</hi><hi rend="italic"> power on folkis</hi> [over mankind]<hi
+            rend="italic">, [27] and he shal</hi><hi rend="italic"> governe hem in an yren
+            yarde</hi> [rod]<hi rend="italic">, and thei</hi><hi rend="italic"> shulen be broken
+            togider, as a vessel of a potter</hi><hi rend="italic">, as also I resceyvede of my
+            Fadir. [28] And </hi><hi rend="italic">I schal gife to him a morewe sterre</hi> [morning
+            star]<hi rend="italic">. [29] He that hath eeris, here he what the </hi><hi
+            rend="italic">Spiritt seith to the chirchis.”</hi></note>
+        <note type="tnote" n="67"><space rend="indent1"/><hi rend="italic">sterre</hi>. So H. MS:
+            <hi rend="italic">sterris</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 14</p>
+        <note type="tnote" n="68"><space rend="indent1"/><hi rend="italic">and lettith</hi>. So MS.
+          P: <hi rend="italic">He leteþ</hi>.</note>
+        <note type="tnote" n="69"><space rend="indent1"/><hi rend="italic">lyves</hi>. So H. MS: <hi
+            rend="italic">lymes</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 1</p>
+        <note type="tnote" n="70"><space rend="indent1"/><hi rend="italic">“And to</hi><hi
+            rend="italic"> the aungele of the chirche.”</hi> So MS. P: <hi rend="italic"
+            >Unto</hi><hi rend="italic"> þe bisschop of</hi>.</note>
+        <note type="tnote" n="71"><space rend="indent1"/><hi rend="italic">that is</hi>. So P. MS:
+            <hi rend="italic">þat</hi><hi rend="italic"> is þat is</hi>.</note>
+        <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">seven sterris</hi>. So MS
+          and P. Vulgate: <hi rend="italic">septem spiritus Dei et septem stellas</hi> [seven
+          spirits of God and seven stars].</note>
+        <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">and thou lyvest</hi>. So
+          P. MS omits, an apparent scribal error. All other manuscripts follow the Vulgate’s word
+          order: <hi rend="italic">vivas et mortuus es</hi> [you live and you are dead] (Fridner, p.
+          21).</note>
+        <note type="tnote" n="74"><space rend="indent1"/><hi rend="italic">conferme hem that</hi><hi
+            rend="italic"> ben dyeande</hi>. So P. MS: <hi rend="italic">conferme hem conferme
+            hem</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 2</p>
+        <note type="tnote" n="75"><space rend="indent1"/><hi rend="italic">clothinge</hi>. So P. MS:
+            <hi rend="italic">doynge</hi>. Apparent scribal error.</note>
+        <note type="tnote" n="76"><space rend="indent1"/><hi rend="italic">aungels</hi>. MS and P
+          omit verse 3:6. LV: <hi rend="italic">He that hath eeris, here he what the Spiritt
+            seith</hi><hi rend="italic"> to the chirchis</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 3</p>
+        <note type="tnote" n="77"><space rend="indent1"/><hi rend="italic">her bodies</hi>. So H.
+          MS: <hi rend="italic">heer her bodies</hi>. Apparent scribal error.</note>
+        <note type="tnote" n="78"><space rend="indent1"/><hi rend="italic">doun</hi><hi
+            rend="italic"> out</hi>. So MS. P: <hi rend="italic">putt out</hi>.</note>
+        <note type="tnote" n="79"><space rend="indent1"/><hi rend="italic">destroyen men</hi>. So
+          MS. P: <hi rend="italic">disceyven men</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraphs 4–5</p>
+        <note type="tnote" n="80"><space rend="indent1"/><hi rend="italic">“And</hi><hi
+            rend="italic"> to the aungele . . . my newe name.”</hi> So MS, following LV. P verses
+          3:7–12: <hi rend="italic">[7] Unto þe chirche of </hi><hi rend="italic">Philadelphe, write
+            þis, seiþ he þat þat seith, </hi><hi rend="italic">þe holy and soþfast þat haþ David
+            þ</hi><hi rend="italic">e keye þat openeþ and noman ne schetteþ. [8</hi><hi
+            rend="italic">] I wot ȝoure werkes, and hath ȝoven ȝou </hi><hi rend="italic">þe dore
+            open þat non ne may schetten. Forþ</hi><hi rend="italic">i þat þou has a litel vertu and
+            haste </hi><hi rend="italic">kepte my word and nouȝth forsaken my lawe. [9] </hi><hi
+            rend="italic">Loo, I schal ȝive þee þe synagog of Sathan</hi><hi rend="italic"> þat
+            seien þat þai ben Jewes and ne </hi><hi rend="italic">ben nouȝth. And I schal do hem
+            comen and </hi><hi rend="italic">fallen before þi feete in worschipp, and þai schullen
+            </hi><hi rend="italic">witen þat þai loven þee. [10] And for þ</hi><hi rend="italic">at
+            þou hast kepte þe comaundementz of pacience, I </hi><hi rend="italic">schal kepe þee fro
+            þe temptacioun þat schal come</hi><hi rend="italic"> overal in þe werlde þat tempteþ hem
+            þat</hi><hi rend="italic"> wonen in erþe. [11] Holde þat þou hast</hi><hi rend="italic">
+            non ne take thi coroune. [12] And hym þat </hi><hi rend="italic">Ich þus overcome, I
+            schal make hym piler in þ</hi><hi rend="italic">e temple of my God, and þe name of
+            my</hi><hi rend="italic"> God, and þe name of þe cité newe </hi><hi rend="italic"
+            >Jerusalem þat com adoun from hevene, and my newe name</hi><hi rend="italic"
+          >.</hi></note>
+        <p style="heading4">Chapter 3, Paragraph 5</p>
+        <note type="tnote" n="81"><space rend="indent1"/><hi rend="italic">newe name</hi>. MS and P
+          omit verse 3:13. LV: <hi rend="italic">He that hath eeris, here he</hi><hi rend="italic">
+            what the Spiritt seith to the chirchis</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 6</p>
+        <note type="tnote" n="82"><space rend="indent1"/><hi rend="italic">That he</hi>. So P. MS
+          omits.</note>
+        <note type="tnote" n="83"><space rend="indent1"/><hi rend="italic">thre names</hi>. So MS.
+          P: <hi rend="italic">þre maneres</hi>.</note>
+        <note type="tnote" n="84"><space rend="indent1"/><hi rend="italic">Jhesu</hi>. So MS. P
+          omits.</note>
+        <p style="heading4">Chapter 3, Paragraph 7</p>
+        <note type="tnote" n="85"><space rend="indent1"/><hi rend="italic">no man</hi>. So MS. LV:
+            <hi rend="italic">no thing</hi>. P, following AN, also has <hi rend="italic"
+          >noþing</hi>.</note>
+        <note type="tnote" n="86"><space rend="indent1"/><hi rend="italic">that </hi><hi
+            rend="italic">is medicyne . . . that thou see</hi>. So MS; this definition is added by
+          the LV translators and not in the Vulgate. See textual note for 3.¶5 of Appendix A.</note>
+        <p style="heading4">Chapter 3, Paragraph 8</p>
+        <note type="tnote" n="87"><space rend="indent1"/><hi rend="italic">“Whom I love, I reprove
+            </hi><hi rend="italic">and chastise.”</hi> MS: <hi rend="italic">I whom I love, reprove
+            and </hi><hi rend="italic">chastise</hi>. Apparent scribal error. Compare LV: <hi
+            rend="italic">I repreve and chastise </hi><hi rend="italic">whom I love</hi>.</note>
+        <p style="heading4">Chapter 3, Paragraph 9</p>
+        <note type="tnote" n="88"><space rend="indent1"/><hi rend="italic">with me</hi>. MS: <hi
+            rend="italic">with</hi>
+          <hi rend="italicstrikethrough">in</hi>
+          <hi rend="italic">me</hi>. H: <hi rend="italic">by me</hi>.</note>
+        <note type="tnote" n="89"><space rend="indent1"/><hi rend="italic">as I</hi>. MS: <hi
+            rend="italic">as and I</hi>. Scribal error.</note>
+        <p style="heading4">Chapter 3, Paragraphs 7–9</p>
+        <note type="tnote" n="90"><space rend="indent1"/><hi rend="italic">“And to the </hi><hi
+            rend="italic">aungele . . . seyn to chirchis.”</hi> So MS, following LV. P verses
+          3:14–22: <hi rend="italic">[14] Unto þe bisschopp of Laodyce, write </hi><hi rend="italic"
+            >þat seiþ he þat is sooþ witnesse writen </hi><hi rend="italic">trewe and verrey. [15] I
+            wot wel þine werkes for</hi><hi rend="italic"> þou art neiþer hot ne colde. [16] Bot
+            </hi><hi rend="italic">for þou art bytwene two, þou makest me to </hi><hi rend="italic"
+            >wlaþþen</hi> [feel nauseated]<hi rend="italic">. I schal bigynne to cast </hi><hi
+            rend="italic">þee out of my mouþe by þe fore </hi><hi rend="italic">feete. [17] For þou
+            seist þat þou art riche</hi><hi rend="italic"> and hast mester</hi> [need] <hi
+            rend="italic">of noþing, and þ</hi><hi rend="italic">ou ne wost þat þou art wrecched and
+            pouere </hi><hi rend="italic">and blynde and naked. [18] And forþi I rede </hi><hi
+            rend="italic">þat þou bye of my golde tried and proved </hi><hi rend="italic">forto
+            bicome riche, and þat þou cloþe men </hi><hi rend="italic">in white cloþing þat þi
+            schame ne schewe </hi><hi rend="italic">nouȝth þat þou art naked. And grese þine</hi><hi
+            rend="italic"> eiȝen wiþ þis oyle forto seen. [19] I</hi><hi rend="italic"> blame and
+            chastise hem þat I love. And þerfore</hi><hi rend="italic"> do penaunce. [20] Stondeþ
+            atte þe dore and bete</hi><hi rend="italic">þ that hereþ my voice and openeþ me
+            þe</hi><hi rend="italic"> ȝate and I schal entre unto hem and make </hi><hi
+            rend="italic">þere my sopere wiþ hem and he wiþ me</hi><hi rend="italic">. [21] He þat
+            overcometh I schal do hym sytte </hi><hi rend="italic">by me in my throne as Ich have
+            overcomen and </hi><hi rend="italic">sytt with my fader. [22] Who þat haþ eren </hi><hi
+            rend="italic">hereþ what þe spiryt seiþ to þe chirche.</hi></note>
+        <p style="heading4">Chapter 3, Paragraph 10</p>
+        <note type="tnote" n="91"><space rend="indent1"/><hi rend="italic">deef heed</hi>. So MS. P:
+            <hi rend="italic">tewedes</hi> [lukewarm]. MS, P, and LV, as well as the AN and Vulgate,
+          make no mention of deafness in the preceding biblical passage.</note>
+        <note type="tnote" n="92"><space rend="indent1"/><hi rend="italic">castyng</hi>. So P. MS:
+            <hi rend="italic">castthing</hi>. A possible scribal error due to the line break at <hi
+            rend="italic">cast/thing</hi>.</note>
+        <note type="tnote" n="93"><space rend="indent1"/><hi rend="italic">amende hem</hi>. So MS.
+          P: <hi rend="italic">repenten hem</hi>.</note>
+        <note type="tnote" n="94"><space rend="indent1"/><hi rend="italic">knokkyth</hi>. So MS. P:
+            <hi rend="italic">beteþ</hi>.</note>
+        <note type="tnote" n="95"><space rend="indent1"/><hi rend="italic">levynge of</hi><hi
+            rend="italic"> seine forevere</hi>. So MS. P: <hi rend="italic">schrift</hi>. MS <hi
+            rend="italic">seine</hi> is apparently an alternate spelling of <hi rend="italic"
+            >sinne</hi>, though not attested by <hi rend="italic">MED</hi>.</note>
+        <note type="tnote" n="96"><space rend="indent1"/><hi rend="italic">thanne oure</hi>. MS: <hi
+            rend="italic">thanne and oure</hi>. Scribal error.</note>
+        <note type="tnote" n="97"><space rend="indent1"/><hi rend="italic">gost </hi><hi
+            rend="italic">seith</hi>. So P. MS: <hi rend="italic">gost seiþ seiþ</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 1</p>
+        <note type="tnote" n="98"><space rend="indent1"/><hi rend="italic">a dore</hi>. So MS. P:
+            <hi rend="italic">þe dores</hi>.</note>
+        <note type="tnote" n="99"><space rend="indent1"/><hi rend="italic">after this</hi>. So MS.
+          P: <hi rend="italic">after þis lyve</hi>.</note>
+        <note type="tnote" n="100"><space rend="indent1"/><hi rend="italic">sardines</hi>. MS and P
+          omit the second half of verse 4:3. LV: <hi rend="italic">and a reynbowe was in the cumpas
+            of the </hi><hi rend="italic">seete, lyk the sight of smaragdyn</hi> [emerald].</note>
+        <p style="heading4">Chapter 4, Paragraph 2</p>
+        <note type="tnote" n="101"><space rend="indent1"/><hi rend="italic">love able</hi>. So MS.
+          P: <hi rend="italic">schal be lorde</hi>.</note>
+        <note type="tnote" n="102"><space rend="indent1"/><hi rend="italic">Either</hi>. MS: <hi
+            rend="italic">eiȝer</hi>. Apparent scribal error.</note>
+        <note type="tnote" n="103"><space rend="indent1"/><hi rend="italic">biforn Jhesu Crist and
+            </hi><hi rend="italic">sweren of his blod</hi>. So MS. P: <hi rend="italic">and ansueren
+            bifore </hi><hi rend="italic">Jesu Crist of blood</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 3</p>
+        <note type="tnote" n="104"><space rend="indent1"/><hi rend="italic">olde</hi>. So MS. P
+          adds: <hi rend="italic">wheþer a man wil he may</hi><hi rend="italic"> seie
+          and</hi>.</note>
+        <note type="tnote" n="105"><space rend="indent1"/><hi rend="italic">lightynge and
+            thundrynge</hi>. So MS. H: <hi rend="italic">liȝtnesse</hi><hi rend="italic"> and
+            þondrynge</hi>. Neither MS nor H translate the Vulgate <hi rend="italic">et voces</hi>
+          [and voices] in the middle of this phrase. AN has <hi rend="italic">voiz</hi> (Fridner, p.
+          31) and LV <hi rend="italic">voicis</hi>. Fridner notes that one late <hi rend="italic"
+            >English Apocalypse</hi> manuscript, Bodley MS Rawlinson C.750, has <hi rend="italic"
+            >voyses</hi>. See explanatory note for 4.¶4, <hi rend="italic">Bi the
+          voisis</hi>.</note>
+        <note type="tnote" n="106"><space rend="indent1"/><hi rend="italic">als</hi>. So P. MS: <hi
+            rend="italic">as</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 4</p>
+        <note type="tnote" n="107"><space rend="indent1"/><hi rend="italic">predicaciouns</hi>. So
+          MS. P: <hi rend="italic">prechynge</hi>.</note>
+        <p style="heading4">Chapter 2, Paragraph 14–Chapter 4, Paragraph 4</p>
+        <note type="tnote" n="108"><space rend="indent1"/><hi rend="italic">heretikis </hi><hi
+            rend="italic">that lyven . . . that ben confermed thorough</hi>. So MS. H is missing the
+          manuscript page that would contain these lines; P supplies alternate readings for this
+          section.</note>
+        <p style="heading4">Chapter 4, Paragraph 4</p>
+        <note type="tnote" n="109"><space rend="indent1"/><hi rend="italic">thorough</hi><hi
+            rend="italic"> tribulacioun</hi>. H resumes after the missing page with the second half
+          of <hi rend="italic">þo|rouȝ</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 5</p>
+        <note type="tnote" n="110"><space rend="indent1"/><hi rend="italic">to seyne</hi>. So MS. H
+          adds: <hi rend="italic">niȝth and day</hi>.</note>
+        <note type="tnote" n="111"><space rend="indent1"/><hi rend="italic">Lord God almighti</hi>.
+          So MS. H: <hi rend="italic">miȝtful God al </hi><hi rend="italic">weldande</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 6</p>
+        <note type="tnote" n="112"><space rend="indent1"/><hi rend="italic">Resurreccioun</hi>. So
+          MS. H: <hi rend="italic">uprist</hi>.</note>
+        <note type="tnote" n="113"><space rend="indent1"/><hi rend="italic">lif thurgh</hi>. MS: <hi
+            rend="italic">lif</hi>
+          <hi rend="italicstrikethrough">þe</hi>
+          <hi rend="italic">thurȝ</hi>.</note>
+        <note type="tnote" n="114"><space rend="indent1"/><hi rend="italic">meknesse withyne</hi><hi
+            rend="italic"> in hert and charité</hi>. So MS. H: <hi rend="italic">sorouȝ of</hi><hi
+            rend="italic"> herte and shrift of mouþe</hi>.</note>
+        <note type="tnote" n="115"><space rend="indent1"/><hi rend="italic">the ruele of</hi>. So
+          MS. H omits.</note>
+        <note type="tnote" n="116"><space rend="indent1"/><hi rend="italic">the love</hi>. So MS. H:
+            <hi rend="italic">þe </hi><hi rend="italic">bileve</hi>.</note>
+        <note type="tnote" n="117"><space rend="indent1"/><hi rend="italic">temperance</hi>. So MS.
+          H: <hi rend="italic">meþfulnesse</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 7</p>
+        <note type="tnote" n="118"><space rend="indent1"/><hi rend="italic">crownes</hi>. MS: <hi
+            rend="italic">crowes</hi>. H: <hi rend="italic">crounes</hi>.</note>
+        <p style="heading4">Chapter 4, Paragraph 8</p>
+        <note type="tnote" n="119"><space rend="indent1"/><hi rend="italic">fende</hi>. So MS. H:
+            <hi rend="italic">devel</hi>.</note>
+        <p style="heading4">Chapter 5, Paragraph 1</p>
+        <note type="tnote" n="120"><space rend="indent1"/><hi rend="italic">an aungele</hi>. So MS.
+          H: <hi rend="italic">a stronge aungel</hi>.</note>
+        <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">hath </hi><hi
+            rend="italic">overcome</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 5, Paragraph 2</p>
+        <note type="tnote" n="122"><space rend="indent1"/><hi rend="italic">without bitokeneth</hi>.
+          So MS. H: <hi rend="italic">wiþoute is bitokned þe</hi><hi rend="italic">
+          godspell</hi>.</note>
+        <note type="tnote" n="123"><space rend="indent1"/><hi rend="italic">olde fadres of the old
+            lawe</hi>. MS: <hi rend="italic">olde </hi><hi rend="italic">law of þe olde fadres of þe
+            old lawe</hi>.</note>
+        <p style="heading4">Chapter 5, Paragraph 3</p>
+        <note type="tnote" n="124"><space rend="indent1"/><hi rend="italic">of seyntis</hi>. So MS.
+          H: <hi rend="italic">of</hi><hi rend="italic"> þe holy</hi>.</note>
+        <p style="heading4">Chapter 5, Paragraph 4</p>
+        <note type="tnote" n="125"><space rend="indent1"/><hi rend="italic">holi men</hi>. So MS. H:
+            <hi rend="italic">seven holy gostes</hi>.</note>
+        <note type="tnote" n="126"><space rend="indent1"/><hi rend="italic">That thei hadden the
+            </hi><hi rend="italic">violis of gold ful of swete odoures bitokeneth</hi>. So MS. H
+          omits.</note>
+        <note type="tnote" n="127"><space rend="indent1"/><hi rend="italic">joye</hi>. So MS. H: <hi
+            rend="italic">glorie</hi>.</note>
+        <note type="tnote" n="128"><space rend="indent1"/><hi rend="italic">ende</hi>. So MS. H
+          adds: <hi rend="italic">Jhesu Crist graunte us grace so forto don </hi><hi rend="italic"
+            >þat we mowen comen into his regne and dwellen wi</hi><hi rend="italic">þ hym.
+          Amen</hi>.</note>
+        <p style="heading4">Chapter 5, Paragraph 5</p>
+        <note type="tnote" n="129"><space rend="indent1"/><hi rend="italic">the foure and</hi><hi
+            rend="italic"> twenti grete and the foure bestis</hi>. So MS and H. Vulgate and AN omit
+          the specific numbers. LV: <hi rend="italic">of the</hi><hi rend="italic"> beestis and of
+            the eldir men</hi>.</note>
+        <note type="tnote" n="130"><space rend="indent1"/><hi rend="italic">to resceyven vertu</hi>.
+          So MS and H. All manuscripts of the <hi rend="italic">English Apocalypse</hi> omit the
+          next item in the list: Vulgate <hi rend="italic">divinitatem</hi> [divinity]; AN <hi
+            rend="italic">devinité</hi> (Fridner, p. 43); LV <hi rend="italic">godheede</hi>.</note>
+        <note type="tnote" n="131"><space rend="indent1"/><hi rend="italic">honour</hi>. MS and H
+          omit most of verse 5:13. LV: <hi rend="italic">And ech </hi><hi rend="italic">creature
+            that is in hevene and that is on erthe </hi><hi rend="italic">and undir erthe and the
+            see and wiche thingis ben </hi><hi rend="italic">in it, I herde alle seynge to him that
+            satt </hi><hi rend="italic">in the troone and to the lomb, “Blessing and onour </hi><hi
+            rend="italic">and glorie and power in to worldis of worldis.”</hi></note>
+        <p style="heading4">Chapter 5, Paragraph 6</p>
+        <note type="tnote" n="132"><space rend="indent1"/><hi rend="italic">the aungelis</hi>. So
+          MS. H adds: <hi rend="italic">maken</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 2</p>
+        <note type="tnote" n="133"><space rend="indent1"/><hi rend="italic">thorough</hi>. So H. MS:
+            <hi rend="italic">þ</hi><hi rend="italic">ouȝ</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 3</p>
+        <note type="tnote" n="134"><space rend="indent1"/><hi rend="italic">and to hym that</hi><hi
+            rend="italic"> satt there upon</hi>. So H. MS omits, an apparent scribal error.</note>
+        <p style="heading4">Chapter 6, Paragraph 4</p>
+        <note type="tnote" n="135"><space rend="indent1"/><hi rend="italic">might</hi>. So MS. H
+          adds: <hi rend="italic">þat God had ȝoven to þe fende</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 5</p>
+        <note type="tnote" n="136"><space rend="indent1"/><hi rend="italic">balaunce</hi>. So MS,
+          possibly following LV. H: <hi rend="italic">weiȝe</hi>.</note>
+        <note type="tnote" n="137"><space rend="indent1"/><hi rend="italic">of whete</hi>. MS: <hi
+            rend="italic">of of whete</hi>.</note>
+        <note type="tnote" n="138"><space rend="indent1"/><hi rend="italic">bilibres . . .
+            bilibris</hi>. So MS. H: <hi rend="italic">mesures . . . mesures</hi>.</note>
+        <note type="tnote" n="139"><space rend="indent1"/><hi rend="italic">of barli</hi>. MS: <hi
+            rend="italic">of barli of barli</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 6</p>
+        <note type="tnote" n="140"><space rend="indent1"/><hi rend="italic">balaunce</hi>. So MS. H:
+            <hi rend="italic">weiȝe</hi>.</note>
+        <note type="tnote" n="141"><space rend="indent1"/><hi rend="italic">to maken two
+            mesures</hi>. MS: <hi rend="italic">to maken to mesures</hi>. H omits.</note>
+        <note type="tnote" n="142"><space rend="indent1"/><hi rend="italic">two manere</hi>. So H.
+          MS: <hi rend="italic">to manere</hi>.</note>
+        <note type="tnote" n="143"><space rend="indent1"/><hi rend="italic">and goode werkis</hi>.
+          So MS. H omits.</note>
+        <note type="tnote" n="144"><space rend="indent1"/><hi rend="italic">peny</hi>. So MS. H: <hi
+            rend="italic">wyne</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 7</p>
+        <note type="tnote" n="145"><space rend="indent1"/><hi rend="italic">opened</hi>. So MS. H:
+            <hi rend="italic">undede</hi>.</note>
+        <note type="tnote" n="146"><space rend="indent1"/><hi rend="italic">saat on hym</hi>. So MS.
+          H: <hi rend="italic">þere on was</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 8</p>
+        <note type="tnote" n="147"><space rend="indent1"/><hi rend="italic">false</hi><hi
+            rend="italic"> jugis</hi>. So MS. H: <hi rend="italic">þe juges</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 9</p>
+        <note type="tnote" n="148"><space rend="indent1"/><hi rend="italic">thai hadden</hi>. So MS.
+          H: <hi rend="italic">þai herden</hi>.</note>
+        <note type="tnote" n="149"><space rend="indent1"/><hi rend="italic">men gaf</hi>. So H. MS:
+            <hi rend="italic">me ȝaf</hi>.</note>
+        <note type="tnote" n="150"><space rend="indent1"/><hi rend="italic">whiyt, and it</hi><hi
+            rend="italic"> is seide to hem</hi>. So MS. H: <hi rend="italic">and bad of</hi><hi
+            rend="italic"> hem</hi>.</note>
+        <note type="tnote" n="151"><space rend="indent1"/><hi rend="italic">of her britheren</hi>.
+          So MS and H, following AN. Vulgate: <hi rend="italic">conservi eorum et fratres eorum</hi>
+          [their fellow-servants and their brothers]. LV: <hi rend="italic">of her felowis and of
+            her</hi><hi rend="italic"> bretheren</hi>.</note>
+        <note type="tnote" n="152"><space rend="indent1"/><hi rend="italic">to be slayn yit</hi>. So
+          MS. H: <hi rend="italic">ȝut</hi><hi rend="italic"> to slen and þai weren
+          stille</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 10</p>
+        <note type="tnote" n="153"><space rend="indent1"/><hi rend="italic">and shulen ben her
+            above</hi>. So MS. H: <hi rend="italic">and</hi><hi rend="italic"> þat þai shullen ȝut
+            ben under</hi>.</note>
+        <note type="tnote" n="154"><space rend="indent1"/><hi rend="italic">abiden to </hi><hi
+            rend="italic">han in glorie</hi>. So MS. H: <hi rend="italic">habben aboven forto have
+            </hi><hi rend="italic">glorie</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 11</p>
+        <note type="tnote" n="155"><space rend="indent1"/><hi rend="italic">stirynge</hi>. MS: <hi
+            rend="italic">furynge</hi>. An apparent scribal error, in which the scribe crossed the
+          wrong bar to make the long <hi rend="italic">s</hi> look like an <hi rend="italic">f</hi>
+          and the <hi rend="italic">ti</hi> look like a <hi rend="italic">u</hi>. The word <hi
+            rend="italic">furynge</hi> is not attested in the <hi rend="italic">MED</hi>. H: <hi
+            rend="italic">stiriȝing</hi>.</note>
+        <note type="tnote" n="156"><space rend="indent1"/><hi rend="italic">eche </hi><hi
+            rend="italic">mountayne and yle</hi>. So MS. H: <hi rend="italic">alle þe mountaynes
+            and</hi><hi rend="italic"> þe hilles</hi>.</note>
+        <p style="heading4">Chapter 6, Paragraph 12</p>
+        <note type="tnote" n="157"><space rend="indent1"/><hi rend="italic">rochis</hi>. So MS. H
+          adds: <hi rend="italic">and in mountaynes</hi>.</note>
+        <note type="tnote" n="158"><space rend="indent1"/><hi rend="italic">and fro the wrathe
+            of</hi><hi rend="italic"> the Lomb</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 6, Paragraph 13</p>
+        <note type="tnote" n="159"><space rend="indent1"/><hi rend="italic">gret tribulacioun</hi>.
+          So MS. H: <hi rend="italic">grete balaunce</hi>.</note>
+        <note type="tnote" n="160"><space rend="indent1"/><hi rend="italic">a book</hi><hi
+            rend="italic"> turneth</hi>. So MS. H: <hi rend="italic">the book oppeneþ</hi>.</note>
+        <note type="tnote" n="161"><space rend="indent1"/><hi rend="italic">the yles</hi>. So MS. H:
+            <hi rend="italic">þe hilles</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 1</p>
+        <note type="tnote" n="162"><space rend="indent1"/><hi rend="italic">foure corners of the
+            erthe</hi>. So H. MS: <hi rend="italic">foure corners </hi><hi rend="italic">of þe foure
+            corners</hi>.</note>
+        <note type="tnote" n="163"><space rend="indent1"/><hi rend="italic">stiyende up fro the
+            risyng</hi>. So MS, possibly influenced by LV. H: <hi rend="italic">unto þe
+          estward</hi>.</note>
+        <note type="tnote" n="164"><space rend="indent1"/><hi rend="italic">the servauntis of oure
+            God in ther forhedes</hi>. So MS. H: <hi rend="italic">þe tokne of þe Lorde in þe
+            foreheuedes</hi><hi rend="italic"> of his servauntz</hi>.</note>
+        <note type="tnote" n="165"><space rend="indent1"/><hi rend="italic">an hundride foure and
+            fourti thousende</hi>. So MS. H: <hi rend="italic">foure þousande and fourty
+            hundreþ</hi>.</note>
+        <note type="tnote" n="166"><space rend="indent1"/><hi rend="italic">of the</hi><hi
+            rend="italic"> sones</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 7, Paragraph 2</p>
+        <note type="tnote" n="167"><space rend="indent1"/><hi rend="italic">Neptalym, as many . . .
+            Manasse, as manye</hi>. So MS. H follows AN and the Vulgate in placing <hi rend="italic"
+            >Manasse</hi> directly after <hi rend="italic">Neptalym</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 3</p>
+        <note type="tnote" n="168"><space rend="indent1"/><hi rend="italic">came doun</hi>. So MS.
+          H: <hi rend="italic">com</hi><hi rend="italic"> adoune from hevene</hi>.</note>
+        <note type="tnote" n="169"><space rend="indent1"/><hi rend="italic">the sothfast</hi>. MS:
+            <hi rend="italic">he soþfast</hi>. Apparent scribal error. H: <hi rend="italic"
+            >soþfast</hi>.</note>
+        <note type="tnote" n="170"><space rend="indent1"/><hi rend="italic">is aknowe</hi>. So MS.
+          H: <hi rend="italic">is biknowen</hi> [confesses].</note>
+        <note type="tnote" n="171"><space rend="indent1"/><hi rend="italic">feith</hi>. So H. MS:
+            <hi rend="italic">feiþ of</hi><hi rend="italic"> the feiþ</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 4</p>
+        <note type="tnote" n="172"><space rend="indent1"/><hi rend="italic">gret vois</hi>. So MS.
+          H: <hi rend="italic">heiȝe voice</hi>.</note>
+        <note type="tnote" n="173"><space rend="indent1"/><hi rend="italic">onoureden</hi>. MS: <hi
+            rend="italic">a onoureden</hi>. H: <hi rend="italic">anoureden</hi>.</note>
+        <note type="tnote" n="174"><space rend="indent1"/><hi rend="italic">clerté</hi>. So MS. H:
+            <hi rend="italic">charité</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 6</p>
+        <note type="tnote" n="175"><space rend="indent1"/><hi rend="italic">answerde and</hi>. So
+          MS. H omits.</note>
+        <p style="heading4">Chapter 7, Paragraph 7</p>
+        <note type="tnote" n="176"><space rend="indent1"/><hi rend="italic">And I seide to hym, “My
+            lord, thu</hi><hi rend="italic"> wost.”</hi> So MS. H omits.</note>
+        <p style="heading4">Chapter 7, Paragraph 8</p>
+        <note type="tnote" n="177"><space rend="indent1"/><hi rend="italic">on hem</hi>. So MS. H
+          adds: <hi rend="italic">ne þe mone</hi>.</note>
+        <note type="tnote" n="178"><space rend="indent1"/><hi rend="italic">eche tere</hi>. So MS.
+          H: <hi rend="italic">alle teres</hi>.</note>
+        <p style="heading4">Chapter 7, Paragraph 9</p>
+        <note type="tnote" n="179"><space rend="indent1"/><hi rend="italic">holi writt</hi>. So MS.
+          H: <hi rend="italic">þe techynges of</hi><hi rend="italic"> holy writ</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 1</p>
+        <note type="tnote" n="180"><space rend="indent1"/><hi rend="italic">the Lomb</hi>. So MS. H:
+            <hi rend="italic">þe aungel</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 2</p>
+        <note type="tnote" n="181"><space rend="indent1"/><hi rend="italic">encens</hi>. So MS. H:
+            <hi rend="italic">orisouns</hi>.</note>
+        <note type="tnote" n="182"><space rend="indent1"/><hi rend="italic">weren made</hi>. So MS.
+          H: <hi rend="italic">ben</hi><hi rend="italic"> herd</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 3</p>
+        <note type="tnote" n="183"><space rend="indent1"/><hi rend="italic">shal soone</hi>. MS: <hi
+            rend="italic">shal</hi><hi rend="italic"> soone shal</hi>. H: <hi rend="italic">shal
+            sone</hi>.</note>
+        <note type="tnote" n="184"><space rend="indent1"/><hi rend="italic">sent into</hi>. So MS.
+          H: <hi rend="italic">sent þe fire into</hi>.</note>
+        <note type="tnote" n="185"><space rend="indent1"/><hi rend="italic">lownesse</hi>. So MS. H:
+            <hi rend="italic">noblesse </hi><hi rend="italic">þat þe prechours shullen
+          han</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 4</p>
+        <note type="tnote" n="186"><space rend="indent1"/><hi rend="italic">to syngen in
+          trumpe</hi>. So MS. H: <hi rend="italic">forto trumpen</hi>.</note>
+        <note type="tnote" n="187"><space rend="indent1"/><hi rend="italic">trumpynge</hi><hi
+            rend="italic"> of</hi>. MS: <hi rend="italic">trumpynge at</hi>. H: <hi rend="italic"
+            >trumpyng of</hi>.</note>
+        <note type="tnote" n="188"><space rend="indent1"/><hi rend="italic">a gret part</hi><hi
+            rend="italic"> of trees and</hi>. So MS. H: <hi rend="italic">þe þrid part</hi><hi
+            rend="italic"> of þe trees and al þe</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 6</p>
+        <note type="tnote" n="189"><space rend="indent1"/><hi rend="italic">brenande</hi>. So MS. H
+          adds: <hi rend="italic">of fyre</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 7</p>
+        <note type="tnote" n="190"><space rend="indent1"/><hi rend="italic">frist prechinge that was
+            prechide</hi>. So MS. H: <hi rend="italic">predicaciouns</hi> [preaching] <hi
+            rend="italic">þat weren first made</hi>.</note>
+        <note type="tnote" n="191"><space rend="indent1"/><hi rend="italic">brennende</hi><hi
+            rend="italic"> hil</hi>. So MS. H: <hi rend="italic">grete hilles brennande</hi>.</note>
+        <note type="tnote" n="192"><space rend="indent1"/><hi rend="italic">loveden</hi>. So MS. H:
+            <hi rend="italic">lyven</hi>.</note>
+        <note type="tnote" n="193"><space rend="indent1"/><hi rend="italic">revers</hi>. So MS. H:
+            <hi rend="italic">ryvage</hi> [shore].</note>
+        <p style="heading4">Chapter 8, Paragraph 8</p>
+        <note type="tnote" n="194"><space rend="indent1"/><hi rend="italic">is seide Wermwede . . .
+            and manye</hi>. So MS, possibly following LV. H: <hi rend="italic">is made Alors</hi>
+          [Wormwood] <hi rend="italic">þat is bitter, and mychel folk</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 9</p>
+        <note type="tnote" n="195"><space rend="indent1"/><hi rend="italic">alle bitter as wermwede
+            and lest manye</hi>. So MS. H: <hi rend="italic">often of bitter tast as Alors and leseþ
+            </hi><hi rend="italic">many þat drynken</hi>.</note>
+        <p style="heading4">Chapter 8, Paragraph 10</p>
+        <note type="tnote" n="196"><space rend="indent1"/><hi rend="italic">in erthe</hi>. MS and H
+          omit the second half of 8:13. LV: <hi rend="italic">“. . . of the other voicis of thre
+            aungelis that shulen trumpe</hi><hi rend="italic"> aftir.”</hi></note>
+        <p style="heading4">Chapter 8, Paragraph 11</p>
+        <note type="tnote" n="197"><space rend="indent1"/><hi rend="italic">smyten in
+          derknesse</hi>. So MS. H: <hi rend="italic">made derk</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 1</p>
+        <note type="tnote" n="198"><space rend="indent1"/><hi rend="italic">and </hi><hi
+            rend="italic">the erthe</hi>. So MS. H: <hi rend="italic">and þe ayre</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 2</p>
+        <note type="tnote" n="199"><space rend="indent1"/><hi rend="italic">deippe</hi>. So MS. H:
+            <hi rend="italic">abisme</hi>.</note>
+        <note type="tnote" n="200"><space rend="indent1"/><hi rend="italic">discipils</hi>. So MS.
+          H: <hi rend="italic">of Antecristes deciples</hi>.</note>
+        <note type="tnote" n="201"><space rend="indent1"/><hi rend="italic">thre degrees</hi>. MS:
+            <hi rend="italic">þrre degrees</hi>. Scribal error. H: <hi rend="italic">þre manere
+            degrees</hi>.</note>
+        <note type="tnote" n="202"><space rend="indent1"/><hi rend="italic">heigh lif</hi>. So MS.
+          H: <hi rend="italic">new lyf and heiȝ</hi>.</note>
+        <note type="tnote" n="203"><space rend="indent1"/><hi rend="italic">harmed</hi>. So MS. H:
+            <hi rend="italic">hirt</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 3</p>
+        <note type="tnote" n="204"><space rend="indent1"/><hi rend="italic">haburiounes</hi>. So MS,
+          possibly following LV. H: <hi rend="italic">hauberkes</hi>.</note>
+        <note type="tnote" n="205"><space rend="indent1"/><hi rend="italic">in her</hi>. So H. MS:
+            <hi rend="italic">and </hi><hi rend="italic">her</hi>.</note>
+        <note type="tnote" n="206"><space rend="indent1"/><hi rend="italic">Exterminans</hi>. So MS.
+          H adds: <hi rend="italic">þat is, myssaieyng</hi> [blasphemy].</note>
+        <p style="heading4">Chapter 9, Paragraph 4</p>
+        <note type="tnote" n="207"><space rend="indent1"/><hi rend="italic">woes</hi>. So MS. H: <hi
+            rend="italic">wers</hi><hi rend="italic"> afterward</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 5</p>
+        <note type="tnote" n="208"><space rend="indent1"/><hi rend="italic">corownes</hi>. MS: <hi
+            rend="italic">corowes</hi>. Scribal error. H: <hi rend="italic">crounes</hi>.</note>
+        <note type="tnote" n="209"><space rend="indent1"/><hi rend="italic">habiriounes</hi>. So MS.
+          H: <hi rend="italic">hauberkes</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 6</p>
+        <note type="tnote" n="210"><space rend="indent1"/><hi rend="italic">sithis</hi>. So MS,
+          possibly following LV. H: <hi rend="italic">times and</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 7</p>
+        <note type="tnote" n="211"><space rend="indent1"/><hi rend="italic">haburiounes</hi>. So MS.
+          H: <hi rend="italic">hauberkes</hi>.</note>
+        <note type="tnote" n="212"><space rend="indent1"/><hi rend="italic">neddris</hi>. MS and H
+          omit the final phrase in 9:19. LV: <hi rend="italic">serpentis havynge heedis, and in hem
+            thei </hi><hi rend="italic">noien</hi> [torment].</note>
+        <p style="heading4">Chapter 9, Paragraph 8</p>
+        <note type="tnote" n="213"><space rend="indent1"/><hi rend="italic">hep</hi>. So MS. H: <hi
+            rend="italic">partye</hi>.</note>
+        <note type="tnote" n="214"><space rend="indent1"/><hi rend="italic">this world</hi>. MS: <hi
+            rend="italic">þis word</hi>. H: <hi rend="italic">þis </hi><hi rend="italic"
+          >werlde</hi>.</note>
+        <p style="heading4">Chapter 9, Paragraph 9</p>
+        <note type="tnote" n="215"><space rend="indent1"/><hi rend="italic">Texte</hi>. This is the
+          only textual passage in the <hi rend="italic">English Apocalypse</hi> that is not followed
+          by a gloss. Chapter 10 begins immediately after verses 9:20–21 in all manuscripts of the
+            <hi rend="italic">English Apocalypse</hi> (see Fridner, p. 74).</note>
+        <note type="tnote" n="216"><space rend="indent1"/><hi rend="italic">ther menslyngis ne of
+            her venym doyngis</hi><hi rend="italic"> ne of her fornicaciouns</hi>. So MS, possibly
+          following LV. H: <hi rend="italic">his unsiþes</hi> [crimes] <hi rend="italic">ne of his
+            hounters</hi> [hunting] <hi rend="italic">ne of his leccherie</hi>. <hi rend="italic"
+            >MED</hi> (<hi rend="italic">unsith</hi> [n.], sense 1) cites <hi rend="italic"
+            >unsithes</hi> as a possible “error for homicide” (<hi rend="italic">omicydes</hi>). For
+          more on <hi rend="italic">hounters</hi>, see explanatory note for 21.¶3.</note>
+        <p style="heading4">Chapter 10, Paragraph 1</p>
+        <note type="tnote" n="217"><space rend="indent1"/><hi rend="italic">roreth</hi>. So MS. H:
+            <hi rend="italic">rennes</hi> [runs].</note>
+        <note type="tnote" n="218"><space rend="indent1"/><hi rend="italic">“Marke.”</hi> So MS,
+          possibly following LV. H: <hi rend="italic">Hele</hi> [conceal].</note>
+        <p style="heading4">Chapter 10, Paragraph 2</p>
+        <note type="tnote" n="219"><space rend="indent1"/><hi rend="italic">feet</hi>. So MS. H: <hi
+            rend="italic">swerd</hi>.</note>
+        <note type="tnote" n="220"><space rend="indent1"/><hi rend="italic">comynge</hi>. So MS. H:
+            <hi rend="italic">connyng</hi> [skill, knowledge]. Likely a scribal error, since H is
+          the only manuscript with this reading.</note>
+        <note type="tnote" n="221"><space rend="indent1"/><hi rend="italic">hethen men</hi>. So MS.
+          H: <hi rend="italic">payens</hi> [pagans].</note>
+        <p style="heading4">Chapter 10, Paragraph 3</p>
+        <note type="tnote" n="222"><space rend="indent1"/><hi rend="italic">blawe</hi>. So MS. H:
+            <hi rend="italic">trumpe</hi>.</note>
+        <p style="heading4">Chapter 10, Paragraph 5</p>
+        <note type="tnote" n="223"><space rend="indent1"/><hi rend="italic">the aungelis hond</hi>.
+          MS: <hi rend="italic">þe</hi>
+          <hi rend="italicstrikethrough">hond of þe</hi>
+          <hi rend="italic">aungelis hond</hi>.</note>
+        <note type="tnote" n="224"><space rend="indent1"/><hi rend="italic">and it shal maak . . .
+            swelewed it in</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 10, Paragraph 6</p>
+        <note type="tnote" n="225"><space rend="indent1"/><hi rend="italic">liftyng</hi>. So MS. H:
+            <hi rend="italic">hevyng</hi>.</note>
+        <note type="tnote" n="226"><space rend="indent1"/><hi rend="italic">bihotith</hi>. So MS. H:
+            <hi rend="italic">bitokneþ</hi>.</note>
+        <note type="tnote" n="227"><space rend="indent1"/><hi rend="italic">Goddes word</hi>. So H.
+          MS: <hi rend="italic">God</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 1</p>
+        <note type="tnote" n="228"><space rend="indent1"/><hi rend="italic">And also . . . many
+            kyngis</hi>. MS and H mark the beginning of Chapter 11 here; modern convention assigns
+          this first verse to the end of Chapter 10.</note>
+        <p style="heading4">Chapter 11, Paragraph 2</p>
+        <note type="tnote" n="229"><space rend="indent1"/><hi rend="italic">porche</hi>. So MS. H:
+            <hi rend="italic">writyng</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 3</p>
+        <note type="tnote" n="230"><space rend="indent1"/><hi rend="italic">soget to my soule . . .
+            reprevable</hi>. So MS. H: <hi rend="italic">buxum </hi><hi rend="italic">to my soule,
+            and I ne lett nouȝth to </hi><hi rend="italic">prechen to oþere</hi>.</note>
+        <note type="tnote" n="231"><space rend="indent1"/><hi rend="italic">that is</hi>. MS: <hi
+            rend="italicstrikethrough">þat is</hi>
+          <hi rend="italic">þat </hi><hi rend="italic">is</hi>.</note>
+        <note type="tnote" n="232"><space rend="indent1"/><hi rend="italic">a yere, by a moneth a
+            yere, and by</hi>. So H. MS omits.</note>
+        <note type="tnote" n="233"><space rend="indent1"/><hi rend="italic">two tymes</hi>. So MS.
+          H: <hi rend="italic">o</hi><hi rend="italic"> tyme</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 4</p>
+        <note type="tnote" n="234"><space rend="indent1"/><hi rend="italic">gyve to my</hi>. So MS.
+          H: <hi rend="italic">nyme</hi>.</note>
+        <note type="tnote" n="235"><space rend="indent1"/><hi rend="italic">too hundrid</hi>. So MS.
+          H: <hi rend="italic">and þe</hi><hi rend="italic"> tymes</hi>.</note>
+        <note type="tnote" n="236"><space rend="indent1"/><hi rend="italic">covered</hi>. So H. MS:
+            <hi rend="italic">þe covered</hi>.</note>
+        <note type="tnote" n="237"><space rend="indent1"/><hi rend="italic">stonden</hi>. So MS. H:
+            <hi rend="italic">shinande and stondande</hi>.</note>
+        <note type="tnote" n="238"><space rend="indent1"/><hi rend="italic">shal slen</hi>. So H.
+          MS: <hi rend="italic">shallen</hi>.</note>
+        <note type="tnote" n="239"><space rend="indent1"/><hi rend="italic">Thei han power to close
+            hevene . . . wounde hou often</hi><hi rend="italic"> thei wiln</hi>. So MS. H: <hi
+            rend="italic">þat han pouste to </hi><hi rend="italic">tourne þe water into blood and
+            forto smyten þe </hi><hi rend="italic">erþe wiþ what wonder þat þai willen</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 5</p>
+        <note type="tnote" n="240"><space rend="indent1"/><hi rend="italic">that bitokeneth
+            prechours to whom</hi>. So MS. H: <hi rend="italic">unto whiche</hi>.</note>
+        <note type="tnote" n="241"><space rend="indent1"/><hi rend="italic">manas of the proude
+            mighti</hi>. So MS. H: <hi rend="italic">manace þat he manaceþ þe wicked proude</hi><hi
+            rend="italic"> þat ben miȝthful</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 8</p>
+        <note type="tnote" n="242"><space rend="indent1"/><hi rend="italic">erthe</hi><hi
+            rend="italic"> movynge</hi>. So MS. H: <hi rend="italic">stiryng of erþe</hi>.</note>
+        <note type="tnote" n="243"><space rend="indent1"/><hi rend="italic">ther ben</hi><hi
+            rend="italic"> slayn in erthe stirynge the names of men seven thousende</hi>. So MS. H:
+            <hi rend="italic">seven þousandes shullen ben sleyn of </hi><hi rend="italic"
+          >men</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 10</p>
+        <note type="tnote" n="244"><space rend="indent1"/><hi rend="italic">gosteli</hi>. So MS. H
+          omits.</note>
+        <note type="tnote" n="245"><space rend="indent1"/><hi rend="italic">an othere</hi>. So MS.
+          H: <hi rend="italic">anoye</hi> [offended].</note>
+        <note type="tnote" n="246"><space rend="indent1"/><hi rend="italic">goodis</hi>. MS: <hi
+            rend="italic">godis goodis</hi>. H: <hi rend="italic">þinges</hi>.</note>
+        <note type="tnote" n="247"><space rend="indent1"/><hi rend="italic">that turmenten hem</hi>.
+          MS: <hi rend="italic">the </hi><hi rend="italic">turmenten hem</hi>. H: <hi rend="italic"
+            >of hem þat þai tormenteden</hi>.</note>
+        <note type="tnote" n="248"><space rend="indent1"/><hi rend="italic">clerkis </hi><hi
+            rend="italic">and prelatis</hi>. MS: <hi rend="italic">clerkis as prelatis</hi>. H: <hi
+            rend="italic">prelates and clerkes</hi>.</note>
+        <p style="heading4">Chapter 11, Paragraph 12</p>
+        <note type="tnote" n="249"><space rend="indent1"/><hi rend="italic">thin halewis,
+            prophetis</hi>. So MS and H. AN: <hi rend="italic">a tes serfs prophetes &amp; a
+            seinz</hi> [to your servants the prophets and saints] (Fridner, p. 88). Vulgate: <hi
+            rend="italic">servis tuis prophetis et sanctis</hi> [your servants the prophets and
+          saints]. LV: <hi rend="italic">thi servauntis and profetis and halowis</hi>.</note>
+        <note type="tnote" n="250"><space rend="indent1"/><hi rend="italic">and other</hi>. MS: <hi
+            rend="italic">and and oþer</hi>. Scribal error.</note>
+        <p style="heading4">Chapter 11, Paragraph 13</p>
+        <note type="tnote" n="251"><space rend="indent1"/><hi rend="italic">gove to hir</hi>. So MS.
+          H: <hi rend="italic">ȝoven </hi><hi rend="italic">hir and þat nevermore ne shal be bynomen
+            hir</hi>.</note>
+        <note type="tnote" n="252"><space rend="indent1"/><hi rend="italic">thei</hi>. MS: <hi
+            rend="italic">the</hi>. Scribal error. H: <hi rend="italic">thai</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 1</p>
+        <note type="tnote" n="253"><space rend="indent1"/><hi rend="italic">whicche</hi>. So MS. H:
+            <hi rend="italic">þe hucche</hi> [ark].</note>
+        <note type="tnote" n="254"><space rend="indent1"/><hi rend="italic">voises and thundres and
+            </hi><hi rend="italic">erthe movynge</hi>. So MS, possibly following LV. H: <hi
+            rend="italic">voices stiryng</hi>.</note>
+        <note type="tnote" n="255"><space rend="indent1"/><hi rend="italic">And the temple . . . and
+            haile</hi>. MS and H mark the beginning of Chapter 12 here; the Vulgate assigns this
+          first verse to the end of Chapter 11.</note>
+        <p style="heading4">Chapter 12, Paragraph 2</p>
+        <note type="tnote" n="256"><space rend="indent1"/><hi rend="italic">aperide</hi>. So MS,
+          possibly following LV (see explanatory note). H: <hi rend="italic">shewed</hi>.</note>
+        <note type="tnote" n="257"><space rend="indent1"/><hi rend="italic">many sterris</hi>. So
+          MS. H: <hi rend="italic">XII sterres</hi>, following AN and Vulgate.</note>
+        <p style="heading4">Chapter 12, Paragraph 3</p>
+        <note type="tnote" n="258"><space rend="indent1"/><hi rend="italic">of God bitokeneth the
+            Holi Gost that aperede in</hi>. So MS. H: <hi rend="italic">bitokneþ</hi>.</note>
+        <note type="tnote" n="259"><space rend="indent1"/><hi rend="italic">whicche</hi>. So MS. H:
+            <hi rend="italic">hucche</hi>.</note>
+        <note type="tnote" n="260"><space rend="indent1"/><hi rend="italic">tribulaciouns</hi>. So
+          MS. H: <hi rend="italic">temptaciouns and þe heyl stronge tribulaciouns</hi>.</note>
+        <note type="tnote" n="261"><space rend="indent1"/><hi rend="italic">thourgh apostlis</hi>.
+          So MS. H: <hi rend="italic">þorouȝ prechyng of þ</hi><hi rend="italic">e twelve
+            apostles</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 4</p>
+        <note type="tnote" n="262"><space rend="indent1"/><hi rend="italic">and hadde</hi>. So MS.
+          H: <hi rend="italic">and cast</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 5</p>
+        <note type="tnote" n="263"><space rend="indent1"/><hi rend="italic">the </hi><hi
+            rend="italic">ten hornes the richesse . . . Ten Comaundementis</hi>. So MS. H: <hi
+            rend="italic">By </hi><hi rend="italic">þe ten hornes ben bitokned þe Ten Comaundementz
+            of </hi><hi rend="italic">God</hi>.</note>
+        <note type="tnote" n="264"><space rend="indent1"/><hi rend="italic">childer</hi>. So MS. H:
+            <hi rend="italic">childer of holy chirche</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 6</p>
+        <note type="tnote" n="265"><space rend="indent1"/><hi rend="italic">agenstonden</hi>. So MS.
+          H: <hi rend="italic">wiþstonden</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 7</p>
+        <note type="tnote" n="266"><space rend="indent1"/><hi rend="italic">soulis</hi>. So MS. H:
+            <hi rend="italic">lyf</hi>, following AN and Vulgate.</note>
+        <p style="heading4">Chapter 12, Paragraph 8</p>
+        <note type="tnote" n="267"><space rend="indent1"/><hi rend="italic">the grete dragon</hi>.
+          So MS. H: <hi rend="italic">þe fende þat is made in</hi><hi rend="italic"> hevene aȝein þe
+            dragoun</hi>.</note>
+        <note type="tnote" n="268"><space rend="indent1"/><hi rend="italic">doun to</hi>. So MS. H:
+            <hi rend="italic">aȝeins hym forto</hi>.</note>
+        <note type="tnote" n="269"><space rend="indent1"/><hi rend="italic">scharplyer</hi>. So MS.
+          H: <hi rend="italic">egrelicher</hi> [more sharply].</note>
+        <note type="tnote" n="270"><space rend="indent1"/><hi rend="italic">meknesse</hi>. So MS. H:
+            <hi rend="italic">lowenesse and þolemodenesse</hi> [patience in adversity].</note>
+        <note type="tnote" n="271"><space rend="indent1"/><hi rend="italic">to kepen</hi>. So MS. H:
+            <hi rend="italic">forto witen</hi>.</note>
+        <p style="heading4">Chapter 12, Paragraph 9</p>
+        <note type="tnote" n="272"><space rend="indent1"/><hi rend="italic">he pursued</hi>. So MS.
+          H: <hi rend="italic">þorouȝ</hi>.</note>
+        <note type="tnote" n="273"><space rend="indent1"/><hi rend="italic">bi a tyme</hi>. So MS.
+          H: <hi rend="italic">by oo</hi><hi rend="italic"> tyme and two tymes and half a tyme</hi>,
+          following AN and Vulgate.</note>
+        <note type="tnote" n="274"><space rend="indent1"/><hi rend="italic">And out of his mouthe .
+            . . bytraped of the</hi><hi rend="italic"> flode</hi>. So MS. H: <hi rend="italic">Þhan
+            þe serpent sent out</hi><hi rend="italic"> at his mouþe a watere as it were a</hi><hi
+            rend="italic"> flood forto bitrayen hir þorouȝ</hi>.</note>
+        <note type="tnote" n="275"><space rend="indent1"/><hi rend="italic">and stode hymself . . .
+            the</hi><hi rend="italic"> see</hi>. MS and H place this sentence at the end of Chapter
+          12, following the Vulgate; the Authorized Version and most modern versions of the Bible
+          assign it to the first half of 13:1.</note>
+        <p style="heading4">Chapter 12, Paragraph 10</p>
+        <note type="tnote" n="276"><space rend="indent1"/><hi rend="italic">faught</hi>. So MS. H:
+            <hi rend="italic">werred</hi>.</note>
+        <note type="tnote" n="277"><space rend="indent1"/><hi rend="italic">whiche</hi>. So H. MS:
+            <hi rend="italic">whice</hi>.</note>
+        <note type="tnote" n="278"><space rend="indent1"/><hi rend="italic">techyng</hi><hi
+            rend="italic"> holi chirche doith</hi>. So MS. H: <hi rend="italic">þai don</hi>.</note>
+        <note type="tnote" n="279"><space rend="indent1"/><hi rend="italic">cast</hi><hi
+            rend="italic"> out at his mouthe after the woman resceyvede</hi>. So MS. H: <hi
+            rend="italic">Þe water þat þe serpent sent out </hi><hi rend="italic">at þe mouþe after
+            þe womman bitokeneþ þ</hi><hi rend="italic">e tribulaciouns þat þe womman
+          resceyveþ</hi>.</note>
+        <note type="tnote" n="280"><space rend="indent1"/><hi rend="italic">holinesse</hi>. So MS.
+          H: <hi rend="italic">lowenesse</hi>.</note>
+        <note type="tnote" n="281"><space rend="indent1"/><hi rend="italic">that he may not
+            distroien hir bi tribulacioun</hi>. So MS. H omits.</note>
+        <note type="tnote" n="282"><space rend="indent1"/><hi rend="italic">given to kepe to
+            hem</hi>. So MS. H: <hi rend="italic">ne given no kep unto hem</hi>.</note>
+        <note type="tnote" n="283"><space rend="indent1"/><hi rend="italic">agenstonden</hi>. So MS.
+          H: <hi rend="italic">wiþstonden</hi>.</note>
+        <p style="heading4">Chapter 13, Paragraph 1</p>
+        <note type="tnote" n="284"><space rend="indent1"/><hi rend="italic">on </hi><hi
+            rend="italic">his hedis names of blasfemye</hi>. So MS, possibly following LV. H: <hi
+            rend="italic">many blastynges</hi> [curses].</note>
+        <p style="heading4">Chapter 13, Paragraph 2</p>
+        <note type="tnote" n="285"><space rend="indent1"/><hi rend="italic">of the</hi>. MS: <hi
+            rend="italicstrikethrough">of þe</hi>
+          <hi rend="italic">of þe</hi>.</note>
+        <note type="tnote" n="286"><space rend="indent1"/><hi rend="italic">ravenours</hi>. So MS.
+          H: <hi rend="italic">ravisshshoures</hi>.</note>
+        <note type="tnote" n="287"><space rend="indent1"/><hi rend="italic">myghti</hi>. So MS. H:
+            <hi rend="italic">niþeful</hi> [envious; spiteful].</note>
+        <note type="tnote" n="288"><space rend="indent1"/><hi rend="italic">power bitokeneth</hi>.
+          MS: <hi rend="italic">power bitokeneþ bitokeneþ</hi>.</note>
+        <note type="tnote" n="289"><space rend="indent1"/><hi rend="italic">noyen</hi>. So MS. H:
+            <hi rend="italic">deren</hi> [hurt].</note>
+        <p style="heading4">Chapter 13, Paragraph 3</p>
+        <note type="tnote" n="290"><space rend="indent1"/><hi rend="italic">slayn, and</hi><hi
+            rend="italic"> the heede deede was helid</hi>. So MS. H: <hi rend="italic">sleyn
+            oi</hi><hi rend="italic">þer ded, and þe wounde of þe dede was</hi><hi rend="italic">
+            heled</hi>.</note>
+        <note type="tnote" n="291"><space rend="indent1"/><hi rend="italic">and seiden, “Who is liyk
+            to the best?”</hi> So MS. H omits.</note>
+        <p style="heading4">Chapter 13, Paragraph 4</p>
+        <note type="tnote" n="292"><space rend="indent1"/><hi rend="italic">doon</hi>. MS: <hi
+            rend="italicstrikethrough">do</hi><hi rend="italic"> doon</hi>.</note>
+        <note type="tnote" n="293"><space rend="indent1"/><hi rend="italic">loude and</hi><hi
+            rend="italic"> to gyve . . . and his tabernacle</hi>. So MS. H: <hi rend="italic">aloude
+            and</hi><hi rend="italic"> to ȝiven blastyng aȝeins God and to blastengen </hi><hi
+            rend="italic">his name and his thabernacle</hi>.</note>
+        <p style="heading4">Chapter 13, Paragraph 5</p>
+        <note type="tnote" n="294"><space rend="indent1"/><hi rend="italic">caitifté</hi>. So MS. H:
+            <hi rend="italic">chastité</hi>.</note>
+        <note type="tnote" n="295"><space rend="indent1"/><hi rend="italic">swerd</hi>. MS and H
+          omit the second half of verse 10. LV: <hi rend="italic">This is the pacience and the feith
+            of</hi><hi rend="italic"> seyntis</hi>.</note>
+        <p style="heading4">Chapter 13, Paragraph 6</p>
+        <note type="tnote" n="296"><space rend="indent1"/><hi rend="italic">Job . . . of the
+            unpitous</hi>. So MS. H: <hi rend="italic">Jobes book, “And in þat þe</hi><hi
+            rend="italic"> erþe is ȝoven into wickednesse.”</hi></note>
+        <note type="tnote" n="297"><space rend="indent1"/><hi rend="italic">obedient</hi>. So MS. H:
+            <hi rend="italic">buxum</hi> [obedient].</note>
+        <note type="tnote" n="298"><space rend="indent1"/><hi rend="italic">schullen</hi>. MS: <hi
+            rend="italic">scullen</hi>.</note>
+        <p style="heading4">Chapter 13, Paragraph 7</p>
+        <note type="tnote" n="299"><space rend="indent1"/><hi rend="italic">or his name or the
+            noumbre of his name</hi>. So MS, possibly following LV. H: <hi rend="italic">oiþer of
+            his name</hi>.</note>
+        <p style="heading4">Chapter 13, Paragraph 8</p>
+        <note type="tnote" n="300"><space rend="indent1"/><hi rend="italic">vic, lx, and vi</hi>. So
+          MS. H: <hi rend="italic">sex hundreþ and sexty and sex</hi>.</note>
+        <p style="heading4">Chapter 13, paragraph 9</p>
+        <note type="tnote" n="301"><space rend="indent1"/><hi rend="italic">given hem</hi>. So MS.
+          H: <hi rend="italic">stiȝen </hi><hi rend="italic">up</hi>.</note>
+        <note type="tnote" n="302"><space rend="indent1"/><hi rend="italic">profetis</hi>. So MS. H:
+            <hi rend="italic">prelates</hi>.</note>
+        <note type="tnote" n="303"><space rend="indent1"/><hi rend="italic">and now</hi>. So MS. H:
+            <hi rend="italic">and none</hi>.</note>
+        <note type="tnote" n="304"><space rend="indent1"/><hi rend="italic">his mark in her hond . .
+            . marke in</hi><hi rend="italic"> the forhede</hi>. So MS. H: <hi rend="italic">þe merk
+            in þe</hi><hi rend="italic"> hond privelich and afterward in þe forhede
+          openlich</hi>.</note>
+        <note type="tnote" n="305"><space rend="indent1"/><hi rend="italic">no </hi><hi
+            rend="italic">mann speken</hi>. So MS. H: <hi rend="italic">no man durre</hi> [dare] <hi
+            rend="italic">speke</hi>.</note>
+        <note type="tnote" n="306"><space rend="indent1"/><hi rend="italic">in holi chirche</hi>. So
+          MS. H omits. (See explanatory note, <hi rend="italic">noon schal han power</hi>.)</note>
+        <note type="tnote" n="307"><space rend="indent1"/><hi rend="italic">perdicioun . . . leden
+            hem to perdicioun</hi>. So MS. H: <hi rend="italic">lernesse</hi> [emptiness; fig.
+          perdition] <hi rend="italic">whan he shal </hi><hi rend="italic">come forto desceyven þe
+            folk and leden hem to lernesse</hi>.</note>
+        <note type="tnote" n="308"><space rend="indent1"/><hi rend="italic">is it lux.</hi> So MS.
+          H: <hi rend="italic">mowen men seien </hi><hi rend="italic">þat þe noumbre of his name is
+            “dic lux.”</hi></note>
+        <p style="heading4">Chapter 14, Paragraph 1</p>
+        <note type="tnote" n="309"><space rend="indent1"/><hi rend="italic">gret</hi>. So MS. H: <hi
+            rend="italic">olde</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 2</p>
+        <note type="tnote" n="310"><space rend="indent1"/><hi rend="italic">delit</hi>. MS: <hi
+            rend="italic">dilit</hi>. Apparent scribal error. H: <hi rend="italic"
+          >delyt</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 3</p>
+        <note type="tnote" n="311"><space rend="indent1"/><hi rend="italic">in the </hi><hi
+            rend="italic">middil of</hi>. So MS, possibly following LV. H: <hi rend="italic"
+            >amydward þe</hi>.</note>
+        <note type="tnote" n="312"><space rend="indent1"/><hi rend="italic">and linage and langage
+            and puple</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 14, Paragraph 4</p>
+        <note type="tnote" n="313"><space rend="indent1"/><hi rend="italic">place to place</hi>. So
+          MS. H: <hi rend="italic">stede to stede</hi>.</note>
+        <note type="tnote" n="314"><space rend="indent1"/><hi rend="italic">gud lyf</hi>. So MS. H
+          adds: <hi rend="italic">and done wel</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 5</p>
+        <note type="tnote" n="315"><space rend="indent1"/><hi rend="italic">welle</hi>. So MS. H:
+            <hi rend="italic">wyne</hi>, following AN and Vulgate.</note>
+        <note type="tnote" n="316"><space rend="indent1"/><hi rend="italic">of his leccherie</hi>.
+          So MS. H: <hi rend="italic">Of his leccherie dronken alle men</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 6</p>
+        <note type="tnote" n="317"><space rend="indent1"/><hi rend="italic">wyn of Goddis wraththe .
+            . . the cuppe</hi>. So MS. H: <hi rend="italic">wyn and of þe water of God þ</hi><hi
+            rend="italic">at is menged </hi>[mixed] <hi rend="italic">wiþ þe bitternesse of
+            þ</hi><hi rend="italic">e chalice</hi>.</note>
+        <note type="tnote" n="318"><space rend="indent1"/><hi rend="italic">holi chirche</hi>. So
+          MS. H: <hi rend="italic">þe holy</hi>, following AN <hi rend="italic">seinz</hi> (Fridner,
+          p. 113) and Vulgate <hi rend="italic">sanctorum</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 8</p>
+        <note type="tnote" n="319"><space rend="indent1"/><hi rend="italic">travels, for the werkes
+            of hem suen</hi><hi rend="italic"> hem</hi>. So MS. H: <hi rend="italic">werkes, forwhi
+            her werkes shullen folowen</hi><hi rend="italic"> hem</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 9</p>
+        <note type="tnote" n="320"><space rend="indent1"/><hi rend="italic">here</hi>. So H. MS: <hi
+            rend="italic">heþen</hi>. Apparent scribal error.</note>
+        <p style="heading4">Chapter 14, Paragraph 10</p>
+        <note type="tnote" n="321"><space rend="indent1"/><hi rend="italic">the maidenes sone
+            Marie</hi>. So MS and H, following AN <hi rend="italic">come le Fiulz de la virge</hi>
+          [like the Son of the virgin] (Fridner, p. 116). Vulgate: <hi rend="italic">similem Filio
+            hominis</hi> [like the Son of Man]. LV: <hi rend="italic">lyk the sone of
+          man</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 11</p>
+        <note type="tnote" n="322"><space rend="indent1"/><hi rend="italic">kunnyng of God . . .
+            that is</hi><hi rend="italic"> kervynge</hi>. So MS. H: <hi rend="italic">juggement þat
+            is comande</hi>. H drops a line here between two repetitions of the word <hi
+            rend="italic">bitokened</hi> which MS preserves, demonstrating that both are working
+          from an earlier copy text.</note>
+        <note type="tnote" n="323"><space rend="indent1"/><hi rend="italic">That thai</hi>. So H.
+          MS: <hi rend="italic">Þat</hi>.</note>
+        <note type="tnote" n="324"><space rend="indent1"/><hi rend="italic">bitokeneth that thei
+            desiren</hi>. So H. MS: <hi rend="italic">bitokeneþ þat þat</hi><hi rend="italic"> þei
+            desiren</hi>.</note>
+        <note type="tnote" n="325"><space rend="indent1"/><hi rend="italic">the corun</hi>. The word
+            <hi rend="italic">þe</hi> is an addition in the left margin of MS whose intended
+          placement in the line is unmarked. This is the only position in the line (<hi
+            rend="italic">yvele and . . . berne that is</hi>) which makes sense in context, though
+          it may instead be a scribal error repeating <hi rend="italic">the</hi> from the previous
+          line (<hi rend="italic">the yvele</hi>). H: <hi rend="italic">his corne</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 12</p>
+        <note type="tnote" n="326"><space rend="indent1"/><hi rend="italic">fier and water</hi>. So
+          MS and H, following AN. The Vulgate mentions only <hi rend="italic">ignem</hi> [fire].
+          Interestingly, the LV also disagrees with the Vulgate and lists <hi rend="italic">fyr and
+            water</hi>, a rare instance of possible influence from the <hi rend="italic">English
+            Apocalypse</hi>, in either its Anglo-Norman or Middle English form, on the Wycliffite
+          translators. See also textual note for 19.¶9, <hi rend="italic">Goddis Sone</hi>,
+          below.</note>
+        <note type="tnote" n="327"><space rend="indent1"/><hi rend="italic">“Kit </hi><hi
+            rend="italic">up . . .”</hi> So MS. H: <hi rend="italic">and seide, “Kerve of</hi> [off]
+            <hi rend="italic">. . .”</hi></note>
+        <note type="tnote" n="328"><space rend="indent1"/><hi rend="italic">karf up</hi>. So MS. H:
+            <hi rend="italic">carf of</hi>.</note>
+        <note type="tnote" n="329"><space rend="indent1"/><hi rend="italic">horsis</hi>. MS and H
+          omit the last phrase in verse 14:20, following AN. LV follows the Vulgate: <hi
+            rend="italic">bi furlongis a thusand and </hi><hi rend="italic">sixe hundrid</hi>. See
+          explanatory note for 14.¶13, <hi rend="italic">the thousynde </hi><hi rend="italic"
+            >pas</hi>.</note>
+        <p style="heading4">Chapter 14, Paragraph 13</p>
+        <note type="tnote" n="330"><space rend="indent1"/><hi rend="italic">seyntis . . .
+            seyntis</hi>. So MS. H: <hi rend="italic">halewen . . . halewen</hi>.</note>
+        <note type="tnote" n="331"><space rend="indent1"/><hi rend="italic">puple</hi>. So MS. H:
+            <hi rend="italic">folk</hi>.</note>
+        <note type="tnote" n="332"><space rend="indent1"/><hi rend="italic">han taken </hi><hi
+            rend="italic">high digneté</hi>. So MS. H: <hi rend="italic">ben connande</hi>
+          [wise].</note>
+        <note type="tnote" n="333"><space rend="indent1"/><hi rend="italic">stie</hi>. So MS. H: <hi
+            rend="italic">mounten</hi>.</note>
+        <note type="tnote" n="334"><space rend="indent1"/><hi rend="italic">pas and sixe
+            hundrid</hi>. So MS. H: <hi rend="italic">part and seven hundreþ</hi>, an apparent
+          error. See explanatory note.</note>
+        <p style="heading4">Chapter 15, Paragraph 4</p>
+        <note type="tnote" n="335"><space rend="indent1"/><hi rend="italic">open hem</hi>. So MS. H:
+            <hi rend="italic">open</hi>.</note>
+        <note type="tnote" n="336"><space rend="indent1"/><hi rend="italic">which</hi>. So MS.
+          Marginal insertion.</note>
+        <p style="heading4">Chapter 16, Paragraph 3</p>
+        <note type="tnote" n="337"><space rend="indent1"/><hi rend="italic">“Lord, rightful thou art
+            . . .”</hi> So MS and H, following AN: Vulgate adds: <hi rend="italic">qui es et qui
+            eras sanctus</hi> [who is and who was holy]. LV: <hi rend="italic">that art </hi><hi
+            rend="italic">and were holi</hi>.</note>
+        <note type="tnote" n="338"><space rend="indent1"/><hi rend="italic">these juges and
+            jugid</hi>. MS: <hi rend="italic">þese </hi><hi rend="italic">juges jugid</hi>. H: <hi
+            rend="italic">þis juggement</hi>.</note>
+        <note type="tnote" n="339"><space rend="indent1"/><hi rend="italic">And</hi>. So H. MS: <hi
+            rend="italic">An</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 4</p>
+        <note type="tnote" n="340"><space rend="indent1"/><hi rend="italic">temptaciouns</hi>. So
+          MS. H: <hi rend="italic">dampnacioun</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 5</p>
+        <note type="tnote" n="341"><space rend="indent1"/><hi rend="italic">blasfemeden</hi>. So MS.
+          H: <hi rend="italic">blastengen</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 6</p>
+        <note type="tnote" n="342"><space rend="indent1"/><hi rend="italic">blasfemeden</hi>. So MS.
+          H: <hi rend="italic">blastengen</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 8</p>
+        <note type="tnote" n="343"><space rend="indent1"/><hi rend="italic">sete</hi>. So H. MS: <hi
+            rend="italic">citee</hi>.</note>
+        <note type="tnote" n="344"><space rend="indent1"/><hi rend="italic">and therfore</hi><hi
+            rend="italic"> thei blasfemen</hi>. So MS. H: <hi rend="italic">for her holynesse and
+            for</hi><hi rend="italic">þi þai blastenged</hi>.</note>
+        <note type="tnote" n="345"><space rend="indent1"/><hi rend="italic">the est</hi>. So MS. H
+          adds: <hi rend="italic">God sende us grace þat we mowen comen to þ</hi><hi rend="italic"
+            >at waie ȝif it be his wille. Amen</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 9</p>
+        <note type="tnote" n="346"><space rend="indent1"/><hi rend="italic">And</hi>. MS begins this
+          section of biblical text with a rubricated letter <hi rend="italic">A</hi>, a style
+          normally reserved for chapter beginnings, and erroneously marks it as the start of Chapter
+          17 with the note <hi rend="italic">C. xvii tixte</hi>. It marks the true start of Chapter
+          17 in an identical way two pages later (fol. 226r).</note>
+        <note type="tnote" n="347"><space rend="indent1"/><hi rend="italic">foule spiritis</hi>. So
+          MS and H. AN: <hi rend="italic">trois espiriz orz</hi> [three foul spirits] (Fridner, p.
+          130). Vulgate: <hi rend="italic">spiritus tres immundos</hi> [three unclean spirits]. LV:
+            <hi rend="italic">thre unclene spiritis</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 11</p>
+        <note type="tnote" n="348"><space rend="indent1"/><hi rend="italic">prechinge of</hi><hi
+            rend="italic"> false eretikes</hi>. So MS. H: <hi rend="italic">techyng of þe prechyng
+            </hi><hi rend="italic">of þe eretikes</hi>.</note>
+        <note type="tnote" n="349"><space rend="indent1"/><hi rend="italic">wondres</hi>. So MS. H:
+            <hi rend="italic">wondres and </hi><hi rend="italic">miracles</hi>.</note>
+        <note type="tnote" n="350"><space rend="indent1"/><hi rend="italic">be clepid not</hi>. So
+          MS. H: <hi rend="italic">ne slepe nouȝ</hi><hi rend="italic">th</hi>. H translates AN <hi
+            rend="italic">que nos ne saum endormi</hi> [that we are not asleep]. MS appears to be a
+          mistranslation, but the reading is attested in another early manuscript, British Library
+          MS Harley 3913.</note>
+        <note type="tnote" n="351"><space rend="indent1"/><hi rend="italic">“risynge
+            temptatiouns.”</hi> So MS. H: <hi rend="italic">risyng to temptacioun</hi>. A large
+          blank space between these two words in the MS may indicate that the scribe intended to
+          insert <hi rend="italic">to</hi>.</note>
+        <p style="heading4">Chapter 16, Paragraph 12</p>
+        <note type="tnote" n="352"><space rend="indent1"/><hi rend="italic">“It</hi><hi
+            rend="italic"> is doun.”</hi> So MS. H: <hi rend="italic">“Made is.”</hi></note>
+        <note type="tnote" n="353"><space rend="indent1"/><hi rend="italic">eche </hi><hi
+            rend="italic">yle</hi>. So MS. H: <hi rend="italic">þe hilles</hi>.</note>
+        <note type="tnote" n="354"><space rend="indent1"/><hi rend="italic">blasfemeden Gode for
+            the</hi><hi rend="italic"> plage of the hayl</hi>. So MS. H: <hi rend="italic"
+            >blastengen God for</hi><hi rend="italic"> his hevynesse</hi> [severity].</note>
+        <p style="heading4">Chapter 16, Paragraph 13</p>
+        <note type="tnote" n="355"><space rend="indent1"/><hi rend="italic">false</hi>. So MS. H:
+            <hi rend="italic">þe wicked</hi>.</note>
+        <note type="tnote" n="356"><space rend="indent1"/><hi rend="italic">iles fledden</hi>. So
+          MS. H: <hi rend="italic">hilles</hi><hi rend="italic"> shullen fleen</hi>.</note>
+        <note type="tnote" n="357"><space rend="indent1"/><hi rend="italic">men schulen</hi>. MS:
+            <hi rend="italic">men sculen</hi>.</note>
+        <note type="tnote" n="358"><space rend="indent1"/><hi rend="italic">blasfemen</hi>. So MS.
+          H: <hi rend="italic">blastengen</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 1</p>
+        <note type="tnote" n="359"><space rend="indent1"/><hi rend="italic">bordelrye</hi>. MS and H
+          follow AN <hi rend="italic">bordelere</hi> [bordello, brothel], which mistranslates the
+          Vulgate <hi rend="italic">meretricis</hi> [prostitute]. LV: <hi rend="italic">hoore</hi>
+          [whore].</note>
+        <note type="tnote" n="360"><space rend="indent1"/><hi rend="italic">here leccherie</hi>. So
+          MS. H follows AN in adding: <hi rend="italic">and þai þat </hi><hi rend="italic">wonen in
+            erþe þat ben dronken of þe </hi><hi rend="italic">wyne of his botrye</hi> [buttery, wine
+          cellar], but <hi rend="italic">botrye</hi> is a mistranslation of AN <hi rend="italic"
+            >bordelerie</hi> [brothel] (Fridner, p. 137). Fridner suggests that H mistook the word
+          for <hi rend="italic">botelrie</hi> [bottle shop], perhaps led by the suggestion of <hi
+            rend="italic">wyne</hi> (Fridner, p. 236n). LV: <hi rend="italic">and thei that duellen
+            in the erthe ben </hi><hi rend="italic">made drunken of the wyn of hir
+          leyccherie</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 2</p>
+        <note type="tnote" n="361"><space rend="indent1"/><hi rend="italic">blasfemye</hi>. So MS.
+          H: <hi rend="italic">blessynges</hi>. An apparent error for <hi rend="italic"
+            >blastynges</hi>.</note>
+        <note type="tnote" n="362"><space rend="indent1"/><hi rend="italic">with gold</hi>. MS and
+          H, following AN, omit the phrase that follows in the Vulgate: <hi rend="italic">et
+            coccino</hi> [and scarlet]. LV: <hi rend="italic">and reed</hi> [red].</note>
+        <note type="tnote" n="363"><space rend="indent1"/><hi rend="italic">hir, Mysterie </hi><hi
+            rend="italic">Babilon, the gret moder of fornicaciouns</hi>. So MS, possibly following
+          LV. H: <hi rend="italic">þe prince of Babiloyne, þe grete see </hi><hi rend="italic">of þe
+            see of leccherie</hi>. The mistranslation <hi rend="italic">prince</hi> may be a
+          misreading of <hi rend="italic">privité</hi>, which appears in most other <hi
+            rend="italic">English</hi><hi rend="italic"> Apocalypse</hi> manuscripts (Fridner, p.
+          139) — Plimpton is the only manuscript to use <hi rend="italic">Mysterie</hi>, which
+          parallels the LV. H’s <hi rend="italic">see</hi> [sea] is likely a misreading of the AN
+            <hi rend="italic">mere</hi> [mother] as <hi rend="italic">mer</hi> [sea].</note>
+        <p style="heading4">Chapter 17, Paragraph 3</p>
+        <note type="tnote" n="364"><space rend="indent1"/><hi rend="italic">The</hi><hi
+            rend="italic"> grette see . . . schewide to Seynt Jon</hi>. So MS. H: <hi rend="italic"
+            >Þ</hi><hi rend="italic">at þe aungel shewed to Seint Johan þhe dampnacioun of</hi><hi
+            rend="italic"> þe grete bordelrie</hi>.</note>
+        <note type="tnote" n="365"><space rend="indent1"/><hi rend="italic">profetis</hi>. So MS. H:
+            <hi rend="italic">religioun</hi>.</note>
+        <note type="tnote" n="366"><space rend="indent1"/><hi rend="italic">bordelrie</hi>. So MS.
+          H: <hi rend="italic">botrye</hi>. (See textual note for 17.¶1, above.)</note>
+        <note type="tnote" n="367"><space rend="indent1"/><hi rend="italic">after her likyng. That
+            the name of priveté</hi>. So MS. H: <hi rend="italic">and turnen after her lyvyng. Þat
+            þe</hi><hi rend="italic"> name of þe prince</hi>.</note>
+        <note type="tnote" n="368"><space rend="indent1"/><hi rend="italic">That he seith</hi>. MS:
+            <hi rend="italic">That </hi><hi rend="italic">that he seith</hi>.</note>
+        <note type="tnote" n="369"><space rend="indent1"/><hi rend="italic">modir of
+            fornicaciouns</hi>. So MS. H: <hi rend="italic">see </hi><hi rend="italic">of leccherie
+            and of abhominacioun</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 4</p>
+        <note type="tnote" n="370"><space rend="indent1"/><hi rend="italic">And</hi>. MS begins this
+          section of biblical text with a rubricated letter <hi rend="italic">A</hi>, a style
+          normally reserved for chapter beginnings.</note>
+        <p style="heading4">Chapter 17, Paragraph 5</p>
+        <note type="tnote" n="371"><space rend="indent1"/><hi rend="italic">and schal go out up of
+            </hi><hi rend="italic">the deppe</hi>. So MS. H omits.</note>
+        <note type="tnote" n="372"><space rend="indent1"/><hi rend="italic">world</hi>. MS and H
+          omit the final phrase in verse 17:8. LV: <hi rend="italic">seynge the </hi><hi
+            rend="italic">beest that was and is not</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 6</p>
+        <note type="tnote" n="373"><space rend="indent1"/><hi rend="italic">sevene</hi>. MS and H
+          omit the final phrase in verse 17:11. LV: <hi rend="italic">and shal go into
+            periysshing</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 7</p>
+        <note type="tnote" n="374"><space rend="indent1"/><hi rend="italic">power as kyng is oon
+            our</hi>. So MS. H: <hi rend="italic">her kyngdomes, ac kyng is a lite</hi> [little] <hi
+            rend="italic">houre</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 8</p>
+        <note type="tnote" n="375"><space rend="indent1"/><hi rend="italic">that thou hast seien
+            wher </hi><hi rend="italic">the bordelrie . . . hornes that thou seie in the
+          beeste</hi>. So MS. H: <hi rend="italic">þat þou seiȝ oure best</hi>.</note>
+        <note type="tnote" n="376"><space rend="indent1"/><hi rend="italic">her wille</hi>. So H and
+          MS. AN: <hi rend="italic">que lur plest</hi> [what they pleased]. Vulgate: <hi
+            rend="italic">quod placitum est illi</hi> [what was pleasing to them]. LV: <hi
+            rend="italic">that that is pleesaunt to him</hi>.</note>
+        <note type="tnote" n="377"><space rend="indent1"/><hi rend="italic">gyve</hi>. So MS. H: <hi
+            rend="italic">divisen</hi>.</note>
+        <note type="tnote" n="378"><space rend="indent1"/><hi rend="italic">kyngis of erthe</hi>. So
+          MS. H: <hi rend="italic">erþe</hi>.</note>
+        <p style="heading4">Chapter 17, Paragraph 9</p>
+        <note type="tnote" n="379"><space rend="indent1"/><hi rend="italic">bi understondyng</hi>.
+          So MS. H: <hi rend="italic">blynde</hi>.</note>
+        <note type="tnote" n="380"><space rend="indent1"/><hi rend="italic">mountis</hi>. So MS. H:
+            <hi rend="italic">names</hi>.</note>
+        <note type="tnote" n="381"><space rend="indent1"/><hi rend="italic">and Anticrist</hi>. So
+          MS. H omits.</note>
+        <note type="tnote" n="382"><space rend="indent1"/><hi rend="italic">of folk</hi>. So H. MS:
+            <hi rend="italic">of</hi><hi rend="italic"> flok</hi>.</note>
+        <note type="tnote" n="383"><space rend="indent1"/><hi rend="italic">that summe</hi>. So MS.
+          H: <hi rend="italic">þat God suffreþ</hi><hi rend="italic"> that summe</hi>.</note>
+        <note type="tnote" n="384"><space rend="indent1"/><hi rend="italic">kyngis . . .
+          kyngis</hi>. So MS. H: <hi rend="italic">þinges . . . þinges</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 1</p>
+        <note type="tnote" n="385"><space rend="indent1"/><hi rend="italic">leccherie</hi>. So MS.
+          H: <hi rend="italic">his </hi><hi rend="italic">leccherie</hi>.</note>
+        <note type="tnote" n="386"><space rend="indent1"/><hi rend="italic">the marchaundis of erthe
+            been</hi>. MS and H omit part of verse 18:3. LV: <hi rend="italic">and kingis of the
+            erthe </hi><hi rend="italic">and marchandis of the erthe diden fornicacion with hir, and
+            </hi><hi rend="italic">thei ben</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 2</p>
+        <note type="tnote" n="387"><space rend="indent1"/><hi rend="italic">fleischli wisdam that
+            is</hi><hi rend="italic"> for wynnynge, and that is coveitise</hi>. So MS. H: <hi
+            rend="italic">fleshlich</hi><hi rend="italic"> delyt. Wisdom is bitokned coveitise
+            by</hi>.</note>
+        <note type="tnote" n="388"><space rend="indent1"/><hi rend="italic">ambicioun, and that
+            bitokeneth</hi>. So MS. H: <hi rend="italic">is bitokned</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 3</p>
+        <note type="tnote" n="389"><space rend="indent1"/><hi rend="italic">hath recordid</hi>. So
+          MS. H: <hi rend="italic">bereþ witnesse</hi>.</note>
+        <note type="tnote" n="390"><space rend="indent1"/><hi rend="italic">Yeldith to hir</hi><hi
+            rend="italic"> as sche yeld to hem</hi>. So MS. H: <hi rend="italic">Ȝelde </hi><hi
+            rend="italic">hem as þai ȝelden to þee</hi>. Throughout this passage, H uses both
+          singular and plural pronouns for Babylon. See explanatory note for 14.¶5, <hi
+            rend="italic">his leccherie</hi>.</note>
+        <note type="tnote" n="391"><space rend="indent1"/><hi rend="italic">double hir </hi><hi
+            rend="italic">double</hi>. So MS. H: <hi rend="italic">dubble</hi>.</note>
+        <note type="tnote" n="392"><space rend="indent1"/><hi rend="italic">sche medlede</hi>. So
+          MS. H: <hi rend="italic">hy mengen</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 4</p>
+        <note type="tnote" n="393"><space rend="indent1"/><hi rend="italic">fornicacioun</hi>. So
+          MS. H adds: <hi rend="italic">þat is leccherie</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 5</p>
+        <note type="tnote" n="394"><space rend="indent1"/><hi rend="italic">techith us</hi>. So MS.
+          H: <hi rend="italic">precheþ</hi>.</note>
+        <note type="tnote" n="395"><space rend="indent1"/><hi rend="italic">“I am not</hi><hi
+            rend="italic"> widowe”</hi>. So MS. H: <hi rend="italic">he can nouȝth seen</hi>.</note>
+        <note type="tnote" n="396"><space rend="indent1"/><hi rend="italic">the wepynge</hi>. So MS.
+          H: <hi rend="italic">þe ded</hi>.</note>
+        <note type="tnote" n="397"><space rend="indent1"/><hi rend="italic">hungir</hi>. So MS. H:
+            <hi rend="italic">hundreþ</hi>.</note>
+        <note type="tnote" n="398"><space rend="indent1"/><hi rend="italic">withouten ende</hi>. So
+          H. MS: <hi rend="italic">wiþ ende</hi>.</note>
+        <note type="tnote" n="399"><space rend="indent1"/><hi rend="italic">and that</hi>. So H. MS:
+            <hi rend="italic">þat</hi>.</note>
+        <note type="tnote" n="400"><space rend="indent1"/><hi rend="italic">orrour</hi>. So MS. H:
+            <hi rend="italic">errour</hi>.</note>
+        <note type="tnote" n="401"><space rend="indent1"/><hi rend="italic">leesen</hi>. So MS. H:
+            <hi rend="italic">maken of her hei</hi><hi rend="italic">ȝe kynde þat þai shullen
+            lesen</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 6</p>
+        <note type="tnote" n="402"><space rend="indent1"/><hi rend="italic">purpre</hi>. MS and H
+          omit the second half of verse 18:12 and verses 13–14, and these also do not appear in most
+          AN manuscripts (Fridner, p. 240n). LV: <hi rend="italic">[12] “. . . and of silk and
+            coccyn</hi> [scarlet cloth] <hi rend="italic">and</hi><hi rend="italic"> eche tre
+            tyme</hi> [cypress] <hi rend="italic">and alle vessels of yver</hi> [ivory] <hi
+            rend="italic">and alle vessels of precious stoon and of</hi><hi rend="italic"> bras and
+            of iren and of marbil [13] and canel</hi> [cinnamon] <hi rend="italic">and amonye</hi>
+          [aromatic plants] <hi rend="italic">and of swete</hi><hi rend="italic"> smellinge thingis
+            and oynementis and encense and of wyn and</hi><hi rend="italic"> of oile and of flour
+            and of wheete and of</hi><hi rend="italic"> werk beestis and of sheep and of horsis and
+            of</hi><hi rend="italic"> cartis and of servauntis and other lifes of men. [14</hi><hi
+            rend="italic">] And thine applis of the desir of thi lyf wenten</hi><hi rend="italic">
+            awei fro thee, and alle fatte thingis and ful clere</hi><hi rend="italic"> periysshiden
+            fro thee.”</hi></note>
+        <p style="heading4">Chapter 18, Paragraph 7</p>
+        <note type="tnote" n="403"><space rend="indent1"/><hi rend="italic">and jemmes</hi>. So MS.
+          H: <hi rend="italic">and preciouse stones and of gemmes</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 8</p>
+        <note type="tnote" n="404"><space rend="indent1"/><hi rend="italic">ech governoure and alle
+            . . . maryneres and </hi><hi rend="italic">thei that werken</hi>. So MS. H: <hi
+            rend="italic">in hym þat governed</hi><hi rend="italic"> hem þat weldeþ hem alle and þai
+            þat</hi><hi rend="italic"> wrouȝtten</hi>.</note>
+        <note type="tnote" n="405"><space rend="indent1"/><hi rend="italic">and seiden</hi>. So H.
+          MS omits.</note>
+        <note type="tnote" n="406"><space rend="indent1"/><hi rend="italic">“Suche</hi><hi
+            rend="italic"> a citee was nevere.”</hi> So MS and H, following AN. Vulgate: <hi
+            rend="italic">Quae similis civitati huic magnae?</hi> [What is similar to this great
+          city?]. LV: <hi rend="italic">What is lyk this </hi><hi rend="italic">greet
+          citee?</hi></note>
+        <note type="tnote" n="407"><space rend="indent1"/><hi rend="italic">Joieth upon hym . . .
+            dome of hir</hi>. So MS, possibly influenced by LV. H: <hi rend="italic">Hevene is
+            heiȝer upon</hi><hi rend="italic"> hym and þe apostles and þe prophetes, whi God</hi><hi
+            rend="italic"> jugged ȝoure juggement upon hem. And þai shullen have</hi><hi
+            rend="italic"> joye that God haþ venged hem</hi>. Fridner (p. 241n) notes that AN
+          contains only a paraphrase of this passage, so H’s translation (and mistranslation) is
+          taken directly from the Vulgate.</note>
+        <p style="heading4">Chapter 18, Paragraph 9</p>
+        <note type="tnote" n="408"><space rend="indent1"/><hi rend="italic">selleres</hi>. So MS. H:
+            <hi rend="italic">sellers of erþe ben þise fals prophetes</hi>.</note>
+        <note type="tnote" n="409"><space rend="indent1"/><hi rend="italic">symonyes</hi>. So MS. H:
+            <hi rend="italic">þise gavelers</hi> [usurers].</note>
+        <note type="tnote" n="410"><space rend="indent1"/><hi rend="italic">and the holy
+            maken</hi><hi rend="italic"> joye</hi>. MS: <hi rend="italic">maken joye and the
+            holy</hi>. Emended for sense. H: <hi rend="italic">and þe holy forto make
+          joye</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 10</p>
+        <note type="tnote" n="411"><space rend="indent1"/><hi rend="italic">of pipe</hi>. So MS. H:
+            <hi rend="italic">of styve</hi> [bagpipe].</note>
+        <note type="tnote" n="412"><space rend="indent1"/><hi rend="italic">vois of
+          mynstralsie</hi>. So MS. H: <hi rend="italic">ne voice ne no</hi><hi rend="italic">
+            mynstralcye ne shal neuermore ben herd in hire</hi>. MS and H both omit the second half
+          of verse 22. LV: <hi rend="italic">And ech crafti man</hi> [craftsman] <hi rend="italic"
+            >and ech crafte shal</hi><hi rend="italic"> no more be founden in it, and the vois
+            of</hi><hi rend="italic"> mylnestoon</hi> [sound of the millstone] <hi rend="italic"
+            >shal no more be</hi><hi rend="italic"> herd in thee</hi>.</note>
+        <note type="tnote" n="413"><space rend="indent1"/><hi rend="italic">no more lighten
+          hir</hi>. So MS. H: <hi rend="italic">nevermore be seen in it</hi>.</note>
+        <note type="tnote" n="414"><space rend="indent1"/><hi rend="italic">in hir venym
+            doyngis</hi><hi rend="italic"> alle folkis han errid</hi>. So MS. H: <hi rend="italic"
+            >he in his</hi><hi rend="italic"> vanités florissheþ alle men</hi>. Fridner notes that
+          H’s mistranslation comes from a corruption in AN, which uses <hi rend="italic"
+            >vanitez</hi> for <hi rend="italic">venims</hi> (pp. 157, 241n).</note>
+        <note type="tnote" n="415"><space rend="indent1"/><hi rend="italic">founden in it</hi>. So
+          MS. H: <hi rend="italic">founden in hym</hi>. MS and H both omit the second half of verse
+          24. LV: <hi rend="italic">and of alle </hi><hi rend="italic">men that ben slayn in
+            erthe</hi>.</note>
+        <p style="heading4">Chapter 18, Paragraph 11</p>
+        <note type="tnote" n="416"><space rend="indent1"/><hi rend="italic">diverse tormentis</hi>.
+          So MS. H: <hi rend="italic">in divers instrumentz</hi>.</note>
+        <note type="tnote" n="417"><space rend="indent1"/><hi rend="italic">Bi the</hi><hi
+            rend="italic"> harpe</hi>. So MS. H: <hi rend="italic">By þe art</hi>.</note>
+        <note type="tnote" n="418"><space rend="indent1"/><hi rend="italic">here servyse </hi><hi
+            rend="italic">as knyghtis</hi>. So MS. H: <hi rend="italic">þe servise of þe </hi><hi
+            rend="italic">clerkes</hi>. Fridner proposes H <hi rend="italic">clerkes</hi> is a
+          mistranslation of AN <hi rend="italic">chevaler</hi> [knight] (p. 242n).</note>
+        <note type="tnote" n="419"><space rend="indent1"/><hi rend="italic">aughten to techen . . .
+            bi preysyng and</hi><hi rend="italic"> lordschipe</hi>. So MS. H: <hi rend="italic"
+            >shulden governen oþere and techen</hi>.</note>
+        <note type="tnote" n="420"><space rend="indent1"/><hi rend="italic">hir venym</hi>. So MS.
+          H: <hi rend="italic">his comyng</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 1</p>
+        <note type="tnote" n="421"><space rend="indent1"/><hi rend="italic">with hir grete
+            bordelrie</hi>. So MS. H omits.</note>
+        <note type="tnote" n="422"><space rend="indent1"/><hi rend="italic">“Alleluia.”</hi> So MS.
+          H: <hi rend="italic">Allas</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 5</p>
+        <note type="tnote" n="423"><space rend="indent1"/><hi rend="italic">grete troupe</hi>. So
+          MS. H: <hi rend="italic">grete trumpe</hi>. H accurately translates AN <hi rend="italic"
+            >grant boesine</hi> (Fridner, p. 160); MS may be a scribal error for <hi rend="italic"
+            >troumpe</hi> or may be translating Vulgate <hi rend="italic">turbae magnae</hi> [great
+          crowds]. LV: <hi rend="italic">greet trumpe</hi>.</note>
+        <note type="tnote" n="424"><space rend="indent1"/><hi rend="italic">“Alleluia.”</hi> So MS.
+          H: <hi rend="italic">Alleluya, id est saluum me fac deus</hi> [that is, God save me]. This
+          phrase in H is written in a separate scribal hand and is perhaps a later addition.</note>
+        <note type="tnote" n="425"><space rend="indent1"/><hi rend="italic">the weddyngis of the
+            Lomb</hi>. So MS, possibly following LV. H: <hi rend="italic">richesses of soule</hi>. H
+          is a mistranslation.</note>
+        <note type="tnote" n="426"><space rend="indent1"/><hi rend="italic">it is gove to hir that
+            sche clothe hir with</hi><hi rend="italic"> bisse clene</hi>. So MS. H: <hi
+            rend="italic">hir is ȝoven hylyng </hi><hi rend="italic">of his lyf cloth
+          clere</hi>.</note>
+        <note type="tnote" n="427"><space rend="indent1"/><hi rend="italic">justifiyngis</hi>. So
+          MS, possibly following LV. H: <hi rend="italic">riȝtwisenesse</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 6</p>
+        <note type="tnote" n="428"><space rend="indent1"/><hi rend="italic">to me</hi>. So MS. H:
+            <hi rend="italic">to me, “Write . . .”</hi></note>
+        <note type="tnote" n="429"><space rend="indent1"/><hi rend="italic">clepid</hi>. So MS,
+          possibly following LV. H: <hi rend="italic">cloþed</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 7</p>
+        <note type="tnote" n="430"><space rend="indent1"/><hi rend="italic">aungelis feet</hi>. So
+          MS. H: <hi rend="italic">aungel</hi>.</note>
+        <note type="tnote" n="431"><space rend="indent1"/><hi rend="italic">as thou</hi>. So MS. H:
+            <hi rend="italic">and þi servaunt</hi>.</note>
+        <note type="tnote" n="432"><space rend="indent1"/><hi rend="italic">Worschip thou God</hi>.
+          So MS, following LV. H: <hi rend="italic">and worschipen God</hi>. MS and H omit the last
+          phrase of verse 19:10. LV: <hi rend="italic">for the wittnessing </hi><hi rend="italic">of
+            Jhesu is spiritt of profecie</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 8</p>
+        <note type="tnote" n="433"><space rend="indent1"/><hi rend="italic">ourned</hi>. So MS. H:
+            <hi rend="italic">honoured</hi>.</note>
+        <note type="tnote" n="434"><space rend="indent1"/><hi rend="italic">bitokeneth that thei ben
+            </hi><hi rend="italic">clepid . . . and wele lyven</hi>. So MS. H: <hi rend="italic">to
+            his bridale </hi><hi rend="italic">in þis lyve, þoo ben þai þat stedfastlich </hi><hi
+            rend="italic">bileven and wel loven</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 9</p>
+        <note type="tnote" n="435"><space rend="indent1"/><hi rend="italic">Goddis Sone</hi>. So MS
+          and H, and all other manuscripts of the <hi rend="italic">English Apocalypse</hi>,
+          following the AN. However, the Vulgate reads <hi rend="italic">Verbum</hi><hi
+            rend="italic"> Dei</hi> [Word of God]. Remarkably, the LV also has <hi rend="italic"
+            >the</hi><hi rend="italic"> Sone of Godde</hi>, possibly a rare instance of the <hi
+            rend="italic">English</hi><hi rend="italic"> Apocalypse</hi> influencing the Wycliffite
+          translators. See also textual note for 14.¶12, <hi rend="italic">fier and water</hi>,
+          above.</note>
+        <note type="tnote" n="436"><space rend="indent1"/><hi rend="italic">white hors</hi>. MS: <hi
+            rend="italic">þe white hors</hi>. The marginal addition <hi rend="italic">þe</hi> is in
+          a separate hand and alters the accurate sense of the passage, that all the host of heaven
+          ride white horses. H: <hi rend="italic">white horses</hi>.</note>
+        <note type="tnote" n="437"><space rend="indent1"/><hi rend="italic">and</hi>. So H. MS: <hi
+            rend="italic">an</hi>.</note>
+        <note type="tnote" n="438"><space rend="indent1"/><hi rend="italic">tredith the </hi><hi
+            rend="italic">pressoure of the wyne of Goddis wraththe</hi>. So MS. H: <hi rend="italic"
+            >hath the pressoure of Goddes wraþþe</hi>.</note>
+        <note type="tnote" n="439"><space rend="indent1"/><hi rend="italic">on his hipe</hi>. So MS.
+          H: <hi rend="italic">in his kepyng</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 10</p>
+        <note type="tnote" n="440"><space rend="indent1"/><hi rend="italic">lyven</hi>. So MS. H:
+            <hi rend="italic">bileven</hi>. Both words have the same meaning and translate AN <hi
+            rend="italic">croere</hi> [to believe].</note>
+        <note type="tnote" n="441"><space rend="indent1"/><hi rend="italic">bi quentise . . .
+            </hi><hi rend="italic">vertues and of good werkis</hi>. So MS. H: <hi rend="italic">and
+            wiþ</hi><hi rend="italic"> coveitise aȝein þe werlde, and wiþ pacience a</hi><hi
+            rend="italic">ȝein adversites and richesses, fiȝtten wiþ queyntise aȝ</hi><hi
+            rend="italic">ein the flesshe, and wiþ discrecioun and abstinence and sternesse</hi><hi
+            rend="italic"> of penaunce and in clennesse stonden in vertu of gode</hi><hi
+            rend="italic"> werkes</hi>.</note>
+        <note type="tnote" n="442"><space rend="indent1"/><hi rend="italic">as robes that ben clade
+            with right bileve</hi>. So MS. H: <hi rend="italic">his robes þat he is cloþed </hi><hi
+            rend="italic">wiþ, bileven</hi>.</note>
+        <p style="heading4">Chapter 19, Paragraph 11</p>
+        <note type="tnote" n="443"><space rend="indent1"/><hi rend="italic">foules</hi>. So MS. H:
+            <hi rend="italic">soules</hi>. H is an error.</note>
+        <note type="tnote" n="444"><space rend="indent1"/><hi rend="italic">kyngis</hi>. So MS. H:
+            <hi rend="italic">kynges and þe flesshe of þe cheventaynes</hi> [governors] <hi
+            rend="italic">and þe flesshe of þe stronge</hi>, following AN and Vulgate.</note>
+        <p style="heading4">Chapter 20, Paragraph 1</p>
+        <note type="tnote" n="445"><space rend="indent1"/><hi rend="italic">And</hi>. MS: <hi
+            rend="italic">nd</hi>. The large rubricated initial that would normally appear at the
+          start of the chapter is missing here, but three lines are indented to leave space for
+          it.</note>
+        <note type="tnote" n="446"><space rend="indent1"/><hi rend="italic">depnesse</hi>. So MS. H:
+            <hi rend="italic">derknesse</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 2</p>
+        <note type="tnote" n="447"><space rend="indent1"/><hi rend="italic">risyng agen . . . rysyng
+            agen</hi>. So MS. H: <hi rend="italic">resureccioun . . . resureccioun</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 3</p>
+        <note type="tnote" n="448"><space rend="indent1"/><hi rend="italic">for </hi><hi
+            rend="italic">ler</hi>. So H. MS: <hi rend="italic">for love</hi>.</note>
+        <note type="tnote" n="449"><space rend="indent1"/><hi rend="italic">wole plese God</hi>. So
+          MS. H: <hi rend="italic">wil queme</hi> [please, serve] <hi rend="italic">God</hi>.</note>
+        <note type="tnote" n="450"><space rend="indent1"/><hi rend="italic">sothfast schrift</hi>.
+          So MS. H: <hi rend="italic">soþfast þouȝth</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 4</p>
+        <note type="tnote" n="451"><space rend="indent1"/><hi rend="italic">sitte on the heyghest of
+            erthe</hi>. So MS. H: <hi rend="italic">stiȝen up</hi> [ascended] <hi rend="italic">upon
+            þe heiȝest </hi><hi rend="italic">of þe erþe</hi>. Each manuscript translates just a
+          portion of the AN original: <hi rend="italic">munterunt &amp; se apoerunt sure la
+            hautesce</hi><hi rend="italic"> de la terre</hi> [they mounted up and sat themselves on
+          the height of the earth] (Fridner, p. 172). Vulgate: <hi rend="italic">ascenderunt</hi><hi
+            rend="italic"> super latitudinem terrae</hi> [they ascended over the breadth of the
+          earth]. LV: <hi rend="italic">thei stieden up on the broodnesse of </hi><hi rend="italic"
+            >erthe</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 5</p>
+        <note type="tnote" n="452"><space rend="indent1"/><hi rend="italic">feend</hi>. MS: <hi
+            rend="italic">feed</hi>. H: <hi rend="italic">fende</hi>.</note>
+        <note type="tnote" n="453"><space rend="indent1"/><hi rend="italic">And by Magog ben
+            bitokned the fals prophetes</hi>. So H. MS omits, a scribal error.</note>
+        <note type="tnote" n="454"><space rend="indent1"/><hi rend="italic">setten her power . . .
+            that</hi><hi rend="italic"> God loveth</hi>. So MS. H: <hi rend="italic">ben sett al
+            aboute þ</hi><hi rend="italic">e holy houses and þe cités þat God </hi><hi rend="italic"
+            >loveþ bitokneþ þat þai shullen setten her power </hi><hi rend="italic">aȝein the bileve
+            and aȝein alle þe sacrementz</hi><hi rend="italic"> of holy chirche as þorouȝ prechyng
+            and fals wondres</hi><hi rend="italic"> and tourmentz</hi>.</note>
+        <note type="tnote" n="455"><space rend="indent1"/><hi rend="italic">amenden hem</hi>. So MS.
+          H adds: <hi rend="italic">wiþouten</hi><hi rend="italic"> ende</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 6</p>
+        <note type="tnote" n="456"><space rend="indent1"/><hi rend="italic">thei myghten reste</hi>.
+          So MS. H omits.</note>
+        <note type="tnote" n="457"><space rend="indent1"/><hi rend="italic">jugid</hi>. So MS. H:
+            <hi rend="italic">noyed</hi>.</note>
+        <note type="tnote" n="458"><space rend="indent1"/><hi rend="italic">dede that </hi><hi
+            rend="italic">werren</hi>. So MS. H: <hi rend="italic">deþ þat was</hi>.</note>
+        <note type="tnote" n="459"><space rend="indent1"/><hi rend="italic">deed men</hi>. So MS,
+          with a marginal note adding <hi rend="italic">men</hi> in a separate scribal hand. H
+          omits.</note>
+        <note type="tnote" n="460"><space rend="indent1"/><hi rend="italic">in helle. And thei been
+            </hi><hi rend="italic">sent</hi>. So MS. H: <hi rend="italicstrikethrough">And</hi>
+          <hi rend="italic">helle and þe dede ben</hi><hi rend="italic"> sent</hi>. In MS, the word
+            <hi rend="italic">and</hi> appears before <hi rend="italic">in helle</hi> with a
+          strikethrough, and a slash appears after <hi rend="italic">helle</hi> to denote a phrase
+          ending. This could indicate a scribal error or a deliberate revision of the original
+          phrase; in either case, it is a departure from both AN and the Vulgate, which H follows.
+          LV: <hi rend="italic">And helle and deeth weren</hi><hi rend="italic"> sente</hi>.</note>
+        <note type="tnote" n="461"><space rend="indent1"/><hi rend="italic">secounde deth</hi>. So
+          MS. H adds: <hi rend="italic">Þe ponde </hi><hi rend="italic">of fyre</hi>.</note>
+        <p style="heading4">Chapter 20, Paragraph 7</p>
+        <note type="tnote" n="462"><space rend="indent1"/><hi rend="italic">coveitouse men</hi>. So
+          MS. H: <hi rend="italic">coveitouse and þe proude</hi>.</note>
+        <note type="tnote" n="463"><space rend="indent1"/><hi rend="italic">temporal</hi>. So MS. H:
+            <hi rend="italic">werldelich</hi>. AN: <hi rend="italic">temporeus</hi> (Fridner, p.
+          176).</note>
+        <note type="tnote" n="464"><space rend="indent1"/><hi rend="italic">nameli thei that dien
+            </hi><hi rend="italic">in mysbileve and</hi>. So MS. H omits.</note>
+        <p style="heading4">Chapter 21, Paragraph 1</p>
+        <note type="tnote" n="465"><space rend="indent1"/><hi rend="italic">And</hi>. The large
+          rubricated initial that would normally appear at the start of the chapter is missing in
+          MS, but three lines are indented to leave space for it, and a small <hi rend="italic"
+            >a</hi> appears in the left margin.</note>
+        <note type="tnote" n="466"><space rend="indent1"/><hi rend="italic">ourned</hi>. So MS,
+          possibly following LV. H: <hi rend="italic">honoured</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 2</p>
+        <note type="tnote" n="467"><space rend="indent1"/><hi rend="italic">“Writ thou, for these
+            been most trewe wordis </hi><hi rend="italic">and verrey.”</hi> So MS. H: <hi
+            rend="italic">Write. Þise wordes ben</hi><hi rend="italic"> faiþful and
+          trewe</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 3</p>
+        <note type="tnote" n="468"><space rend="indent1"/><hi rend="italic">“</hi><hi rend="italic"
+            >It is doon.”</hi> So MS. H: <hi rend="italic">Made is</hi>.</note>
+        <note type="tnote" n="469"><space rend="indent1"/><hi rend="italic">been</hi><hi
+            rend="italic"> athirst</hi>. MS: <hi rend="italic">been a first</hi>. H: <hi
+            rend="italic">han þrest</hi>.</note>
+        <note type="tnote" n="470"><space rend="indent1"/><hi rend="italic">and </hi><hi
+            rend="italic">to venym doeres</hi>. So MS. H: <hi rend="italic">and
+          ymagerie</hi>.</note>
+        <note type="tnote" n="471"><space rend="indent1"/><hi rend="italic">pond</hi>. MS: <hi
+            rend="italic">bond</hi>. H: <hi rend="italic">ponde</hi>.</note>
+        <note type="tnote" n="472"><space rend="indent1"/><hi rend="italic">that is</hi>. MS: <hi
+            rend="italic">þat þat is</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 4</p>
+        <note type="tnote" n="473"><space rend="indent1"/><hi rend="italic">That he seith</hi>. So
+          H. MS: <hi rend="italic">Þat þat he seiþ</hi>.</note>
+        <note type="tnote" n="474"><space rend="indent1"/><hi rend="italic">schal do awey</hi>. MS:
+            <hi rend="italic">do au</hi>. H omits <hi rend="italic">awey</hi>, but it is attested by
+          several manuscripts (Fridner, p. 180).</note>
+        <note type="tnote" n="475"><space rend="indent1"/><hi rend="italic">verrey goodis</hi>. So
+          MS. H: <hi rend="italic">soþfast godes</hi>.</note>
+        <note type="tnote" n="476"><space rend="indent1"/><hi rend="italic">and overcomen</hi>. So
+          MS. H: <hi rend="italic">and overcomen </hi><hi rend="italic">þe werlde and oure flesshe,
+            and þat is þat</hi><hi rend="italic"> he seiþ he shal overcomen</hi>. The omission may
+          be deliberate but is likely a copying error.</note>
+        <note type="tnote" n="477"><space rend="indent1"/><hi rend="italic">now oneli</hi>. So MS.
+          H: <hi rend="italic">nouȝth onlich</hi>.</note>
+        <note type="tnote" n="478"><space rend="indent1"/><hi rend="italic">been to hem God, and
+            </hi><hi rend="italic">thei schulen benn my sones</hi>. So MS. H: <hi rend="italic">be
+            his </hi><hi rend="italic">God, and he shal be my son</hi>.</note>
+        <note type="tnote" n="479"><space rend="indent1"/><hi rend="italic">so arewe hertis</hi>. So
+          MS. H: <hi rend="italic">sorouȝ of herte</hi>.</note>
+        <note type="tnote" n="480"><space rend="indent1"/><hi rend="italic">wedlak</hi>. So MS. H:
+            <hi rend="italic">spouse</hi>.</note>
+        <note type="tnote" n="481"><space rend="indent1"/><hi rend="italic">fleisch</hi>. So MS. H
+          adds: <hi rend="italic">aȝeins God</hi>.</note>
+        <note type="tnote" n="482"><space rend="indent1"/><hi rend="italic">lieres</hi>. So MS. H:
+            <hi rend="italic">heriȝers</hi> [worshipers].</note>
+        <note type="tnote" n="483"><space rend="indent1"/><hi rend="italic">secounde deth</hi>. So
+          H. MS: <hi rend="italic">secounde</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 5</p>
+        <note type="tnote" n="484"><space rend="indent1"/><hi rend="italic">brightnesse of God</hi>.
+          So MS. H adds: <hi rend="italic">and his liȝth</hi>.</note>
+        <note type="tnote" n="485"><space rend="indent1"/><hi rend="italic">ferde</hi>. MS: <hi
+            rend="italic">is an ferde</hi>. An apparent scribal error; see <hi rend="italic"
+            >MED</hi>, <hi rend="italic">faren</hi> (v.), sense 14: “To be, appear, or seem (like
+          something else).” Emended for sense. H: <hi rend="italic">semed</hi>.</note>
+        <note type="tnote" n="486"><space rend="indent1"/><hi rend="italic">hade twelve</hi>. MS:
+            <hi rend="italic">hade</hi><hi rend="italic"> þe twelve</hi>, with <hi rend="italic"
+            >þe</hi> erased but still legible.</note>
+        <note type="tnote" n="487"><space rend="indent1"/><hi rend="italic">sones of</hi><hi
+            rend="italic"> Irael</hi>. So MS, possibly following LV. H: <hi rend="italic">childer of
+            Israel</hi>.</note>
+        <note type="tnote" n="488"><space rend="indent1"/><hi rend="italic">northhalf</hi>. So MS.
+          H: <hi rend="italic">southward þre ȝates and to</hi><hi rend="italic"> þe northward</hi>.
+          The omission is a clear error, since MS later comments on the southern gates in the gloss
+          (21.¶7).</note>
+        <p style="heading4">Chapter 21, Paragraph 7</p>
+        <note type="tnote" n="489"><space rend="indent1"/><hi rend="italic">of werkis</hi>. So MS.
+          H: <hi rend="italic">of þe vertu of þe werkes</hi>.</note>
+        <note type="tnote" n="490"><space rend="indent1"/><hi rend="italic">predicacioun</hi>. So
+          MS. H: <hi rend="italic">prechyng</hi>.</note>
+        <note type="tnote" n="491"><space rend="indent1"/><hi rend="italic">penaunce, and</hi>. So
+          H. MS: <hi rend="italic">penaunce </hi><hi rend="italic">of</hi>.</note>
+        <note type="tnote" n="492"><space rend="indent1"/><hi rend="italic">the twelve
+            patriarkis</hi>. MS: <hi rend="italic">þe þe twelve patriarkis</hi>.</note>
+        <note type="tnote" n="493"><space rend="indent1"/><hi rend="italic">the right bileve</hi>.
+          So MS. H: <hi rend="italic">stedfast bileve and soþ</hi><hi rend="italic">fast
+          hope</hi>.</note>
+        <note type="tnote" n="494"><space rend="indent1"/><hi rend="italic">loveth and the
+          more</hi>. So MS. H: <hi rend="italic">loveþ</hi><hi rend="italic">. Þe more he loveþ, þe
+            more</hi>.</note>
+        <note type="tnote" n="495"><space rend="indent1"/><hi rend="italic">heighte of </hi><hi
+            rend="italic">citee</hi>. So MS. H: <hi rend="italic">heiȝtte of þe cité </hi><hi
+            rend="italic">þat ben even</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 9</p>
+        <note type="tnote" n="496"><space rend="indent1"/><hi rend="italic">governen</hi>. So MS. H:
+            <hi rend="italic">techen</hi>.</note>
+        <note type="tnote" n="497"><space rend="indent1"/><hi rend="italic">and the profetis</hi>.
+          So MS. H omits.</note>
+        <note type="tnote" n="498"><space rend="indent1"/><hi rend="italic">verrey feith</hi>. So
+          MS. H: <hi rend="italic">good bileve</hi>.</note>
+        <note type="tnote" n="499"><space rend="indent1"/><hi rend="italic">Sardonycle</hi>. So MS.
+          H: <hi rend="italic">Sardoyne</hi> [sard, carnelian], an apparent error. See explanatory
+          note, <hi rend="italic">Sardonycle that is of thre coloures</hi>.</note>
+        <note type="tnote" n="500"><space rend="indent1"/><hi rend="italic">therwith techen</hi>. So
+          MS. H: <hi rend="italic">her wytt techen</hi>.</note>
+        <note type="tnote" n="501"><space rend="indent1"/><hi rend="italic">of the cleer</hi>. So
+          MS. H: <hi rend="italic">of gold and of clere</hi>.</note>
+        <note type="tnote" n="502"><space rend="indent1"/><hi rend="italic">wise religioun</hi>. So
+          MS. H: <hi rend="italic">wise religiouse</hi>.</note>
+        <note type="tnote" n="503"><space rend="indent1"/><hi rend="italic">kunnen confermen</hi>.
+          So MS. H: <hi rend="italic">connen confourmen</hi>.</note>
+        <note type="tnote" n="504"><space rend="indent1"/><hi rend="italic">colour mengid</hi>. So
+          MS. H: <hi rend="italic">colour medle</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 10</p>
+        <note type="tnote" n="505"><space rend="indent1"/><hi rend="italic">And the twelve</hi>. So
+          MS. H: <hi rend="italic">And in þ</hi><hi rend="italic">e twelve</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 11</p>
+        <note type="tnote" n="506"><space rend="indent1"/><hi rend="italic">And the folkis . . .
+            </hi><hi rend="italic">glorie and honour</hi>. So MS, possibly influenced by LV. H: <hi
+            rend="italic">And þe kynges of erþe shullen gon into hym</hi><hi rend="italic"> into his
+            blis and in her honoures</hi>.</note>
+        <note type="tnote" n="507"><space rend="indent1"/><hi rend="italic">daye, and nyght</hi><hi
+            rend="italic"> schal not be there</hi>. So MS, following LV. H: <hi rend="italic"
+            >ni</hi><hi rend="italic">ȝth, for þere ne shal be no niȝth</hi>.</note>
+        <note type="tnote" n="508"><space rend="indent1"/><hi rend="italic">thei schulen bryng
+            glorie and honour of hethene men into </hi><hi rend="italic">hir</hi>. So MS, possibly
+          influenced by LV since AN is missing this verse (see explanatory note). H: <hi
+            rend="italic">þe folk schal</hi><hi rend="italic"> goo into her glorie and into her
+            blis</hi>.</note>
+        <p style="heading4">Chapter 21, Paragraph 12</p>
+        <note type="tnote" n="509"><space rend="indent1"/><hi rend="italic">stretis of the
+          cité</hi>. So MS. H: <hi rend="italic">sterres of þe cité</hi>.</note>
+        <note type="tnote" n="510"><space rend="indent1"/><hi rend="italic">wexe more</hi>. So MS.
+          H: <hi rend="italic">were</hi><hi rend="italic"> more and more</hi>.</note>
+        <note type="tnote" n="511"><space rend="indent1"/><hi rend="italic">schit bi day</hi>. So
+          MS. H: <hi rend="italic">shett aniȝth</hi>.</note>
+        <note type="tnote" n="512"><space rend="indent1"/><hi rend="italic">that he conferme</hi>.
+          So MS. H: <hi rend="italic">he </hi><hi rend="italic">confourme</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 1</p>
+        <note type="tnote" n="513"><space rend="indent1"/><hi rend="italic">ech cursid thing schal
+            no</hi><hi rend="italic"> more be</hi>. So MS, following LV. H: <hi rend="italic"
+            >wreþþing</hi> [anger, cursing] <hi rend="italic">ne shal be no more</hi>.</note>
+        <note type="tnote" n="514"><space rend="indent1"/><hi rend="italic">serven hym</hi>. So MS.
+          A line that follows is struck out: <hi rend="italicstrikethrough">and þei schulen servene
+            hym</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 2</p>
+        <note type="tnote" n="515"><space rend="indent1"/><hi rend="italic">the twelve</hi>. So H.
+          MS: <hi rend="italic">þe þe twelve</hi>.</note>
+        <note type="tnote" n="516"><space rend="indent1"/><hi rend="italic">patriarkis and
+            apostlis</hi>. So MS. H: <hi rend="italic">þe patriarkes and þe prophetes</hi>.</note>
+        <note type="tnote" n="517"><space rend="indent1"/><hi rend="italic">cursid </hi><hi
+            rend="italic">thing</hi>. So MS. H: <hi rend="italic">wariȝing</hi> [cursing].</note>
+        <p style="heading4">Chapter 22, Paragraph 4</p>
+        <note type="tnote" n="518"><space rend="indent1"/><hi rend="italic">It is expouned
+            biforn</hi>. So MS. H: <hi rend="italic">Þe </hi><hi rend="italic">understondyng of þis
+            may wel ben understonden, for it is</hi><hi rend="italic"> seide bifore and þerfore it
+            is no myster</hi> [need] <hi rend="italic">to writen it</hi>. An addition to the Vulgate
+          that originates with AN (Fridner, p. 199).</note>
+        <p style="heading4">Chapter 22, Paragraph 5</p>
+        <note type="tnote" n="519"><space rend="indent1"/><hi rend="italic">nygh. He that noiez . .
+            . be halewid yit</hi>. So MS, following LV. H: <hi rend="italic">nere honde. [11] Þat
+            anoieþ ȝete</hi><hi rend="italic"> and þat is in filþe, in filþe </hi><hi rend="italic"
+            >is ȝete, and holy shal be holy ȝete</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 6</p>
+        <note type="tnote" n="520"><space rend="indent1"/><hi rend="italic">thei that
+            poysounnen</hi>. So MS. H: <hi rend="italic">þe hunters þat poyson</hi>.</note>
+        <note type="tnote" n="521"><space rend="indent1"/><hi rend="italic">foule and the
+            homycides</hi>. So MS. H: <hi rend="italic">þe foule homicides</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 7</p>
+        <note type="tnote" n="522"><space rend="indent1"/><hi rend="italic">Joon to hiden this</hi>.
+          So MS. H: <hi rend="italic">forto hide þis</hi><hi rend="italic"> book</hi>.</note>
+        <note type="tnote" n="523"><space rend="indent1"/><hi rend="italic">goostli</hi>. MS: <hi
+            rend="italic">goostl</hi>. Scribal error. H: <hi rend="italic">gostlich</hi>.</note>
+        <note type="tnote" n="524"><space rend="indent1"/><hi rend="italic">not </hi><hi
+            rend="italic">here trust</hi>. So MS. H: <hi rend="italic">nouȝth her
+          bileve</hi>.</note>
+        <note type="tnote" n="525"><space rend="indent1"/><hi rend="italic">heren </hi><hi
+            rend="italic">lesyngis</hi>. So MS. H adds: <hi rend="italic">and loven to heren
+            hem</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 9</p>
+        <note type="tnote" n="526"><space rend="indent1"/><hi rend="italic">Spirit and the
+            spouse</hi>. So H. MS: <hi rend="italic">Spirit of þe spouse</hi>.</note>
+        <note type="tnote" n="527"><space rend="indent1"/><hi rend="italic">seith, “Kum.”</hi> MS
+          and H omit the sentence that follows. LV: <hi rend="italic">And he </hi><hi rend="italic"
+            >that heerith</hi> [hears], <hi rend="italic">seie he, “Come thou.”</hi></note>
+        <p style="heading4">Chapter 22, Paragraph 10</p>
+        <note type="tnote" n="528"><space rend="indent1"/><hi rend="italic">undo the folk</hi>. So
+          MS. H: <hi rend="italic">his </hi><hi rend="italic">folk</hi>.</note>
+        <note type="tnote" n="529"><space rend="indent1"/><hi rend="italic">“Cum thu to me.”</hi> So
+          MS. H: <hi rend="italic">Come</hi>.</note>
+        <note type="tnote" n="530"><space rend="indent1"/><hi rend="italic">understonden</hi>. So H.
+          MS: <hi rend="italic">undstonden</hi>.</note>
+        <note type="tnote" n="531"><space rend="indent1"/><hi rend="italic">water of lyf</hi>. So
+          MS. H adds: <hi rend="italic">þat evermore shal last</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 11</p>
+        <note type="tnote" n="532"><space rend="indent1"/><hi rend="italic">lasse</hi>. So MS. H:
+            <hi rend="italic">lette</hi> [withhold, hinder].</note>
+        <note type="tnote" n="533"><space rend="indent1"/><hi rend="italic">the book</hi><hi
+            rend="italic"> of lyf</hi>. So MS. H: <hi rend="italic">þe part of þe</hi><hi
+            rend="italic"> book of lyf</hi>.</note>
+        <p style="heading4">Chapter 22, Paragraph 13</p>
+        <note type="tnote" n="534"><space rend="indent1"/><hi rend="italic">you</hi>. So MS. H: <hi
+            rend="italic">us.</hi></note>
+        <p style="heading4">Chapter 22, Paragraph 14</p>
+        <note type="tnote" n="535"><space rend="indent1"/><hi rend="italic">profecye</hi>. So MS. H:
+            <hi rend="italic">soþfast lettre</hi>.</note>
+        <note type="tnote" n="536"><space rend="indent1"/><hi rend="italic">pleten with</hi>. So MS.
+          H: <hi rend="italic">pleden wiþ al forto wynnen</hi>.</note>
+        <note type="tnote" n="537"><space rend="indent1"/><hi rend="italic">and makith</hi>. So MS.
+          H: <hi rend="italic">and wake</hi>.</note>
+        <note type="tnote" n="538"><space rend="indent1"/><hi rend="italic">nede to been alle wey
+            redy</hi>. So MS. H: <hi rend="italic">myster to ben alway redy</hi>.</note>
+        <note type="tnote" n="539"><space rend="indent1"/><hi rend="italic">Maries</hi>. So H. The
+          word in MS contains an erasure that removes part of the <hi rend="italic">r</hi> and <hi
+            rend="italic">i</hi>.</note>
+        <note type="tnote" n="540"><space rend="indent1"/><hi rend="italic">with stedfast bileve and
+            bynd it</hi><hi rend="italic"> with trust hope</hi>. So MS. H: <hi rend="italic">þorouȝ
+            riȝt</hi><hi rend="italic"> bileve and bynde it wiþ stedfast hope</hi>.</note>
+        <note type="tnote" n="541"><space rend="indent1"/><hi rend="italic">bilevene and</hi><hi
+            rend="italic"> dien</hi>. So MS. H: <hi rend="italic">lyven and dyen</hi>.</note>
+        <note type="tnote" n="542"><space rend="indent1"/><hi rend="italic">Amen</hi>. MS ends here.
+          The following line begins the next text in the Plimpton MS, titled <hi rend="italic">The
+            Proverbes</hi>, which is a list of proverbial sayings and paraphrases from the Old
+          Testament. H adds: <hi rend="italic">The Apocalips on Englissh here now makeþ ende. / Unto
+            </hi><hi rend="italic">þe blis of heven, God grante us grace to wende</hi>.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-11-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Campbell, Ethan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-08">Copyedited and proofread</resp>
+          <resp from="2025-08" to="2025-08">Entered corrections for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-03" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2024-03" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-02" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp from="2024-06" to="2024-07">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-03" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-03" to="2024-05">Entered corrections for print edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-11-Bib"/>
+      <div type="text">
+        <p style="heading">Manuscripts</p>
+        <listBibl>
+          <bibl>Cambridge, Caius College, MS 231/117, fols. 1r–86v. [Early copy of the <hi
+              rend="italic">English Apocalypse</hi>, fragmentary.]</bibl>
+          <bibl>Cambridge, Magdalene College, MS Pepys 2498, fols. 226b–263b. [The <hi rend="italic"
+              >English Apocalypse</hi>.]</bibl>
+          <bibl>Cambridge, St. John’s College, MS G.25, fols. 17–67. Online at <ref
+              target="https://www.joh.cam.ac.uk/library/special_collections/manuscripts/medieval_manuscripts/medman/G_25.htm"
+              type="external"
+              >https://www.joh.cam.ac.uk/library/special_collections/manuscripts/medieval_manuscripts/medman/G_25.htm</ref>.
+            [Apocalypse with biblical text primarily from the Wycliffite LV and commentary from the
+              <hi rend="italic">English Apocalypse</hi>.]</bibl>
+          <bibl>Cambridge, Trinity College, MS R.16.2, fols. 1r–31v. Online at <ref
+              target="https://mss-cat.trin.cam.ac.uk/Manuscript/R.16.2" type="external"
+              >https://mss-cat.trin.cam.ac.uk/Manuscript/R.16.2</ref>. [The Trinity Apocalypse in
+            Anglo-Norman, illuminated.]</bibl>
+          <bibl>Dublin, Trinity College, MS 69, fols. 55v–65r, 72v–78r. Online at <ref
+              target="https://doi.org/10.48495/gb19ff152" type="external"
+              >https://doi.org/10.48495/gb19ff152</ref>. [The <hi rend="italic">English
+              Apocalypse</hi>.]</bibl>
+          <bibl>London, British Library, Add. MS 42555, fols. 5r–82v. [The Abingdon Apocalypse in
+            Latin and Anglo-Norman, illuminated.]</bibl>
+          <bibl>London, British Library, MS Harley 874, fols. 2r–31r. Online at <ref
+              target="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058663460.0x000001"
+              type="external"
+              >https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058663460.0x000001</ref>.
+            [Earliest known copy of the <hi rend="italic">English Apocalypse</hi>, ca.
+            1340–1370.]</bibl>
+          <bibl>London, British Library, MS Harley 3913, fols. 113v–203v. [Apocalypse with biblical
+            text primarily from the Wycliffite LV and commentary from the <hi rend="italic">English
+              Apocalypse</hi>.]</bibl>
+          <bibl>London, British Library, MS Royal 17 A.xxvi, fols. 67–206. [The <hi rend="italic"
+              >English Apocalypse</hi>.]</bibl>
+          <bibl>Manchester, Rylands Library, English MS 92, fols. 1r–46v. Online at <ref
+              target="https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00092/5"
+              type="external"
+              >https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00092/5</ref>. [The
+              <hi rend="italic">English Apocalypse</hi>.]</bibl>
+          <bibl>New York City, Columbia University Rare Book &amp; Manuscript Library, MS Plimpton
+            Add. 03, fols. 203r–237r. Online at <ref
+              target="https://clio.columbia.edu/catalog/17016797?counter=1" type="external"
+              >https://clio.columbia.edu/catalog/17016797?counter=1</ref>. [The <hi rend="italic"
+              >English Apocalypse</hi> at the end of a complete Wycliffite LV New Testament.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS 277, fols. 370r–375r. [Wycliffite LV Apocalypse at the
+            end of a complete Old and New Testament.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Douce 180, fols. 1–61r. Online at <ref
+              target="https://digital.bodleian.ox.ac.uk/objects/800ee953-8af1-4b97-9a12-9d179331d3a8/surfaces/a9e13b68-ffdc-4dbc-9920-d53a78c9bb9f/"
+              type="external"
+              >https://digital.bodleian.ox.ac.uk/objects/800ee953-8af1-4b97-9a12-9d179331d3a8/surfaces/a9e13b68-ffdc-4dbc-9920-d53a78c9bb9f/</ref>.
+            [The Douce Apocalypse in Anglo-Norman, illuminated.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Fairfax 2, fols. 380ra–385rb. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4854" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4854</ref>. [Wycliffite LV
+            Apocalypse at the end of a complete Old and New Testament.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Laud Misc. 33, fols. 96v–144r. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7139" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7139</ref>. [The <hi
+              rend="italic">English Apocalypse</hi>.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Laud Misc. 235, fols. 265r–300r. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7046" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7046</ref>. [The <hi
+              rend="italic">English Apocalypse</hi>.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Rawlinson C.750, fols. 1r–51v. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8337" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8337</ref>. [The <hi
+              rend="italic">English Apocalypse</hi>, fragmentary.]</bibl>
+          <bibl>Paris, Bibliothèque Nationale de France, MS Français 403, fols. 1–45v. Online at
+              <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8447298r" type="external"
+              >https://gallica.bnf.fr/ark:/12148/btv1b8447298r</ref>. [Illustrated Apocalypse in
+            Anglo-Norman by the Master of Sarum.]</bibl>
+        </listBibl>
+        <p style="heading">Primary Sources</p>
+        <listBibl>
+          <bibl>Acker, Paul. “Pseudo-Hildegard’s Anti-Mendicant Prophecy in Columbia University
+            Plimpton, MS Add. 3.” <hi rend="italic">Journal of the Early Book Society for the Study
+              of Manuscripts and Printing History</hi> 16 (2013), 261–68.</bibl>
+          <bibl>Andrew, Malcolm, and Ronald Waldron, eds. <hi rend="italic">The Poems of the Pearl
+              Manuscript: Pearl, Cleanness, Patience, Sir Gawain and the Green Knight</hi>. 5th ed.
+            Liverpool: Liverpool University Press, 2007.</bibl>
+          <bibl>Aquinas, Thomas. <hi rend="italic">The Summa Theologica</hi>. Third Part
+            (Supplement), Vol. 21. 2nd ed. Trans. Fathers of the Dominican Province. London: Burns
+            Oates &amp; Washbourne, 1922.</bibl>
+          <bibl>Arngart, Olof Sigfrid, ed. <hi rend="italic">The Middle English Genesis and
+              Exodus</hi>. Lund Studies in English 36. Lund: C. W. K. Gleerup, 1968.</bibl>
+          <bibl>Augustine. <hi rend="italic">The Literal Meaning of Genesis</hi>. Ed. and trans.
+            John Hammond Taylor. 2 vols. Ancient Christian Writers 41–42. Mahwah, NJ: Paulist Press,
+            1982.</bibl>
+          <bibl>Black, Robert Ray, and Raymond St.-Jacques, eds. <hi rend="italic">The Middle
+              English Glossed Prose Psalter: Edited from Cambridge Magdalene College, MS Pepys
+              2498</hi>. 2 vols. Middle English Texts 45–46. Heidelberg: Universitätsverlag,
+            2012.</bibl>
+          <bibl>Burrows, Daron, ed. <hi rend="italic">The Abingdon Apocalypse (British Library, Add.
+              24555)</hi>. Anglo-Norman Texts 74. Oxford: Anglo-Norman Text Society, 2017.</bibl>
+          <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Ed. Larry Benson.
+            3rd ed. Boston: Houghton Mifflin, 1987.</bibl>
+          <bibl>Curley, Michael, ed. and trans. <hi rend="italic">Physiologus</hi>. Chicago:
+            University of Chicago Press, 2009.</bibl>
+          <bibl>Dean, James M., ed. “The Lanterne of Light.” In <hi rend="italic">Middle English
+              Political Writings</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 1996.
+            Pp. 75–91. Online at <ref
+              target="https://metseditions.org/texts/79NmAp0jFDkNkT4wg1hR47rIBlgEv0L4j"
+              type="external"
+            >https://metseditions.org/texts/79NmAp0jFDkNkT4wg1hR47rIBlgEv0L4j</ref>.</bibl>
+          <bibl>Delisle, Léopold, and Paul Meyer, eds. <hi rend="italic">L’Apocalypse en Français au
+              XIIIe Siècle (Bibl. Nat. fr. 403)</hi>. 2 vols. Paris: Librairie de Firmin Didot,
+            1901.</bibl>
+          <bibl>Forshall, Josiah, ed. <hi rend="italic">Remonstrance Against Romish Corruptions in
+              the Church</hi>. London: Longman, 1851.</bibl>
+          <bibl>Foster, Frances A., ed. <hi rend="italic">A Stanzaic Life of Christ: Compiled from
+              Higden’s Polychronicon and the Legenda Aurea (Edited from MS. Harley 3909)</hi>. EETS
+            o.s. 166. London: Oxford University Press, 1926.</bibl>
+          <bibl>Francis, W. Nelson, ed. <hi rend="italic">The Book of Vices and Virtues: A
+              Fourteenth Century English Translation of the</hi> Somme le Roi of Lorens d’Orléans.
+            EETS o.s. 217. London: Oxford University Press, 1942. Reprint 1987.</bibl>
+          <bibl>Fridner, Elis, ed. <hi rend="italic">An English Fourteenth Century Apocalypse
+              Version with a Prose Commentary</hi>. Lund Studies in English 29. Lund: C. W. K.
+            Gleerup, 1961.</bibl>
+          <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Bible</hi>. Rockford, IL: Tan Books
+            and Publishers, 1899. Online at <ref target="https://www.drbo.org" type="external"
+              >https://www.drbo.org</ref>.</bibl>
+          <bibl><hi rend="italic">The Holy Bible: 1611 King James Version</hi>. Grand Rapids, MI:
+            Zondervan, 2011.</bibl>
+          <bibl>Hudson, Anne, ed. <hi rend="italic">Selections from English Wycliffite
+            Writings</hi>. Cambridge: Cambridge University Press, 1978. Reprint, Toronto: University
+            of Toronto Press, 1997.</bibl>
+          <bibl>Hudson, Anne, ed. “The Testimony of William Thorpe.” In <hi rend="italic">Two
+              Wycliffite Texts</hi>. EETS o.s. 301. Oxford: Oxford University Press, 1993. Pp.
+            24–93.</bibl>
+          <bibl>Isidore of Seville. <hi rend="italic">The Etymologies of Isidore of Seville</hi>.
+            Ed. and trans. Stephen A. Barney, W. J. Lewis, J. A. Bach, and Oliver Berghof.
+            Cambridge: Cambridge University Press, 2006.</bibl>
+          <bibl>Johnson, John, trans. “Archbishop Arundel’s Constitutions Against Lollards.” In <hi
+              rend="italic">A Collection of the Laws and Canons of the Church of England</hi>. Vol.
+            2. Oxford: J. H. Parker, 1851. Pp. 457–75.</bibl>
+          <bibl>Knighton, Henry. <hi rend="italic">Knighton’s Chronicle, 1337–1396</hi>. Ed. and
+            trans. G. H. Martin. Oxford Medieval Texts. Oxford: Clarendon, 1995.</bibl>
+          <bibl>Langland, William. <hi rend="italic">The Vision of Piers Plowman: A Critical Edition
+              of the B-Text Based on Trinity College Cambridge MS B.15.17</hi>. Ed. A. V. C.
+            Schmidt. London: Everyman, 1995.</bibl>
+          <bibl>Lindberg, Conrad, ed. <hi rend="italic">The Earlier Version of the Wycliffite Bible:
+              Edited from MS Christ Church 145</hi>. Vol. 8: The Epistles. Stockholm Studies in
+            English 87. Stockholm: Almqvist &amp; Wiksell, 1997.</bibl>
+          <bibl>Lindberg, Conrad, ed. <hi rend="italic">King Henry’s Bible: MS Bodley 277: The
+              Revised Version of the Wyclif Bible</hi>. Vol. 4: The New Testament. Stockholm Studies
+            in English 100. Stockholm: Almqvist &amp; Wiksell, 2004.</bibl>
+          <bibl>Livingston, Michael, ed. <hi rend="italic">Middle English Metrical Paraphrase of the
+              Old Testament</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2011. Online
+            at <ref target="https://metseditions.org/editions/050wP6rI2NEKSLAyiV3zxumP6NVvVBj"
+              type="external"
+              >https://metseditions.org/editions/050wP6rI2NEKSLAyiV3zxumP6NVvVBj</ref>.</bibl>
+          <bibl>Love, Nicholas. <hi rend="italic">The Mirror of the Blessed Life of Jesus
+              Christ</hi>. Ed. Michael G. Sargent. Liverpool: Liverpool University Press,
+            2004.</bibl>
+          <bibl>Matthew, F. D., ed. <hi rend="italic">The English Works of Wyclif Hitherto
+              Unprinted</hi>. EETS o.s. 74. London: Trübner, 1880.</bibl>
+          <bibl>McKitterick, David, ed. <hi rend="italic">The Trinity Apocalypse (Trinity College
+              Cambridge, MS R.16.2)</hi>. The British Library Studies in Medieval Culture. London
+            and Toronto: The British Library and University of Toronto Press, 2005.</bibl>
+          <bibl>Morey, James H., ed. <hi rend="italic">Prik of Conscience</hi>. METS. Kalamazoo, MI:
+            Medieval Institute Publications, 2012. Online at <ref
+              target="https://metseditions.org/editions/kV73jELUM8QSEev9C6YPPCE4Wkwkeyl"
+              type="external"
+              >https://metseditions.org/editions/kV73jELUM8QSEev9C6YPPCE4Wkwkeyl</ref>.</bibl>
+          <bibl>Morris, Richard, ed. <hi rend="italic">Cursor Mundi</hi>. 7 vols. EETS o.s. 57, 59,
+            62, 66, 68, 99, 101. London: Trübner, 1874–1893.</bibl>
+          <bibl>Napier, Arthur S., ed. <hi rend="italic">Iacob and Ioseph: A Middle English Poem of
+              the Thirteenth Century</hi>. Oxford: Clarendon Press, 1916.</bibl>
+          <bibl>Paues, Anna C., ed. <hi rend="italic">A Fourteenth Century English Biblical
+              Version</hi>. Cambridge: The University Press, 1902.</bibl>
+          <bibl>Rolle, Richard. <hi rend="italic">The Psalter or Psalms of David and Certain
+              Canticles with a Translation and Exposition in English</hi>. Ed. H. R. Bramley.
+            Oxford: Clarendon, 1884.</bibl>
+          <bibl>Sauer, Walter, ed. “Die Mittelenglische Übersetzung der Apokalypse mit Kommentar
+            (Version B).” Ph.D. Dissertation: Ruprecht-Karl-Universität, 1971.</bibl>
+          <bibl>Short, Ian, ed. <hi rend="italic">Trinity Apocalypse</hi>. Anglo-Norman Texts 73.
+            Oxford: Anglo-Norman Text Society, 2016.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">Tractatus De Ecclesia</hi>. Ed. Johann Loserth.
+            English notes by F. D. Matthew. London: Trübner, 1886.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">De Dominio Divino</hi>. Ed. Reginald Lane Poole.
+            London: Trübner, 1890.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">Tractatus </hi><hi rend="italic">De Blasphemia</hi>.
+            Ed. Michael Henry Dziewicki. London: Trübner, 1893.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">Tractatus De Civili Dominio</hi>. Ed. Johann
+            Loserth. English notes by Reginald Lane Poole and F. D. Matthew. 4 vols. London:
+            Trübner, 1885–1904.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">On Simony</hi>. Trans. Terrence A. McVeigh. New
+            York: Fordham University Press, 1992.</bibl>
+          <bibl>Wyclif, John. <hi rend="italic">On the Truth of Holy Scripture</hi>. Trans. Ian
+            Christopher Levy. TEAMS Commentary Series. Kalamazoo, MI: Medieval Institute
+            Publications, 2001.</bibl>
+        </listBibl>
+        <p style="heading">Secondary Sources</p>
+        <listBibl>
+          <bibl>Baldwin, Anna. “Sacramental Perfection in <hi rend="italic">Pearl</hi>, <hi
+              rend="italic">Patience</hi>, and <hi rend="italic">Cleanness</hi>.” In <hi
+              rend="italic">Genres, Themes and Images in English Literature from the Fourteenth to
+              the Fifteenth Century</hi>. Ed. Piero Boitani and Anna Torti. Tübingen: Gunter Narr
+            Verlag, 1988. Pp. 125–40.</bibl>
+          <bibl>Beer, Jeanette, ed. <hi rend="italic">A Companion to Medieval Translation</hi>.
+            Leeds: Arc Humanities, 2019.</bibl>
+          <bibl>Bloomfield, Morton W. <hi rend="italic">Piers Plowman as a Fourteenth-Century
+              Apocalypse</hi>. New Brunswick, NJ: Rutgers University Press, 1962.</bibl>
+          <bibl>Boenig, Robert. “The Apocalypse in Medieval England.” In Ryan, <hi rend="italic">A
+              Companion to the Premodern Apocalypse</hi>. Pp. 297–330.</bibl>
+          <bibl>Boyle, Leonard E. “Innocent III and Vernacular Versions of Scripture.” <hi
+              rend="italic">Studies in Church History: Subsidia</hi> 4 (1985), 97–107.</bibl>
+          <bibl>Burr, David. <hi rend="italic">Olivi’s Peaceable Kingdom: A Reading of the
+              Apocalypse Commentary</hi>. Philadelphia: University of Pennsylvania Press,
+            2016.</bibl>
+          <bibl>Burrows, Daron. “Learning from an Anglo-Norman Apocalypse: Oxford, University
+            College, MS 100.” In <hi rend="italic">Literary Echoes of the Fourth Lateran Council in
+              England and France, 1215–1405</hi>. Ed. Maureen B. M. Boulton. Toronto: Pontifical
+            Institute of Mediaeval Studies, 2019. Pp. 197–228.</bibl>
+          <bibl>Cole, Andrew. <hi rend="italic">Literature and Heresy in the Age of Chaucer</hi>.
+            Cambridge: Cambridge University Press, 2008.</bibl>
+          <bibl>Dahmus, Joseph H. <hi rend="italic">The Prosecution of John Wyclyf</hi>. New Haven,
+            CT: Yale University Press, 1952.</bibl>
+          <bibl>Deanesly, Margaret. <hi rend="italic">The Lollard Bible and Other Medieval Biblical
+              Versions</hi>. Cambridge: Cambridge University Press, 1920. Reprint 1966.</bibl>
+          <bibl>Dove, Mary. <hi rend="italic">The First English Bible: The Text and Context of the
+              Wycliffite Versions</hi>. Cambridge: Cambridge University Press, 2007.</bibl>
+          <bibl>Emmerson, Richard K. <hi rend="italic">Apocalypse Illuminated: The Visual Exegesis
+              of Revelation in Medieval Illuminated Manuscripts</hi>. University Park: Penn State
+            University Press, 2018.</bibl>
+          <bibl>Fein, Susanna. “Of Judges and Jewelers: <hi rend="italic">Pearl</hi> and the Life of
+            Saint John.” <hi rend="italic">Studies in the Age of Chaucer</hi> 36 (2014),
+            41–76.</bibl>
+          <bibl>Fowler, David C. <hi rend="italic">The Bible in Early English Literature</hi>.
+            Seattle: University of Washington Press, 1976.</bibl>
+          <bibl>Ghosh, Kantik. <hi rend="italic">The Wycliffite Heresy: Authority and the
+              Interpretation of Texts</hi>. Cambridge: Cambridge University Press, 2002.</bibl>
+          <bibl>Gillespie, Vincent. “Chichele’s Church: Vernacular Theology in England After Thomas
+            Arundel.” In <hi rend="italic">After Arundel: Religious Writing in Fifteenth-Century
+              England</hi>. Ed. Vincent Gillespie and Kantik Ghosh. Medieval Church Studies 21.
+            Turnhout: Brepols, 2011. Pp. 3–42.</bibl>
+          <bibl>Hamburger, Jeffrey F. <hi rend="italic">St. John the Divine: The Deified Evangelist
+              in Medieval Art and Theology</hi>. Oakland: University of California Press,
+            2002.</bibl>
+          <bibl>Hoogvliet, Margriet. “The Medieval Vernacular Bible in French as a Flexible Text:
+            Selective and Discontinuous Reading Practices.” In <hi rend="italic">Form and Function
+              in the Late Medieval Bible</hi> 27. Ed. Eyal Poleg and Laura Light. Leiden, Boston:
+            Brill, 2013. Pp. 283–306.</bibl>
+          <bibl>Hudson, Anne. <hi rend="italic">The Premature Reformation: Wycliffite Texts and
+              Lollard History</hi>. Oxford: Clarendon, 1988.</bibl>
+          <bibl>Johnson, Ian. “Middle English Religious Translation.” In Beer, <hi rend="italic">A
+              Companion to Medieval Translation</hi>. Pp. 37–49.</bibl>
+          <bibl>Kelly, Henry Ansgar. <hi rend="italic">The Middle English Bible: A
+            Reassessment</hi>. Philadelphia: University of Pennsylvania Press, 2016.</bibl>
+          <bibl>Kerby-Fulton, Kathryn. <hi rend="italic">Reformist Apocalypticism and</hi> Piers
+            Plowman. Cambridge: Cambridge University Press, 1990.</bibl>
+          <bibl>Lawton, David. “Englishing the Bible, 1066–1549.” In <hi rend="italic">The Cambridge
+              History of Medieval English Literature</hi>. Ed. David Wallace. Cambridge: Cambridge
+            University Press, 1999. Pp. 454–82.</bibl>
+          <bibl>Lawton, David. “The Bible.” In <hi rend="italic">The Oxford History of Literary
+              Translation in English</hi>. Ed. Roger Ellis. Vol. 1. Oxford: Oxford University Press,
+            2008. Pp. 193–233.</bibl>
+          <bibl>Marsden, Richard, and E. Ann Matter, eds. <hi rend="italic">The New Cambridge
+              History of the Bible. Vol. 2: From 600 to 1450</hi>. Cambridge: Cambridge University
+            Press, 2012.</bibl>
+          <bibl>McFarlane, K. B. <hi rend="italic">John Wycliffe and the Beginnings of English
+              Nonconformity</hi>. London: English Universities Press, 1952.</bibl>
+          <bibl>McGinn, Bernard. <hi rend="italic">The Calabrian Abbot: Joachim of Fiore in the
+              History of Western Thought</hi>. New York: Macmillan, 1985.</bibl>
+          <bibl>McGinn, Bernard. “Apocalyptic Traditions and Spiritual Identity in
+            Thirteenth-Century Religious Life.” In <hi rend="italic">Apocalypticism in the Western
+              Tradition</hi>. Ed. Bernard McGinn. Brookfield, VT: Variorum, 1994. Pp. 1–26.</bibl>
+          <bibl>Meyer, Ann R. <hi rend="italic">Medieval Allegory and the Building of the New
+              Jerusalem</hi>. Cambridge: D. S. Brewer, 2003.</bibl>
+          <bibl><hi rend="italic">Middle English Dictionary</hi>. Ed. Frances McSparran et al. Ann
+            Arbor: University of Michigan Press, 2001–. Online at <ref
+              target="http://quod.lib.umich.edu/m/med/" type="external"
+              >http://quod.lib.umich.edu/m/med/</ref>.</bibl>
+          <bibl>Morey, James. <hi rend="italic">Book and Verse: A Guide to Middle English Biblical
+              Literature</hi>. Urbana: University of Illinois Press, 2000.</bibl>
+          <bibl>Morey, James. “The Wycliffites: Hosts or Guests, First Finders or Followers?” In <hi
+              rend="italic">The Wycliffite Bible: Origin, History, Interpretation</hi>. Ed.
+            Elizabeth Solopova. Leiden, Boston: Brill, 2017. Pp. 85–104.</bibl>
+          <bibl>Morgan, Nigel. “Illustrated Apocalypses of Mid-thirteenth-century England:
+            Historical Context, Patronage and Readership.” In <hi rend="italic">The Trinity
+              Apocalypse (Trinity College Cambridge, MS R.16.2)</hi>. Ed. David McKitterick. London
+            and Toronto: The British Library and University of Toronto Press, 2005. Pp. 3–22.</bibl>
+          <bibl>Morgan, Nigel. “Latin and Vernacular Apocalypses.” In Marsden and Matter, <hi
+              rend="italic">The New Cambridge History of the Bible. Vol. 2: From 600 to 1450</hi>.
+            Pp. 404–26.</bibl>
+          <bibl>Peikola, Matti. “Lollard (?) Production Under the Looking Glass: The Case of
+            Columbia University, Plimpton Add. MS 3.” <hi rend="italic">Journal of the Early Book
+              Society for the Study of Manuscripts and Printing History</hi> 9 (2006), 1–23.</bibl>
+          <bibl>Poole, Kevin. “The Western Apocalypse Commentary Tradition of the Early Middle
+            Ages.” In Ryan, <hi rend="italic">A Companion to the Premodern Apocalypse</hi>. Pp.
+            103–43.</bibl>
+          <bibl>Raschko, Mary. “Taking Apart the Wycliffite Bible: Patterns of Selective and
+            Integrative Reading.” <hi rend="italic">Journal of Medieval and Early Modern
+              Studies</hi> 47, no. 3 (September 2017), 461–86.</bibl>
+          <bibl>Ryan, Michael, ed. <hi rend="italic">A Companion to the Premodern Apocalypse</hi>.
+            Leiden, Boston: Brill, 2016.</bibl>
+          <bibl>Sneddon, Clive R. “The Bible in French.” In <hi rend="italic">The New Cambridge
+              History of the Bible. Vol. 2: From 600 to 1450</hi>. Pp. 251–67.</bibl>
+          <bibl>Sneddon, Clive R. “The Old French Bible.” In Beer, <hi rend="italic">A Companion to
+              Medieval Translation</hi>. Pp. 23–35.</bibl>
+          <bibl>Solopova, Elizabeth. <hi rend="italic">Manuscripts of the Wycliffite Bible in the
+              Bodleian and Oxford College Libraries</hi>. Liverpool: Liverpool University Press,
+            2016.</bibl>
+          <bibl>Sutherland, Annie. <hi rend="italic">English Psalms in the Middle Ages,
+              1300–1450</hi>. Oxford: Oxford University Press, 2015.</bibl>
+          <bibl>Watson, Nicholas. “Censorship and Cultural Change in Late-Medieval England:
+            Vernacular Theology, the Oxford Translation Debate, and Arundel’s <hi rend="italic"
+              >Constitutions</hi> of 1409.” <hi rend="italic">Speculum</hi> 70, no. 4 (October
+            1995), 822–64.</bibl>
+          <bibl>Whiting, Bartlett Jere, and Helen Wescott Whiting. <hi rend="italic">Proverbs,
+              Sentences, and Proverbial Phrases from English Writings Mainly before 1500</hi>.
+            Cambridge, MA: Belknap Press of Harvard University Press, 1968.</bibl>
+          <bibl>Workman, Herbert B. <hi rend="italic">John Wyclif</hi>. 2 vols. Oxford: Clarendon,
+            1926.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

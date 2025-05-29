@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-04-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction</title>
+        <author>Campbell, Ethan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2024-08" to="2024-09">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-03" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2024-03" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp from="2024-06" to="2024-07">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2024-03" to="2024-05">Checked and corrected bibliographic references</resp>
+          <resp from="2024-03" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-03" to="2024-05">Entered corrections for print edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-04-Intro"/>
+      <div type="text">
+        <p style="heading" n="1">The <hi rend="italic">English Apocalypse</hi></p>
+        <p style="bodyfirst" n="1">The <hi rend="italic">English Apocalypse</hi> is a Middle English
+          translation of the Book of Revelation whose composition dates to the middle of the
+          fourteenth century, ca. 1340–1360. Unlike the more well-known Wycliffite versions of the
+          Bible which translators at the University of Oxford produced starting in the 1380s, the
+            <hi rend="italic">English Apocalypse</hi> does not translate Scripture directly from the
+          Latin Vulgate Bible but from an intermediate source, an early fourteenth-century
+          Apocalypse and commentary written in Anglo-Norman, the dialect of Old French primarily
+          spoken in England in the centuries following the Norman Conquest.</p>
+        <p style="body" n="1">Elis Fridner produced the first printed edition of the <hi
+            rend="italic">English Apocalypse</hi> in 1961 under the title <hi rend="italic">An
+            English Fourteenth Century Apocalypse Version with a Prose Commentary</hi>. Since then,
+          scholars have given it a variety of titles and names. James Morey refers to it, in his
+          scholarship on non-Wycliffite Bible translations, as the <hi rend="italic">Apocalips of
+            Jesu Crist</hi> or <hi rend="italic">AJC</hi>, after its opening line.<note target="#1"
+            type="footnotelink">1</note> Walter Sauer and others have called it a “Middle English
+            Apocalypse.”<note target="#2" type="footnotelink">2</note> But the simple title <hi
+            rend="italic">English Apocalypse</hi> seems the most appropriate, given that it is the
+          very first translation of the Book of Revelation to appear in its entirety in any dialect
+          of the English language. It also happens to be the title given to the text by Anna Paues,
+          the first scholar to give it serious attention. Paues devoted a chapter of her 1902
+          doctoral dissertation to the <hi rend="italic">English Apocalypse</hi>, and she began work
+          on an edition in the 1920s for the Early English Text Society which was never completed.
+          She was also the first to discover the translation’s Anglo-Norman origins, and she
+          identified several of its manuscripts, which before that point had been labeled as early
+          drafts of the Wycliffite Bible.<note target="#3" type="footnotelink">3</note></p>
+        <p style="body" n="2">The <hi rend="italic">English Apocalypse</hi> survives in fifteen
+          manuscripts from the fourteenth and early fifteenth centuries, which are listed in the
+          section “Other Manuscripts of the <hi rend="italic">English Apocalypse</hi>” below. Three
+          manuscripts from the sixteenth to eighteenth centuries also reproduce the <hi
+            rend="italic">English Apocalypse</hi><note target="#4" type="footnotelink">4</note> but
+          are not included in this total, as they are simply transcriptions of earlier extant
+          copies. Twelve of the early manuscripts share enough similarities to likely derive from
+          the same source, called Version A, and three represent an alternate rendering, possibly a
+          later revision, called Version B. To produce his 1961 edition of Version A, Fridner
+          collated eleven of the twelve extant manuscripts, from libraries in London, Oxford,
+          Cambridge, and Dublin, and it has remained until now the only printed edition of the
+          original text. The present edition is both an update and an extension of the work he began
+          more than sixty years ago. The alternate Version B text has also been edited only once, by
+          Walter Sauer in 1971, in a doctoral dissertation for Heidelberg University in Germany.</p>
+        <p style="body" n="3">The one manuscript Fridner did not include in his collation in 1961 —
+          in fact, he made no mention of it whatsoever, either because he was unaware of its
+          existence or because he did not have access to the library where it was held in New York
+          City — is in many ways the most interesting and unusual of all the extant manuscripts of
+          the <hi rend="italic">English Apocalypse</hi>. Columbia University MS Plimpton Add. 03,
+          held at Columbia’s Rare Book &amp; Manuscript Library, is a codex of 265 parchment pages.
+          It contains a complete New Testament in Middle English, which takes up nearly 90 percent
+          of its total volume, followed by a variety of devotional materials, including at least one
+          work, <hi rend="italic">The Lollard Chronicle of the Papacy</hi>, which is directly
+          related to Lollardy, the anticlerical and heretical movement inspired by John Wyclif in
+          the late fourteenth century. Three other extant copies of the <hi rend="italic">English
+            Apocalypse</hi> appear in manuscripts alongside Wycliffite or Lollard material, but this
+          is not what makes Plimpton most unique.</p>
+        <p style="body" n="4">The New Testament at the front of the codex features a total of three
+          separate Middle English translations of Scripture, starting with both versions of the
+          Wycliffite Bible — the Early Version (EV), which is a direct word-for-word translation
+          from the Vulgate, and the Later Version (LV), which smooths out the Latinate syntax for
+          English readers and uses more English idioms.<note target="#5" type="footnotelink"
+            >5</note> Matti Peikola, who has exhaustively catalogued the Plimpton manuscript’s
+          features and analyzed it as an example of early Lollard book production, describes its New
+          Testament as representing “the transition phase from the Early to the Later Version.”<note
+            target="#6" type="footnotelink">6</note> The first two books, the Gospels of Matthew and
+          Mark, begin in EV, followed by a prologue to Luke which runs for one page and five lines
+          (fols. 55r–55v) before it abruptly cuts off and is crossed out with red ink — apparently a
+          discarded draft. A new prologue begins on a separate page, followed by the Gospel of Luke,
+          now in the LV translation. This shift is also accompanied by a change in scribal hands and
+          in layout, from double-column to single-column formatting. According to Peikola, only four
+          other manuscripts out of the 253 Wycliffite Bible manuscripts extant show a similar
+            shift,<note target="#7" type="footnotelink">7</note> making the Plimpton New Testament a
+          rare example of a blended biblical text, one that may afford a valuable glimpse into the
+          process of Wycliffite Bible translation and manuscript production.</p>
+        <p style="body" n="5">But the Plimpton manuscript has one final surprise in store after its
+          shift from EV to LV. The New Testament’s final book, the Apocalypse, begins as expected
+          with the Wycliffite LV translation for the first sixteen verses, though it includes an
+          interpolated commentary that none of the other New Testament books share. Then, starting
+          in verse 1:17, the biblical text becomes the <hi rend="italic">English Apocalypse</hi>,
+          the Middle English translation from Anglo-Norman French which predates the Wycliffite
+          Bible by 20–40 years. This shift is accompanied by no change in scribal hand, page layout,
+          or any other signal. The producers of this manuscript, either because their copy of the EV
+          or LV Apocalypse was corrupt or missing, or because their translation was not yet
+          complete, or because they simply found this translation superior for reasons unknown,
+          decided to replace the final book in an otherwise Wycliffite New Testament with the
+          earlier, non-Wycliffite <hi rend="italic">English Apocalypse</hi> — making it unique among
+          all other extant copies of both the <hi rend="italic">English Apocalypse</hi> and the
+          Wycliffite Bible.</p>
+        <p style="body" n="6">The earliest manuscripts of the <hi rend="italic">English
+            Apocalypse</hi> — including British Library MS Harley 874, which provides secondary
+          readings for this edition — do not include the first eight verses of the biblical text as
+          they appear in Vulgate and Old French Bibles but start instead at verse 1:9. Clearly the
+          exemplar from which these copies were made did not include this opening passage, which was
+          either a deliberate decision by the early fourteenth-century translator (the first eight
+          verses of the Book of Revelation comprise a prologue that can easily be excised) or a
+          necessity because the exemplar was corrupt or missing a leaf. Whatever the reason, five
+          later manuscripts, including Plimpton, replace these verses with their equivalents from
+          the Wycliffite LV — proof that the producers of these <hi rend="italic">English
+            Apocalypse</hi> manuscripts had multiple translations on hand and felt free to blend
+          them to create the best possible edition.</p>
+        <p style="body" n="7">Plimpton is unique in borrowing from the LV through verse 16, but
+          another late manuscript, British Library Royal 17 A.xxvi, whose Apocalypse appears
+          alongside a Wycliffite Gospel of John, continues with the LV through verse 12. Two others,
+          Oxford University Bodley MS Laud Misc. 33 and Rylands Library English MS 92, extend the LV
+          through verse 11. Two more, British Library Harley 3913 and Cambridge University St.
+          John’s College MS G.25, feature biblical verses primarily from the Wycliffite LV and
+          commentary from the <hi rend="italic">English Apocalypse</hi>, a thorough blending of what
+          must have begun as two separate manuscripts.<note target="#8" type="footnotelink"
+          >8</note></p>
+        <p style="body" n="8">In addition, the Plimpton copy of the <hi rend="italic">English
+            Apocalypse</hi> exhibits influence from the Wycliffite LV that goes beyond the mere
+          substitution of verses. Unlike any other manuscript, Plimpton briefly switches back to the
+          LV for a few verses after the first chapter, in 3:7–22, and throughout the text, stray
+          words and phrases appear to be borrowed from the LV at various points. In other words, the
+            <hi rend="italic">English Apocalypse</hi> as it appears in the Plimpton manuscript is a
+          blended text in nearly every way, and it offers a unique glimpse into English Bible
+          translation and production at a historic moment of transition. It is a prime example of
+          the ways that boundaries between Wycliffite and non-Wycliffite material were often
+          flexible in late fourteenth and early fifteenth-century manuscripts, as the Lollard
+          producers of English Bibles took up and used earlier material that predated Archbishop of
+          Canterbury Thomas Arundel’s ban on English translations in 1407, an event discussed below
+          in the section titled “The Influence of Arundel’s Constitutions.”</p>
+        <p style="body" n="9">The Plimpton manuscript may well have been assembled by a Lollard
+          patron or a community of Lollards in defiance of this ban in the early fifteenth century,
+          as part of their project to make Scripture available in the vernacular to preachers and
+          lay readers. One piece of evidence to support this possibility is the manuscript’s
+          entirely nondescript appearance, with no illuminations and very few decorated initials. It
+          is a book which, though clearly produced by professional scribes, does not wish to draw
+          attention to itself from censors or confiscators.</p>
+        <p style="body" n="10">The <hi rend="italic">English Apocalypse</hi> includes a prologue,
+          translated from the Anglo-Norman original which is itself a translation of a
+          twelfth-century Latin commentary attributed (probably falsely) to Gilbert de la Porrée,
+          who died in 1154,<note target="#9" type="footnotelink">9</note> as well as an explanatory
+          commentary, or “glose,” which alternates with the text after every few verses. These
+          glosses are “demonstrably Franciscan,”<note target="#10" type="footnotelink">10</note>
+          which places their date of composition in the mid-thirteenth century at the earliest,
+          after the foundation of the Franciscan order, but anything more about their authorship or
+          date of translation is unknown. The <hi rend="italic">English Apocalypse</hi> manuscripts
+          in general, and the Plimpton manuscript in particular, add their own anticlerical
+          flourishes to the glosses, excoriating “false clerkis” (14.¶7, 16.¶11, and 17.¶¶3, 9) and
+          highlighting concerns about the corruption of the priesthood and church hierarchy. These
+          anticlerical insertions, which are examined in further detail in the section “The Gloss
+          and Lollard Anticlericalism” below and in the Explanatory Notes, provide another possible
+          explanation, in addition to the quality of the translation itself, for why a Lollard
+          producer of the Plimpton New Testament might have been attracted to this text.</p>
+        <p style="body" n="11">This new edition of the <hi rend="italic">English Apocalypse</hi>
+          uses Plimpton as its base text for all of these reasons — because it has never been edited
+          before and remains relatively unexamined among Middle English biblical texts, because it
+          appears at the end of a Wycliffite New Testament unlike any other extant manuscript,
+          because it is a blended text which gives insight to the process of English Bible
+          translation in the late fourteenth century, and because it contains a unique set of
+          additions to the standard gloss. Extensive textual notes catalogue each instance of
+          potential Wycliffite influence; in addition, an Appendix presents a complete edition of
+          the Wycliffite LV Apocalypse for comparison. A second Appendix makes a facing-page
+          comparison of Plimpton’s borrowings from the LV in chapters 1 and 3 alongside passages
+          from the earliest copy of the <hi rend="italic">English Apocalypse</hi>, so readers can
+          see clearly what the producers of the manuscript chose to replace.</p>
+        <p style="body" n="12">The edition thus serves two purposes for two types of readers. For
+          students of Middle English literature and Bible translation, it provides an easy-to-read
+          edition of the <hi rend="italic">English Apocalypse</hi>, an influential work of Middle
+          English translation which has not appeared in print for more than sixty years. For more
+          advanced scholars of the Wycliffite Bible and the history of Lollard book production, the
+          blended nature of the Plimpton manuscript provides a fascinating glimpse into the craft of
+          medieval Bible translation and production, and the verse-by-verse decision-making process
+          of compilers and scribes as they worked with at least two editions of the same biblical
+          text. It is impossible to know whether the producers of the Plimpton manuscript had a copy
+          of the Anglo-Norman Apocalypse and commentary which served as the origin of their Middle
+          English text at hand, but doubtless they had access to the Latin Vulgate. In places where
+          the Plimpton text gives an unusual reading or a unique mistranslation of the text, the
+          notes offer speculation about where the irregularity might be traced and why it
+          occurred.</p>
+        <p style="heading" n="2">The Manuscript</p>
+        <p style="bodyfirst" n="2">Columbia University MS Plimpton Add. 03, the base manuscript for
+          this edition, is a codex 25 x 17 centimeters in size with 265 parchment leaves, of which
+          the first 237 are a New Testament composed of three Middle English translations: the
+          Wycliffite EV and LV and the <hi rend="italic">English Apocalypse</hi> with commentary,
+          which appears at the end of the New Testament on folios 203r–237r. According to Matti
+          Peikola, the manuscript contains at least six scribal hands which can be dated
+          paleographically to the early fifteenth century.<note target="#11" type="footnotelink"
+            >11</note> Most of the Apocalypse is in a single hand, but one page following the
+          prologue (fol. 204r) is in a smaller and more formal textura hand than the rest of the
+          book. The manuscript is not illuminated, and its rubricated initial letters are typically
+          two lines in height and all in the same red ink.</p>
+        <p style="body" n="13">The Gospels of Matthew and Mark and part of the prologue to Luke are
+          in EV, at which point the prologue cuts off, a new LV prologue to Luke begins on a
+          separate page, and the MS continues in LV for the remainder of the New Testament until the
+          Apocalypse, perhaps because the EV exemplar copy was corrupt or because the LV exemplar
+          was incomplete. As noted above, the number of columns per page changes from two to one at
+          the same point, likely in parallel with the two Wycliffite versions’ respective exemplars.
+          The manuscript shifts again at verse 1:17 of the Apocalypse, to the translation referred
+          to here as the <hi rend="italic">English Apocalypse</hi>, though there is no corresponding
+          change in scribal hand or page layout.</p>
+        <p style="body" n="14">The reasons for the shift to a third translation at the end of the
+          New Testament are as obscure as the reasons for the first shift but may also have involved
+          a corrupt or incomplete LV translation. Peikola observes:</p>
+        <quote>A manuscript like this would be a good candidate for the Later Version exemplar
+          obtained by the makers of Plimpton after the corrupt text of the Early Version had to be
+          discarded . . . The almost blank page at the end of the Catholic Epistles probably
+          betokens that the exemplar used at that point did not contain any more text . . . Instead,
+          it appears that the makers once again had to start looking for a new exemplar — this time
+          one from which the Apocalypse could be copied.<note target="#12" type="footnotelink"
+            >12</note></quote>
+        <p style="bodyfirst" n="3">A few verses early in the <hi rend="italic">English
+            Apocalypse</hi>, 1:1–16 and 3:7–22, replace the biblical text with corresponding
+          passages from the LV, perhaps because the exemplar was corrupt or missing a leaf — the
+          length of missing text in both instances corresponds roughly to the amount that would fit
+          on a single page. However, the gloss remains keyed to the complete uncorrupted text,
+          causing its language in a few places not to match the biblical text it explicates. For
+          example, verse 1:13 (1.¶7) refers to “oon lyk to the sone of man,” following LV, but the
+          gloss for 1:13 (1.¶8) refers to the same figure as “the maydenesse sone,” the phrasing of
+          the original <hi rend="italic">English Apocalypse</hi> translation as found in earlier
+          uncorrupted copies. In another case later in the manuscript, the gloss interprets the
+          phrase “the two colurrs that ben in the reynebowe” (4.¶2), an image from the second half
+          of verse 4:3, which the manuscript for unknown reasons has dropped altogether. The
+          explanatory notes for this edition thoroughly list and analyze every instance of this type
+          of discrepancy, but as these two examples demonstrate, the producers of the Plimpton
+          manuscript were clearly working with a complete gloss for the <hi rend="italic">English
+            Apocalypse</hi>, but the exemplar for the biblical text must have been slightly
+          corrupted, perhaps the impetus for the insertion of occasional LV verses.</p>
+        <p style="body" n="15">In at least one intriguing case, the Wycliffite LV appears to have
+          had an influence on a revision of the <hi rend="italic">English Apocalypse</hi> gloss, a
+          helpful reminder that textual influence does not always flow from older texts to newer,
+          and revisions can be made in both directions. Like several other copies of the <hi
+            rend="italic">English Apocalypse</hi>, including the earliest, Plimpton mistranslates
+          the Anglo-Norman word “phioles” (vials) in verse 5:8 as “fithelis” (fiddles), apparently
+          by way of the Middle English “viol,” which can mean either vial or violin, resulting in
+          the visually striking but inaccurate image of “harpis and fithelis of gold ful of swete
+          smele” (see the explanatory notes for 5.¶3 and 5.¶4). Later manuscripts including
+          Plimpton, while not correcting the mistranslation in the biblical text, add a gloss that
+          is absent from earlier manuscripts and follow the LV in using the accurate, though in this
+          context possibly ambiguous, “violis” (5.¶4).</p>
+        <p style="body" n="16">Fridner locates the Middle English dialect of the earliest
+          manuscripts of the <hi rend="italic">English Apocalypse</hi> in the East Midlands of
+          England and asserts that “there is no reason why the original dialect should not also have
+          been EM.”<note target="#13" type="footnotelink">13</note> Paues, however, lists several
+          “northerly forms” in the early manuscripts which lead her to speculate that the
+          translation originated instead in the North Midlands.<note target="#14"
+            type="footnotelink">14</note> Several of the forms she lists are noticeable in the early
+          MS Harley 874 (H in this edition), such as a preference for the pronoun <hi rend="italic"
+            >thai</hi> over <hi rend="italic">thei</hi> (Plimpton also uses <hi rend="italic"
+            >thai</hi>, but far less frequently), the conjunction <hi rend="italic">oither</hi>
+          where Plimpton has <hi rend="italic">either</hi> (meaning “or”), and the personal pronoun
+            <hi rend="italic">Ich</hi> for <hi rend="italic">I</hi> or <hi rend="italic">Y</hi>.
+          Fridner, contra Paues, claims that these variations are minor and likely reflect local
+          scribal preferences. Plimpton, as with all later copies of the <hi rend="italic">English
+            Apocalypse</hi>, uses the central Midlands dialect shared by the Wycliffite LV.<note
+            target="#15" type="footnotelink">15</note> Perhaps the most noticeable shift from H to
+          Plimpton is in the use of the conjunction <hi rend="italic">but</hi> in place of the East
+          Midland <hi rend="italic">ac</hi>, though other shifts are also apparent, such as a
+          complete elimination of the <hi rend="italic">ne . . . naughth</hi> double negative form.
+          How far removed the Plimpton manuscript is from the Wycliffite Bible translators
+          themselves we cannot know — Peikola goes no further than to say it was likely produced in
+          a “metropolitan” context alongside Wycliffite Bibles, in or around Oxford or London.<note
+            target="#16" type="footnotelink">16</note> Without more information about the
+          translation’s origins beyond what the manuscripts can tell us, a precise location and
+          dialect for the original text of the <hi rend="italic">English Apocalypse</hi> is
+          impossible to pinpoint.</p>
+        <p style="body" n="17">Prior to the antiquarian George A. Plimpton’s acquisition of the
+          manuscript, which he donated to Columbia in 1936, it belonged to the Norwich cathedral
+          priory in Norfolk, a Benedictine house, though it was not likely to have been produced
+          there and its texts contain no obvious connection to the Benedictines. The presence of the
+          Wycliffite translations and other Lollard material indicates that the manuscript cannot
+          have been produced earlier than ca. 1390, and more likely the early fifteenth century. It
+          was bound in vellum over pasteboards at some point in the eighteenth century.</p>
+        <p style="body" n="18">The manuscript contains the following contents:</p>
+        <list rend="numbered">
+          <item style="indent1">Matthew and Mark in EV with prologues and partial prologue to Luke
+            (fols. 2r–55v).</item>
+          <item style="indent1">Luke to Jude in LV with prologues (fols. 56r–202v).</item>
+          <item style="indent1">The <hi rend="italic">English Apocalypse</hi> with commentary (fols.
+            203r–237r).</item>
+          <item style="indent1">Proverbial sayings from the Old Testament in paraphrase,
+            non-Wycliffite (fols. 237r–238r).</item>
+          <item style="indent1">Shortened version of the <hi rend="italic">Lollard Chronicle of the
+              Papacy</hi> (fols. 238r–240r).</item>
+          <item style="indent1">Prophecy of St. Hildegard, also known as <hi rend="italic">Insurgent
+              gentes</hi> (fols. 240r–241r).<note target="#17" type="footnotelink">17</note></item>
+          <item style="indent1">Seven Words of Christ on the Cross with commentary (fol.
+            241r).</item>
+          <item style="indent1">Ten Commandments with commentary (fols. 241r–241v).</item>
+          <item style="indent1">Short penitential lyric, “God that alle myghtes may” (fol.
+            241v).</item>
+          <item style="indent1">Old Testament lectionary in LV translation (fols. 242r–265v).</item>
+        </list>
+        <p style="heading" n="3">Other Manuscripts of the <hi rend="italic">English
+          Apocalypse</hi></p>
+        <p style="bodyfirst" n="4">The <hi rend="italic">English Apocalypse</hi> is extant in
+          fifteen copies that date from the mid-fourteenth to the early fifteenth centuries. Twelve
+          of these copies are in Version A and three in a possibly later Version B. As noted above,
+          Fridner collated eleven copies of Version A in his 1961 edition but did not include
+          Plimpton. The libraries and shelfmarks for these twelve manuscripts are listed
+          alphabetically by city below, with brief notes about a few of the most significant. Unless
+          otherwise noted, manuscripts of the <hi rend="italic">English Apocalypse</hi> omit verses
+          1:1–8; a few later manuscripts, including Plimpton, fill in the missing verses with
+          corresponding verses from the Wycliffite LV.</p>
+        <list rend="numbered">
+          <item style="indent1">Cambridge, Caius College, MS 231/117, fols. 1r–86v. One of the
+            earliest manuscripts, but fragmentary and missing large sections of text, including the
+            prologue, the first chapter through verse 1:20, and more than two chapters later in the
+            text (17:6–20:7), apparently because its parent copy was incomplete.</item>
+          <item style="indent1">Cambridge, Magdalene College, MS Pepys 2498, fols. 226b–263b (P). A
+            later copy (ca. 1400) with no apparent Wycliffite influence, which serves as the second
+            supplementary text for this edition, filling in from verses 3:1–4:6 where H is missing a
+            leaf (see description of H, below).</item>
+          <item style="indent1">Cambridge, St. John’s College MS G.25, fols. 17–67. One of two
+            Apocalypses, along with British Library, MS Harley 3913 (listed below), in which the
+            biblical text comes mostly from the Wycliffite LV and its commentary from the <hi
+              rend="italic">English Apocalypse</hi>. Mary Dove lists this Apocalypse in her index of
+            Wycliffite Bible manuscripts, but does not include Harley 3913.<note target="#18"
+              type="footnotelink">18</note> Morey cites it as the sole example of an English
+            Apocalypse with “text from LV.”<note target="#19" type="footnotelink">19</note></item>
+          <item style="indent1">Dublin, Trinity College, MS 69, fols. 55v–65r, 72v–78r.</item>
+          <item style="indent1">London, British Library, MS Harley 874, fols. 2r–31r (H). The
+            earliest known extant copy from the mid-fourteenth century (ca. 1340–1370). H serves as
+            the first supplementary text for this edition. It has been digitized and is available
+            for viewing in high-resolution color scans on the British Library’s website. Like all
+            copies of the <hi rend="italic">English Apocalypse</hi> that predate the Wycliffite
+            Bible and a few later copies, H omits verses 1:1–8. The manuscript contains a lacuna,
+            apparently a single missing leaf, starting in the gloss at the end of chapter 2 and
+            continuing into the gloss that follows verse 4:6. To cover this section of missing text
+            for this edition, P (see above, p. 6) fills in as a second supplementary
+            manuscript.</item>
+          <item style="indent1">London, British Library, MS Harley 3913, fols. 113v–203v. Apocalypse
+            with biblical text primarily from the Wycliffite LV and commentary from the <hi
+              rend="italic">English Apocalypse</hi>. Fridner collates the commentary from this
+            manuscript in his edition but does not collate the biblical text, since it has been too
+            closely copied from “a Lollard Bible.”<note target="#20" type="footnotelink"
+            >20</note></item>
+          <item style="indent1">London, British Library, MS Royal 17 A.xxvi, fols. 67–206. Appears
+            in a manuscript with the Wycliffite EV Gospel of John. Includes verses 1:1–12 in
+            LV.</item>
+          <item style="indent1">Manchester, Rylands Library, English MS 92. Includes verses 1:1–11
+            in LV, fols. 1r–46v.</item>
+          <item style="indent1">New York City, Columbia University Rare Book &amp; Manuscript
+            Library, MS Plimpton Add. 03, fols. 203r–237r (MS). The base text for this edition. MS
+            appears as the final book of a Wycliffite New Testament which uses EV for Matthew and
+            Mark and LV thereafter. Includes verses 1:1–16 and 3:7–22 in LV.</item>
+          <item style="indent1">Oxford, Bodleian Library, MS Laud Misc. 33, fols. 96v–144r. Appears
+            in a manuscript with LV Pauline and Catholic Epistles. Includes verses 1:1–11 in
+            LV.</item>
+          <item style="indent1">Oxford, Bodleian Library, MS Laud Misc. 235, fols. 265r–300r.
+            Appears in a manuscript with EV Gospel of Matthew.</item>
+          <item style="indent1">Oxford, Bodleian Library, MS Rawlinson C.750, fols. 1r–51v. A later
+            copy which is missing multiple leaves; it begins mid-sentence at verse 2:1 and cuts off
+            at 22:16, four verses from the end.</item>
+        </list>
+        <p style="heading" n="4">The Wycliffite Bible Manuscripts (Appendix A)</p>
+        <p style="bodyfirst" n="5">The base manuscript for the Wycliffite LV Apocalypse published
+          here as Appendix A is Oxford University, Bodley MS Fairfax 2, fols. 380ra–385rb (F). The
+          secondary text is Oxford University, Bodley MS 277, fols. 370r–375r (B).</p>
+        <p style="body" n="19">Elizabeth Solopova describes the characteristics of F in the
+          catalogue <hi rend="italic">Manuscripts of the Wycliffite Bible in the Bodleian and Oxford
+            College Libraries</hi>.<note target="#21" type="footnotelink">21</note> The Apocalypse
+          is the final book of a complete Wycliffite Bible in LV, followed by a lectionary calendar.
+          The biblical texts include occasional marginal glosses, which are noted in the textual
+          notes of this edition. F is internally dated to the year 1408; a note following the end of
+          the Apocalypse reads, “The eer [year] of the Lord M.CCC &amp; viii this book was endid.”
+          Clearly the year 1308 is too early for a Wycliffite Bible manuscript, but an erasure
+          following the third C suggests that a fourth C was dropped. Solopova speculates that the
+          date may have been intentionally altered to avoid censorship under Arundel’s recently
+          published <hi rend="italic">Constitutions</hi>. However, she adds that “examination under
+          UV light” suggests a more likely explanation: “that the scribe first wrote ‘M.ccc’ and the
+          ‘and’ symbol, erased the latter, wrote it in the right place, and then forgot to insert
+          the fourth ‘c.’”<note target="#22" type="footnotelink">22</note></p>
+        <p style="body" n="20">F has not appeared in a printed edition before now, but the secondary
+          text for this edition, B, is one of the most extensively edited Wycliffite Bible
+          manuscripts in existence. B serves as the base text for Conrad Lindberg’s four-volume
+          edition of the Wycliffite LV titled <hi rend="italic">King Henry’s Bible: MS Bodley 277:
+            The Revised Version of the Wyclif Bible</hi>, completed in 2004. The Apocalypse appears
+          in the fourth volume, which is Stockholm Studies in English, volume 100. Lindberg’s title
+          refers to a large woodcut illustration of King Henry VI pasted to one of the final leaves
+          of the codex, with a Latin inscription noting that the king owned the Bible and that it
+          was later donated to the London Charterhouse, a Carthusian monastery. Solopova dates the
+          manuscript to ca. 1415–1425.<note target="#23" type="footnotelink">23</note></p>
+        <p style="body" n="21">The text in both F and B is formatted in double columns, and both
+          feature large initial letters in blue and red ink, though B is more lavishly illuminated
+          with decorative borders and gilded initial letters.</p>
+        <p style="heading" n="5">The History of French and Anglo-Norman Bible Translation</p>
+        <p style="bodyfirst" n="6">To trace the history that led to the production of the <hi
+            rend="italic">English Apocalypse</hi> in the mid-fourteenth century, we must start with
+          the translation tradition behind its source text, the Anglo-Norman Apocalypse, and the
+          texts in turn that undergird it, in particular the Old French Bible. The history of Bible
+          translation in French begins in the tenth century, not long after Old French itself
+          emerged as a Romance dialect, when translators began converting individual books of the
+          Bible from St. Jerome’s Vulgate Latin into the vernacular, but hundreds of years before
+          these efforts coalesced in the production of a full Bible. Relatively few manuscripts from
+          these early years are extant until the twelfth century, a few decades after the Norman
+          Conquest, when an unprecedented explosion of French translations of the Bible were
+          produced, the bulk of them in England. As Paues observes in her 1902 study of Middle
+          English New Testament translations, “It is a remarkable and significant fact that the
+          earliest specimens of the French vernacular Bible are of Norman origin, and that the
+          earliest MSS. in which they have come down to us were executed in England by Anglo-Norman
+            scribes.”<note target="#24" type="footnotelink">24</note> The first book of the Bible to
+          be translated into the newly emergent dialect of Anglo-Norman was the Psalms, possibly at
+          the Benedictine abbey of St. Albans in the 1140s.<note target="#25" type="footnotelink"
+            >25</note></p>
+        <p style="body" n="22">A great flourishing of Anglo-Norman Psalters would follow and
+          crescendo in the closing decades of the twelfth century. Also predominant among
+          twelfth-century French productions were illustrated “Bible books,” sometimes with
+          commentary, as well as liturgical aids and collections of sermons which included original
+          translations of various biblical passages.<note target="#26" type="footnotelink">26</note>
+          A slightly later development originating in Paris were <hi rend="italic">Bibles
+            moralisées</hi>, described by Ian Short as “profusely illustrated picture books made for
+          the French royal family,” which dated from the 1220s and reached England a few decades
+            later.<note target="#27" type="footnotelink">27</note> The biblical texts in these <hi
+            rend="italic">Bibles moralisées</hi> were selected for their moral or typological
+          significance and heavily paraphrased.<note target="#28" type="footnotelink">28</note>
+          Though the primary teaching aid in these stunningly beautiful and expensive productions
+          was clearly their colorful pictures, they invariably included commentary translated from
+          Latin as well, which came either from Berengaudus — a writer about whom nothing is known,
+          who may have lived anywhere from the ninth to the eleventh century — or from another
+          anonymous source.<note target="#29" type="footnotelink">29</note></p>
+        <p style="body" n="23">The popularity of these richly illuminated Psalters and Bible
+          paraphrases on both sides of the English Channel soon extended to other books of the
+          Bible. By the middle of the thirteenth century, picture books of the Apocalypse had become
+          one of the most popular luxury book productions in France and England, as measured by
+          their more than eighty extant manuscripts, including two of the largest and most lavishly
+          decorated, the Trinity Apocalypse (Cambridge, Trinity College, MS R.16.2, fols.1r–31v) and
+          the Abingdon Apocalypse (London, British Library, Add. MS 42555, fols. 5r–82v).<note
+            target="#30" type="footnotelink">30</note> The commentary that accompanied the
+          illustrations and biblical text of these Apocalypses came either from the aforementioned
+          Berengaudus, or from one of the other anonymous commentaries in the <hi rend="italic"
+            >Bibles moralisées</hi>, whose original texts do not survive, or from the <hi
+            rend="italic">Glossa Ordinaria</hi>, the ubiquitous twelfth-century compilation of
+          glosses mainly from patristic sources.<note target="#31" type="footnotelink">31</note>
+          Calling them works of “remarkable prestige and beauty,” Daron Burrows argues that “there
+          are few events of greater importance to the history of medieval art and bookmaking than
+          the production of the first illustrated manuscripts of the Apocalypse of St. John . . .
+          This development is also of singular importance to francophone literature, since half of
+          these manuscripts contain vernacular material, with the earliest, most important, and
+          greatest number of these texts copied in Anglo-Norman.”<note target="#32"
+            type="footnotelink">32</note></p>
+        <p style="body" n="24">Ten of these forty vernacular Apocalypse manuscripts are cast in
+          verse, in roughly octosyllabic couplets. The rest make up what is broadly known as the
+          French Prose Apocalypse, the source text that would be used half a century later by the
+          translators of the <hi rend="italic">English Apocalypse</hi>. The translation is anonymous
+          and approximately 27,000 words in length, a measure which includes both the biblical text
+          and an interpolated commentary approximately twice its length. Twenty of the thirty extant
+          vernacular texts, including the earliest copies, are in the Anglo-Norman dialect.<note
+            target="#33" type="footnotelink">33</note> Both their language and the prominence of
+          their illustrations suggest that the intended audience for these books, far from being the
+          almost exclusively clerical and monastic readers of prior generations, now included the
+          less educated laity.<note target="#34" type="footnotelink">34</note></p>
+        <p style="body" n="25">Incredibly, no critical edition of the Anglo-Norman Apocalypse has
+          yet been published. The standard edition, edited by Léopold Delisle and Paul Meyer in two
+          volumes in 1900 and 1901, is not, in the editors’ own words, “une édition critique” but
+          merely a transcription of a possibly corrupt text from the manuscript Bibliothèque
+          Nationale de France, MS Français 403, fols. 1–45v.<note target="#35" type="footnotelink"
+            >35</note> Burrows elaborates on the frustrations for scholars as a result of this
+          lack:</p>
+        <quote>There is no critical edition of the Prose Apocalypse, nor has there been any study of
+          the textual tradition which would allow one to pronounce with any certainty on
+          affiliations between manuscripts or the possibility of establishing a stemma, and this
+          fundamental philological neglect only exacerbates the uncertainties surrounding other key
+          questions, such as the date of the text’s composition, the identity of its anonymous
+          author, the relationship of its “non-Berengaudus gloss” to the vast exegetical tradition
+          on which it clearly draws, and even, despite the predominance of its transmission in
+          Anglo-Norman manuscripts, on which side of the Channel it was originally written. As a
+          result, the Prose Apocalypse remains shrouded by nearly as many mysteries as Jerome
+          famously declared the last book of the New Testament to contain.<note target="#36"
+            type="footnotelink">36</note></quote>
+        <p style="bodyfirst" n="7">In his edition of the <hi rend="italic">English Apocalypse</hi>,
+          Fridner echoes Delisle and Meyer’s assertion that all available manuscripts of the
+          Anglo-Norman Apocalypse, including their own base text, are unreliable to some degree. He
+          quotes M. R. James’s observation about one such corrupt Apocalypse manuscript, the
+          lavishly illuminated Bodley MS Douce 180, that it is “so carelessly (though beautifully)
+          written as sometimes to make nonsense.”<note target="#37" type="footnotelink">37</note>
+          Despite these potential problems, Fridner reproduced Delisle and Meyer’s transcription of
+          BnF fr. 403 as a running text in his edition of the <hi rend="italic">English
+            Apocalypse</hi>, in effect because he had no choice without embarking on an entirely
+          separate project of producing a critical edition of the Anglo-Norman Apocalypse
+            himself.<note target="#38" type="footnotelink">38</note> My own explanatory and textual
+          notes on the Anglo-Norman text, when its language is relevant to an understanding of the
+          English translator’s word choices, are derived from Fridner’s copy, though the original
+          text can also be found in Delisle and Meyer’s edition.</p>
+        <p style="body" n="26">A complete Bible in French — the first complete vernacular Bible of
+          its kind to be produced in western Europe — was a somewhat later development, and it
+          started with innovations in the presentation of the Vulgate text. As David Lawton points
+          out, “the Bible as we most commonly experience it today, as a single portable volume with
+          its books in a fixed order, and with chapter divisions, was the invention of Paris
+          workshops in the 1220s and 1230s,” and was designed to meet the needs of fraternal orders,
+          particularly the Dominicans, “for an individual source of authority, reference, and
+          preaching material.”<note target="#39" type="footnotelink">39</note> Through the work of
+          an anonymous team of translators in Paris, copies of what came to be known as the Old
+          French Bible were in circulation in both France and England by 1260, with a different type
+          of audience, lay readers, in mind.<note target="#40" type="footnotelink">40</note> The
+          translation was based on the Vulgate Latin, with most books featuring a light to moderate
+          gloss, and its goal, according to Clive Sneddon, was “rendering the Vulgate in a clear Old
+          French prose which respected the register and style differences between Bible books and
+          was generally accessible to readers.”<note target="#41" type="footnotelink">41</note>
+          Three complete manuscripts of the Old French Bible are extant, and surviving fragments
+          suggest that at least twenty-two complete copies were made.<note target="#42"
+            type="footnotelink">42</note></p>
+        <p style="body" n="27">In the early fourteenth century, copies of the Old French Bible begin
+          appearing in “fusion” with a Bible in the Picard dialect produced by Guiart des Moulin in
+          ca. 1297 called the <hi rend="italic">Bible historiale</hi>, a hybrid translation known to
+          scholars today as the <hi rend="italic">Bible historiale complétée</hi>. Margriet
+          Hoogvliet calls the manuscripts of this biblical fusion “one of the great successes of the
+          commercial manuscript production in Paris during the fourteenth and fifteenth centuries,”
+          with more than 140 partial and complete copies extant.<note target="#43"
+            type="footnotelink">43</note> Despite the clear popularity of complete French Bibles in
+          the fourteenth century, readers in England and France would nevertheless have still been
+          most likely to encounter the Bible the same way their predecessors in the early thirteenth
+          century did — through fragmentary forms including illuminated manuscripts with
+          abridgements and commentary, paraphrases, and individual books produced separately from
+          the rest of the Bible.</p>
+        <p style="body" n="28">A complete Bible in Anglo-Norman French did not appear until the
+          first half of the fourteenth century, perhaps only a short while before the <hi
+            rend="italic">English Apocalypse</hi> translators began their work.<note target="#44"
+            type="footnotelink">44</note> It is possible, though unlikely to be proven one way or
+          the other, that the English translators had at their disposal both a copy of the
+          Anglo-Norman Apocalypse, the primary text for their translation, and a supplementary copy
+          of the Old French and/or Anglo-Norman complete Bible which included the Apocalypse.</p>
+        <p style="heading" n="6">Apocalypse Commentaries</p>
+        <p style="bodyfirst" n="8">The commentary that appears in the prologue and in the
+          interpolated gloss of the <hi rend="italic">English Apocalypse</hi>, and in the
+          Anglo-Norman Apocalypse that came before it, participates in a long tradition of
+          Apocalypse commentaries, especially those disseminated by the Dominican and Franciscan
+          orders of friars in the twelfth to thirteenth centuries and taken up in the fourteenth
+          century by English dissidents in the Lollard movement.</p>
+        <p style="body" n="29">Given the complex and mysterious nature of the imagery in the Book of
+          Revelation, it is no surprise that this book of the Bible inspired volumes of commentary
+          from the earliest days of its inclusion in the New Testament canon. In the first centuries
+          of the Common Era, commentaries on the Apocalypse proliferated and eventually broke into
+          two strands — those which used the text to speculate when end times events would occur
+          (usually imminently), and those which gave the text’s symbolic imagery a broader, less
+          specifically predictive interpretation. Kevin Poole notes that by the late fourth century,
+          “Revelation had proven itself non-predictive, and many of the major exegetes . . . began
+          to read Revelation as a more symbolical or allegorical text.”<note target="#45"
+            type="footnotelink">45</note> As Apocalypse editions and their accompanying commentaries
+          exploded in popularity in the later Middle Ages, starting in France in the thirteenth
+          century, this latter approach in Apocalypse commentaries predominated. The biblical text
+          could still be used to speculate about end times events, as the commentary to the <hi
+            rend="italic">English Apocalypse</hi> makes clear, but just as pertinent were
+          interpretations that gave its images contemporary relevance.</p>
+        <p style="body" n="30">One clear example of this interpretive tradition roughly contemporary
+          with the production of the Plimpton manuscript comes, ironically, from a church official
+          writing in opposition to English Bible translations, in the very document that would ban
+          their production. Archbishop Thomas Arundel, in his introduction to the <hi rend="italic"
+            >Constitutions</hi> of 1407, writes that just as Satan comes dressed as an “angel of
+          light,” so those who wish to destroy the church also come in deceptively pleasant
+          garb:</p>
+        <quote>. . . by which the emblem in the Apocalypse is verified, “one sitting on a black
+          horse held a balance in his hand.” By this heretics are meant, who allure people to them
+          with an appearance of what is right and just under the figure of a balance, but afterwards
+          comes the horse with his black tail scattering poisonous errors . . .”<note target="#46"
+            type="footnotelink">46</note></quote>
+        <p style="bodyfirst" n="9">The black horse of Revelation 6:5 appears here not as a figure of
+          end times catastrophe but as a present danger in the contemporary church, a generalized
+          heretic who uses the appearance of justice to mask hypocrisy and lead Christians
+          astray.</p>
+        <p style="body" n="31">The early twelfth century saw the production of the <hi rend="italic"
+            >Glossa Ordinaria</hi>, the compendium of patristic glosses in Latin that was largely
+          the work of French theologian Anselm of Laon and his school. In its wake, the production
+          of Apocalypse commentaries multiplied throughout the twelfth and thirteenth centuries,
+          many of the most prominent written by members of monastic and fraternal orders: the
+          Benedictine Rupert of Deutz, the Cistercian Joachim of Fiore, the Augustinian Richard of
+          St. Victor, the Dominican Hugh of St. Cher, and Franciscans such as Alexander of Bremen,
+          Peter John Olivi, and Nicholas of Lyra.<note target="#47" type="footnotelink"
+          >47</note></p>
+        <p style="body" n="32">Robert Boenig, in his survey of apocalyptic traditions in medieval
+          England, describes deployments of the Apocalypse in late medieval rhetoric as
+          “counter-cultural,” in that they frequently targeted institutional power structures their
+          writers viewed as oppressive.<note target="#48" type="footnotelink">48</note> In the case
+          of the monastic and fraternal orders, one of those targets was the corruption of the
+          institutional church, from which they saw themselves standing apart. The church would also
+          be a ripe target in the commentaries of the Lollards, who had perhaps more of a reason
+          than members of religious orders to view themselves as alienated. The commentary in the
+          Anglo-Norman Apocalypse is almost certainly Franciscan in origin,<note target="#49"
+            type="footnotelink">49</note> and Franciscans in the thirteenth century shared the later
+          Lollard movement’s concerns about corruption in the secular priesthood. The Anglo-Norman
+          Apocalypse commentary’s frequent invocations of “false prelatis” and “false clerkis”
+          (false prelates and false clerics; see 14.¶7, 16.¶11, and 17.¶¶3, 9) refer not to the
+          friars themselves, of course, but to the clergy and other officials within the church’s
+          hierarchy, who need to be raised from their moral degradation lest they face the same
+          divine judgment as hypocrites and heretics. Lollard polemicists were accustomed to
+          attacking not only these hypocritical priests but the religious orders themselves in their
+          sweeping critiques. Their wide-ranging anticlericalism swept up secular priests, monks,
+          and friars alike — which is part of what makes their attraction to an Apocalypse
+          commentary with Franciscan roots noteworthy.</p>
+        <p style="body" n="33">Scholars looking for explanations for the sudden proliferation of
+          Apocalypse books and commentaries in thirteenth-century England and France frequently
+          point, at least in part, to the emergence of apocalyptic ideas among friars specifically.
+          The two most recently established fraternal orders in the thirteenth century, the
+          Franciscans and the Dominicans, had a particular reason to be attracted to the Book of
+          Revelation — they saw themselves in it, particularly in the description of “two witnessis”
+          in chapter 11 who preach for 1,260 days while dressed in sackcloth, shortly before the
+          Beast appears on the earth in the end times (see 11.¶¶4–5 of the <hi rend="italic">English
+            Apocalypse</hi>, which interprets the two witnesses as the prophets Enoch and Elijah).
+          This passage was important to the new orders, Nigel Morgan writes, because they “saw
+          themselves as the new apostles of the thirteenth century.”<note target="#50"
+            type="footnotelink">50</note> This interpretation can be traced to the writings of
+          Joachim of Fiore, the Cistercian monk who founded his own branch of the order in the late
+          twelfth century and predicted that a new age in the history of mankind, the Third Age or
+          Age of the Holy Spirit, would begin in the year 1260 — an echo of the 1,260 days of
+          Revelation 11:3.<note target="#51" type="footnotelink">51</note> Joachim may or may not be
+          primarily responsible for the Apocalypse’s surge in interest — after all, lay readers
+          outside the religious orders who likely did not read Joachim engaged with these texts as
+          well — but it was shortly after the dissemination of his prophecies and his death in 1202
+          that vernacular prose translations of the Apocalypse, with their accompanying
+          commentaries, began to appear in England and France.<note target="#52" type="footnotelink"
+            >52</note></p>
+        <p style="body" n="34">These commentaries did not, as noted above, always keep their
+          interpretations safely ensconced in the future of end times events, but used them to
+          critique people and institutions in the present. The Franciscan Peter John Olivi, for
+          example, drawing on Joachim’s prophecies, described in his Apocalypse commentary a “double
+          Antichrist” who would come in the future, but who would capture the papacy because the
+          contemporary institution was already corrupt and open to Satan’s wiles — a claim, among
+          others, that led to his posthumous condemnation by Pope John XXII in 1326.<note
+            target="#53" type="footnotelink">53</note> Much of the interest in the Apocalypse at
+          this time revolved around the figure of the Antichrist, and the question of who in the
+          contemporary world he might represent. One likely candidate in the thirteenth century was
+          Frederick II, the Holy Roman Emperor who ruled much of Europe and was frequently at war
+          with the papacy. Drawing on language from the Apocalypse, Pope Gregory IX wrote in a
+          letter to Archbishop of Canterbury Edmund Rich in 1239, “The beast filled with the names
+          of blasphemy has risen from the sea . . . this beast Frederick, called emperor.”<note
+            target="#54" type="footnotelink">54</note> But monarchs and nations in conflict with the
+          church were not the only potential targets — by the late fourteenth century, virtually any
+          leader in the church or government might earn the label of Antichrist, either as a
+          prophetic precursor to the figure in the Apocalypse or as the very man.</p>
+        <p style="body" n="35">John Wyclif began referring to the pope as Antichrist as early as the
+          1370s, in treatises such as <hi rend="italic">De Civili Dominio</hi> [<hi rend="italic">On
+            Civil Dominion</hi>] (ca. 1375), <hi rend="italic">De Dominio Divino</hi> [<hi
+            rend="italic">On Divine Dominion</hi>] (ca. 1376), and <hi rend="italic">De
+            Ecclesia</hi> [<hi rend="italic">On the Church</hi>] (ca. 1378). Pope Gregory XI reigned
+          during this stretch of Wyclif’s career, but the papacy itself would soon be divided in
+          1378, with separate lines at Rome and Avignon, a schism which no doubt encouraged Wyclif,
+          his Lollard followers, and other English anticlerical writers increasingly to view the
+          institution as illegitimate. The Antichrist in their view was not a vague future threat
+          but an active present danger to the church — to be precise, the “ghostly” or spiritual
+          church made up of true Christian believers, to whom the pope and other officials might not
+          even belong. “The high priests of Antichrist,” Wyclif wrote in <hi rend="italic">De
+            Simonia</hi>, “are able to condemn and destroy Christ’s members because the latter
+          universally reprove their sins.”<note target="#55" type="footnotelink">55</note></p>
+        <p style="body" n="36">The central difference between Wyclif’s polemic and that of the
+          Franciscans and other apocalyptically- inclined friars who came before him is that
+          Wyclif’s targets included the fraternal orders, whom he believed had fallen from the
+          purity of their founders’ original intentions. One of the short texts that accompanies the
+          New Testament in the Plimpton manuscript is a good example of this type of critique — a
+          prophecy attributed apocryphally to the twelfth-century Hildegard of Bingen, which cites
+          Osee 4:8 in predicting that “ther schal rise a maner of folk . . . holdynge the ordres of
+          begeres, walkyng withouten schame, finding many new wickidnessese,” a reference the
+          prophecy’s commentary applies to friars.<note target="#56" type="footnotelink">56</note>
+          The later Lollards would extend and intensify this type of critique so that by the
+          fifteenth century, the Lollard tract <hi rend="italic">The Lanterne of Light</hi> would
+          include friars in its depiction of Antichrist as a giant serpent, with the pope at its
+          head, bishops as its body, and the “sects” of religious orders as its tail. The tract
+          gives the following reading to the image of the Beast in Revelation 16:</p>
+        <quote>That is to mene archebischopis and bischopis ben the seet of the beest Anticrist, for
+          in hem he sittith and regneth over othir peple in the derknes of his heresie; and in this
+          thei deliten hem . . . in the court of Rome is the heed of Anticrist and in archebischopis
+          and bischopis is the bodi of Anticrist. But in thise cloutid [rag-tag] sectis, as mounkis,
+          chanouns, and freris [friars] is the venymous taile of Anticrist.<note target="#57"
+            type="footnotelink">57</note></quote>
+        <p style="bodyfirst" n="10">The commentary in the Plimpton manuscript’s <hi rend="italic"
+            >English Apocalypse</hi> is not quite so explicit in making these connections, but it
+          does describe the Antichrist as a type of seductive preacher, drawing followers to him
+          with the power of his speech and false teaching, and it describes some of those followers
+          as various types of clergy. For example, the gloss for verses 13:11–18 that appears in
+          13.¶9 features a substantial length of commentary that is original to the <hi
+            rend="italic">English Apocalypse</hi> — it does not have an Anglo-Norman source —
+          centering around the Antichrist and his disciples, all of them “ypocritis and eretikis,”
+          and many of them “prelatis,” or church officials. These prelates “doone her synne of
+          leccherie priveli” while hypocritically keeping a righteous outer appearance, and the
+          commentary goes on to accuse the church of rampant simony and claim that men “go to the
+          ordre” — join the priesthood or a religious order — “to han bodili delites.” The gloss for
+          verses 14:9–10 in 14.¶7 makes a further connection between the Antichrist and the church:
+          “alle that ben drawun to the fals techyng of Anticrist and conformith hym to the vices of
+          his discipils, tho [those] ben the false profetis and false clerkis that ben proud and
+          coveitouse and leccherouse and losengouris [flatterers].” These false prophets and clerics
+          play a role in bringing the future end-times horrors of the book, but they are just as
+          clearly meant to represent contemporary church officials.</p>
+        <p style="body" n="37">The gloss’s invocation of the Antichrist, as well as its
+          multi-pronged attack on the clergy’s pride, greed, lechery, and other vices (see
+          explanatory note 14.¶7 on the wide range of meanings for the insult “losengouris”), drew
+          inspiration from the French Apocalypse commentaries produced by religious orders in
+          generations past, but it would also have sat comfortably alongside the most strident
+          Lollard critiques of the late fourteenth century — as the Lollard compiler of the Plimpton
+          manuscript clearly intuited.</p>
+        <p style="heading" n="7">The Early History of English Bible Translation</p>
+        <p style="bodyfirst" n="11">Anglo-Norman’s popularity as a literary language in England in
+          the centuries following the Norman Conquest explains in part why Middle English
+          translations of Scripture do not appear in great volume until the middle of the fourteenth
+          century. The <hi rend="italic">English Apocalypse</hi> does not appear until approximately
+          one hundred years after the Anglo-Norman Apocalypse translation, long after the heyday of
+          the great illuminated Apocalypse books in Old French. This history also explains why a
+          Middle English translator might choose a French text as the source for a biblical
+          translation and view it as trustworthy. Neither the class distinctions of the late
+          fourteenth century, which came to see French as primarily a courtly or diplomatic
+          language, nor the anti-French antipathies of the Hundred Years’ War, which began in
+          earnest in the 1340s with Edward the Black Prince’s incursions into France, were likely to
+          be relevant to an English translator in the first half of the fourteenth century.
+          Translating a biblical text from French to English was clearly not viewed as problematic,
+          either socially or politically. But language practices in England were changing, and the
+          great flourishing of Middle English biblical material that would culminate in the
+          Wycliffite Bible editions at the end of the century was well underway by even the earliest
+          possible date of the first <hi rend="italic">English Apocalypse</hi> manuscript in ca.
+          1340.</p>
+        <p style="body" n="38">English translations of the Bible have their own separate historical
+          track, dating back to the emergence of the English language. King Alfred in the ninth
+          century commissioned a Pentateuch and a Psalter in the dialect we now call Old English,
+          and other parts of the Bible such as the Psalms and Christ’s Passion survive in Old
+          English as well, though by the fourteenth century, these texts could not be understood by
+          most readers. In Middle English, several verse adaptations of Latin abridgements of
+          Scripture appeared starting in the thirteenth century — for example, the rhyming metrical
+            <hi rend="italic">Genesis and Exodus</hi> (ca. 1250) and <hi rend="italic">Iacob and
+            Iosep</hi> [<hi rend="italic">Jacob and Joseph</hi>] (ca. 1250). The massive <hi
+            rend="italic">Cursor Mundi</hi> [<hi rend="italic">Runner of the World</hi>] (ca. 1300),
+          with its 29,555 lines of mostly rhyming couplets, covers the entire Bible in paraphrase,
+          as well as an apocryphal account of Jesus’s childhood. Many other works of Middle English
+          poetry retell stories from the Bible and on occasion directly translate portions of
+          Scripture. These include the works of the <hi rend="italic">Gawain</hi>-Poet, anonymous
+          author of <hi rend="italic">Sir Gawain and the Green Knight</hi> as well as <hi
+            rend="italic">Pearl</hi>, whose vision of the heavenly New Jerusalem quotes directly
+          from Revelation; <hi rend="italic">Patience</hi>, which retells the Book of Jonah and
+          quotes from the Beatitudes; and <hi rend="italic">Cleanness</hi>, which recounts several
+          stories of God’s wrath from the Books of Genesis and Daniel. Other Middle English biblical
+          translations include Gospel harmonies, Gospel commentaries with quotations and
+          paraphrases, a stanzaic Life of Christ, a translation of Matthew and Acts in a Midlands
+          dialect, a Southwestern dialect translation of the Pauline and Catholic Epistles, a
+          metrical paraphrase of the Old Testament (ca. 1380), and numerous editions of the Psalms,
+          including the Surtees Psalter (ca. 1300) and the Midlands Glossed Prose Psalter (ca.
+          1350), which features alternating lines in Latin and English.<note target="#58"
+            type="footnotelink">58</note></p>
+        <p style="body" n="39">Psalters of all kinds were immensely popular throughout the
+          fourteenth century and were often produced in stand-alone editions for a variety of
+          liturgical uses. In her book-length study of English psalters in the fourteenth and
+          fifteenth centuries, Annie Sutherland mentions several produced in England which contain
+          both Middle English and Anglo-Norman Psalms alongside their Vulgate originals, to produce
+          a “three-fold Psalter.”<note target="#59" type="footnotelink">59</note> The popularity of
+          these trilingual biblical productions may provide another glimpse into the origins of the
+            <hi rend="italic">English Apocalypse</hi>, and further explanation for why an English
+          translator might be interested in translating the biblical text from French. In the early
+          decades of the fourteenth century, both languages appear to have had equal status for a
+          broad range of readers, and occasionally shared space within the same manuscript. The
+          translators of the <hi rend="italic">English Apocalypse</hi> no doubt had similar goals to
+          the later Wycliffite translators — to make texts that were already widespread and popular,
+          but perhaps becoming inaccessible to a growing number of readers, available to all.</p>
+        <p style="body" n="40">It is unclear which of these earlier translations, paraphrases, and
+          poetic renderings of the Bible the Oxford translators in the late fourteenth century would
+          have known about and read. Any debt they may owe to them as inspirations or models for
+          their own translations does not appear overtly in the biblical texts. However, one work of
+          English Bible translation we can say with certainty the Wycliffite translators knew, in
+          addition to the <hi rend="italic">English Apocalypse</hi>, was the Psalter translated by
+          the mystic Richard Rolle of Hampole. Extant in forty manuscripts, Rolle’s prose
+          translations were completed sometime shortly before his death in 1349.<note target="#60"
+            type="footnotelink">60</note> They are a valuable resource for any student of medieval
+          translation theory, since in addition to recording Latin and English verses on alternating
+          lines, Rolle also includes commentary on each verse and occasionally on his reasons for
+          particular translation choices.</p>
+        <p style="body" n="41">Rolle’s Psalter was a particular favorite of the Lollards, who
+          reproduced the text in their own glossed versions. Nearly half of Rolle’s extant
+          manuscripts contain Lollard interpolations in addition to his own commentary, many of
+          which express anticlerical attitudes and heighten Rolle’s more generalized suspicion of
+          the institutional church. As a translation that predates the Wycliffite versions, Rolle’s
+          work had the benefit for later Lollards of prior approval from church authorities — since
+          his translations long predated fifteenth-century restrictions on new Bible translations,
+          owning and copying and even annotating his works were not practices likely to run afoul of
+          church censors or confiscators. In fact, until the Wycliffite versions appeared roughly
+          forty years later, Rolle’s Psalter was, according to Margaret Deanesly, “the standard
+          English version of the psalms.”<note target="#61" type="footnotelink">61</note> Rolle’s
+          Psalter as glossed and expanded by the Lollards provides an interesting parallel to
+          Plimpton’s <hi rend="italic">English Apocalypse</hi>, as in both cases an already popular
+          biblical text was appropriated and placed within a new, and newly dissident, context.</p>
+        <p style="body" n="42">Sutherland explores a range of theoretical positions that guided
+          various translations of the Psalms in the English fourteenth century, from Rolle to the
+          Wycliffite versions. The “close literalism” of Rolle’s Psalm translations, for instance,
+          suggests that he had a reading audience in mind who was at least somewhat familiar with
+          Latin and may have used it as a supplement for learning the language.<note target="#62"
+            type="footnotelink">62</note> This speculation parallels what some scholars have claimed
+          about the Wycliffite EV and its sometimes awkward Latinate phrasing, for example Henry
+          Ansgar Kelly, who argues against the idea that the EV was merely a first draft and instead
+          was “foreseen as having a permanent value in assisting persons with only elementary Latin,
+          particularly run-of-the-mill clergy, to use as a guide to understanding the Latin
+            text.”<note target="#63" type="footnotelink">63</note> In the case of Rolle, a reader
+          who found his literal translation confusing could also have recourse to “the more
+          idiomatic translation often embedded in the commentary,”<note target="#64"
+            type="footnotelink">64</note> an interesting parallel to the more idiomatic English of
+          the Wycliffite LV, which in Kelly’s words “systematically de-Latinizes EV.”<note
+            target="#65" type="footnotelink">65</note></p>
+        <p style="body" n="43">In general, though, rather than conceptualizing the English psalter
+          translation tradition as a “chain,” with one text simply influencing the next, Sutherland
+          imagines instead “a nexus of connections in which texts have the freedom to respond to
+          each other critically as well as imitatively,” often in unexpected ways.<note target="#66"
+            type="footnotelink">66</note> A similar imagination must be deployed to understand the
+          potential connections between the <hi rend="italic">English Apocalypse</hi> and the
+          Wycliffite translations of Revelation. The former was produced definitively earlier in
+          history, and our natural inclination might be to imagine its influence moving
+          chronologically forward toward the later texts. However, despite the Oxford translators’
+          almost certain knowledge of the <hi rend="italic">English Apocalypse</hi>, it does not
+          appear that they used it in any discernible way as a foundation or model for their own
+          Apocalypse version. If anything, the textual evidence in Plimpton and other manuscripts
+          suggests that influence flowed in the other direction — as scribes used the Wycliffite LV
+          to revise and refine the <hi rend="italic">English Apocalypse</hi> that was part of their
+          New Testament. The Wycliffite translators were apparently scrupulous about keeping their
+          Latin-to-English translation project separate from the French-to-English translation they
+          likely had access to, even if the compilers and producers of their Bibles were more
+          liberal in their willingness to blend texts.</p>
+        <p style="heading" n="8">The Apocalypse and Middle English Poetry</p>
+        <p style="bodyfirst" n="12">A familiarity with the imagery and themes of the biblical
+          Apocalypse is exceedingly valuable for students of Middle English literature, given the
+          profound influence it had for centuries on the medieval Christian imagination, in
+          particular on the poetic literature composed at roughly the same time as the <hi
+            rend="italic">English Apocalypse</hi>. The great Middle English dream vision poem <hi
+            rend="italic">Pearl</hi>, for example, renders the Apostle John’s description of the
+          heavenly city of New Jerusalem in highly elaborate poetic verse, in the service of a
+          grieving father’s vision of the afterlife. In her analysis of the poem, Susanna Fein
+          discusses the traditional medieval association of the Apostle John with jewelry, derived
+          from his cataloging of the city’s precious gems in Revelation 21:18–21 (21.¶¶8–10 in the
+            <hi rend="italic">English Apocalypse</hi>), a process the “jeweler” narrator of <hi
+            rend="italic">Pearl</hi> echoes in his own descriptions of the heavenly city.<note
+            target="#67" type="footnotelink">67</note> Fein also draws attention to the ways the <hi
+            rend="italic">Pearl</hi> poet drew visual inspiration from the illuminated Apocalypse
+          volumes in Old French.<note target="#68" type="footnotelink">68</note> Ann Meyer’s work on
+          medieval allegory and the Apocalypse examines <hi rend="italic">Pearl</hi> as well and
+          explores the ways that even church architecture, in addition to other cultural and
+          literary productions, can be “understood as earthly representations of the New
+            Jerusalem.”<note target="#69" type="footnotelink">69</note></p>
+        <p style="body" n="44"><hi rend="italic">Piers Plowman</hi>, William Langland’s epic dream
+          vision in alliterative Middle English verse, composed in at least three stages in the
+          final decades of the fourteenth century, also makes numerous allusions to the Apocalypse,
+          as Morton Bloomfield details in his influential study <hi rend="italic">Piers Plowman as a
+            Fourteenth-Century Apocalypse</hi>. Bloomfield highlights Langland’s role as a social
+          and ecclesiastical reformer, who employs apocalyptic imagery to describe clerical
+          corruption and express hope for a renewal of the church — concerns shared by both the
+          gloss commentary of the <hi rend="italic">English Apocalypse</hi> and Langland’s Lollard
+          contemporaries. In particular, Bloomfield draws attention to the poem’s Harrowing of Hell
+          scene — Christ’s descent after his crucifixion to release captive souls, also a popular
+          subject in medieval art and drama — which he describes as a “foreshadowing of the Last
+          Judgment,” after which Langland depicts the coming of Antichrist and the triumphant return
+          of Christ.<note target="#70" type="footnotelink">70</note> Kathryn Kerby-Fulton, in a book
+          that both challenges and expands on Bloomfield’s work, traces Langland’s many predecessors
+          and influences who were both exegetes of the Apocalypse and apocalyptic visionaries
+          themselves — Hildegard of Bingen, Bridget of Sweden, William of St. Amour, and Joachim of
+          Fiore, among others — and outlines Langland’s own “ideology of reform” for the church, a
+          new form of apocalypticism which she argues is both apocalyptic and optimistic about the
+            future.<note target="#71" type="footnotelink">71</note></p>
+        <p style="body" n="45">As much of the scholarship cited here makes clear, it was not only
+          biblical texts and commentaries but the physical, visual presentation of illuminated
+          manuscripts that spurred the imaginations of Middle English poets — and a consideration of
+          both text and visual art is essential for understanding the enduring resonance of
+          apocalyptic imagery for medieval English readers. In addition to the many digitized images
+          of manuscripts available through institutions such as the Bodleian Library in Oxford and
+          the British Library in London (a complete set of images from the oldest extant copy of the
+            <hi rend="italic">English Apocalypse</hi>, MS Harley 874, is freely available on the
+          British Library’s website), many recent publications have also helped to make this rich
+          primary material more accessible to students and scholars. These include facsimiles and
+          illustrated editions of manuscripts like the Abingdon Apocalypse and Trinity Apocalypse,
+          as well as scholarship on Apocalypse material which features visual reproductions of
+          select manuscript pages.<note target="#72" type="footnotelink">72</note></p>
+        <p style="heading" n="9">Production of the Wycliffite Bible</p>
+        <p style="bodyfirst" n="13">The English translations of the Bible produced at Oxford
+          University in late fourteenth century, known collectively as the Wycliffite Bible, survive
+          in more manuscript copies than any other work produced in Middle English. These 253
+          manuscripts include twenty full Bibles and hundreds of partial copies, in many cases
+          constituting only the Old or New Testament, the Psalms, the Gospels, or single books of
+          the Bible, and including four manuscripts that contain the Apocalypse alone.<note
+            target="#73" type="footnotelink">73</note> By comparison, the second most well preserved
+          Middle English text, the anonymous poem <hi rend="italic">Prik of Conscience</hi>, has 131
+          copies extant in several different versions,<note target="#74" type="footnotelink"
+            >74</note> followed by Nicholas Love’s <hi rend="italic">The Mirror of the Blessed Life
+            of Jesus Christ</hi> with sixty-one copies.<note target="#75" type="footnotelink"
+            >75</note> Geoffrey Chaucer’s <hi rend="italic">Canterbury Tales</hi> has
+            fifty-five.<note target="#76" type="footnotelink">76</note> Manuscripts of the
+          Wycliffite LV outnumber the EV by more than five to one, but the Wycliffite EV alone still
+          far outstrips most other works of Middle English literature in popularity.</p>
+        <p style="body" n="46">The survival of so many copies of the text speaks to a huge
+          production and distribution network, one that likely could only have been achieved at
+          Oxford with multiple translators and the institutional support of the university. The
+          survival of so many complete New Testaments, Old Testaments, and whole Bibles also attests
+          to a philosophy of translation and biblical completeness and coherence not seen in any
+          Middle English translation project prior to that point. According to Lawton, the Oxford
+          translators’ “project of comprehensive vernacular Bible translation was probably an
+          inevitable response to the Paris Bible as disseminated by friars from the 1240s.”<note
+            target="#77" type="footnotelink">77</note> As with the Old French Bible production of
+          the thirteenth century, the process had to begin with establishing a complete and
+          relatively stable text of the Latin Bible.</p>
+        <p style="body" n="47">The self-named “symple creature” who wrote Chapter 15 of the
+          Wycliffite Bible’s General Prologue — who may or may not have been one of the project’s
+          translators, as he claims — describes the next step in the translation process as
+          consulting several Bible commentaries, with a possible reference to the <hi rend="italic"
+            >Glossa Ordinaria</hi> or “common gloss”:</p>
+        <quote>a symple creature hath translatid the Bible out of Latyn into English. First this
+          symple creature hadde myche trauaile with diuerse felawis and helperis to gedere manie
+          elde biblis, and othere doctouris and comune glosis, and to make oo Latyn bible sumdel
+          trewe; and thanne to studie it of the newe, the text with the glose, and othere doctouris
+          as he mighte gete . . .<note target="#78" type="footnotelink">78</note></quote>
+        <p style="bodyfirst" n="14">The simple creature claims that the Bible is translated solely
+          from the Latin, but he also mentions glosses and commentaries which help to establish a
+          stable Latin text. Given that the Wycliffite translators knew of the earlier <hi
+            rend="italic">English Apocalypse</hi>, it seems at least possible that its gloss is one
+          of these documents — though any evidence from the text of the Wycliffite Apocalypse
+          versions, if it exists at all, is likely impossible to retrieve.</p>
+        <p style="body" n="48">Prior to the late fourteenth century, the institutional church was
+          not hostile to Bible translation into vernacular languages. Pope Innocent III gave the
+          practice explicit approval in 1199, with the caveat that only qualified readers should
+          attempt to interpret Scripture.<note target="#79" type="footnotelink">79</note> At around
+          the same time as Pope Innocent’s approval, complete editions of the Bible became popular
+          in churches and among the wealthy laity in France, including large two-volume Bibles
+          designed for public reading from church lecterns, and a relatively compact volume for
+          individual readers known as the Parisian Bible. All of these Bibles, however, were in
+          Latin. The appearance of the first Old French Bible is a mystery, as no preface explains
+          where or why it was produced, but it was likely connected with the University of Paris and
+          completed at least a few years before its earliest extant manuscript copy in ca.
+            1260.<note target="#80" type="footnotelink">80</note> The Old French Bible thus predated
+          the Wycliffite Bible by more than a century, and it was used both by readers in France and
+          French-speaking readers in post-Conquest England, as was the Anglo-Norman Apocalypse and
+          the <hi rend="italic">English Apocalypse</hi> when they appeared in the fourteenth
+          century, with no apparent condemnation from the church.</p>
+        <p style="body" n="49">The English church’s eventual hostility toward vernacular Bible
+          translation in the late fourteenth century had less to do with any threat from the Bibles
+          themselves and more to do with the perceived threats of the men who produced them, and
+          their heretical positions on theological subjects only indirectly related to Bible
+          translation. The Blackfriars council of 1382, convened by Archbishop of Canterbury William
+          Courtenay, condemned twenty-four positions of Wyclif and his followers as erroneous,
+          starting with their belief that the elements of the Eucharist retained their “substance”
+          as bread and wine after consecration — the first three of the council’s condemnations
+          dealt with this heretical position against the doctrine of transubstantiation. Other
+          errors that followed in the list included the belief that priests could not effectively
+          administer sacraments while in a state of mortal sin (a heresy known as Donatism), that
+          the pope has no authority if he is evil, that every Christian may preach the gospel
+          without license from the church, that civil authorities have the right to dispossess
+          clergy of their possessions, that monastic and fraternal orders are illegitimate, and that
+          friars should live by the work of their hands rather than by begging for alms.<note
+            target="#81" type="footnotelink">81</note> None of these condemnations made any mention
+          of English Bible translation. Only when some of the same men whose views had been
+          condemned by the council — John Purvey, Nicholas Hereford, John Trevisa, and possibly
+          Wyclif himself — became involved in producing an English Bible translation at Oxford did
+          church officials take notice and add it to the long list of Lollard errors they believed
+          endangered the orthodox faithful.</p>
+        <p style="body" n="50">Wyclif was not formally charged by the Blackfriars council nor even
+          named in their condemnation,<note target="#82" type="footnotelink">82</note> and he would
+          not be convicted of heresy in his lifetime, though the Council of Constance would declare
+          his works heretical in 1415, more than twenty years after his death. Nevertheless, the
+          Blackfriars condemnation forced him to resign his position at Oxford and he retired to his
+          parish at Lutterworth. In the months that followed, his associates Nicholas Hereford and
+          Philip Repingdon, in the words of historian John Dahmus, “proceeded to turn Oxford into a
+          hotbed of Lollardy.”<note target="#83" type="footnotelink">83</note> Hereford, Repingdon,
+          and Purvey were all eventually found guilty of heterodox beliefs and imprisoned, and under
+          threat of death they eventually recanted — though Purvey would later recant his
+          recantation and flee, possibly to join forces with the famous Lollard rebel Sir John
+            Oldcastle.<note target="#84" type="footnotelink">84</note> This history set the stage
+          for Arundel’s <hi rend="italic">Constitutions</hi> in 1407, which expressed the church’s
+          new fear of a heretical uprising directly connected to the new English Bible translation
+          and its disseminators.</p>
+        <p style="heading" n="10">The Influence of Arundel’s <hi rend="italic"
+          >Constitutions</hi></p>
+        <p style="bodyfirst" n="15">The precise connections between Wyclif’s teaching on subjects
+          such as the Eucharist and civil dominion and his championing of an English Bible are
+          fraught and debatable to modern scholars, but to church officials in the early fifteenth
+          century, the link between Wyclif’s heresies and Bible translation seemed to become
+          increasingly clear. The extent of his involvement in the translation project itself is
+          doubtful — this question will be addressed more thoroughly in the next section below — but
+          the Oxford philosopher had an explicit and persistent belief in the importance of biblical
+          material being made available to lay readers directly, in part to counteract what he
+          viewed as corrupt interpretations from officials in the church, from parish priests to
+          monks and friars and even to the pope. In his treatise <hi rend="italic">On the Truth of
+            Holy Scripture</hi> from ca. 1378, Wyclif argues that “in order to prevent some
+          pseudo-disciples from pretending that they have received their understanding directly from
+          God, God established a common Scripture which is perceptible to the senses, by means of
+          which the catholic sense should be comprehended.”<note target="#85" type="footnotelink"
+            >85</note> The General Prologue to the Wycliffite LV offers a similar defense of the
+          English translation project as beneficial for the “lewd” or uneducated laity:</p>
+        <quote>For though couetouse clerkis ben wode [driven mad] bi symonie, eresie and manie
+          othere synnes, and dispisen and stoppen holi writ as myche as thei moun [can], yit the
+          lewid puple crieth aftir holi writ to kunne [learn] it and kepe it with greet cost and
+          peril of here [their] lif.<note target="#86" type="footnotelink">86</note></quote>
+        <p style="bodyfirst" n="16">Wyclif and his followers pitted themselves directly against the
+          church’s representatives — and if the connection between the translation project and
+          Wyclif’s sacramental heresy was tenuous, the church would nevertheless err on the side of
+          caution. Spurred by the perceived threat of Lollardy, Archbishop of Canterbury Thomas
+          Arundel presided over a convocation at Oxford in November 1407 which published ten
+          proclamations against the Lollards known as Arundel’s <hi rend="italic"
+          >Constitutions</hi>. Among other strictures, the <hi rend="italic">Constitutions
+          </hi>ruled that both ownership of the new English translation of the Bible and production
+          of any future English translations would be restricted to those who secured a license in
+          advance. After passing at Oxford, the <hi rend="italic">Constitutions</hi> were confirmed
+          at a later convocation in London and published on April 13, 1409.<note target="#87"
+            type="footnotelink">87</note></p>
+        <p style="body" n="51">The sixth of Arundel’s <hi rend="italic">Constitutions</hi>, which
+          sets the limits on English Bible translation, is worth quoting at length, to determine
+          what exactly it purports to ban and under what circumstances:</p>
+        <quote>It is dangerous, as St. Jerome declares, to translate the text of Holy Scripture out
+          of one idiom into another, since it is not easy in translations to preserve exactly the
+          same meaning in all things . . . We therefore command and ordain that henceforth no one
+          translate the text of Holy Scripture into English or any other language in a book,
+          booklet, or tract, and that no one read any book, booklet, or tract of this kind lately
+          made in the time of the said John Wyclif or since, or that hereafter may be made either in
+          part or wholly, either publicly or privately, under pain of excommunication until such
+          translation shall have been approved and allowed by the diocesan of the place, or (if need
+          be) by the Provincial Council. He who shall act otherwise let him be punished as an
+          abettor of heresy and error.<note target="#88" type="footnotelink">88</note></quote>
+        <p style="bodyfirst" n="17">The eighteenth-century English translator of the <hi
+            rend="italic">Constitutions</hi>, John Johnson, whose editorial commentary indulges in
+          anti-Catholic polemic, observes that the language of “book, booklet, or tract” (<hi
+            rend="italic">libri</hi>, <hi rend="italic">libelli</hi>, <hi rend="italic">aut
+            tractatus</hi>) could potentially encompass texts beyond mere Bible translation and is
+          both broad and vague enough that “this net seems to be made for the catching or letting go
+          whomsoever and whatsoever they pleased.”<note target="#89" type="footnotelink">89</note>
+          At the same time, the decree does not appear to condemn Wyclif directly, but merely any
+          translation made “in his time” or afterward. The <hi rend="italic">Constitutions</hi> do
+          not condemn all English Bible translations, only unlicensed ones, and even then the
+          potential crime is not owning them but “reading” them before they have been approved by
+          proper authorities. Arundel’s central motive appears to be preventing future translation
+          efforts that might introduce heretical elements into the text. What is unclear, and a
+          running debate for historians of the early fifteenth century, is whether existing
+          translations, namely the Wycliffite Bible versions which do not feature openly heretical
+          material, are meant to be included in the strictures. Was it dangerous, after 1409, to
+          produce or own a manuscript with an already existing English translation of Scripture?</p>
+        <p style="body" n="52">In a hugely influential 1995 article entitled “Censorship and
+          Cultural Change in Late Medieval England: Vernacular Theology, the Oxford Translation
+          Debate, and Arundel’s <hi rend="italic">Constitutions</hi> of 1409,” Nicholas Watson made
+          the case that Arundel’s decrees were “the linchpin of a broader attempt to limit religious
+          discussion and writing in the vernacular,”<note target="#90" type="footnotelink">90</note>
+          and that their dissemination marked a major shift from the late fourteenth century, when
+          works of vernacular theology flourished, to the early fifteenth century, when
+          self-censorship hampered this burgeoning literary movement. Debates about Arundel’s legacy
+          since then have tended to position themselves in relation to Watson’s argument. While many
+          have quibbled over the contention that vernacular theology all but disappeared after 1409,
+          for reasons detailed below, most agree that <hi rend="italic">something</hi> happened to
+          change the landscape for vernacular religious writers.</p>
+        <p style="body" n="53">The anthology <hi rend="italic">After Arundel</hi>, the published
+          culmination of an Oxford University conference on the <hi rend="italic">Constitutions</hi>
+          on their 600th anniversary, spotlights a variety of perspectives on Arundel’s legacy. The
+          volume’s co-editor Vincent Gillespie, while making the case that Arundel’s successor
+          Archbishop Henry Chichele ultimately exercised more lasting influence on the English
+          church, concedes that the <hi rend="italic">Constitutions</hi> nevertheless “cast a long
+          shadow across the following decades and encourage a sense that the role of the vernacular
+          in innovatory religious writing was diminished, and its advocates cowed and anxious.”<note
+            target="#91" type="footnotelink">91</note> One institution in which the <hi
+            rend="italic">Constitutions</hi>’ influence could be seen immediately was Oxford, which
+          the tenth constitution had singled out as “blemished with the new damnable brand of
+          Lollardy, to the great scandal of the university itself” — Arundel used the biblical
+          imagery of an infected vineyard, sour grapes, and a crumbling wall to describe the
+          university’s departure from orthodoxy.<note target="#92" type="footnotelink">92</note> In
+          response, Oxford presented its own self-directed program for reform in 1414, which
+          included attempts to curb “simony, the appropriation of benefices, exemptions, plurality
+          of benefices, the abuse of privileges, clerical apostasy, and the holding of secular
+          office.” Gillespie observes the irony that “most of these had been on Wyclif’s own reform
+            agenda.”<note target="#93" type="footnotelink">93</note></p>
+        <p style="body" n="54">The concerns with clerical and institutional corruption expressed by
+          the gloss of the <hi rend="italic">English Apocalypse</hi> and echoed by Wyclif and the
+          Lollards were clearly not the concerns merely of a heretical group or a minority of
+          agitators, but issues that were being discussed, with an eye to reform, within the church
+          itself and across a broad swath of the laity. Though the church and the university were
+          also clamping down on Lollardy and highly aware of the movement’s dangers in the early
+          fifteenth century, particularly its heterodox sacramental theology, the substance of their
+          critiques implied that “the calls for reform made by Wyclif himself, particularly in his
+          earlier work, remained valid and needed addressing.”<note target="#94" type="footnotelink"
+            >94</note></p>
+        <p style="body" n="55">Kelly, in an alternate view of Arundel’s censorship and the
+          Wycliffite Bible more broadly, speculates that it may not have been Wycliffite Bibles
+          themselves that prompted Arundel to hold the convocation that led to the <hi rend="italic"
+            >Constitutions</hi>, but specifically the treatise on English translation that appears
+          in its General Prologue, which he titles <hi rend="italic">Five and Twenty
+            Books</hi>.<note target="#95" type="footnotelink">95</note> Kelly pushes this suggestion
+          further into speculation about the church’s tolerance of the translation project that had
+          already been accomplished:</p>
+        <quote>I suggest that Arundel and his colleagues were familiar with both EV and LV, and,
+          recognizing their orthodoxy, believed them to antedate, at least in their inception if not
+          completion, the Wycliffite stratagem of making a new translation, and therefore to fall
+          outside the mandate to be vetted by bishops. The bishops and clergy were to be on the
+          alert for any translations that, unlike EV and LV, distorted the text in ways that would
+          promote Wyclif’s malignant teachings.<note target="#96" type="footnotelink"
+          >96</note></quote>
+        <p style="bodyfirst" n="18">Perhaps the strongest evidence in favor of Kelly’s view is that
+          the sixth constitution speaks first of future translations and the need to license them in
+          advance, and only afterward makes reference to recent translations. The fourth
+          constitution forbids any public or private debate at Oxford on the church’s teachings on
+          the sacraments, and the fifth bans the teaching of any “book or treatise composed by John
+          Wicklif” without prior examination by a university council,<note target="#97"
+            type="footnotelink">97</note> but it is unclear, and in fact seems unlikely, whether the
+          already existing Oxford Bible translations would fall in the category of books “composed
+          by John Wicklif” — they certainly do not, even upon close scrutiny, belong in the same
+          category of sacramental heresy as Wyclif’s treatises which openly state his opposition to
+          the doctrine of transubstantiation.</p>
+        <p style="body" n="56">There is also little evidence to suggest that owners of Wycliffite
+          Bibles were persecuted for that ownership alone. Records of the interrogations of Lollard
+          dissidents, such as William Thorpe, Walter Brut, and Hawisia Moone,<note target="#98"
+            type="footnotelink">98</note> to the extent that their transcriptions are accurate,
+          indicate that while their access to banned materials might have been a concern and the
+          material might have been confiscated, Arundel and other church officials were primarily
+          interested in their beliefs and their engagement in “sowynge . . . fals doctryne” through
+          preaching with these texts, rather than mere ownership.<note target="#99"
+            type="footnotelink">99</note> In his personal examination of Thorpe in 1407, for
+          example, Arundel lists the heresies the Lollard preacher is accused of spreading — denying
+          the sacrament of the altar, opposing pilgrimages, etc. — but the list includes no mention
+          of English translation of Scripture.<note target="#100" type="footnotelink">100</note>
+          Arundel mentions having confiscated Thorpe’s Psalter — presumably an English translation,
+          since Thorpe claims to know no Latin — but says he will return it if Thorpe agrees “fulli
+          to be gouerened by holi chirche.”<note target="#101" type="footnotelink">101</note></p>
+        <p style="body" n="57">The Oxford call for reforms in 1414 included a section titled “de
+          anglicatione librorum” (on the Englishing of books), which called for the confiscation of
+          incompetent translations that would mislead the laity, at least until superior
+          translations could be produced by Oxford’s scholars. Gillespie notes that this request
+          “probably reflected the aspiration in chapter 6 of Arundel’s decrees for a
+          university-based system of examination and distribution of such texts through exemplars
+          held by university stationers” and that Oxford’s leaders were arguing “only for a deferral
+          of translation, not a prohibition of it.”<note target="#102" type="footnotelink"
+            >102</note> It also implies that access to English translations of Scripture and other
+          religious texts was widespread among the laity and not being vigorously prosecuted, even
+          five years after Arundel’s ban.</p>
+        <p style="body" n="58">English Bible production also did not completely cease in the years
+          following the <hi rend="italic">Constitutions</hi>. If nothing else, the sheer number of
+          surviving copies serves as evidence that many people either secured the Archbishop’s
+          approval for ownership or were simply tolerated — as noted above, King Henry VI himself
+          owned a copy, and Lawton observes that “Wycliffite Bibles were preserved without great
+          risk in otherwise aristocratic households.”<note target="#103" type="footnotelink"
+            >103</note> The Carthusian monk Nicholas Love secured Arundel’s approval, and according
+          to Love his blessing and encouragement, to produce and distribute his translation of an
+          Italian commentary on the Gospels titled <hi rend="italic">The Mirror of the Blessed Life
+            of Jesus Christ</hi> in 1410. Love’s expanded commentary included attacks on the
+          Lollards, and according to Kantik Ghosh’s assessment of the text, Love hoped his <hi
+            rend="italic">Mirror</hi> would become “an official alternative to the Lollard
+            Bible.”<note target="#104" type="footnotelink">104</note></p>
+        <p style="body" n="59">All the same, the Wycliffite Bible manuscripts of the fifteenth
+          century do tend to have a muted appearance, at least in comparison to Bible productions in
+          Latin or other languages like the lavishly illuminated French <hi rend="italic">Bibles
+            moralisées</hi> or Apocalypse books described above. Illuminated Wycliffite Bibles like
+          Bodley MS 277 — King Henry’s Bible — with its decorated borders and gilded initial
+          letters, are the rare exception. The Plimpton manuscript is far more typical — a small
+          codex containing a New Testament with no illuminations and only small rubricated initials,
+          the biblical text embedded within other tracts and sermons so that only a close
+          examination would reveal the book’s contents. Whether the book was literal contraband, or
+          whether its production was merely pared down in a precautionary way, it is hard to avoid
+          the conclusion that the <hi rend="italic">Constitutions</hi>, or at least the threat of
+          church sanction, had an adverse effect on the production of Plimpton and other English
+          Bibles.</p>
+        <p style="heading" n="11">The Gloss and Lollard Anticlericalism</p>
+        <p style="bodyfirst" n="19">Though the Wycliffite Bible would come to bear his name in
+          popular parlance, the level of John Wyclif’s actual involvement with the Oxford Bible
+          translation project is an open question. Dove begins her study of the Wycliffite Bible
+          with the speculation “that Wyclif instigated the project, that work began in the early
+          1370s, in the Queen’s College, Oxford, and that Wyclif, [Nicholas] Hereford, and [John]
+          Trevisa all played a part in the translation.”<note target="#105" type="footnotelink"
+            >105</note> David Fowler takes a more cautious view, observing that only two Wycliffite
+          Bible manuscripts contain any attributions of authorship at all, to “N,” “J and other
+          men,” and “Nicholay de herford,” and he concludes, “The most that can be said from
+          manuscript evidence is that the Early Version was made by Nicholas Hereford, J.___, and
+          other men.”<note target="#106" type="footnotelink">106</note> The first fourteenth-century
+          reference to Wyclif as a translator appears only after his death, in the Augustinian canon
+          Henry Knighton’s <hi rend="italic">Chronicle</hi> (ca. 1390), in the context of warning
+          about his dangerous heresies:</p>
+        <quote>Master John Wyclif translated from Latin into the English language — very far from
+          being the language of angels! — the gospel that Christ gave to the clergy and doctors of
+          the church, for them to administer sweetly as mental nourishment to laypeople and to the
+          infirm, according to the necessity of the time and the people’s need. As a consequence,
+          the gospel has become more common and more open to laymen and even to women who know how
+          to read than it customarily is to moderately well-educated clergy of good intelligence.
+          Thus the pearl of the gospel is scattered abroad and trodden underfoot by swine.<note
+            target="#107" type="footnotelink">107</note></quote>
+        <p style="bodyfirst" n="20">Debates between Lollards and church officials over the orthodoxy
+          and desirability of English Bible translations would rage in the following years, but
+          Knighton’s early response summarizes well the church’s primary objections — the English
+          language is less suitable than Latin as a conduit for Scripture, the right and duty to
+          convey Scripture to the people and interpret it belongs solely to the clergy, and the
+          laity should only access it directly as necessity demands, since they are incapable of
+          understanding or rightly using the knowledge it contains. The note of anxiety about
+          “laymen and even . . . women” gaining access to the gospel over “moderately well-educated
+          clergy” serves as a reminder that the Lollard movement’s leaders, despite their veneration
+          of Wyclif and other figures connected to Oxford as their intellectual forebears, were
+          themselves much less educated, and their ranks included many women.</p>
+        <p style="body" n="60">From the perspective of Wyclif and his Lollard followers, the
+          education of the laity through unmediated Scripture was a positive development. As early
+          as his treatise <hi rend="italic">De Ecclesia</hi>, which predates the EV by several
+          years, Wyclif had presented an anti-papal argument for why every Christian should be
+          thoroughly familiar with the Bible. Scripture, he argued, is “the glass by which heretics
+          may be discerned,” including the pope, and it is the layman’s duty to determine whether
+          the pope’s commands are in accord with Scripture and therefore lawful.<note target="#108"
+            type="footnotelink">108</note> Wyclif viewed the primary purpose of biblical education
+          among the laity as protection from heresy, especially from “pseudo-disciples” in the
+          clergy who would claim direct authority from God,<note target="#109" type="footnotelink"
+            >109</note> a view echoed by the Wycliffite Bible’s General Prologue, which claimed it
+          was the fear of being caught in simony, heresy, and “manie othere synnes” that motivated
+          the clergy’s opposition to English translation.<note target="#110" type="footnotelink"
+            >110</note></p>
+        <p style="body" n="61">If one of the central motivations of Wycliffite translators was
+          suspicion of the corrupted clergy, and a desire to circumvent their monopoly on biblical
+          interpretation by making Scripture available to the laity directly, the decision of the
+          Plimpton manuscript compilers to use the <hi rend="italic">English Apocalypse</hi> and its
+          commentary as the concluding text of the New Testament makes perfect sense. As the gloss
+          was translated from Anglo-Norman into Middle English, it was revised and expanded with
+          additions that amplified its anticlerical critiques. The Lollard producers of the Plimpton
+          manuscript made even further changes; unlike the biblical text, which required a high
+          level of accuracy and fidelity to the original, the gloss could serve as a platform from
+          which they expressed the concerns of their movement. The most prominent of these is the
+          critique leveled at “prelates,” a catch-all term for officials of any rank in the church
+          hierarchy.</p>
+        <p style="body" n="62">As the Explanatory Notes detail, the first reference to “holi
+          prelatis” in the gloss (1.¶11) describes their duty to preach and “conseile men after
+          Goddis lawe,” the Plimpton manuscript’s revision of the commentary’s original description
+          of priests hearing confessions and absolving congregants of sin through the sacrament of
+          penance. This curious alteration may reflect a general Lollard suspicion about the
+          necessity of sacraments, especially those performed by a priest in mortal sin, and a
+          corresponding veneration of preaching and teaching as the most important elements of a
+          clerical vocation. Later additions to the gloss unique to Plimpton spell out exactly how a
+          priest might fall into the sin that would corrupt his office — the gloss in 13.¶9
+          describes “false profetis” and “prelatis that doone her synne of leccherie priveli
+          [privately]”; who earn money from “londis” and “rentis” and “symonye,” the selling of
+          church offices; who join “the ordre” (whether the priesthood itself or a monastic or
+          fraternal order is unclear) so that they can “han bodili delites”; who are “Anticristis
+          discipils and his ypocritis and eretikis”; and who, like their leader Antichrist who
+          appears as an angel of light on the outside but is a devil on the inside, ultimately
+          “disceyven the folk and leden hem to perdicioun.” A later gloss describes clerks and
+          prelates as beholden to three of the Seven Deadly Sins, “pride, coveitise [greed], and
+          leccherie,” and compares their false preaching to the croaking of foul “froschis [frogs]”
+          (16.¶11). In a gloss on the biblical passage in which merchants weep over the destruction
+          of Babylon, Plimpton rejects the original gloss’s interpretation of the merchants as
+          usurers, a sin that anyone lending money could commit, and instead accuses them of
+          “symonyes” (18.¶9), a sin specific to high-ranking clergy, who enrich themselves by
+          selling ecclesiastical offices for money.</p>
+        <p style="body" n="63">One final example of an anticlerical passage, unique to the English
+          translation of the gloss though not to Plimpton, gives a striking glimpse into the
+          author’s sense of the priesthood’s absolute corruption:</p>
+        <quote>His [the Antichrist’s] profetis been coveitouse men of holi chirche, proude men and
+          losengeris [flatterers], men lecchoures. But the losengeris ben worst of alle that maken
+          hem [themselves] holi outher [either] for drede outher fore love, outher for ler [loss].
+          That thei hopen thei schulden nothing han of hem [their parishioners?] yif thei seiden hem
+          the sothe [truth]. These han taken undirhond [in hand] to speke the develis langage to
+          disceyven Goddis children and binyme [rob] God his eritage, and which ben strenger and
+          werse than any devel in helle. (20.¶3)</quote>
+        <p style="bodyfirst" n="21">The precise sense of a few phrases in this passage is obscure,
+          and the explanatory note in the text presents a few interpretive possibilities. But its
+          overall message is that these proud flatterers and lechers have taken holy orders for all
+          the wrong reasons — out of fear or a desire for flattery or material gain — and that they
+          tell lies to God’s people knowing that the truth will not earn them as much. The final
+          sentence of the passage in particular is crystal clear — the clergy who deceive God’s
+          children in this way are worse than any devil in hell.</p>
+        <p style="body" n="64">In addition to conveying many of the central concerns of anticlerical
+          polemicists in the late fourteenth and early fifteenth centuries, these examples from the
+          gloss illustrate another key aspect of the Lollards’ practice of biblical interpretation,
+          already mentioned in the section on “Apocalypse Commentaries” above. Like the Franciscans
+          and other Apocalypse commentators before them, the Lollards did not view the Book of
+          Revelation as merely a set of obscure prophecies about futuristic end times, unrelated to
+          their daily concerns. Rather, they believed that it contained a set of teachings with
+          direct relevance to their contemporary lives. With the production of translations like the
+            <hi rend="italic">English Apocalypse</hi>, lay readers could now access biblical texts
+          directly, without the potentially corrupt mediation of false teachers those very texts
+          warned them against.</p>
+        <p style="heading" n="12">Conclusion: Why the Plimpton Manuscript?</p>
+        <p style="bodyfirst" n="22">In some respects, using the Plimpton manuscript as the base text
+          for a new edition of the <hi rend="italic">English Apocalypse</hi> is an unusual choice.
+          It is not the oldest extant copy of the text — that distinction likely belongs to British
+          Library MS Harley 874 (H), dating from roughly 1340 to 1370, which Fridner used as the
+          base text for his 1961 edition and which this edition uses for secondary readings. As
+          noted above, none of the early manuscripts that predate the Wycliffite Bible contain
+          verses 1:1–8, and many contain other lacunae — H, for instance, is missing what appears to
+          be a full leaf, which required Fridner to use a secondary manuscript for that section of
+          the text, Cambridge University, Magdalene College MS Pepys 2498 (P). P is a later
+          manuscript production, possibly as late as 1400, but its text does not appear to have been
+          influenced by Wycliffite material. Another possible candidate for earliest manuscript,
+          Cambridge University, Caius College MS 231/117, starts at verse 1:21 and is missing enough
+          pages throughout to be considered fragmentary. These gaps are not insurmountable obstacles
+          to producing a critical edition, of course, and Fridner is remarkably thorough in
+          cataloging manuscript variants, apart from the absence of Plimpton. They illustrate,
+          however, that there is no perfectly stable base text, and that any edition of the <hi
+            rend="italic">English Apocalypse</hi> in its original form — to the extent that an
+          original form is possible to access — will be to some degree a patchwork of multiple
+          witnesses.</p>
+        <p style="body" n="65">Among the later manuscripts of the <hi rend="italic">English
+            Apocalypse</hi> which draw on Wycliffite material to create a more complete hybrid text,
+          however, Plimpton is a strong candidate for the base text of a critical edition, even
+          apart from its unique placement within a blended Wycliffite New Testament. It represents a
+          complete version of the <hi rend="italic">English Apocalypse</hi>, not in spite of its
+          reliance on Wycliffite material but because of it — any potential gaps in its copy text
+          are plugged with passages from the Wycliffite LV, and even seemingly minor issues with the
+          parent text are occasionally papered over by what appears to be scribal consultation with
+          the Wycliffite text. For an example, see the explanatory notes for 5.¶3 and 5.¶4, as well
+          as the note above in the section “The Manuscript” about the biblical text’s mistranslation
+          of the Anglo-Norman “phioles” (vials) as “fithelis” (fiddles), and its subsequent
+          correction in the gloss with apparent assistance from the LV. For a similar scenario in
+          reverse, see the explanatory note for 10.¶2, where the biblical text in verse 10:4 follows
+          the LV in using “marke” (seal, conceal) while the gloss remains keyed to its Anglo-Norman
+          source. Also see the explanatory note for 12.¶2, where Plimpton alone among <hi
+            rend="italic">English Apocalypse</hi> manuscripts follows the LV in using “aperide”
+          (appeared) rather than “shewed,” in a section that may parallel the LV more generally. On
+          other occasions, Plimpton offers wholly unique translations — for a compelling and
+          somewhat mysterious example, see the explanatory note for Prol.¶2, where an unusual word,
+          “asilen” (assail?), appears to serve as both a thematic and visual parallel to the later
+          word “arisen” (arise).</p>
+        <p style="body" n="66">With all of these emendations in mind, an appropriate alternate title
+          for this edition might be <hi rend="italic">The English Apocalypse in Transition</hi>. It
+          is not an authoritative text from a single uncorrupted source with an unbroken line of
+          transmission, but rather a snapshot of the Apocalypse as it was being produced in England
+          at a specific moment in time — an especially intriguing moment, as a popular and
+          influential new translation was emerging but simultaneously being suppressed, and as
+          scribes and manuscript compilers had access to multiple English translations, which had
+          travelled a variety of paths through the languages of Europe, and which they could now fit
+          together to form the strongest possible version of the <hi rend="italic">English
+            Apocalypse</hi> in their judgment. The text is complete, but it is also contingent,
+          neither permanent nor the last word in the Apocalypse’s development in England.</p>
+        <p style="body" n="67">As the histories of both French and English Bible translation make
+          clear, the concept of a “Bible” as a single, stable volume of divinely inspired texts,
+          while it may have been a conceptual ideal, has rarely reflected the practical reality of
+          manuscript and book production. From the emergence of the early Christian church to the
+          late fourteenth century in England, the experience of most Christian readers with biblical
+          texts was most often fragmentary and mediated. Even Wycliffite Bible texts, the most
+          standardized biblical productions of their era, frequently appear in manuscripts that
+          contain just one or only a few books of the Bible, often alongside paraphrases, Gospel
+          harmonies, poems, devotional works, polemics, and/or liturgical aids, to create what Mary
+          Raschko calls “an alternative form of New Testament.”<note target="#111"
+            type="footnotelink">111</note></p>
+        <p style="body" n="68">The Plimpton manuscript as a whole obviously fits squarely in this
+          category. But so does Plimpton’s copy of the <hi rend="italic">English Apocalypse</hi>
+          specifically — an apocalyptic Scripture originally written in Greek and translated to
+          Latin, translated again to Anglo-Norman French (with the possible intervention of Old
+          French in between), then again to Middle English, revised with the aid of another Middle
+          English edition translated directly from the Latin by a group of dissident university
+          scholars and newly declared heretics, with a commentary featuring freshly sharpened
+          critiques of the institutional church and its clerics, all contained within a potentially
+          contraband codex with two more English translations of biblical material, proverbs, a
+          prophecy against the friars, sermons, poetry, a lectionary calendar, and a Lollard polemic
+          against the papacy. Could there be a text more representative of its time and place, a
+          fractured and fractious England at the close of the fourteenth century?</p>
+        <p style="heading" n="13">Editorial Practice</p>
+        <p style="bodyfirst" n="23">This edition follows the METS practice of silently converting
+          all Middle English letters and scribal abbreviations to modern English equivalents, adding
+          modern punctuation, and standardizing certain spellings for ease of reading, as detailed
+          below.</p>
+        <p style="body" n="69">The Middle English letter thorn (<hi rend="italic">þ</hi>) is
+          replaced in every case with <hi rend="italic">th</hi>. The yogh (<hi rend="italic">ȝ</hi>)
+          is replaced with <hi rend="italic">gh</hi>, <hi rend="italic">y</hi>, <hi rend="italic"
+            >g</hi>, or <hi rend="italic">z</hi>, depending on its position in a word and the word’s
+          modern English spelling. Words such as <hi rend="italic">ȝeven</hi> (give) and <hi
+            rend="italic">aȝen</hi> (again or against) are pronounced with a <hi rend="italic"
+            >y</hi> sound and are often rendered in Middle English edited texts as <hi rend="italic"
+            >yeven</hi> and <hi rend="italic">ayen</hi>, but this edition standardizes the spelling
+          with a <hi rend="italic">g</hi> to more closely resemble modern English equivalents. The
+          main texts of the edition replace all Middle English letters, but the textual notes that
+          quote the secondary manuscripts retain them.</p>
+        <p style="body" n="70">The letter <hi rend="italic">u</hi> is replaced with <hi
+            rend="italic">v</hi> when its modern English equivalent does so.</p>
+        <p style="body" n="71">Ampersands (<hi rend="italic">&amp;</hi>) are replaced with the word
+            <hi rend="italic">and</hi>.</p>
+        <p style="body" n="72">Proper names, such as “God,” “Jesus,” “Israel,” “Patmos,” etc. are
+          inconsistently capitalized in the manuscripts; this edition capitalizes them in every
+          case. Capitalized proper names include the word “Apocalips” when it refers to the title of
+          the biblical book, but do not include personal pronouns for God and Jesus, which are left
+          in lowercase.</p>
+        <p style="body" n="73">Throughout the Apocalypse manuscripts and many other religious texts
+          in Middle English, the name for Jesus is often written <hi rend="italic">ihū</hi>, with a
+          penstroke called a tilde over the <hi rend="italic">u</hi> to indicate an abbreviated <hi
+            rend="italic">es</hi>. This edition changes the initial letter to a capital <hi
+            rend="italic">J</hi> and expands the abbreviation: <hi rend="italic">Jhesu</hi>. In
+          other places, the manuscripts spell the name <hi rend="italic">jesu</hi> without
+          abbreviation, and this edition follows by simply capitalizing the initial letter: <hi
+            rend="italic">Jesu</hi>.</p>
+        <p style="body" n="74">Scribal abbreviations in the primary and secondary manuscripts,
+          including superscript letters to indicate insertions, short and long tildes to indicate
+            <hi rend="italic">en</hi> or <hi rend="italic">em</hi>, crossbars below <hi
+            rend="italic">p</hi> to indicate <hi rend="italic">per</hi> or <hi rend="italic"
+            >pro</hi>, and crossbars across double-<hi rend="italic">l</hi> to indicate a terminal
+            <hi rend="italic">e</hi>, are silently expanded. The edition occasionally ignores
+          scribal abbreviations for the sake of consistency and readability, if the additional
+          letters do not change the meaning of the word. For example, the words <hi rend="italic"
+            >erthe</hi> (earth) and <hi rend="italic">prechour</hi> (preacher) occasionally include
+          a superscript <hi rend="italic">r</hi> to indicate an insertion, but since the notation is
+          applied inconsistently and the additional letters would not change the meaning of the
+          word, the edition ignores the notation and standardizes their spelling.</p>
+        <p style="body" n="75">Chapter divisions in the Apocalypse are marked in all of the
+          manuscripts and follow chapter divisions in the Vulgate, which are mirrored in the
+          Vulgate’s modern English translation, the Douay-Rheims version of the Bible. In two
+          instances, the openings of Chapters 12 and 13, the chapter divisions are slightly
+          different from those in many modern editions of the Bible, and these are explained in the
+          Textual Notes. Verse numbers, however, are not marked in the original manuscripts, and for
+          these the edition follows the Douay-Rheims. Chapter headings appear in bold at the start
+          of each chapter, and verse numbers appear in brackets before each verse.</p>
+        <p style="body" n="76">The indented paragraph breaks in this edition do not appear in the
+          original manuscripts and are fully editorial decisions. In some cases, the paragraphs
+          break to conform with modern dialogue convention — starting a new paragraph for each
+          speaker in a dialogue exchange — and in other cases, the breaks are simply thematic
+          transitions to enhance readability. Paragraphs also break in the transitions from the
+          biblical text to the glossed commentary and back, and each of these sections is marked
+          with the heading “Texte” or “Glose,” respectively. The manuscript marks the beginning of
+          each section of biblical text (with the exception of chapter beginnings) with the word <hi
+            rend="italic">texte</hi> or <hi rend="italic">tixte</hi> in red; this edition
+          standardizes the spelling. The manuscript is less consistent about placing the word <hi
+            rend="italic">glose</hi> at the start of each glossed section, but this edition silently
+          adds the heading for consistency wherever it is missing.</p>
+        <p style="body" n="77">Because the <hi rend="italic">English Apocalypse</hi> alternates
+          between biblical passages and commentary, the edition uses paragraph numbers rather than
+          verse numbers in citations. The paragraphs are numbered in bold at the start of each
+          indented line, and Textual and Explanatory Notes are keyed to these paragraph numbers —
+          for example, a note on chapter 1, paragraph 5, is cited as 1.¶5.</p>
+        <p style="body" n="78">Extratextual elements in the manuscript, such as enlarged capital
+          letters, rubrication, and marginalia, are not represented visually in the edition but are
+          catalogued in the Textual Notes. The edition largely ignores the punctuation that appears
+          in the original manuscripts — including slashes, interpuncts or middle dots, and colons —
+          and silently replaces it with modern English punctuation — periods, commas, quotation
+          marks, paragraph indentation, etc. All punctuation in the text is an editorial decision
+          made solely for ease of reading, and any interpretation of the text that relies on that
+          punctuation is therefore speculative.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>Morey, <hi rend="italic">Book and
+            Verse</hi>, pp. 351–53.</note>
+        <note type="footnote" n="2"><space rend="indent1"/>Sauer’s dissertation, in German, has the
+          title <hi rend="italic">Die Mittelenglische Übersetzung der Apokalypse</hi> [<hi
+            rend="italic">The Middle English Translation of the Apocalypse</hi>].</note>
+        <note type="footnote" n="3"><space rend="indent1"/>Fridner, p. xvii.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>Morey, <hi rend="italic">Book and
+            Verse</hi>, p. 351.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>Dove, <hi rend="italic">First English
+            Bible</hi>, p. 3; Johnson, “Middle English Religious Translation,” pp. 40–41.</note>
+        <note type="footnote" n="6"><space rend="indent1"/>Peikola, “Lollard (?) Production,” p.
+          1.</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Peikola, “Lollard (?) Production,” p.
+          7.</note>
+        <note type="footnote" n="8"><space rend="indent1"/>For Harley 3913, see Fridner, pp.
+          xxiii–xxiv; for St. John’s College G.25, see Dove, <hi rend="italic">First English
+            Bible</hi>, p. 283, and Morey, “The Wycliffites,” p. 91.</note>
+        <note type="footnote" n="9"><space rend="indent1"/>Fridner, p. xxxii; Deanesly, <hi
+            rend="italic">Lollard Bible</hi>, p. 143; Morgan, “Latin and Vernacular Apocalypses,” p.
+          416n60.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>Morey, <hi rend="italic">Book and
+            Verse</hi>, p. 352.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>Peikola, “Lollard (?) Production,” p.
+          4.</note>
+        <note type="footnote" n="12"><space rend="indent1"/>Peikola, “Lollard (?) Production,” p.
+          7.</note>
+        <note type="footnote" n="13"><space rend="indent1"/>Fridner, p. xxxiii.</note>
+        <note type="footnote" n="14"><space rend="indent1"/>Paues, quoted in Fridner, p.
+          xxxiii.</note>
+        <note type="footnote" n="15"><space rend="indent1"/>Fridner, pp. liv–lvi. He discusses here
+          the dialect of later manuscripts in general but not Plimpton.</note>
+        <note type="footnote" n="16"><space rend="indent1"/>Peikola, “Lollard (?) Production,” p.
+          1.</note>
+        <note type="footnote" n="17"><space rend="indent1"/>For a transcription of this brief text
+          and analysis of its anti-fraternal themes, see Acker, “Pseudo-Hildegard’s Anti-Mendicant
+          Prophecy in Columbia University Plimpton Add. MS 3,” pp. 261–68.</note>
+        <note type="footnote" n="18"><space rend="indent1"/>Dove, <hi rend="italic">First English
+            Bible</hi>, p. 283.</note>
+        <note type="footnote" n="19"><space rend="indent1"/>Morey, “The Wycliffites,” p. 91.</note>
+        <note type="footnote" n="20"><space rend="indent1"/>Fridner, p. xxiv.</note>
+        <note type="footnote" n="21"><space rend="indent1"/>Solopova, <hi rend="italic">Manuscripts
+            of the Wycliffite Bible</hi>, pp. 135–47.</note>
+        <note type="footnote" n="22"><space rend="indent1"/>Solopova, <hi rend="italic">Manuscripts
+            of the Wycliffite Bible</hi>, p. 146.</note>
+        <note type="footnote" n="23"><space rend="indent1"/>Solopova, <hi rend="italic">Manuscripts
+            of the Wycliffite Bible</hi>, p. 50.</note>
+        <note type="footnote" n="24"><space rend="indent1"/>Paues, ed., <hi rend="italic">A
+            Fourteenth Century English Biblical Version</hi>, p. xvii.</note>
+        <note type="footnote" n="25"><space rend="indent1"/>Short, ed., <hi rend="italic">Trinity
+            Apocalypse</hi>, p. xi.</note>
+        <note type="footnote" n="26"><space rend="indent1"/>Sneddon, “Bible in French,” p.
+          254.</note>
+        <note type="footnote" n="27"><space rend="indent1"/>Short, ed., <hi rend="italic">Trinity
+            Apocalypse</hi>, p. xii.</note>
+        <note type="footnote" n="28"><space rend="indent1"/>Sneddon, “Bible in French,” p.
+          256.</note>
+        <note type="footnote" n="29"><space rend="indent1"/>Short, ed., <hi rend="italic">Trinity
+            Apocalypse</hi>, p. xii; Morgan, “Illustrated Apocalypses,” p. 5.</note>
+        <note type="footnote" n="30"><space rend="indent1"/>Morgan, “Illustrated Apocalypses,” pp.
+          3–6.</note>
+        <note type="footnote" n="31"><space rend="indent1"/>Morgan, “Illustrated Apocalypses,” p.
+          5.</note>
+        <note type="footnote" n="32"><space rend="indent1"/>Burrows, ed., <hi rend="italic">Abingdon
+            Apocalypse</hi>, p. 1.</note>
+        <note type="footnote" n="33"><space rend="indent1"/>Burrows, ed., <hi rend="italic">Abingdon
+            Apocalypse</hi>, p. 1; Burrows, “Learning from an Anglo-Norman Apocalypse,” pp. 197–98;
+          Morgan, “Latin and Vernacular Apocalypses,” p. 421; Sneddon, “Bible in French,” p.
+          257.</note>
+        <note type="footnote" n="34"><space rend="indent1"/>Morgan, “Illustrated Apocalypses,” p.
+          15; Morgan, “Latin and Vernacular Apocalypses,” pp. 408, 421–22.</note>
+        <note type="footnote" n="35"><space rend="indent1"/>Delisle and Meyer, eds., <hi
+            rend="italic">L’Apocalypse en Français</hi> 2:ccii.</note>
+        <note type="footnote" n="36"><space rend="indent1"/>Burrows, “Learning from an Anglo-Norman
+          Apocalypse,” pp. 199–200.</note>
+        <note type="footnote" n="37"><space rend="indent1"/>Quoted in Fridner, p. xxxi.</note>
+        <note type="footnote" n="38"><space rend="indent1"/>See Fridner’s explanation of this
+          decision on p. lvii: “The comparatively correct Fr text of [BnF, fr. 403] therefore serves
+          the purpose of making the E text understandable and also to give the reader an idea of the
+          source, and of the manner in which the E rendering was made.”</note>
+        <note type="footnote" n="39"><space rend="indent1"/>Lawton, “The Bible,” p. 193.</note>
+        <note type="footnote" n="40"><space rend="indent1"/>Hoogvliet, “Medieval Vernacular Bible,”
+          p. 284; Sneddon, “Bible in French,” p. 257.</note>
+        <note type="footnote" n="41"><space rend="indent1"/>Sneddon, “Bible in French,” p.
+          256.</note>
+        <note type="footnote" n="42"><space rend="indent1"/>Sneddon, “Bible in French,” p.
+          257.</note>
+        <note type="footnote" n="43"><space rend="indent1"/>Hoogvliet, “Medieval Vernacular Bible,”
+          p. 283.</note>
+        <note type="footnote" n="44"><space rend="indent1"/>Sneddon, “Bible in French,” p.
+          264.</note>
+        <note type="footnote" n="45"><space rend="indent1"/>Poole, “Western Apocalypse Commentary
+          Tradition,” p. 104.</note>
+        <note type="footnote" n="46"><space rend="indent1"/>Johnson, trans., “Arundel’s
+          Constitutions” p. 458.</note>
+        <note type="footnote" n="47"><space rend="indent1"/>For a more exhaustive list, see Morgan,
+          “Latin and Vernacular Apocalypses,” pp. 411–12.</note>
+        <note type="footnote" n="48"><space rend="indent1"/>Boenig, “The Apocalypse,” p. 297.</note>
+        <note type="footnote" n="49"><space rend="indent1"/>Fridner, p. xxxii; Morey, <hi
+            rend="italic">Book and Verse</hi>, p. 352.</note>
+        <note type="footnote" n="50"><space rend="indent1"/>Morgan, “Illustrated Apocalypses,” p.
+          11; see also McGinn, “Apocalyptic Traditions,” pp. 9–11.</note>
+        <note type="footnote" n="51"><space rend="indent1"/>McGinn, <hi rend="italic">The Calabrian
+            Abbot</hi>, p. 127.</note>
+        <note type="footnote" n="52"><space rend="indent1"/>Short, ed., <hi rend="italic">Trinity
+            Apocalypse</hi>, p. xi.</note>
+        <note type="footnote" n="53"><space rend="indent1"/>Burr, <hi rend="italic">Olivi’s
+            Peaceable Kingdom</hi>, pp. 150–51, 243.</note>
+        <note type="footnote" n="54"><space rend="indent1"/>Quoted in Morgan, “Latin and Vernacular
+          Apocalypses,” p. 405.</note>
+        <note type="footnote" n="55"><space rend="indent1"/>Wyclif, <hi rend="italic">On
+          Simony</hi>, trans. McVeigh, p. 152.</note>
+        <note type="footnote" n="56"><space rend="indent1"/>Acker, “Pseudo-Hildegard’s
+          Anti-Mendicant Prophecy in Columbia University Plimpton Add. MS 3,” p. 264 (fol. 240r in
+          Plimpton).</note>
+        <note type="footnote" n="57"><space rend="indent1"/>Dean, ed., “Lanterne of Light,” lines
+          307–09, 319–22.</note>
+        <note type="footnote" n="58"><space rend="indent1"/>See Arngart, ed., <hi rend="italic"
+            >Middle English Genesis and Exodus</hi>; Napier, ed., <hi rend="italic">Iacob and
+            Ioseph</hi>; Morris, ed., <hi rend="italic">Cursor Mundi</hi>; Andrew and Waldron, eds.,
+            <hi rend="italic">Poems of the Pearl Manuscript</hi>; Foster, ed., <hi rend="italic"
+            >Stanzaic Life of Christ</hi>; Livingston, ed., <hi rend="italic">Metrical Paraphrase of
+            the Old Testament</hi>; and Black and St.-Jacques, eds., <hi rend="italic">Middle
+            English Glossed Prose Psalter</hi>.</note>
+        <note type="footnote" n="59"><space rend="indent1"/>Sutherland, <hi rend="italic">English
+            Psalms</hi>, pp. 255–56.</note>
+        <note type="footnote" n="60"><space rend="indent1"/>Fowler, <hi rend="italic">Bible in Early
+            English Literature</hi>, p. 145.</note>
+        <note type="footnote" n="61"><space rend="indent1"/>Deanesly, <hi rend="italic">Lollard
+            Bible</hi>, p. 145.</note>
+        <note type="footnote" n="62"><space rend="indent1"/>Sutherland, <hi rend="italic">English
+            Psalms</hi>, p. 74.</note>
+        <note type="footnote" n="63"><space rend="indent1"/>Kelly, <hi rend="italic">Middle English
+            Bible</hi>, p. 43; see also Dove, <hi rend="italic">First English Bible</hi>, p.
+          3.</note>
+        <note type="footnote" n="64"><space rend="indent1"/>Sutherland, <hi rend="italic">English
+            Psalms</hi>, p. 74.</note>
+        <note type="footnote" n="65"><space rend="indent1"/>Kelly, <hi rend="italic">Middle English
+            Bible</hi>, p. 44.</note>
+        <note type="footnote" n="66"><space rend="indent1"/>Sutherland, <hi rend="italic">English
+            Psalms</hi>, p. 87.</note>
+        <note type="footnote" n="67"><space rend="indent1"/>Fein, “Of Judges and Jewelers,” pp.
+          41–42.</note>
+        <note type="footnote" n="68"><space rend="indent1"/>Fein, “Of Judges and Jewelers,” p.
+          43.</note>
+        <note type="footnote" n="69"><space rend="indent1"/>Meyer, <hi rend="italic">Medieval
+            Allegory</hi>, p. 21.</note>
+        <note type="footnote" n="70"><space rend="indent1"/>Bloomfield, <hi rend="italic">Piers
+            Plowman as Apocalypse</hi>, pp. 123–25.</note>
+        <note type="footnote" n="71"><space rend="indent1"/>Kerby-Fulton, <hi rend="italic"
+            >Reformist Apocalypticism</hi>, p. 18.</note>
+        <note type="footnote" n="72"><space rend="indent1"/>For complete editions, see Burrows, ed.,
+            <hi rend="italic">Abingdon Apocalypse</hi>; McKitterick, ed., <hi rend="italic">Trinity
+            Apocalypse</hi>; and Short, ed., <hi rend="italic">Trinity Apocalypse</hi>. For
+          scholarship that reproduces manuscript pages, see Burrows, “Learning from an Anglo-Norman
+          Apocalypse”; Emmerson, <hi rend="italic">Apocalypse Illuminated</hi>; and Hamburger, <hi
+            rend="italic">St. John the Divine</hi>.</note>
+        <note type="footnote" n="73"><space rend="indent1"/>Dove, <hi rend="italic">First English
+            Bible</hi>, pp. 1–3, 306.</note>
+        <note type="footnote" n="74"><space rend="indent1"/>Morey, ed., <hi rend="italic">Prik of
+            Conscience</hi>, p. 1n1.</note>
+        <note type="footnote" n="75"><space rend="indent1"/>Love, <hi rend="italic">Mirror</hi>, ed.
+          Sargent, pp. xxxiii–xxxiv.</note>
+        <note type="footnote" n="76"><space rend="indent1"/><hi rend="italic">CT</hi>, pp.
+          1118–19.</note>
+        <note type="footnote" n="77"><space rend="indent1"/>Lawton, “The Bible,” p. 198.</note>
+        <note type="footnote" n="78"><space rend="indent1"/>Hudson, ed., <hi rend="italic"
+            >Selections</hi>, p. 67.</note>
+        <note type="footnote" n="79"><space rend="indent1"/>Boyle, “Innocent III,” p. 97.</note>
+        <note type="footnote" n="80"><space rend="indent1"/>Sneddon, “Old French Bible,” p.
+          24.</note>
+        <note type="footnote" n="81"><space rend="indent1"/>Workman, <hi rend="italic">John
+            Wyclif</hi> 2:416–17; Hudson, <hi rend="italic">Premature Reformation</hi>, p.
+          71.</note>
+        <note type="footnote" n="82"><space rend="indent1"/>Cole, <hi rend="italic">Literature and
+            Heresy</hi>, p. 4.</note>
+        <note type="footnote" n="83"><space rend="indent1"/>Dahmus, <hi rend="italic">Prosecution of
+            John Wyclyf</hi>, p. 135.</note>
+        <note type="footnote" n="84"><space rend="indent1"/>McFarlane, <hi rend="italic">John
+            Wycliffe</hi>, p. 152.</note>
+        <note type="footnote" n="85"><space rend="indent1"/>Wyclif, <hi rend="italic">On the
+            Truth</hi>, trans. Levy, p. 203.</note>
+        <note type="footnote" n="86"><space rend="indent1"/>Hudson, ed., <hi rend="italic"
+            >Selections</hi>, p. 67.</note>
+        <note type="footnote" n="87"><space rend="indent1"/>Johnson, trans., “Arundel’s
+          Constitutions,” p. 475.</note>
+        <note type="footnote" n="88"><space rend="indent1"/>Translation by Francis Aidan Gasquet,
+          qtd. in Kelly, <hi rend="italic">Middle English Bible</hi>, p. 72; see also Johnson,
+          trans., “Arundel’s Constitutions,” pp. 466–67.</note>
+        <note type="footnote" n="89"><space rend="indent1"/>Johnson, trans., “Arundel’s
+          Constitutions,” p. 468nc.</note>
+        <note type="footnote" n="90"><space rend="indent1"/>Watson, “Censorship and Cultural
+          Change,” p. 824.</note>
+        <note type="footnote" n="91"><space rend="indent1"/>Gillespie, “Chichele’s Church,” p.
+          13.</note>
+        <note type="footnote" n="92"><space rend="indent1"/>Johnson, trans., “Arundel’s
+          Constitutions,” p. 470.</note>
+        <note type="footnote" n="93"><space rend="indent1"/>Gillespie, “Chichele’s Church,” p.
+          17.</note>
+        <note type="footnote" n="94"><space rend="indent1"/>Gillespie, “Chichele’s Church,” p.
+          19.</note>
+        <note type="footnote" n="95"><space rend="indent1"/>Kelly, <hi rend="italic">Middle English
+            Bible</hi>, p. 75.</note>
+        <note type="footnote" n="96"><space rend="indent1"/>Kelly, <hi rend="italic">Middle English
+            Bible</hi>, p. 80.</note>
+        <note type="footnote" n="97"><space rend="indent1"/>Johnson, trans., “Arundel’s
+          Constitutions,” pp. 464–65.</note>
+        <note type="footnote" n="98"><space rend="indent1"/>See Hudson, ed., “Testimony of William
+          Thorpe,”; Hudson, ed., <hi rend="italic">Selections from English Wycliffite Writings</hi>,
+          which includes Hawisia Moone’s “Confession” on pp. 34–37; and Hudson, “‘Laicus
+          Litteratus,’” pp. 222–36, which examines Walter Brut’s trial.</note>
+        <note type="footnote" n="99"><space rend="indent1"/>Hudson, ed., “Testimony of William
+          Thorpe,” lines 182–83.</note>
+        <note type="footnote" n="100"><space rend="indent1"/>Hudson, ed., “Testimony of William
+          Thorpe,” lines 627–31.</note>
+        <note type="footnote" n="101"><space rend="indent1"/>Hudson, ed., “Testimony of William
+          Thorpe,” line 895.</note>
+        <note type="footnote" n="102"><space rend="indent1"/>Gillespie, “Chichele’s Church,” p.
+          21.</note>
+        <note type="footnote" n="103"><space rend="indent1"/>Lawton, “Englishing the Bible,” p.
+          459.</note>
+        <note type="footnote" n="104"><space rend="indent1"/>Ghosh, <hi rend="italic">Wycliffite
+            Heresy</hi>, p. 147.</note>
+        <note type="footnote" n="105"><space rend="indent1"/>Dove, <hi rend="italic">First English
+            Bible</hi>, p. 2.</note>
+        <note type="footnote" n="106"><space rend="indent1"/>Fowler, <hi rend="italic">Bible in
+            Early English Literature</hi>, pp. 154–55.</note>
+        <note type="footnote" n="107"><space rend="indent1"/>Translated by Dove, <hi rend="italic"
+            >First English Bible</hi>, p. 6; the corresponding Latin passage appears in Knighton,
+            <hi rend="italic">Chronicle</hi>, ed. and trans. Martin, pp. 242–44.</note>
+        <note type="footnote" n="108"><space rend="indent1"/>Wyclif, <hi rend="italic">De
+            Ecclesia</hi>, ed. Loserth, p. 41.</note>
+        <note type="footnote" n="109"><space rend="indent1"/>Wyclif, <hi rend="italic">On the
+            Truth</hi>, trans. Levy, p. 203.</note>
+        <note type="footnote" n="110"><space rend="indent1"/>Hudson, ed. <hi rend="italic"
+            >Selections</hi>, p. 67.</note>
+        <note type="footnote" n="111"><space rend="indent1"/>Raschko, “Taking Apart the Wycliffite
+          Bible,” pp. 466–67.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

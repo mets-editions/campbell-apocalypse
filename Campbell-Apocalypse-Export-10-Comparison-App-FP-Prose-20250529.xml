@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-10-Comparison-App-FP-Prose-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appendix B: Comparisons of Two Manuscripts</title>
+        <author>Unknown</author>
+        <editor>Campbell, Ethan</editor>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-08" to="2024-08">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2025-02" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-02" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2024-07">Audited documents prior to print/export</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-05">Encoded TEI</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="enm">English, Middle (1100-1500)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-10-Comparison-App-FP-Prose"/>
+      <div type="versotext-excerpt">
+        <p style="bodyfirst"><foreign xml:lang="en">In two significant passages of the biblical text — verses 1:9–16 and
+          3:7–22 — the Plimpton manuscript completely replaces the original translation of the <hi
+            rend="italic">English Apocalypse</hi> with the later Wycliffite Later Version (LV), to
+          make a uniquely blended Apocalypse text (see Introduction, p. 3). The Plimpton version of
+          these passages, which borrow from the LV, is shown on the lefthand page below. The
+          paragraph numbers correspond to those in the main text of this edition; see the footnotes
+          in the main text for glosses.</foreign></p>
+        <p style="heading">Columbia University MS Plimpton Add. 03</p>
+        <p style="heading2"><hi rend="bold">Chapter 1</hi></p>
+        <ab><milestone n="5" unit="prose-textblock"/><locus type="foliation">[fol. 204r]</locus> [9]
+          I, Joon, youre brother and partener in tribulacioun and kingdom and pacience in Crist
+          Jhesu, was in an yle that is clepid Pathmos, for the word of God and for the witnessing of
+          Jhesu. [10] Y was in spirit in the Lordis dai and Y herde bihynde me a grete vois as of a
+          trumpe [11] seiynge to me, “Write thou in a book that thing that thou seest and sende to
+          the sevene chirchis that ben in Asie: to Efesus, to Smirma and to Pergamus and to Tiatira
+          and to Sardis and to Philadelfia and to Loadicia.”</ab>
+        <ab>[. . . ]</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[12] And Y turnede that Y shulde se the vois
+          that spak with me, and Y turnede and Y say sevene candilstikis of gold. [13] And in the
+          myddil of the sevene goldun candilstickis, oon lyk to the sone of man clothid with a long
+          garment and gird at the tetis with a goldun gyrdil. [14] And the heed of hym and his
+          heeris weren whyte as whyte wolle and as snow, and the iyen of hym as flawme of fier, [15]
+          and hise feet lyk to latoune as in a brennynge chymeney, and the vois of hym as the vois
+          of many watris. [16] And he hadde in his right hond sevene sterris, and a swerd sharp on
+          ever either syde wente out of his mouth, and his face as the sunne schyneth in his
+          vertu.</ab>
+        <p style="heading"></p>
+        <p style="heading2"><hi rend="bold">Chapter 3</hi></p>
+        <ab><milestone n="4" unit="prose-textblock"/><locus type="foliation">[fol. 206v]</locus> [7]
+          “And to the aungele of the chirche of Filadelfie, write thou thes thingis, seith the holi
+          and trewe that hath the keiye of David, the whiche openeth and no man closith; he closith
+          and no man openeth. [8] I wot thi werkis, and lo I gaf bifor thee a dore opened, the
+          whiche no man mai close. For thu hast a litel vertu and hast kept my word and denyedist
+          not my name. [9] Lo, I shal gyve to thee of the synagoge of Sathanas, the whiche seyne hem
+          to ben Jewes and ben not, but lien. Lo, I schal maken hem that thai come and worschepe
+          biforn thi feet, and thei shal wite for I lovede thee, [10] for thu keptist the word of my
+          pacience. And I shal kepe thee fro the oure of temptacioun that is to comen into alle the
+          world to tempten men dwellende in erthe.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[11] “Lo, I come soone. Holde that thu hast
+          that no man take thi coroune. [12] And hym <locus type="foliation">[fol. 207r]</locus>
+          that shal overcome I shal make a piler in the temple of my God, and he shal no more go
+          out, and I shal write on hym the name of my God and the name of the cité of my God, of new
+          Jerusalem that cometh doun fro heven of my God, and my newe name.”</ab>
+        <ab>[. . . ]</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[14] “And to the aungele of the chirche of
+          Loadice, writ thou these thinges, seith Amen that is verili the feithfulle witnesse and
+          trewe, the whiche is the bigynnynge of Goddis creature. [15] I wott thi werkis, for nether
+          thou art colde, nether thou art hote. I wolde that thou were coold ether hoot. [16] But
+          for thou art lewe and neither cold neither hote, I schal bigyne for to cast thee out of my
+          mouthe. [17] For thou seist that ‘I am riche and ful of goodis and I have no nede of no
+          man,’ and thou woost not for thou art a wrecche and wreccheful, and thu art pore and
+          blynde and nakid. [18] I counsele thee for to bie of me gold firid and preved that thou be
+          maad riche and be clothid with whiyte clothis that the confusioun of thi nakidnesse appere
+          not. And anoynte thyn iyen with a colerie, that is medicyne for iyen gaderid of dyverse
+          eerbis that thou see.</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[19] “Whom I love, I reprove and chastise.
+          Therfor sue or love and do penaunce. [20] Lo, I stonde at the dore and knoke. If any man
+          schal here my vois and opene the gate, I schal entre to him and soupe <locus
+            type="foliation">[fol. 207v]</locus> with hym and he with me.</ab>
+        <ab><milestone n="9" unit="prose-textblock"/>[21] “I shal gyven to hym that shal overcome to
+          sitten with me in my trone, as I overcam and satt with my Fader in his trone. [22] He that
+          hath eris, here what the spirit shal seyn to chirchis.”</ab>
+      </div>
+
+      <div type="rectotext-excerpt">
+        <p style="bodyfirst"><foreign xml:lang="en">The original translation of the <hi rend="italic">English
+            Apocalypse</hi> as it appears in two of its earliest manuscripts is shown on the
+          righthand page below. The producer of the Plimpton manuscript may have had access to these
+          passages in the original translation but decided for unknown reasons to replace them with
+          passages from the Wycliffite LV (shown on the lefthand page). The paragraph numbers
+          correspond to those in the main text of this edition; see the Textual Notes (which
+          reproduce these passages with their original Middle English characters) for glosses.</foreign></p>
+        <p style="heading">British Library MS Harley 874</p>
+        <p style="heading2"><hi rend="bold">Chapter 1</hi></p>
+        <ab><milestone n="5a" unit="prose-textblock"/><locus type="foliation">[fol. 2b]</locus> [9]
+          Ich, Johan, youre brother and partinere in tribulaciouns and duelle in pacience in Jhesu
+          Crist, was in an yle of the see that is cleped Pathmos and was exiled for Goddes wordes
+          and for I bare witnesse of Jesu Crist. [10] And on a Sonenday, in gost Ich herd a grete
+          voice biside me as it were the soune of a trumpe [11] that seide to me, “Write in the book
+          that thou seest and sende it to the seven chirches of Asye, that is to wyte to Ephesie,
+          Smirme, Pargame, Tiatire, Carde, Philadelphe, &amp; Laodice.”</ab>
+        <ab>[. . . ]</ab>
+        <ab><milestone n="7a" unit="prose-textblock"/><locus type="foliation">[fol. 3a]</locus> [12]
+          And I tourned me to see the voice that spaak to me, and I seigh seven candelstickes. [13]
+          On that semed the maidens son that was clothed in an aube righth unto the erthe and gird
+          under his tittes with a girdel of golde. [14] His heued and his here was white as wolle
+          and as snow, and his eiyen as flaume of fyre, [15] and his feet as gleedes brennande. His
+          voice was as voice of many watres, [16] and he had in his righth honde seven sterres, and
+          out at his mouthe com a swerd kervyng on both parties. And his visage was as the sonne
+          whan it shyneth brighttest.</ab>
+        <p style="heading">Cambridge University Magdalene College MS Pepys 2498</p>
+        <p style="heading2"><hi rend="bold">Chapter 3</hi></p>
+        <ab><milestone n="4a" unit="prose-textblock"/><locus type="foliation">[fol. 230b]</locus> [7]
+          “Unto the chirche of Philadelphe, write this, seith he that that seith, the holy and
+          sothfast that hath David the keye that openeth and noman ne schetteth. [8] I wot youre
+          werkes, and hath goven you the dore open that non ne may schetten. Forthi that thou has a
+          litel vertu and haste kepte my word and noughth forsaken my lawe. [9] Loo, I schal give
+          thee the synagog of Sathan that seien that thai ben Jewes and ne ben noughth. And I schal
+          do hem comen and fallen before thi feete in worschipp, and thai schullen witen that thai
+          loven thee. [10] And for that thou hast kepte the comaundementz of pacience, I schal kepe
+          thee fro the temptacioun that schal come overal in the werlde that tempteth hem that wonen
+          in erthe.</ab>
+        <ab><milestone n="5a" unit="prose-textblock"/>[11] “Holde that thou hast non ne take thi
+          coroune. [12] And hym that Ich thus overcome, I schal make hym piler in the temple of my
+          God, and the name of my God, and the name of the cité newe Jerusalem that com adoun from
+          hevene, and my newe name.”</ab>
+        <ab>[. . . ]</ab>
+        <ab><milestone n="7a" unit="prose-textblock"/><locus type="foliation">[fol. 231a]</locus>
+          [14] “Unto the bisschopp of Laodyce, write that seith he that is sooth witnesse writen
+          trewe and verrey. [15] I wot wel thine werkes for thou art neither hot ne colde. [16] Bot
+          for thou art bytwene two, thou makest me to wlaththen [feel nauseated]. I schal bigynne to
+          cast thee out of my mouthe by the fore feete. [17] For thou seist that thou art riche and
+          hast mester [need] of nothing, and thou ne wost that thou art wrecched and pouere and
+          blynde and naked. [18] And forthi I rede that thou bye of my golde tried and proved forto
+          bicome riche, and that thou clothe men in white clothing that thi schame ne schewe noughth
+          that thou art naked. And grese thine eiyen with this oyle forto seen.</ab>
+        <ab><milestone n="8a" unit="prose-textblock"/>[19] “I blame and chastise hem that I love. And
+          therfore do penaunce. [20] Stondeth atte the dore and beteth that hereth my voice and
+          openeth me the gate and I schal entre unto hem and make there my sopere with hem and he
+          with me.</ab>
+        <ab><milestone n="9a" unit="prose-textblock"/>[21] “He that overcometh I schal do hym sytte
+          by me in my throne as Ich have overcomen and sytt with my Fader. [22] Who that hath eren
+          hereth what the spiryt seith to the chirche.”</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

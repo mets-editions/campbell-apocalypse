@@ -1,0 +1,2222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Campbell-Apocalypse-Export-08-Wyclif-App-Prose-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appendix A: Wycliffite Later Version Apocalypse</title>
+        <author>Unknown</author>
+        <editor>Campbell, Ethan</editor>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2025-02" to="2025-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed and suggested glosses</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-04" to="2025-04">Audited documents prior to print/export</resp>
+          <resp from="2025-02" to="2025-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-02" to="2025-02">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2023-06" to="2023-08">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-08">Reviewed and suggested glosses</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2023-06" to="2023-08">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2024-08" to="2024-08">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-09" to="2024-09">Audited documents prior to print/export</resp>
+          <resp from="2024-08" to="2024-08">Copyedited and proofread</resp>
+          <resp from="2023-03" to="2023-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-03" to="2024-08">Entered corrections for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for print edition</resp>
+          <resp from="2024-08" to="2024-08">Formatted for XML export</resp>
+          <resp from="2023-03" to="2023-08">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2024-06" to="2025-04">Audited documents prior to print/export</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-02" to="2025-04">Collected metadata</resp>
+          <resp from="2023-06" to="2024-07">Copyedited and proofread</resp>
+          <resp from="2023-06" to="2024-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-06" to="2023-09">Reviewed and suggested glosses</resp>
+          <resp from="2023-06" to="2024-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2023-06" to="2023-09">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+          <resp from="2023-06" to="2024-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Zaborny, Phillip</persName>
+          <resp from="2023-08" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-08" to="2023-11">Entered corrections for print edition</resp>
+          <resp from="2023-08" to="2023-11">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emily Chan</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consultant, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Evan Henry</persName>
+          <orgName>Independent</orgName>
+          <resp>Music Notation Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Emmarae Stein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Social Media Manager, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Phillip Zaborny</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Undergraduate Intern, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Campbell, Ethan</editor>
+            <title>The English Apocalypse: A Fourteenth-Century Translation of the Book of
+              Revelation from Columbia University, MS Plimpton Add. 03</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/campbell-apocalypse/blob/main/campbell-apocalypse-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="enm">English, Middle (1100-1500)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2024</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Campbell-Apocalypse-Export-08-Wyclif-App-Prose"/>
+      <div type="chapter" n="1">
+        <head type="rubric">Prologue</head>
+        <ab style="prose-incipit"><locus type="foliation">[fol. 380ra]</locus> Se<note target="#1"
+            type="footnotelink">G</note> now a prolog on the Apocalips.</ab>
+        <ab><milestone n="1" unit="prose-textblock"/>Alle<note type="tnote-indicator" n="1">T</note>
+          men that wolen life<note target="#2" type="footnotelink">G</note> mekeli in Crist, as the
+          apostil seith, suffren persecucion. Aftir that, thou sone<note target="#3"
+            type="footnotelink">G</note> that neighest to<note target="#4" type="footnotelink"
+            >G</note> the servise of God, stonde thou in rightwesnesse and in drede and make redi
+          thi soule to temptacion. For temptacion is a mannes lyf on the erthe. But that feithful
+          men faile not in hem,<note target="#5" type="footnotelink">G</note> the Lord coumforteth
+            hem<note target="#6" type="footnotelink">G</note> and confermeth seynge,<note
+            target="#7" type="footnotelink">G</note> “I am with you unto the ende of the world, and
+          litel floc nyle<note target="#8" type="footnotelink">G</note> ye drede.” Therfor God the
+          Fadir, seynge<note target="#9" type="footnotelink">G</note> the tribulacions wiche holi
+          chirche was to suffre, that was foundid of the apostlis on Crist the stoon, disposid<note
+            target="#10" type="footnotelink">G</note> with the Sone and the Holi Goost to shewen hem
+          that me<note target="#11" type="footnotelink">G</note> dredde hem the lasse. And al the
+          Trinyté shewide it Crist in his manheed, and Crist to Joon bi an aungel, and Joon to holi
+          chirche, of wich revelacion Joon made this book.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>Wherfore this book is seid<note target="#12"
+            type="footnotelink">G</note> Apocalips, that is to seie revelacion. For here it is
+          conteyned that God shewide to Joon, and Joon to holi chirche, hou grete thingis holi
+          chirche suffride in the firste tyme, and now suffrith, and schal suffre in the laste tymes
+          of Antecrist, whanne tribulacion shal be so greet, that if it mowe<note target="#13"
+            type="footnotelink">G</note> be, thei that ben chosen ben mefed,<note target="#14"
+            type="footnotelink">G</note> and wiche medis<note target="#15" type="footnotelink"
+            >G</note> she shal resceyve for thes tribulacions now and in tyme to come, that medis
+          that ben bihoten<note target="#16" type="footnotelink">G</note> maken hem glad, whom the
+          tribulacions that ben tolde maken afeerd.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>Therfore this book among othere scripturis of
+          the Newe Testament is clepid<note target="#17" type="footnotelink">G</note> bi the name of
+          profecie, and it is more excellent than profetis. For as the Newe Testament is worthier
+          than the Olde, and the gospel than the lawe, so this profecie passeth other profecies of
+          the Olde Testament, for it shewith sacramentis<note target="#18" type="footnotelink"
+            >G</note> that ben now aparti<note target="#19" type="footnotelink">G</note> fulfilde of
+          Crist and of holi chirche, or ellis for to other is oo<note target="#20"
+            type="footnotelink">G</note> maner profecie, but to this is thre maner profecie
+            gofen<note target="#21" type="footnotelink">G</note> togider, that is of that that is
+          passid, and of that that is present, and of that that is to come. And to conferme the
+          autorité of it, ther cometh the autorité of him that sendeth, and of him that berith, and
+          of him that resceyveth. He that sendeth is the Trynité, he that berith the aungel, he that
+          resceyveth Joon.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>But whanne thes thingis ben shewide to Joon in
+          visioun and ther ben thre kindis of visiouns, it is to seen undir wich kinde this be
+          conteyned. For sum visioun is bodili, as whanne we seen any thing with bodili iyen.<note
+            target="#22" type="footnotelink">G</note> Sum is spiritual or ymagynarie, as whanne we
+          slepeng seen or ellis waking we biholden the ymages of thingis bi wich sum other thing is
+          signified, as Farao<note target="#23" type="footnotelink">G</note> saw sleping eeris of
+            corn,<note target="#24" type="footnotelink">G</note> and Moises waking sawgh the boish
+            <locus type="foliation">[fol. 380rb]</locus> brenne.<note target="#25"
+            type="footnotelink">G</note> Another vision is of undirstonding, as whanne thrugh
+          revelacion of the Holi Goost, thrugh undirstonding of thought, we conceyven the truthe of
+          misteries as Joon sawgh tho thingis that ben contened in this book. For not oonli he saugh
+          in spiritt the figuris, but also he undirstood in thought the thingis that weren signified
+          bi hem.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>Joon saw and wroot in the ile of Pathmos,
+          whanne he was exiled of Domician the most wickid prince, and a cause compellide him to
+          write. For whil he was holden in outlawrie of Domician in the ile of Pathmos, in the
+          chirchis that he hadde governed ther weren sprungen manye vices and dyverse eresies. For
+          ther weren summe eretikis there that seiden that Crist was not tofore<note target="#26"
+            type="footnotelink">G</note> Marie, for as miche as he was in tyme born of hir, wich
+          eretikis Joon in the bigynnyng of his gospel undirnymeth<note target="#27"
+            type="footnotelink">G</note> and seith, “In the bigynnyng was the Sone,” and in this
+          book whanne he seith, “I am alpha and oo,<note target="#28" type="footnotelink">G</note>
+          that is the bigynnyng and the ende.” Summe also seiden that holi chirche shulde eende
+          tofore the eende of the world, for charge of tribulacions, and that it shulde not
+            undirfonge<note target="#29" type="footnotelink">G</note> for hir travel<note
+            target="#30" type="footnotelink">G</note> everlasting mede. Therfore Joon, willing to
+          distroie the errours of thes, sheweth that Crist was bigynnyng and eende, wherfore
+            Ysaie<note target="#31" type="footnotelink">G</note> seith, “Tofore me was no o<note
+            target="#32" type="footnotelink">G</note> god formed, and aftir me ther shal not be.”
+          And that holi chirche thrugh exercise of tribulacions shal not be endid, but shal profiten
+          and for hem resceyven an everlasting mede.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>Joon writeth to sevene chirchis of Asye and to
+          her sevene bysshops of the forseide thingis, enformyng and teching bi hem al the general
+          holi chirche. And so the mater of Joon in this werk, specialy of the chirche of Asie and
+          also of al holi chirche, what she shal suffre in this present tyme and what she shal
+          undirfonge in tyme to come, and his entent is to stire<note target="#33"
+            type="footnotelink">G</note> to pacience wich is to be kept, for the travaile is short
+          and the mede is greet. The maner of his treting is sich: First he setteth tofore a prolog
+          and a salutacion, wher he makith the hereris<note target="#34" type="footnotelink"
+            >G</note> beningne<note target="#35" type="footnotelink">G</note> and taking wel
+            tent,<note target="#36" type="footnotelink">G</note> and whanne he hath sett it tofore,
+          he cometh to the telling, but tofore his telling he shewith that Crist is ever withoute
+          bigynnyng and withouten ende, rehersing him that spekith, “I am alpha and oo, bigynnyng
+          and ende.” Aftirward he cometh to his telling and departeth<note target="#37"
+            type="footnotelink">G</note> it in to sevene visiouns, and whanne thei ben eendid, this
+          book is endid. He settith tofore the prolog and seith “The Apocalips of Jhesu Crist.”
+          Undirstonde that this is as it is in othere, the visioun of Ysaie and also the parablis of
+          Saloman.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>Jerom in this<note type="tnote-indicator" n="2"
+            >T</note> prolog on this Apocalips seith this.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/><gloss>Read</gloss></note>
+        <note type="footnote" n="2"><space rend="indent1"/>wolen life, <gloss>desire to
+          live</gloss></note>
+        <note type="footnote" n="3"><space rend="indent1"/><gloss>son</gloss></note>
+        <note type="footnote" n="4"><space rend="indent1"/>neighest to, <gloss>enters
+          into</gloss></note>
+        <note type="footnote" n="5"><space rend="indent1"/>faile not in hem, <gloss>not lose faith
+            because of them (temptations)</gloss></note>
+        <note type="footnote" n="6"><space rend="indent1"/><gloss>them (faithful men)</gloss></note>
+        <note type="footnote" n="7"><space rend="indent1"/><gloss>saying</gloss></note>
+        <note type="footnote" n="8"><space rend="indent1"/><gloss>do not</gloss></note>
+        <note type="footnote" n="9"><space rend="indent1"/><gloss>seeing</gloss></note>
+        <note type="footnote" n="10"><space rend="indent1"/><gloss>designed</gloss></note>
+        <note type="footnote" n="11"><space rend="indent1"/><gloss>mankind</gloss></note>
+        <note type="footnote" n="12"><space rend="indent1"/><gloss>called</gloss></note>
+        <note type="footnote" n="13"><space rend="indent1"/><gloss>may</gloss></note>
+        <note type="footnote" n="14"><space rend="indent1"/><gloss>moved (away from
+          faith)</gloss></note>
+        <note type="footnote" n="15"><space rend="indent1"/><gloss>meeds (rewards)</gloss></note>
+        <note type="footnote" n="16"><space rend="indent1"/><gloss>promised</gloss></note>
+        <note type="footnote" n="17"><space rend="indent1"/><gloss>called</gloss></note>
+        <note type="footnote" n="18"><space rend="indent1"/><gloss>mysteries</gloss></note>
+        <note type="footnote" n="19"><space rend="indent1"/><gloss>partly</gloss></note>
+        <note type="footnote" n="20"><space rend="indent1"/><gloss>one</gloss></note>
+        <note type="footnote" n="21"><space rend="indent1"/><gloss>given</gloss></note>
+        <note type="footnote" n="22"><space rend="indent1"/><gloss>eyes</gloss></note>
+        <note type="footnote" n="23"><space rend="indent1"/><gloss>Pharaoh</gloss></note>
+        <note type="footnote" n="24"><space rend="indent1"/>eeris of corn, <gloss>heads of
+            grain</gloss></note>
+        <note type="footnote" n="25"><space rend="indent1"/>boish brenne, <gloss>burning
+            bush</gloss></note>
+        <note type="footnote" n="26"><space rend="indent1"/><gloss>before
+          (preexisting)</gloss></note>
+        <note type="footnote" n="27"><space rend="indent1"/><gloss>rebukes</gloss></note>
+        <note type="footnote" n="28"><space rend="indent1"/><gloss>omega</gloss></note>
+        <note type="footnote" n="29"><space rend="indent1"/><gloss>receive</gloss></note>
+        <note type="footnote" n="30"><space rend="indent1"/><gloss>travail (labor)</gloss></note>
+        <note type="footnote" n="31"><space rend="indent1"/><gloss>Isaiah</gloss></note>
+        <note type="footnote" n="32"><space rend="indent1"/><gloss>one</gloss></note>
+        <note type="footnote" n="33"><space rend="indent1"/><gloss>bestir</gloss></note>
+        <note type="footnote" n="34"><space rend="indent1"/><gloss>hearers</gloss></note>
+        <note type="footnote" n="35"><space rend="indent1"/><gloss>gentle</gloss></note>
+        <note type="footnote" n="36"><space rend="indent1"/><gloss>intent</gloss></note>
+        <note type="footnote" n="37"><space rend="indent1"/><gloss>divides</gloss></note>
+
+
+      </div>
+
+
+
+      <div type="chapter" n="2">
+        <head type="rubric">Chapter 1</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] Apocalips<note type="tnote-indicator" n="3"
+            >T</note> of Jhesu Crist, wich God gaf to him to make open to hise servauntis, wiche
+          thingis it bihoveth<note target="#38" type="footnotelink">G</note> to be maad soone. And
+          he signifiede sending bi his aungel to his servaunt Joon, [2] wich baar witnessing to the
+          word of God and witnessing of Jhesu Crist in thes thingis what evere thingis he saw. [3]
+          Blessid is he that redeth and he that herith the wordis of this prophecie, and kepith tho
+          thingis that ben writen in it, for the tyme is nigh.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] Joon to sevene <locus type="foliation"
+            >[fol. 380va]</locus> chirchis that ben in Asie: grace and pees to you, of him that is
+          and that was and that is to comynge and of the sevene spiritis that ben in the sight of
+          his trone,<note target="#39" type="footnotelink">G</note> [5] and of Jhesu Crist that is a
+          feithful witnesse, the first bigeten<note target="#40" type="footnotelink">G</note> of
+            dede<note target="#41" type="footnotelink">G</note> men and prince of kingis of the
+          erthe, wich lovede us and waysshide us fro oure synnes in his blood [6] and made us a
+          kingdam and prestis to God and to his Fadir. To him be glorie and empire, in to worldis of
+          worldis. Amen.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] Lo, he cometh with cloudis and ech iye shal
+          se him, and thei that prickiden<note target="#42" type="footnotelink">G</note>
+          <note type="tnote-indicator" n="4">T</note> him and alle the kinredis<note target="#43"
+            type="footnotelink">G</note>
+          <note type="tnote-indicator" n="5">T</note> of the erthe shulen biweile<note target="#44"
+            type="footnotelink">G</note> hem silf on him. Yhee,<note target="#45"
+            type="footnotelink">G</note> Amen.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[8] “I am alpha and oo, the bigynnyng and the
+          eende,” seith the Lord God, “that is and that was and that is to comynge almyghti.”</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[9] I, Joon, yor brother and partener in
+          tribulacion and kingdam and pacience in Crist Jhesu, was in an ile<note target="#46"
+            type="footnotelink">G</note> that is clepid Pathmos, for the word of God and for the
+          witnessing of Jhesu. [10] I was in spiritt in the Lordis dai and I herde bihinde me a
+          greet vois as of a trumpe [11] seynge to me, “Write thu in a book that thing that thu
+          seest and sende to the sevene chirchis that ben in Asie, to Efesus, to Smirma, and to
+          Pergamus and to Tiatira and to Sardis and to Filadelfia and to Loadicia.”</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[12] And I turnede that I shulde se the vois
+          that spac with me, and I turnede and I saw sevene candilstikis of gold, [13] and in the
+          middel of the sevene golden candilstikis, oon lyk to the sone of man clothid with a long
+            garnement<note type="tnote-indicator" n="6">T</note> and gird at the tetis<note
+            target="#47" type="footnotelink">G</note> with a golden girdel, [14] and the heed of hym
+          and hise heeris<note target="#48" type="footnotelink">G</note> weren whiyte as whyt
+            wolle<note target="#49" type="footnotelink">G</note> and as snow, and the iyen of him as
+          a flawme of fyr, [15] and hise feet lyk to latoun<note target="#50" type="footnotelink"
+            >G</note>
+          <note type="tnote-indicator" n="7">T</note> as in a brennynge chymnei, and the vois of him
+          as the vois of manye watris. [16] And he hadde in his righthond sevene sterres,<note
+            target="#51" type="footnotelink">G</note> and a swerd sharp on ever ether<note
+            target="#52" type="footnotelink">G</note> side wente out of his mouth, and his face as
+          the sonne shyneth in his vertu.<note target="#53" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[17] And whanne I hadde seen him, I felde doun
+          at his feet as deed, and he puttide his righthond on me and seide, “Nyle<note target="#54"
+            type="footnotelink">G</note> thu drede. I am the firste and the laste, [18] and I am
+          alife and I was deed, and loo I am lifinge in to worldis of worldis and I have the
+            keies<note target="#55" type="footnotelink">G</note> of deeth and of helle.</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[19] “Therfore write thu wiche thingis thu hast
+          seyn, and wiche ben and wiche it bihoveth to be doon aftir thes thingis. [20] The
+            sacrament<note target="#56" type="footnotelink">G</note> of the seven sterris, wiche thu
+          sawest in my righthond, and the sevene golden candilstikis: the sevene sterris ben
+          aungelis of the sevene chirchis, and the seven candilstikis ben seven chirchis.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="38"><space rend="indent1"/><gloss>is destined</gloss></note>
+        <note type="footnote" n="39"><space rend="indent1"/><gloss>throne</gloss></note>
+        <note type="footnote" n="40"><space rend="indent1"/><gloss>begotten</gloss></note>
+        <note type="footnote" n="41"><space rend="indent1"/><gloss>dead</gloss></note>
+        <note type="footnote" n="42"><space rend="indent1"/><gloss>pierced
+          (crucified)</gloss></note>
+        <note type="footnote" n="43"><space rend="indent1"/><gloss>kindreds (peoples)</gloss></note>
+        <note type="footnote" n="44"><space rend="indent1"/><gloss>lament</gloss></note>
+        <note type="footnote" n="45"><space rend="indent1"/><gloss>Yea</gloss></note>
+        <note type="footnote" n="46"><space rend="indent1"/><gloss>island</gloss></note>
+        <note type="footnote" n="47"><space rend="indent1"/><gloss>chest</gloss></note>
+        <note type="footnote" n="48"><space rend="indent1"/><gloss>hairs</gloss></note>
+        <note type="footnote" n="49"><space rend="indent1"/><gloss>wool</gloss></note>
+        <note type="footnote" n="50"><space rend="indent1"/><gloss>alloy of copper, tin, and other
+            metals</gloss></note>
+        <note type="footnote" n="51"><space rend="indent1"/><gloss>stars</gloss></note>
+        <note type="footnote" n="52"><space rend="indent1"/>ever ether, <gloss>both</gloss></note>
+        <note type="footnote" n="53"><space rend="indent1"/><gloss>power</gloss></note>
+        <note type="footnote" n="54"><space rend="indent1"/><gloss>Do not</gloss></note>
+        <note type="footnote" n="55"><space rend="indent1"/><gloss>keys</gloss></note>
+        <note type="footnote" n="56"><space rend="indent1"/><gloss>mystery</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="3">
+        <head type="rubric">Chapter 2</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] “And to the aungel of the chirche of
+          Efesie, write thu thes thingis, seith he that holdeth the sevene sterris in his righthond,
+          wiche walkith in the middel of the sevene golden candilstikis. [2] I woot<note
+            target="#57" type="footnotelink">G</note> thi werkis and travele and thi pacience, and
+          that thou maist not suffre yvele men, and thu hast assaied<note target="#58"
+            type="footnotelink">G</note> hem that seyn that thei ben apostlis and ben not, and thou
+          hast founden hem liers, [3] and thou hast pacience, and thou hast suffrid for my name and
+          failedest not.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] “But I have agens thee a fewe thingis: that
+          thou hast laft<note target="#59" type="footnotelink">G</note> thi firste charité. [5]
+          Therfor be thu myndeful from whennes thu hast falle and do penaunce <locus
+            type="foliation">[fol. 380vb]</locus> and do the firste werkis, ether<note target="#60"
+            type="footnotelink">G</note> ellis I shal come soone to thee, and I shal mofe<note
+            target="#61" type="footnotelink">G</note> thi candilstike fro his place, but thu do
+          penaunce. [6] But thu hast this good thing, that thu hatidist the dedis of Nycholaitis,
+          the wiche also I hate.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] “He that hath eeris,<note target="#62"
+            type="footnotelink">G</note> heere he what the Spiritt seith to the chirchis. To him
+          that overcometh I shal gife to ete of the tree of lyf that is in the paradys of my
+          God.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[8] “And to the aungel of the chirche of Smirma
+          write thu thes thingis, seith the firste and the laste, that was deed and lifeth. [9] I
+          woot thi tribulacioun and thi povert, but thu art riche and thou art blasfemed of hem that
+          seyn that thei ben Jewis and ben not, but ben the synagoge of Sathanas. [10] Drede thu no
+          thing of thes thingis wiche thou shalt suffre. Lo, the devel shal sende summe of you in to
+          prison, that ye be temptid, and ye schulen have tribulacion ten daies. Be thu feithful to
+          the deeth, and I shal gife to thee a crowne of lyf.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[11] “He that hath eeris, here he what the
+          Spiritt seith to the chirchis. He that overcometh shal not be hurt of the seconde
+          deeth.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[12] “And to the aungel of the chirche of
+          Pergamus, write thou thes thingis, seith he that hath the swerd sharp on eche side. [13] I
+          woot where thu duellist, where the sete of Sathanas is, and thou holdist my name and
+          denyest not my feith. And in tho daies was Antifas my feithful wittnes that was slain
+            at<note target="#63" type="footnotelink">G</note> you, where Sathanas dwellith.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[14] “But I have agens thee a fewe thingis, for
+          thou hast there men holding the teching of Balaam, wich taughte Balaac for to sende
+            sclaundir<note target="#64" type="footnotelink">G</note> bifore the sones of Israel to
+          ete sacrifices of idols and to do fornicacion. [15] So also thou hast men holding the
+          teching of Nycholaitis. [16] Also do thu penaunce. If any thing lasse,<note target="#65"
+            type="footnotelink">G</note> I shal come soone to thee and I shal fighte with hem with
+          the swerd of my mouth.</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[17] “He that hath eeres, here he what the
+          Spiritt seith to the chirchis. To hym that overcometh, I shal gife aungelis mete<note
+            target="#66" type="footnotelink">G</note> hid<note target="#67" type="footnotelink"
+            >G</note> and I shal gife to him a whyt stoon<note target="#68" type="footnotelink"
+            >G</note> and in the stoon a new name writen, wich no man knowith but he that
+          takith.</ab>
+        <ab><milestone n="9" unit="prose-textblock"/>[18] “And to the aungel of the chirche of
+          Tiatire, write thu thes thingis, seith the Sone of God, that hath iyen as flawme of fyr
+          and hise feet lyk latoun. [19] I knowe thi werkis and feith and charité and thi service
+          and thi pacience, and thi laste werkis mo than the formere.</ab>
+        <ab><milestone n="10" unit="prose-textblock"/>[20] “But I have agens thee a fewe thingis,
+          for thou suffrist the womman Jesabel wiche seith that she is a profetesse, to teche and
+          disceyve my servauntis to do leyccherie and to ete of thingis offride to idols. [21] And I
+          gaf to hir tyme that she shulde do penaunce, and she wolde not do penaunce of hir
+          fornicacion, [22] and lo, I sende hir in to a bed and thei that doon leyccherie with hire
+          shulen be in moost tribulacioun but thei doon penaunce of her werkis. [23] And I shal
+            slee<note target="#69" type="footnotelink">G</note> her sones in to deeth, and alle
+          chirchis shulen wite<note target="#70" type="footnotelink">G</note> that I am serchinge
+            reynes<note target="#71" type="footnotelink">G</note> and hertis, and I shal gife to ech
+          man of you aftir his werkis.</ab>
+        <ab><milestone n="11" unit="prose-textblock"/>“And I seie to you [24] and to other that ben
+          at Tiatire, who ever han not this teching and that knewen not the highnesse of Sathanas,
+          hou thei seyn,<note target="#72" type="footnotelink">G</note> I shal not sende on <locus
+            type="foliation">[fol. 381ra]</locus> you another charge. [25] Netheles, holde ye that
+          that ye han, til I come.</ab>
+        <ab><milestone n="12" unit="prose-textblock"/>[26] “And to him that shal overcome and that
+          shal kepe til in to the ende my werkis I shal gife power on folkis,<note target="#73"
+            type="footnotelink">G</note> [27] and he shal governe hem in an yren yarde,<note
+            target="#74" type="footnotelink">G</note> and thei shulen be broken togider, as a vessel
+          of a potter, as also I resceyvede of my Fadir. [28] And I schal gife to him a morewe
+            sterre.<note target="#75" type="footnotelink">G</note> [29] He that hath eeris, here he
+          what the Spiritt seith to the chirchis.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="57"><space rend="indent1"/><gloss>know</gloss></note>
+        <note type="footnote" n="58"><space rend="indent1"/><gloss>tested</gloss></note>
+        <note type="footnote" n="59"><space rend="indent1"/><gloss>left</gloss></note>
+        <note type="footnote" n="60"><space rend="indent1"/><gloss>or</gloss></note>
+        <note type="footnote" n="61"><space rend="indent1"/><gloss>remove</gloss></note>
+        <note type="footnote" n="62"><space rend="indent1"/><gloss>ears</gloss></note>
+        <note type="footnote" n="63"><space rend="indent1"/><gloss>among</gloss></note>
+        <note type="footnote" n="64"><space rend="indent1"/><gloss>slander</gloss></note>
+        <note type="footnote" n="65"><space rend="indent1"/><gloss>less</gloss></note>
+        <note type="footnote" n="66"><space rend="indent1"/>aungelis mete,
+          <gloss>manna</gloss></note>
+        <note type="footnote" n="67"><space rend="indent1"/><gloss>hidden</gloss></note>
+        <note type="footnote" n="68"><space rend="indent1"/><gloss>stone</gloss></note>
+        <note type="footnote" n="69"><space rend="indent1"/><gloss>slay</gloss></note>
+        <note type="footnote" n="70"><space rend="indent1"/><gloss>know</gloss></note>
+        <note type="footnote" n="71"><space rend="indent1"/><gloss>passions</gloss></note>
+        <note type="footnote" n="72"><space rend="indent1"/>hou thei seyn, <gloss>as they call
+            it</gloss></note>
+        <note type="footnote" n="73"><space rend="indent1"/>on folkis, <gloss>among
+          mankind</gloss></note>
+        <note type="footnote" n="74"><space rend="indent1"/><gloss>rod</gloss></note>
+        <note type="footnote" n="75"><space rend="indent1"/>morewe sterre, <gloss>morning
+            star</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="4">
+        <head type="rubric">Chapter 3</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] “And to the aungel of the chirche of
+          Sardis, write thu thes thingis, seith he that hath the sevene spiritis of God and the
+          sevene sterris. I wott thi werkis, for thu hast a name that thou lifest and thou art deed.
+          [2] Be thu waking, and conferme thu othere thingis that weren to diyng. For I finde not
+          thi werkis fulle bifore my God. [3] Therfore have thou in mynde hou thu resceyvedist and
+          herdist, and kepe and do penaunce. Therfore if thou wake not, I shal come as a night theef
+          to thee, and thu shalt not wite in what our<note target="#76" type="footnotelink">G</note>
+          I shal come to thee.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] “But thu hast a fewe names in Sardis wiche
+          han not defoulid her clothes, and thei schulen walke with me in white clothes, for thei
+          ben worthi. [5] He that overcometh shal be clothed thus with whiyte clothis, and I shal
+          not do awei his name fro the book of lyf, and I shal knowleche<note target="#77"
+            type="footnotelink">G</note> his name bifore my Fadir, and bifore hise aungelis. [6] He
+          that hath eeris, here he what the Spiritt seith to the chirchis.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] “And to the aungel of the chirche of
+          Filadelfie, write thou thes thingis, seith the holi and trewe that hath the keie of David
+          wiche openeth and no man closeth; he closeth and no man openeth. [8] I wot thi werkis, and
+          lo I gaf bifore thee a dore opened wich no man mai close. For thou hast a litel vertu and
+          hast kept my word and denyest not my name. [9] Lo, I shal gife to thee of the synagoge of
+          Sathanas wiche sein that thei ben<note type="tnote-indicator" n="8">T</note> Jewes and ben
+          not, but lien. Lo, I shal make hem that thei come and worshipe bifore thi feet and thei
+          shulen wite that I lovede thee, [10] for thou keptist the word of my pacience. And I shal
+          kepe thee fro the our of temptacion that is to comynge in to al the world to tempte men
+          that duellen in erthe.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] “Lo, I come soone. Holde thu that that thu
+          hast, that no man take thi corown. [12] And him that shal overcome I shal make a piler in
+          the temple of my God, and he shal no more go out. And I shal write on him the name of my
+          God and the name of the cité of my God, of the newe Jerusalem that cometh doun fro hevene
+          of my God, and my name new. [13] He that hath eeris, here he what the Spiritt seith to the
+          chirchis.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[14] “And to the aungel of the chirche of
+          Loadice, write thu thes thingis, seith Amen the feithful wittnes and trewe, wich is
+          bigynnyng of Goddis creature.<note target="#78" type="footnotelink">G</note> [15] I wot
+          thi werkis, for nether thu art coold, nether thu art hoot. I wolde that thu were coold
+          ether hoot. [16] But for thu art lew<note target="#79" type="footnotelink">G</note> and
+          nether coold nether hoot, I shal bigynne to caste thee out of my mouth. [17] For thou
+          seist that ‘I am riche and ful of goodis, and I have nede of no thing,’ and thu wost not
+          that thu art a wreycche, and wreycchful and pore and blind and nakid. [18] I counsele thee
+          to bye of me brent<note target="#80" type="footnotelink">G</note> gold and preved<note
+            target="#81" type="footnotelink">G</note> that thu be maad riche and be clothid with
+          whiyte clothes, that the confusion of <locus type="foliation">[fol. 381rb]</locus> thi
+          nakidnesse be not seen. And anoynte thine iyen with a collerie<note target="#82"
+            type="footnotelink">G</note>
+          <note type="tnote-indicator" n="9">T</note> that thu see.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[19] “I repreve and chastise whom I love.
+          Therfore swe<note target="#83" type="footnotelink">G</note> thu gode men and do penaunce.
+          [20] Lo, I stonde at the dore and knocke. If any man herith my vois and openeth the gate
+          to me, I shal entre to him and soupe<note target="#84" type="footnotelink">G</note> with
+          him and he with me.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[21] “I shal gife to him that shal overcome to
+          sitte with me in my troone,<note target="#85" type="footnotelink">G</note> as also I
+          overcam and satt with my Fadir in his troone. [22] He that hath eeris, here he what the
+          Spiritt seith to the chirchis.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="76"><space rend="indent1"/><gloss>hour</gloss></note>
+        <note type="footnote" n="77"><space rend="indent1"/><gloss>acknowledge</gloss></note>
+        <note type="footnote" n="78"><space rend="indent1"/><gloss>creation</gloss></note>
+        <note type="footnote" n="79"><space rend="indent1"/><gloss>lukewarm</gloss></note>
+        <note type="footnote" n="80"><space rend="indent1"/><gloss>burnt</gloss></note>
+        <note type="footnote" n="81"><space rend="indent1"/><gloss>proven (refined)</gloss></note>
+        <note type="footnote" n="82"><space rend="indent1"/><gloss>salve</gloss></note>
+        <note type="footnote" n="83"><space rend="indent1"/><gloss>pursue (imitate)</gloss></note>
+        <note type="footnote" n="84"><space rend="indent1"/><gloss>sup</gloss></note>
+        <note type="footnote" n="85"><space rend="indent1"/><gloss>throne</gloss></note>
+
+
+      </div>
+
+
+
+      <div type="chapter" n="5">
+        <head type="rubric">Chapter 4</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] Aftir thes thingis I saw, and lo, a
+            dore<note type="tnote-indicator" n="10">T</note> was opened in hevene, and the firste
+          vois that I herde was as of a trumpe spekinge with me and seide, “Stie<note target="#86"
+            type="footnotelink">G</note> thou up hider, and I shal shewe to thee wich thingis it
+          bihoveth to be doon soone after thes thingis.” [2] Anoon I was in spiritt, and lo a seete
+          was sett in hevene, and upon the seete oon sitting. [3] And he that satt was lyk the sight
+          of a stoon jaspis<note target="#87" type="footnotelink">G</note> and to sardyn,<note
+            target="#88" type="footnotelink">G</note> and a reynbowe was in the cumpas of<note
+            target="#89" type="footnotelink">G</note> the seete, lyk the sight of smaragdyn.<note
+            target="#90" type="footnotelink">G</note> [4] And in the cumpas of the seete weren foure
+          and twenti smale seetis, and above the troone foure and twenti eldir men sittinge
+            hilid<note target="#91" type="footnotelink">G</note> aboute with white clothis and in
+          the heedis of hem golden crownes. [5] And leitis<note target="#92" type="footnotelink"
+            >G</note> and voicis<note target="#93" type="footnotelink">G</note> and thundringis
+          camen out of the troone, and seven laumpis brennynge bifore the troone, wiche ben the
+          sevene spiritis of God.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[6] And bifore the seete as a see of glas lyk a
+          cristal, and in the middil of the seete<note type="tnote-indicator" n="11">T</note> foure
+          beestis fulle of iyen bifore and behinde. [7] And the firste beest lyk a lion, and the
+          seconde beest lyk a calf, and the thridde beest havynge a face as a man, and the fourthe
+          beest lyk an egle fleynge. [8] And the foure beestis hadden everich of hem sixe wyngis and
+          al aboute and withinne thei weren fulle of iyen, and thei hadden not rest dai and night,
+          seyng, “Holi, holi, holi, the Lord God almighti, that was and that is and that is to
+          comynge.”</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[9] And whanne the foure bestis gafen glorie
+          and onour and blessing to him that satt on the troone, that lifeth in to worldis of
+          worldis, [10] the foure and twenti eldir men felden doun bifore him that satt in the
+          troone and worschipiden him that lifeth in to worldis of worldis. And thei castiden her
+          crownes bifore the troone and seiden, [11] “Thu Lord oure God art worthi to take glorie
+          and onour and vertu, for thou madist of nought<note target="#94" type="footnotelink"
+            >G</note> alle thingis, and for thi wille tho weren and ben made of nought.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="86"><space rend="indent1"/><gloss>Arise</gloss></note>
+        <note type="footnote" n="87"><space rend="indent1"/><gloss>jasper</gloss></note>
+        <note type="footnote" n="88"><space rend="indent1"/><gloss>sardonyx</gloss></note>
+        <note type="footnote" n="89"><space rend="indent1"/>in the cumpas of, <gloss>round
+            about</gloss></note>
+        <note type="footnote" n="90"><space rend="indent1"/><gloss>emerald</gloss></note>
+        <note type="footnote" n="91"><space rend="indent1"/><gloss>covered</gloss></note>
+        <note type="footnote" n="92"><space rend="indent1"/><gloss>lightning</gloss></note>
+        <note type="footnote" n="93"><space rend="indent1"/><gloss>rumblings</gloss></note>
+        <note type="footnote" n="94"><space rend="indent1"/>of nought, <gloss>from
+          nothing</gloss></note>
+
+
+      </div>
+
+      <div type="chapter" n="6">
+        <head type="rubric">Chapter 5</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw in the righthond of the sitter on
+          the troone a book writen withinne and without and seelid with seven seelis. [2] And I saw
+          a strong aungel prechinge with a greet vois, “Who is worthi to opene the book and to undo
+          the seelis of it?” [3] And noon in hevene nether in erthe nether undir erthe mighte opene
+          the book nether biholde it. [4] And I wepte miche,<note target="#95" type="footnotelink"
+            >G</note> for noon was founden worthi to opene the book nether to se it. [5] And oon of
+          the eldir men seide to me, “Wepe thu not. Lo, a lion of the lynage of Juda, the rote<note
+            target="#96" type="footnotelink">G</note> of Davith, hath overcomen to opene the book
+          and to undoo the sevene seelis of it.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[6] And I saw, and lo, in the myddil of the
+          troone and of the foure beestis and in the middil of the eldir men, a Lomb<note
+            target="#97" type="footnotelink">G</note> stondinge as slayn, <locus type="foliation"
+            >[fol. 381va]</locus> that hadde sevene hornes and seven iyen, wiche ben seven spiritis
+          of God sent in to al erthe. [7] And he cam and took of the righthond of the sitter in the
+          troone the book, [8] and whanne he hadde opened the book, the foure beestis and the foure
+          and twenti eldir men fellen doun bifore the Lomb and hadden ech of hem harpis and golden
+            viols<note target="#98" type="footnotelink">G</note> fulle of odours, wiche ben the
+            priers<note target="#99" type="footnotelink">G</note> of seyntis.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[9] And thei songen<note target="#100"
+            type="footnotelink">G</note> a new song and seiden, “Lord oure God, thu art worthi to
+          take the book and to opene the seelis of it, for thu were slayn and agenboughtist<note
+            target="#101" type="footnotelink">G</note> us to God in thi blood, of eche lynage and
+          tonge and puple and nacion, [10] and madist us a kingdam and prestis to oure God, and we
+          shulen regne on erthe.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] And I saw and herde the vois of manye
+          aungels al aboute the troone, and of the beestis and of the eldir men, and the noumbre of
+          hem was thusandis of thousandis, [12] seynge with a greet vois, “The Lomb that was slain
+          is worthi to take vertu and godheede and wisdam and strengthe and onor and glorie and
+          blessing.”</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[13] And ech creature that is in hevene and
+          that is on erthe and undir erthe and the see and wiche thingis ben in it, I herde alle
+          seynge to him that satt in the troone and to the Lomb, “Blessing and onour and glorie and
+          power in to worldis of worldis.” [14] And the foure beestis seiden, “Amen.” And the foure
+          and twenti eldir men fellen doun on her facis and worchipiden hem that lifeth in to
+          worldis of worldis.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="95"><space rend="indent1"/><gloss>much</gloss></note>
+        <note type="footnote" n="96"><space rend="indent1"/><gloss>root</gloss></note>
+        <note type="footnote" n="97"><space rend="indent1"/><gloss>Lamb</gloss></note>
+        <note type="footnote" n="98"><space rend="indent1"/><gloss>vials</gloss></note>
+        <note type="footnote" n="99"><space rend="indent1"/><gloss>prayers</gloss></note>
+        <note type="footnote" n="100"><space rend="indent1"/><gloss>sang</gloss></note>
+        <note type="footnote" n="101"><space rend="indent1"/><gloss>ransomed</gloss></note>
+
+
+      </div>
+
+      <div type="chapter" n="7">
+        <head type="rubric">Chapter 6</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw that the Lomb hadde opened oon of
+          the sevene seelis, and I herde oon of the foure beestis seynge as a vois of thundir, “Come
+          and se.” [2] And I saw, and lo, a whiyt hors,<note type="tnote-indicator" n="12">T</note>
+          and he that satt on him hadde a bowe and a crowne was gofen to him, and he wente out
+          overcomyng that he shulde overcome.<note target="#102" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[3] And whanne he hadde opened the secounde
+          seel, I herde the secunde beest seynge, “Come thu and se.” [4] And another reed<note
+            target="#103" type="footnotelink">G</note> hors<note type="tnote-indicator" n="13"
+            >T</note> wente out, and it was gofen to him that satt on him that he shulde take
+            pees<note target="#104" type="footnotelink">G</note> fro the erthe, and that thei slee
+          togider hemself.<note target="#105" type="footnotelink">G</note> And a greet swerd was
+          gofen to him.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[5] And whanne he hadde opened the thridde
+          seal, I herde the thridde beest seynge, “Come thu and se.” And loo, a blac hors,<note
+            type="tnote-indicator" n="14">T</note> and he that satt on him hadde a balaunce in his
+          hond. [6] And I herde as a vois in the middil of the foure beestis seynge, “A bilibre<note
+            target="#106" type="footnotelink">G</note> of wheete for a peny and thre bilibris of
+          barlei for a peny, and hurte thu not wyn<note target="#107" type="footnotelink">G</note>
+          ne oile.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[7] And whanne he hadde opened the fourthe
+          seel, I herde a vois of the foure beestis seynge, “Come thou and se.” [8] And lo, a pale
+            hors,<note type="tnote-indicator" n="15">T</note> and the name was Deeth to him that
+          saat on him, and helle<note type="tnote-indicator" n="16">T</note> swede<note
+            target="#108" type="footnotelink">G</note> him. And power was gofen to him on foure
+          partis of the erthe for to slee with swerd and with hungir and with deeth and with beestis
+          of the erthe.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[9] And whanne he hadde opened the fifethe
+          seel, I saw undir the auter<note target="#109" type="footnotelink">G</note> the soulis of
+          men slayne for the word of God and for the wittnessing that thei hadden. [10] And thei
+          crieden with a greet vois and seiden, “Hou longe, thu Lord that art holi and trewe,
+            demest<note target="#110" type="footnotelink">G</note> not and vengist<note
+            target="#111" type="footnotelink">G</note> not oure blood of thes that duellen in the
+          erthe?” [11] And white stollis<note target="#112" type="footnotelink">G</note> for eche
+          soule, a stoole weren gofen to hem. And it was seid to hem that thei shulden reste yit a
+          litel tyme, til the noumbre of her felowis and of her bre|thren <locus type="foliation"
+            >[fol. 381vb]</locus> be fulfilid that ben to be slayne as also thei.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[12] And I saw whanne he hadde opened the sixte
+          seel, and lo, a greet erthe mofing was maad and the sonne was maad blac as a sacke of
+            heire,<note target="#113" type="footnotelink">G</note> and al the mone was maad as
+          blood, [13] and the sterris of heven fellen doun on the erthe as a fige tree sendeth hise
+          unripe figus whanne it is mofed of a greet wynd. [14] And hevene wente awei as a book
+          wlappid in,<note target="#114" type="footnotelink">G</note> and alle mounteins and
+            yles<note target="#115" type="footnotelink">G</note> weren mofed fro her placis.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[15] And the kingis of erthe and princis and
+          tribunes and riche and stronge and ech bonde<note target="#116" type="footnotelink"
+            >G</note> man and fre man hidden hem in dennes and stoones of hillis. [16] And thei seyn
+          to stoones and to hillis, “Falle ye on us and hide ye us fro the face of him that sitteth
+          on the troone and fro the wraththe of the Lomb! [17] For the greet dai of her wraththe
+          cometh, and who shal mow<note target="#117" type="footnotelink">G</note> stonde?”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="102"><space rend="indent1"/>overcomyng . . . overcome,
+            <gloss>coming over to conquer</gloss></note>
+        <note type="footnote" n="103"><space rend="indent1"/><gloss>red</gloss></note>
+        <note type="footnote" n="104"><space rend="indent1"/><gloss>peace</gloss></note>
+        <note type="footnote" n="105"><space rend="indent1"/><gloss>themselves</gloss></note>
+        <note type="footnote" n="106"><space rend="indent1"/><gloss>two-pound measure</gloss></note>
+        <note type="footnote" n="107"><space rend="indent1"/><gloss>wine</gloss></note>
+        <note type="footnote" n="108"><space rend="indent1"/><gloss>pursued</gloss></note>
+        <note type="footnote" n="109"><space rend="indent1"/><gloss>altar</gloss></note>
+        <note type="footnote" n="110"><space rend="indent1"/><gloss>judge</gloss></note>
+        <note type="footnote" n="111"><space rend="indent1"/><gloss>avenge</gloss></note>
+        <note type="footnote" n="112"><space rend="indent1"/><gloss>stoles (robes)</gloss></note>
+        <note type="footnote" n="113"><space rend="indent1"/>sacke of heire, <gloss>sackcloth made
+            of animal skin</gloss></note>
+        <note type="footnote" n="114"><space rend="indent1"/>wlappid in, <gloss>folded
+          up</gloss></note>
+        <note type="footnote" n="115"><space rend="indent1"/><gloss>islands</gloss></note>
+        <note type="footnote" n="116"><space rend="indent1"/><gloss>enslaved</gloss></note>
+        <note type="footnote" n="117"><space rend="indent1"/><gloss>be able to</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="8">
+        <head type="rubric">Chapter 7</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] Aftir thes thingis, I saw foure aungelis
+          stondinge on the foure corners of the erthe, holdinge foure wiyndis of the erthe that thei
+          blewen not on the erthe nether on the see nether on any tree. [2] And I saw another aungel
+            stiynge<note target="#118" type="footnotelink">G</note> fro the rising of the sonne that
+          hadde a signe of the lifing God, and he criede with a greet vois to the foure aungelis to
+          wiche it was gofen to noie<note target="#119" type="footnotelink">G</note> the erthe and
+          the see, [3] and seide, “Nyle ye noie the erthe and the see, nether trees, til we marken
+          the servauntis of oure God in the forheedis of hem.” [4] And I herde the noumbre of men
+          that weren markid, an hundrid thusand and foure and fourty<note type="tnote-indicator"
+            n="17">T</note> thusand markid of everi lynage of the sones of Israel.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[5] Of the lynage of Juda, twelfe thusand
+          markid. Of the lynage of Ruben, twelfe thusand markid. Of the lynage of Gad, twelfe
+          thusand markid. [6] Of the lynage of Aser, twelfe thusand markid. Of the lynage of
+          Neptali, twelfe thusand markid. Of the lynage of Manasse, twelfe thousand markid. [7] Of
+          the lynage of Symeon, twelfe thusand markid. Of the lynage of Levy, twelfe thousand
+          markid. Of the lynage of Isacar, twelfe thousand markid. [8] Of the lynage of Zabulon,
+          twelfe thusand markid. Of the lynage of Joseph, twelfe thusand markid. Of the lynage of
+          Benjamyn, twelfe thousand markid.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[9] Aftir thes thingis, I saw a greet puple
+          whom no man mighte noumbre of alle folkis and lynagis and puplis and langagis stondinge
+          bifore the troone in the sight of the Lomb, and thei weren clothid with whiyte stoolis,
+          and palmes weren in the hondis of hem. [10] And thei crieden with greet vois and seiden,
+          “Heelthe to oure God that sitteth on the troone and to the Lomb.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] And alle aungelis stooden al aboute the
+          troone and the eldir men and the foure beestis, and thei fellen doun in the sight of the
+          troone on her facis and worchipiden God [12] and seiden, “Amen. Blessing and
+            clerenesse<note target="#120" type="footnotelink">G</note> and wisdam and doing of
+          thankingis and onour and vertu and strengthe to oure God into worldis of worldis.
+          Amen.”</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[13] And oon of the senyours<note target="#121"
+            type="footnotelink">G</note> answeride and seide to me, “Who ben thes that ben clothid
+          with white cloothis? And fro whennes camen thei?”</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[14] And I seide to him, “My lord, thou
+            wost.”<note target="#122" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="7" unit="prose-textblock"/>And he seide to me, “Thes ben thei that camen
+          fro greet tribulacion and waiyssheden<note target="#123" type="footnotelink">G</note> her
+          stoolis and maden hem whiyte in the blood of the Lomb. [15] Therfore thei ben bifore the
+          troone of God and serven to him <locus type="foliation">[fol. 382ra]</locus> dai and night
+          in his temple. And he that sitteth in the troone duelleth on hem. [16] Thei shulen no more
+          hungre nether thirste nether sonne shal falle on hem ne any heete, [17] for the Lomb that
+          is in the middel of the trone shal governe hem and shal leede forth hem to the wellis of
+          watris of lyf and God shal wipe awei eche teer fro the iyen of hem.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="118"><space rend="indent1"/><gloss>coming forth</gloss></note>
+        <note type="footnote" n="119"><space rend="indent1"/><gloss>harm</gloss></note>
+        <note type="footnote" n="120"><space rend="indent1"/><gloss>glory</gloss></note>
+        <note type="footnote" n="121"><space rend="indent1"/><gloss>elders</gloss></note>
+        <note type="footnote" n="122"><space rend="indent1"/><gloss>know</gloss></note>
+        <note type="footnote" n="123"><space rend="indent1"/><gloss>have washed</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="9">
+        <head type="rubric">Chapter 8</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And whanne he hadde opened the seventhe
+          seel, a silence was maad in heven as half an hour. [2] And I saw sevene aungelis stondinge
+          in the sight of God, and sevene trumpis weren gofen to hem.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[3] And another aungel cam and stood bifore the
+          auter and hadde a golden censer and manye encensis weren gofen to him that he shulde gife
+          of the preiers of alle seyntis on the golden auter that is bifore the trone of God. [4]
+          And the smoke of encensis of the preiers of the holi men stiede<note target="#124"
+            type="footnotelink">G</note> up fro the aungelis hond bifore God. [5] And the aungel
+          took the encenser and fillide it of the fyr of the auter and castide in to erthe, and
+          thundris and voicis<note target="#125" type="footnotelink">G</note> and leitingis<note
+            target="#126" type="footnotelink">G</note> weren made and a greet erthe mofing.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[6] And the seven aungelis that hadde sevene
+          trumpis maden hem redi that thei shulden trumpe. [7] And the firste aungel trumpide, and
+          hail was maad and fyr meynd<note target="#127" type="footnotelink">G</note> togidere in
+          blood. And it was sent into the erthe, and the thridde part of the erthe was brent<note
+            target="#128" type="footnotelink">G</note> and the thridde paart of trees was brent and
+          al the grene gras was brent.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[8] And the seconde aungel trumpide, and as a
+          greet hil brennynge with fyr was cast into the see, and the thridde part of the see was
+          maad blood, [9] and the thridde part of creature was deed that hadden lifes in the see,
+          and the thridde part of shippis periysshide.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[10] And the thridde aungel trumpide, and a
+          greet sterre brennynge as a litil brond<note target="#129" type="footnotelink">G</note>
+          fel fro hevene, and it fel into the part of flodis<note target="#130" type="footnotelink"
+            >G</note> and into the wellis<note target="#131" type="footnotelink">G</note> of watris.
+          [11] And the name of the sterre is seid Wormod.<note target="#132" type="footnotelink"
+            >G</note> And the thridde part of watris was maad into wormod, and manye men weren deede
+          of the watris for tho weren made bitter.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[12] And the fourthe aungel trumpide, and the
+          thridde part of the sonne was smiten, and the thridde part of the mone and the thridde
+          part of sterris, so that the thridde part of hem was derkid. And the thridde part of the
+          dai shynede not and also of the night.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[13] And I saw and herde the vois of an egle
+          flyng bi the middel of hevene and seynge with a greet vois, “Wo, wo, wo to men that
+          duellen in erthe of the other voicis of thre aungelis that shulen trumpe aftir.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="124"><space rend="indent1"/><gloss>rose</gloss></note>
+        <note type="footnote" n="125"><space rend="indent1"/><gloss>rumblings</gloss></note>
+        <note type="footnote" n="126"><space rend="indent1"/><gloss>lightning</gloss></note>
+        <note type="footnote" n="127"><space rend="indent1"/><gloss>mixed</gloss></note>
+        <note type="footnote" n="128"><space rend="indent1"/><gloss>burned</gloss></note>
+        <note type="footnote" n="129"><space rend="indent1"/><gloss>brand (torch)</gloss></note>
+        <note type="footnote" n="130"><space rend="indent1"/><gloss>rivers</gloss></note>
+        <note type="footnote" n="131"><space rend="indent1"/><gloss>springs</gloss></note>
+        <note type="footnote" n="132"><space rend="indent1"/><gloss>Wormwood</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="10">
+        <head type="rubric">Chapter 9</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And the fifethe aungel trumpede, and I saw
+          that a sterre hadde fallen doun fro hevene into erthe. And the keie of the pitt of
+            depnesse<note target="#133" type="footnotelink">G</note> was gofen it. [2] And it
+          openede the pitt of depnesse, and a smoke of the pitt stiede up as the smoke of a greet
+          furneis, and the sonne was derkid and the eir<note target="#134" type="footnotelink"
+            >G</note> of the smoke of the pitt. [3] And locustis wenten out of the smoke of the pitt
+          into erthe, and power was gofen to hem as scorpions of the erthe han power. [4] And it was
+          comaundid to hem that thei shulden not hurte the gras of the erthe nether any grene thing
+          nether any tre, but oonli men that han not the signe of God in her forheedis. [5] And it
+          was gofen to hem that thei shulden <locus type="foliation">[fol. 382rb]</locus> not sle
+          hem, but thei shulden be turmenteid fife monethis,<note target="#135" type="footnotelink"
+            >G</note> and the turmenting of hem as the turmenting of a scorpion whanne he smiteth a
+          man. [6] And in tho daies men shulen seke deeth and thei shulen not finde it, and thei
+          shulen desire to dye and deeth shal fle fro hem.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[7] And the liknessis of locustis ben lyk
+          horsis made redi into batel, and on the heedis of hem as corownes lyk gold and the facis
+          of hem as the facis of men. [8] And thei hadden heeris as the heeris of wymmen, and the
+          teeth of hem weren as the teeth of liouns. [9] And thei hadden habirions<note
+            target="#136" type="footnotelink">G</note> as iren<note target="#137"
+            type="footnotelink">G</note> habirions and the vois of her wyngis as the vois of
+            chaaris<note target="#138" type="footnotelink">G</note> of manye horsis rennynge into
+          batele. [10] And thei hadden tailes lyk scorpions and prickis<note target="#139"
+            type="footnotelink">G</note> weren in the tailis of hem and the might of hem was to
+            noye<note target="#140" type="footnotelink">G</note> men fyve monethis. And thei hadden
+          on hem [11] a king, the aungel of depnesse<note target="#141" type="footnotelink">G</note>
+          to whom the name bi Ebrew is Iaabadon but bi Greek Apollion, and bi Laten he hath a name
+            <hi rend="italic">Extermynans</hi>, that is a distroier.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[12] Oo wo<note target="#142"
+            type="footnotelink">G</note> is passid, and lo, yit comen two woos.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[13] Aftir thes thingis also the sixte aungel
+          trumpide, and I herde a vois fro foure corners of the golden auter that is bifore the iyen
+          of God [14] and seide to the sixte aungel that hadde a trumpe, “Unbinde thu foure aungels
+          that ben bounden in the grete flod Eufrates.” [15] And the foure aungels weren unbounden
+          wich weren reedi into our<note target="#143" type="footnotelink">G</note> and dai and
+          moneth and yeer to sle the thridde part of men. [16] And the noumbre of the oost<note
+            target="#144" type="footnotelink">G</note> of horsmen was twenti thousand sithis<note
+            target="#145" type="footnotelink">G</note> ten thousand. I herde the noumbre of
+          hem.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[17] And lo, I saw horsis in vision and thei
+          that saten on hem hadden firie<note target="#146" type="footnotelink">G</note> habiriouns
+          and of jacinct<note target="#147" type="footnotelink">G</note> and of brimstoon, and the
+          heedis of the horsis weren as hedis of lions, and fyr and smoke and brimstoon camen forth
+          of the mouth of hem. [18] Of thes thre plagis the thridde part of men was slain, of the
+          fyr and of the smoke and of the brimstoon that camen out of the mouth of hem. [19] For the
+          power of horsis is in the mouth of hem and in the tailis of hem, for the tailis of hem ben
+          lyk to serpentis havynge heedis, and in hem thei noien.<note target="#148"
+            type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[20] And the tother men that weren not slayne
+          in thes plagis nether diden penaunce of the werkis of her hondis that thei worshipiden
+            not<note target="#149" type="footnotelink">G</note> develis and symilacis<note
+            target="#150" type="footnotelink">G</note> of gold and of silver and of bras and of
+          stoon and of tre,<note target="#151" type="footnotelink">G</note> wiche nether moun<note
+            target="#152" type="footnotelink">G</note> se nether here nether wandre, [21] and diden
+          not penaunce of her mansleingis,<note target="#153" type="footnotelink">G</note> nether of
+          her wicchecraftis ether venemyngis,<note target="#154" type="footnotelink">G</note> nether
+          of her fornicacion, nether of her theftis, weren slayne.<note type="tnote-indicator"
+            n="18">T</note>
+        </ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="133"><space rend="indent1"/>pitt of depnesse,
+          <gloss>abyss</gloss></note>
+        <note type="footnote" n="134"><space rend="indent1"/><gloss>air</gloss></note>
+        <note type="footnote" n="135"><space rend="indent1"/><gloss>months</gloss></note>
+        <note type="footnote" n="136"><space rend="indent1"/><gloss>hauberks (coats of
+            armor)</gloss></note>
+        <note type="footnote" n="137"><space rend="indent1"/><gloss>iron</gloss></note>
+        <note type="footnote" n="138"><space rend="indent1"/><gloss>chariots</gloss></note>
+        <note type="footnote" n="139"><space rend="indent1"/><gloss>stingers</gloss></note>
+        <note type="footnote" n="140"><space rend="indent1"/><gloss>torment</gloss></note>
+        <note type="footnote" n="141"><space rend="indent1"/><gloss>the abyss</gloss></note>
+        <note type="footnote" n="142"><space rend="indent1"/>Oo wo, <gloss>One woe
+          (torment)</gloss></note>
+        <note type="footnote" n="143"><space rend="indent1"/><gloss>hour</gloss></note>
+        <note type="footnote" n="144"><space rend="indent1"/><gloss>host (army)</gloss></note>
+        <note type="footnote" n="145"><space rend="indent1"/><gloss>multiplied by</gloss></note>
+        <note type="footnote" n="146"><space rend="indent1"/><gloss>fiery</gloss></note>
+        <note type="footnote" n="147"><space rend="indent1"/><gloss>jacinth (precious
+          stone)</gloss></note>
+        <note type="footnote" n="148"><space rend="indent1"/><gloss>inflict harm</gloss></note>
+        <note type="footnote" n="149"><space rend="indent1"/>that thei worshipiden not, <gloss>so
+            they would not worship</gloss></note>
+        <note type="footnote" n="150"><space rend="indent1"/><gloss>idols</gloss></note>
+        <note type="footnote" n="151"><space rend="indent1"/><gloss>wood</gloss></note>
+        <note type="footnote" n="152"><space rend="indent1"/><gloss>can</gloss></note>
+        <note type="footnote" n="153"><space rend="indent1"/><gloss>murders</gloss></note>
+        <note type="footnote" n="154"><space rend="indent1"/><gloss>poisonings
+          (sorcery)</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="11">
+        <head type="rubric">Chapter 10</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw another strong aungel comynge
+          doun fro hevene clothid with a cloude and the reynbowe on his heed. And the face of him
+          was as the sonne, and the feet of him as a piler of fyr. [2] And he hadde in his hond a
+          litel book opened, and he sette his right foot on the see and the lift foot on the erthe,
+          [3] and he criede with a greet vois as a lion whanne he roorith. And whanne he hadde
+          cried, the sevene thundris spaken her voicis. [4] And whanne the sevene thundris hadde
+          spoken her voicis, I was to writinge, and I herde a vois fro hevene seynge, “Marke thu
+          whate thingis the sevene thundris spaken, and nyle<note target="#155" type="footnotelink"
+            >G</note> thou write hem.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[5] And the aungel <locus type="foliation"
+            >[fol. 382va]</locus> whom I saw stondinge above the see and above the erthe lifte up
+          his hond to hevene [6] and swoor bi him that lifeth in to worldis of worldis that made of
+          nought hevene and tho thingis that ben in it and the see and tho thingis that ben in it
+          and the erthe and tho thingis that ben in it, that tyme shal no more be. [7] But in the
+          daies of the vois of the seventhe aungel, whanne he shal biginne to trumpe, the misterie
+          of God shal be eendid as he prechide bi his servauntis profetis.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[8] And I herde a vois fro hevene eftsone<note
+            target="#156" type="footnotelink">G</note> spekinge with me and seynge, “Go thu and take
+          the book that is opened fro the hond of the aungel that stondith above the see and on the
+          lond.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[9] And I wente to the aungel and seide to him
+          that he shulde gife me the book, and he seide to me, “Take the book and devoure it, and it
+          shal make thi wombe<note target="#157" type="footnotelink">G</note> to be bitter, but in
+          the mouth it shal be swete as hony.” [10] And I took the book of the aungels hond and
+          devouride it. And it was in my mouth as swete as hony, and whanne I hadde devowrid it my
+          wombe was bitter. [11] And he seide to me, “It bihoveth thee eftsone to profecie to
+          hethene men and to puplis and langagis and to manye kingis.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="155"><space rend="indent1"/><gloss>do not</gloss></note>
+        <note type="footnote" n="156"><space rend="indent1"/><gloss>soon after</gloss></note>
+        <note type="footnote" n="157"><space rend="indent1"/><gloss>stomach</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="12">
+        <head type="rubric">Chapter 11</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And a reud<note target="#158"
+            type="footnotelink">G</note>
+          <note type="tnote-indicator" n="19">T</note> lyk a yarde<note target="#159"
+            type="footnotelink">G</note> was gofen to me, and it was seid to me, “Rise thu and
+            mete<note target="#160" type="footnotelink">G</note> the temple of God and the auter and
+          men that worshipen in it. [2] But caste thu out the foryard<note target="#161"
+            type="footnotelink">G</note> that is without<note target="#162" type="footnotelink"
+            >G</note> the temple and mete not it, for it is gofen to hethen men and thei shulen
+          defoule the holi citee bi fourti monethis and tweyne.<note target="#163"
+            type="footnotelink">G</note> [3] And I shal gife to my twei<note target="#164"
+            type="footnotelink">G</note>
+          <note type="tnote-indicator" n="20">T</note> wittnessis and thei shulen profecie a thusand
+          daies two hundrid and sixti and shulen be clothid with sackis.”<note target="#165"
+            type="footnotelink">G</note> [4] Thes ben twey olifes<note target="#166"
+            type="footnotelink">G</note> and twey candilstikis, and thei stonden in the sight of the
+          Lord of the erthe. [5] And if anye man wol anoie<note target="#167" type="footnotelink"
+            >G</note> hem, fyr shal go out of the mouth of hem and shal devoure her enemyes, and if
+          any wole hurte hem, thus it bihoveth him to be slayn. [6] Thes han power to close hevene
+          that it reyne not in the daies of her profecie, and thei han power on watris to turne hem
+          into blood and to smyte the erthe with everi plage, and as ofte as thei wolen.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[7] And whanne thei shulen eende her
+          wittnessing, the beest that stieth up fro depnesse shal make batel agens hem and shal
+          overcome hem and shal slee hem, [8] and the bodies of hem shulen liygge<note target="#168"
+            type="footnotelink">G</note> in the stretis of the grete citee that is clepid gostli
+          Sodom and Egipt, where the lord of hem was crucified. [9] And summe of lynagis and of
+          puplis and of langagis and of hethen men shulen se the bodies of hem bi thre daies and an
+          half, and thei shulen not suffre the bodies of hem for to be putt in biriels,<note
+            target="#169" type="footnotelink">G</note> [10] and men enhabitinge the erthe shulen
+          have joie on hem and thei shulen make mirie and shulen sende giftis togidere, for thes
+          twey profetis turmentiden hem that duellen on erthe.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[11] And aftir thre daies and an half, the
+          spiritt of lyf of God entride into hem, and thei stooden on her feet, and greet drede fel
+          on hem that sawen hem. [12] And thei herden a greet vois fro hevene seynge to hem, “Come
+          ye up hider.” And thei stieden into hevene in a cloude, and the enemies of hem sawen
+          hem.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[13] And in that our a greet erthe mo|fing
+            <locus type="foliation">[fol. 382vb]</locus> was maad, and the tenthe part of the citee
+          fel doun and the names of men seven thusand weren slayne in the erthe mofing, and the
+          tother weren sente into drede and gafen glorie to God of hevene.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[14] The secounde wo is goon. And lo, the
+          thridde wo shal come soone.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[15] And the seventhe aungel trumpede, and
+          grete voicis weren made in hevene and seiden, “The rewme<note target="#170"
+            type="footnotelink">G</note> of this world is maad oure Lordis and of Crist his Sone,
+          and shal regne into worldis of worldis. Amen.”</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[16] And the foure and twenti elder men that
+          saten in her seetis in the sight of the Lord fellen on her facis and worshipiden God and
+          seiden, [17] “We doon thankingis to thee, Lord God almighti, wich art and wich were and
+          wich art to comynge, wiche hast taken thi greet vertu and hast regned. [18] And folk is
+          ben wrooth, and thi wraththe cam and tyme of dede<note target="#171" type="footnotelink"
+            >G</note> men to be demed<note target="#172" type="footnotelink">G</note> and to yelde
+          mede to thi servauntis and profetis and halowis<note target="#173" type="footnotelink"
+            >G</note> and dredinge thi name to smale and to greete and to distroie hem that
+            corrumpeden<note target="#174" type="footnotelink">G</note> the erthe.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="158"><space rend="indent1"/><gloss>reed</gloss></note>
+        <note type="footnote" n="159"><space rend="indent1"/><gloss>measuring rod</gloss></note>
+        <note type="footnote" n="160"><space rend="indent1"/><gloss>measure</gloss></note>
+        <note type="footnote" n="161"><space rend="indent1"/><gloss>courtyard</gloss></note>
+        <note type="footnote" n="162"><space rend="indent1"/><gloss>outside</gloss></note>
+        <note type="footnote" n="163"><space rend="indent1"/>bi fourti monethis and tweyne,
+            <gloss>for forty-two months</gloss></note>
+        <note type="footnote" n="164"><space rend="indent1"/><gloss>two</gloss></note>
+        <note type="footnote" n="165"><space rend="indent1"/><gloss>sackcloth</gloss></note>
+        <note type="footnote" n="166"><space rend="indent1"/><gloss>olive trees</gloss></note>
+        <note type="footnote" n="167"><space rend="indent1"/><gloss>harm</gloss></note>
+        <note type="footnote" n="168"><space rend="indent1"/><gloss>lie</gloss></note>
+        <note type="footnote" n="169"><space rend="indent1"/><gloss>tombs</gloss></note>
+        <note type="footnote" n="170"><space rend="indent1"/><gloss>kingdom</gloss></note>
+        <note type="footnote" n="171"><space rend="indent1"/><gloss>dead</gloss></note>
+        <note type="footnote" n="172"><space rend="indent1"/><gloss>judged</gloss></note>
+        <note type="footnote" n="173"><space rend="indent1"/><gloss>saints</gloss></note>
+        <note type="footnote" n="174"><space rend="indent1"/><gloss>destroyed</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="13">
+        <head type="rubric">Chapter 12</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[11:19] And the temple of God in hevene was
+          opened and the arke of his testament<note target="#175" type="footnotelink">G</note> was
+          seyn in his temple, and leitingis weren made and voicis and thundris and erthe mofing and
+          greet hail.<note type="tnote-indicator" n="21">T</note>
+        </ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[12:1] And a greet signe apperide in hevene, a
+          womman clothed with the sonne and the mone undir hir feet, and in the heed of hir a crowne
+          of twelfe sterris. [2] And she hadde in wombe and she criede travelinge<note target="#176"
+            type="footnotelink">G</note> of chylde and is turmentid that she bere chyld. [3] And
+          another signe was seyn in hevene, and lo a greet reed dragon that hadde seven heedis and
+          ten hornes, and in the heedis of him seven diademes, [4] and the tail of him drough<note
+            target="#177" type="footnotelink">G</note> the thridde part of sterris of hevene and
+          sente hem into the erthe. And the dragon stood bifore the womman that was to bering chyld,
+          that whanne she hadde born chyld he shulde devowre hir sone. [5] And she baar a knave<note
+            target="#178" type="footnotelink">G</note> chyld that was to rewling<note target="#179"
+            type="footnotelink">G</note> alle folkis in an iren yarde.<note target="#180"
+            type="footnotelink">G</note> And hir sone was raviysshid<note target="#181"
+            type="footnotelink">G</note> to God and to his trone. [6] And the womman flei<note
+            target="#182" type="footnotelink">G</note> into wildernesse where she hath a place maad
+          redi of God that he fede hir there a thusand daies two hundrid and sixti.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] And a greet batel was maad in heven, and
+          Michhel and hise aungelis foughten with the dragon and the dragon faught and hise
+          aungelis. [8] And thei hadden no might, nether the place of hem was founden more in
+          hevene. [9] And thilke<note target="#183" type="footnotelink">G</note> dragon was cast
+          doun, the greet olde serpent that is clepid the devel and Sathanas, that disceyveth al the
+          world, he was cast doun into the erthe and his aungelis weren sente with him.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[10] And I herde a greet vois in hevene seynge,
+          “Now is maad helthe and vertu and kingdam of oure God and the power of his Crist. For the
+          accuser of oure brethren is cast doun, wich accuside hem bifore the sight of oure God dai
+          and nighth. [11] And thei overcam him for the blood of the Lomb and for the word of his
+          wittnessing, and thei loveden not her lifes til to deeth.<note target="#184"
+            type="footnotelink">G</note> [12] Therfore ye hevenes, be ye glad and ye that duellen in
+          hem. Wo to the erthe and to the see, for the fend is comen doun to you and hath greet
+          wraththe, witinge<note target="#185" type="footnotelink">G</note> that he hath litel
+          tyme.”</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[13] And aftir that the dragon saw that he was
+          cast doun <locus type="foliation">[fol. 383ra]</locus> to the erthe, he purswede the
+          womman that baar the knave chyld. [14] And twey wyngis of a greet egle weren gofen to the
+          womman that she shulde fle into desert into hir place where she is fed by tyme<note
+            target="#186" type="footnotelink">G</note> and tymes and half a tyme, fro the face of
+          the serpent. [15] And the serpent sente out of his mouth aftir the womman water as a flood
+          that he shulde make hir to be drawen<note target="#187" type="footnotelink">G</note> of
+          the flood. [16] And the erthe helpide the womman, and the erthe openede his mouth and
+            soop<note target="#188" type="footnotelink">G</note> up the flood that the dragon sende
+          of his mouth. [17] And the dragon was wrooth agens the womman, and he wente to make batel
+          with othere of hir seed that kepen the maundementis<note target="#189" type="footnotelink"
+            >G</note>
+          <note type="tnote-indicator" n="22">T</note> of God and han the wittnessing of Jhesu
+          Crist.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[18] And he stood on the gravele<note
+            target="#190" type="footnotelink">G</note> of the see.<note type="tnote-indicator"
+            n="23">T</note>
+        </ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="175"><space rend="indent1"/>arke of his testament, <gloss>Ark of
+            his Covenant</gloss></note>
+        <note type="footnote" n="176"><space rend="indent1"/><gloss>in labor</gloss></note>
+        <note type="footnote" n="177"><space rend="indent1"/><gloss>drew out</gloss></note>
+        <note type="footnote" n="178"><space rend="indent1"/><gloss>male</gloss></note>
+        <note type="footnote" n="179"><space rend="indent1"/>was to rewling, <gloss>would
+            rule</gloss></note>
+        <note type="footnote" n="180"><space rend="indent1"/>iren yarde, <gloss>iron
+          rod</gloss></note>
+        <note type="footnote" n="181"><space rend="indent1"/><gloss>transported</gloss></note>
+        <note type="footnote" n="182"><space rend="indent1"/><gloss>fled</gloss></note>
+        <note type="footnote" n="183"><space rend="indent1"/><gloss>that same</gloss></note>
+        <note type="footnote" n="184"><space rend="indent1"/>til to deeth, <gloss>to have mortal
+            fear</gloss></note>
+        <note type="footnote" n="185"><space rend="indent1"/><gloss>knowing</gloss></note>
+        <note type="footnote" n="186"><space rend="indent1"/>by tyme, <gloss>for a
+          time</gloss></note>
+        <note type="footnote" n="187"><space rend="indent1"/><gloss>swept away</gloss></note>
+        <note type="footnote" n="188"><space rend="indent1"/><gloss>drank</gloss></note>
+        <note type="footnote" n="189"><space rend="indent1"/><gloss>commandments</gloss></note>
+        <note type="footnote" n="190"><space rend="indent1"/><gloss>sandy shore</gloss></note>
+
+
+      </div>
+
+
+
+      <div type="chapter" n="14">
+        <head type="rubric">Chapter 13</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw a beest stynge<note target="#191"
+            type="footnotelink">G</note> up of the see havynge seven heedis and ten hornes and on
+          hise hornes ten diademes and on hise heedis the names of blasfemye. [2] And the beest whom
+          I saw was lyk a pard<note target="#192" type="footnotelink">G</note> and hise feet as the
+          feet of a bere<note target="#193" type="footnotelink">G</note> and his mouth as the mouth
+          of a lion. And the dragon gaf his vertu and greet power to him. [3] And I saw oon of his
+          heedis as slain into deeth, and the wounde of his deeth was curid and al erthe wondride
+          aftir the beest, [4] and thei worshipiden the dragon that gaf power to the beest, and thei
+          worshipiden the beest and seiden, “Who is lyk the beest, and who shal mowe<note
+            target="#194" type="footnotelink">G</note> fighte with it?”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[5] And a mouth spekinge grete thingis and
+          blasfemies was gofen to it and power was gofen to it to do<note target="#195"
+            type="footnotelink">G</note> two and fourti monethis. [6] And it openede his mouth into
+          blasfemies to God, to blasfeme his name and his tabernacle and hem that duellen in heven.
+          [7] And it was gofen to him to make batele with seyntis and to overcome hem. And power was
+          gofen to him into ech lynage and puple and langage and folc. [8] And alle men worshipiden
+          it that duellen in erthe whos names ben not writen in the book of lyf of the Lomb that was
+          slain fro the bigynnyng of the world.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[9] If any man hath eeris, heere he. [10] He
+          that leedeth in to caitifté<note target="#196" type="footnotelink">G</note> shal go into
+          caitifté. He that sleeth with swerd, it bihoveth him to be slain with swerd. This is the
+          pacience and the feith of seyntis.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] And I saw another beest stiinge up fro the
+          erthe, and it hadde two hornes lyk the Lomb and it spac as the dragon [12] and dide al the
+          power of the formere beest in his sight, and it made the erthe and men dwellinge in it to
+          worshipe the firste beest whois wounde of deeth was curid. [13] And it dide grete signes
+          that also it made fyr to come doun fro hevene into erthe in the sight of alle men. [14]
+          And it disceyveth men that duellen in erthe, for signis wich ben gofen to it to do in the
+          sight of the beest, seynge to men duellinge in erthe that thei make an ymage of the beest
+          that hath the wounde of swerd and lifede. [15] And it was gofen to him that he shulde gife
+          spiritt to the ymage of the beest and that the ymage of the beest speke. And he shal make
+          that whoever onowre<note target="#197" type="footnotelink">G</note> not the ymage of the
+          beest be slayn. [16] And he shal make alle smale and greete, and riche and pore, and fre
+          men and boonde men to have a carecter<note target="#198" type="footnotelink">G</note> in
+          her righthond ether in her forheedis<note target="#199" type="footnotelink">G</note> [17]
+          that no man mai bye<note target="#200" type="footnotelink">G</note> ether selle but thei
+          han the carecter ether the name of the beest ether the noumbre of his name.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[18] Here is wisdam. He that <locus
+            type="foliation">[fol. 383rb]</locus> hath undirstonding acounte the noumbre of the
+          beest, for it is the noumbre of man. And his noumbre is sixe hundrid sixti and sixe.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="191"><space rend="indent1"/><gloss>rising</gloss></note>
+        <note type="footnote" n="192"><space rend="indent1"/><gloss>leopard</gloss></note>
+        <note type="footnote" n="193"><space rend="indent1"/><gloss>bear</gloss></note>
+        <note type="footnote" n="194"><space rend="indent1"/><gloss>be able to</gloss></note>
+        <note type="footnote" n="195"><space rend="indent1"/><gloss>rule</gloss></note>
+        <note type="footnote" n="196"><space rend="indent1"/><gloss>captivity</gloss></note>
+        <note type="footnote" n="197"><space rend="indent1"/><gloss>honors</gloss></note>
+        <note type="footnote" n="198"><space rend="indent1"/><gloss>symbol</gloss></note>
+        <note type="footnote" n="199"><space rend="indent1"/><gloss>foreheads</gloss></note>
+        <note type="footnote" n="200"><space rend="indent1"/><gloss>buy</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="15">
+        <head type="rubric">Chapter 14</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw and lo, a Lomb stood on the mount
+          of Sion and with him an hundrid thusand and foure and fourti thusand havynge his name and
+          the name of his Fadir writen in her forhedis. [2] And I herde a vois fro hevene as the
+          vois of manye watris and as the vois of a greet thundir, and the vois wiche I herde was as
+          of manye harperis harpinge in her harpis. [3] And thei songen as a new song bifore the
+          seete of God and bifore the foure beestis and senyours. And no man mighte seie the song
+          but thei an hundrid thusand and foure and fourti thusande that ben boughte fro the erthe.
+          [4] Thes it ben that ben not defoulid with wymmen, for thei ben virgyns. Thes swen<note
+            target="#201" type="footnotelink">G</note> the Lomb whidir ever he shal go. Thes ben
+          boughte of alle men the firste fruyytis to God and to the Lomb. [5] And in the mouth of
+          hem, leesing<note target="#202" type="footnotelink">G</note> is not founden. For thei ben
+          without wem<note target="#203" type="footnotelink">G</note> bifore the trone of God.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[6] And I saw another aungel flynge bi the
+          middel of hevene havynge an everlasting gospel that he shulde preche to men sittinge on
+          erthe, and on ech folc and lynage and langage and puple, [7] and seide with a greet vois,
+          “Drede ye the Lord and gife ye to him onour, for the our of his doom cometh. And worshipe
+          ye him that made heven and erthe, the see and alle thingis that ben in hem and the wellis
+          of watris.”</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[8] And another aungel suede<note target="#204"
+            type="footnotelink">G</note> seynge, “Thilke greet Babilone fel doun, fel doun, wich gaf
+          drinke to alle folkis of the wyn of the wraththe of hir fornycacion.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[9] And the thridde aungel swede hem and seide
+          with a greet vois, “If any man worshipe the beest and the ymage of it and takith the
+          carecter in his heed ether in his hond, [10] this for shal drinke of the wyn of Goddis
+          wraththe that is meynd<note target="#205" type="footnotelink">G</note> with cleer wyn in
+          the cuppe of his wraththe, and shal be turmentid with fyr and brimstoon in the sight of
+          holie aungelis and bifore the sight of the Lomb. [11] And the smoke of her turmentis shal
+          stie up into the worldis of worldis, nether thei han rest dai and night wiche worshipen
+          the beest and his ymage and if any man take the carect<note target="#206"
+            type="footnotelink">G</note> of his name.” [12] Here is the pacience of seyntis wiche
+          kepen the maundementis of God and the feith of Jhesu.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[13] And I herde a vois fro hevene seynge to
+          me, “Write thu: blessid be deede men that dien in the Lord, fro hennes forth now the
+          spiritt seith that thei reste of her travelis, for the werkis of hem swen hem.”</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[14] And I saw and lo, a whyt cloude, and above
+          the cloude a sittere lyk the sone of man, havynge in his heed a golden crowne and in his
+          hond a sharp sikil. [15] And another aungel wente out of the temple and cride with greet
+          vois to him that satt on the cloude, “Sende thi sikil and repe, for the our cometh that it
+          be ropen,<note target="#207" type="footnotelink">G</note> for the corn<note target="#208"
+            type="footnotelink">G</note> of the erthe is ripe.” [16] And he that satt on the cloude
+          sente his sikel into the erthe and rape<note target="#209" type="footnotelink">G</note>
+          the erthe.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[17] And another aungel wente out of the temple
+          that is in hevene and he also hadde a sharp sikil in his hond. [18] And another aungel
+          wente out fro the auter that hadde power on fyr and water, and he criede with a greet vois
+          to him that hadde the sharpe sikel and seide, “Sende thi sharp sikil and kitte<note
+            target="#210" type="footnotelink">G</note> awey the clustris <locus type="foliation"
+            >[fol. 383va]</locus> of the vyneyard of the erthe, for the grapis of it ben ripe.” [19]
+          And the aungel sente his sikel into the erthe and gederide<note target="#211"
+            type="footnotelink">G</note> grapis of the vyneyard of the erthe and sente into the
+          greet lake<note target="#212" type="footnotelink">G</note> of Goddis wraththe. [20] And
+          the lake was troden<note target="#213" type="footnotelink">G</note> withoute<note
+            target="#214" type="footnotelink">G</note> the cité, and the blood wente out of the lake
+          til to the bridelis of horsis, bi furlongis a thusand and sixe hundrid.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="201"><space rend="indent1"/><gloss>follow</gloss></note>
+        <note type="footnote" n="202"><space rend="indent1"/><gloss>lying</gloss></note>
+        <note type="footnote" n="203"><space rend="indent1"/><gloss>blemish</gloss></note>
+        <note type="footnote" n="204"><space rend="indent1"/><gloss>followed</gloss></note>
+        <note type="footnote" n="205"><space rend="indent1"/><gloss>mixed</gloss></note>
+        <note type="footnote" n="206"><space rend="indent1"/><gloss>symbol</gloss></note>
+        <note type="footnote" n="207"><space rend="indent1"/><gloss>reaped</gloss></note>
+        <note type="footnote" n="208"><space rend="indent1"/><gloss>grain</gloss></note>
+        <note type="footnote" n="209"><space rend="indent1"/><gloss>reaped</gloss></note>
+        <note type="footnote" n="210"><space rend="indent1"/><gloss>cut</gloss></note>
+        <note type="footnote" n="211"><space rend="indent1"/><gloss>gathered</gloss></note>
+        <note type="footnote" n="212"><space rend="indent1"/><gloss>winepress</gloss></note>
+        <note type="footnote" n="213"><space rend="indent1"/><gloss>trampled</gloss></note>
+        <note type="footnote" n="214"><space rend="indent1"/><gloss>outside</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="16">
+        <head type="rubric">Chapter 15</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw another signe in hevene greet and
+          wondirful: sevene aungelis havynge the laste sevene vengeaunsis, for the wraththe of God
+          is eendid in hem. [2] And I saw a glasen<note target="#215" type="footnotelink">G</note>
+          see meynd<note target="#216" type="footnotelink">G</note> with fyr, and hem that overcam
+          the beest and his ymage and the noumbre of his name stondinge above the glasen see,
+          havynge the harpis of God [3] and synging the song of Moises, the servaunt of God, and the
+          song of the Lomb, and seiden, “Grete and wondirful ben thi werkis, Lord God almighti. Thi
+          weies ben juste and trewe, Lord king of worldis. [4] Lord, who shal not drede thee and
+          magnifie thi name? For thu aloone art merciful. For alle folkis shulen come and worshipe
+          in thi sight, for thi doomes<note target="#217" type="footnotelink">G</note> ben
+            opene.”<note target="#218" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[5] And aftir thes thingis, I saw and lo, the
+          temple of the tabernacle of wittnessing was opened in hevene. [6] And sevene aungelis
+          havynge sevene plagis wenten out of the temple and weren clothid with a stoole<note
+            target="#219" type="footnotelink">G</note> clene and whyt, and weren bifore girde with
+          golden girdels aboute the brestis. [7] And oon of the foure beestis gaf to the sevene
+          aungelis seven golden viols<note target="#220" type="footnotelink">G</note> ful of the
+          wraththe of God that lifeth into worldis of worldis, [8] and the temple was filled with
+          smoke of the magesté of God and of the vertu of him. And no man mighte entre into the
+          temple til the sevene plagis of sevene aungelis weren endid.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="215"><space rend="indent1"/><gloss>glassy</gloss></note>
+        <note type="footnote" n="216"><space rend="indent1"/><gloss>mixed</gloss></note>
+        <note type="footnote" n="217"><space rend="indent1"/><gloss>judgments</gloss></note>
+        <note type="footnote" n="218"><space rend="indent1"/><gloss>known (honest)</gloss></note>
+        <note type="footnote" n="219"><space rend="indent1"/><gloss>stole (robe)</gloss></note>
+        <note type="footnote" n="220"><space rend="indent1"/><gloss>vials</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="17">
+        <head type="rubric">Chapter 16</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I herde a greet vois fro hevene seynge
+          to the sevene aungelis, “Go ye and shede<note target="#221" type="footnotelink">G</note>
+          out the sevene viols of Goddis wraththe into the erthe.” [2] And the firste aungel wente
+          and shedde out his viol into the erthe, and a wounde feers<note target="#222"
+            type="footnotelink">G</note> and worst<note target="#223" type="footnotelink">G</note>
+          was maad on alle that hadden the carect<note target="#224" type="footnotelink">G</note> of
+          the beest and on hem that worshipiden the beest and his ymage.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[3] And the secunde aungel shedde out his viol
+          into the see, and the blood was maad as of a deed thing, and ech man lifinge was deed in
+          the see.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[4] And the thridde aungel shedde out his viol
+          on the floodis<note target="#225" type="footnotelink">G</note> and on the wellis<note
+            target="#226" type="footnotelink">G</note> of watris [5] and seide, “Just art thu, Lord,
+          that art and were holi, that demest<note target="#227" type="footnotelink">G</note> thes
+          thingis. [6] For thei schedden out the blood of halowis<note target="#228"
+            type="footnotelink">G</note> and profetis, and thu hast gofen to hem blood to drinke,
+          for thei ben worthi.” [7] And I herde another seynge, “Yhe,<note target="#229"
+            type="footnotelink">G</note> Lord God almighti, trewe and juste ben thi dommes.”<note
+            target="#230" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[8] And the fourthe aungel shedde out his viol
+          into the sonne, and it was gofen to him to turmente men with heete and fyr. [9] And men
+            swaleden<note target="#231" type="footnotelink">G</note> with greet heete and
+          blasfemeden the name of God havynge power on thes plagis. Nether thei diden penaunce that
+          thei shulden gife glorie to him.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[10] And the fifthe aungel shedde his viol on
+          the seete of the beest, and his kingdam was maad derk, and thei eeten togidir her tongis
+          for sorowe. [11] And thei blasfemeden God of <locus type="foliation">[fol. 383vb]</locus>
+          hevene for sorowis of her woundis, and thei diden not penaunce of her werkis.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[12] And the sixte aungel shedde out his viol
+          into that ilke<note target="#232" type="footnotelink">G</note> greet flood Eufrates and
+          driede the water of it, that weie were maad redi to kingis fro the sonne rising.<note
+            target="#233" type="footnotelink">G</note> [13] And I saw thre unclene spiritis bi the
+          maner of froggis goo out of the mouth of the dragon and of the mouth of the beest and of
+          the mouth of the false profete. [14] For thei ben spiritis of develis makinge signes, and
+          thei goon forth to kingis of al erthe to gedere<note target="#234" type="footnotelink"
+            >G</note> hem into batel to the greet dai of almighti God.</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[15] “Lo, I come as a night theef. Blessid is
+          he that wakith and kepith hise clothes, that he wandre not nakid and that thei se not the
+            filthehede<note target="#235" type="footnotelink">G</note> of him.”</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[16] And he shal gedere hem into a place that
+          is clepid in Ebrew Hermagedon.<note target="#236" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="9" unit="prose-textblock"/>[17] And the seventhe aungel shedde out his
+          viol into the eir, and a greet vois wente out of hevene fro the trone and seide, “It is
+          doon.” [18] And leitingis weren made and voicis and thundris and a greet erthe mofing was
+          maad, wich maner never was sithen<note target="#237" type="footnotelink">G</note> men
+          weren on erthe, sich erthe mofing so greet. [19] And the greete citee was maad into thre
+          parties, and the citees of hethen men felden doun and greet Babilone cam into mynde bifore
+          God, to gife to it the cuppe of wyn of the indignacion of his wraththe. [20] And eche ile
+          flei awey, and hillis ben not founden, [21] and greet hail as a talent<note target="#238"
+            type="footnotelink">G</note> cam doun fro hevene into men. And men blasfemeden God for
+          the plage of hail, for it was ful greet.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="221"><space rend="indent1"/><gloss>pour</gloss></note>
+        <note type="footnote" n="222"><space rend="indent1"/><gloss>fierce</gloss></note>
+        <note type="footnote" n="223"><space rend="indent1"/><gloss>most grievous</gloss></note>
+        <note type="footnote" n="224"><space rend="indent1"/><gloss>symbol</gloss></note>
+        <note type="footnote" n="225"><space rend="indent1"/><gloss>rivers</gloss></note>
+        <note type="footnote" n="226"><space rend="indent1"/><gloss>springs</gloss></note>
+        <note type="footnote" n="227"><space rend="indent1"/><gloss>judges (commands)</gloss></note>
+        <note type="footnote" n="228"><space rend="indent1"/><gloss>saints</gloss></note>
+        <note type="footnote" n="229"><space rend="indent1"/><gloss>Yea</gloss></note>
+        <note type="footnote" n="230"><space rend="indent1"/><gloss>judgments</gloss></note>
+        <note type="footnote" n="231"><space rend="indent1"/><gloss>burned</gloss></note>
+        <note type="footnote" n="232"><space rend="indent1"/><gloss>same</gloss></note>
+        <note type="footnote" n="233"><space rend="indent1"/>sonne rising,
+          <gloss>east</gloss></note>
+        <note type="footnote" n="234"><space rend="indent1"/><gloss>gather</gloss></note>
+        <note type="footnote" n="235"><space rend="indent1"/><gloss>filthiness
+          (sinfulness)</gloss></note>
+        <note type="footnote" n="236"><space rend="indent1"/><gloss>Armageddon</gloss></note>
+        <note type="footnote" n="237"><space rend="indent1"/><gloss>since</gloss></note>
+        <note type="footnote" n="238"><space rend="indent1"/><gloss>ancient measure of
+            weight</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="18">
+        <head type="rubric">Chapter 17</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And oon of the sevene aungelis cam that
+          hadde sevene violes<note target="#239" type="footnotelink">G</note> spac with me and
+          seide, “Come thu, I shal shewe to thee the dampnacion of the greete hoore<note
+            target="#240" type="footnotelink">G</note> that sitteth on manye watris, [2] with wiche
+          kingis of the erthe diden fornicacion, and thei that duellen in the erthe ben made drunken
+          of the wyn of hir leyccherie.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[3] And he took me into desert in spiritt, and
+          I saw a womman sittinge on a reed beest ful of names of blasfemie, havynge sevene heedis
+          and ten hornes. [4] And the womman was enviround<note target="#241" type="footnotelink"
+            >G</note> with purpur<note target="#242" type="footnotelink">G</note> and reed and
+            overgilt<note target="#243" type="footnotelink">G</note> with gold and preciouse stoon
+          and perlis, havynge a golden cuppe in hir hond ful of abhomynacions and unclannesse of her
+          fornicacion, [5] and a name writen in the forheed of hir: Misterie, Babilone the greet
+          modir of fornicacions and of abhominacions of erthe. [6] And I saw a womman drunken of the
+          blood of seyntis and of the blood of martiris of Jhesu, and whanne I saw hir, I wondride
+          with greet wondring.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] And the aungel seide to me, “Whi wondrist
+          thu? I shal seie to thee the sacrament<note target="#244" type="footnotelink">G</note> of
+          the womman and of the beest that berith hir that hath sevene heedis and ten hornes. [8]
+          The beest wich thu saw was and is not, and she shal stie<note target="#245"
+            type="footnotelink">G</note> fro depnes<note target="#246" type="footnotelink">G</note>
+          and she shal go into periysshing. And men duelling in erthe shulen wondre whois names ben
+          not writen in the book of lyf fro the making of the world, seynge<note target="#247"
+            type="footnotelink">G</note> the beest that was and is not.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[9] “And this is the witt<note target="#248"
+            type="footnotelink">G</note> who that<note target="#249" type="footnotelink">G</note>
+          hath wisdam. The sevene heedis ben sevene hillis on wich the womman sitteth. And kingis
+          sevene ben. [10] Fyve <locus type="foliation">[fol. 384ra]</locus> han fallen doun, oon
+          is, and another cometh not yit. And whanne he shal come, it bihoveth him to duelle a short
+          time. [11] And the beest that was and is not, and she is the eightthe<note target="#250"
+            type="footnotelink">G</note> and is of the sevene, and shal go into periysshing.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[12] “And the ten hornes wiche thu hast sein
+          ben ten kingis that yit han not take kingdam, but thei shulen take power as kingis oon our
+          aftir the beest. [13] Thes han a counsel and shulen bitake<note target="#251"
+            type="footnotelink">G</note> her vertu and power to the beest. [14] Thes shulen fighte
+          with the Lomb, and the Lomb shal overcome hem, for he is Lord of lordis and King of
+          kingis, and thei that ben with him ben clepid chosen and feithful.”</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[15] And he seide to me, “The watris wiche thu
+          hast seyn where the hoore sittith ben puplis and folkis and langagis. [16] And the ten
+          hornes that thu has sein in the beest, thes shulen make hir desolat and nakid and shulen
+            ete<note target="#252" type="footnotelink">G</note> the fleiysshis<note target="#253"
+            type="footnotelink">G</note> of hir and shulen brenne togidre hir with fyr. [17] For God
+          gaf into the hertis of hem, that thei do that that is pleesaunt to him, that thei gife her
+          kingdam to the beest, til the wordis of God ben endid. [18] And the womman whom thou hast
+          seyn is the greet citee that hath kingdam on<note target="#254" type="footnotelink"
+            >G</note> kingis of the erthe.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="239"><space rend="indent1"/><gloss>vials</gloss></note>
+        <note type="footnote" n="240"><space rend="indent1"/><gloss>whore</gloss></note>
+        <note type="footnote" n="241"><space rend="indent1"/><gloss>covered</gloss></note>
+        <note type="footnote" n="242"><space rend="indent1"/><gloss>purple cloth</gloss></note>
+        <note type="footnote" n="243"><space rend="indent1"/><gloss>covered (gilded)</gloss></note>
+        <note type="footnote" n="244"><space rend="indent1"/><gloss>mystery</gloss></note>
+        <note type="footnote" n="245"><space rend="indent1"/><gloss>rise</gloss></note>
+        <note type="footnote" n="246"><space rend="indent1"/><gloss>the abyss</gloss></note>
+        <note type="footnote" n="247"><space rend="indent1"/><gloss>seeing</gloss></note>
+        <note type="footnote" n="248"><space rend="indent1"/><gloss>knowledge</gloss></note>
+        <note type="footnote" n="249"><space rend="indent1"/>who that, <gloss>for those
+          who</gloss></note>
+        <note type="footnote" n="250"><space rend="indent1"/><gloss>eighth (king)</gloss></note>
+        <note type="footnote" n="251"><space rend="indent1"/><gloss>give</gloss></note>
+        <note type="footnote" n="252"><space rend="indent1"/><gloss>eat</gloss></note>
+        <note type="footnote" n="253"><space rend="indent1"/><gloss>flesh</gloss></note>
+        <note type="footnote" n="254"><space rend="indent1"/>kingdam on, <gloss>sovereignty
+            over</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="19">
+        <head type="rubric">Chapter 18</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And aftir thes thingis, I saw another
+          aungel comynge doun fro heven havynge greet power, and the erthe was lightid of his
+          glorie. [2] And he criede with strong vois and seide, “Greet Babilon fel doun, fel doun,
+          and is maad the abitacion<note target="#255" type="footnotelink">G</note> of develis and
+          the keping of ech unclene spiritt and of ech unclene foul<note target="#256"
+            type="footnotelink">G</note> and hateful. [3] For alle folkis dronken of the wraththe of
+          fornicacion of hir, and kingis of the erthe and marchandis<note target="#257"
+            type="footnotelink">G</note> of the erthe diden fornicacion with hir, and thei ben made
+          riche of the vertu of delicis<note target="#258" type="footnotelink">G</note> of
+          hir.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] And I herde another vois of hevene seynge,
+          “My puple, go ye out of it, and be ye not parceners<note target="#259" type="footnotelink"
+            >G</note> of the trespassis of it, and ye shulen not resseyve of the woundis of it. [5]
+          For the synnes of it camen til to hevene, and the Lord hadde mynde of the wickidnesse of
+          it. [6] Yelde ye to it<note target="#260" type="footnotelink">G</note> as she yeldide to
+          you, and double ye double thingis aftir hir werkis. In the drinke that she medlide<note
+            target="#261" type="footnotelink">G</note> to you, menge<note target="#262"
+            type="footnotelink">G</note> ye double to hir. [7] As miche as she glorifiede hirself
+          and was in delicis,<note target="#263" type="footnotelink">G</note> so miche turment gife
+          ye to her and weiling. For in hir herte she seith, ‘I sitte a queen and I am not a widowe,
+          and I shal not se<note target="#264" type="footnotelink">G</note> weiling.’ [8] And
+          therfore in oon dai, hir woundis shulen come, deeth and moornyng and hungir, and she shal
+          be brent in fyr, for God is strong that shal deme<note target="#265" type="footnotelink"
+            >G</note> hir.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[9] “And the kingis of the erthe shulen biwepe
+          and biweile hemself on hir wiche diden fornicacion with hir and lifeden in delicis, whanne
+          thei shulen se the smoke of the brennyng of it, [10] stonding fer for drede of the
+          turmentis of it and seynge, ‘Wo, wo, thilke grete citee Babilone and thilke strong cité,
+          for in oon our thi doom cometh.’</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] “And marchaundis of the erthe shulen wepe
+          on it and moorne, for no man shal bie more the marchaundise<note target="#266"
+            type="footnotelink">G</note> of hem, [12] the marchaundises of gold and of silver and of
+          precious stoon and of peerl and of bys<note target="#267" type="footnotelink">G</note> and
+          of purpur<note target="#268" type="footnotelink">G</note> and of silk and coccyn<note
+            target="#269" type="footnotelink">G</note> and eche tre tyme<note target="#270"
+            type="footnotelink">G</note> and alle vessels of yver<note target="#271"
+            type="footnotelink">G</note> and alle vessels of precious stoon and of bras and of iren
+          and of marbil [13] and canel<note target="#272" type="footnotelink">G</note> and
+            amonye<note target="#273" type="footnotelink">G</note>
+          <note type="tnote-indicator" n="24">T</note> and of swete smel|linge <locus
+            type="foliation">[fol. 384rb]</locus> thingis and oynementis and encense and of wyn and
+          of oile and of flour and of wheete and of werk beestis and of sheep and of horsis and of
+          cartis and of servauntis and other lifes of men.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[14] “And thine applis of the desir of thi lyf
+          wenten awei fro thee, and alle fatte thingis and ful clere periysshiden fro thee. [15] And
+          marchaundis of thes thingis shulen no more finde tho thingis. Thei that ben made riche of
+          it shulen stonde fer<note target="#274" type="footnotelink">G</note> for drede of
+          turmentis of it, wepinge and mornynge [16] and seynge, ‘Wo, wo, thilke greet citee that
+          was clothid with bys and purpur and reed scarlett and was overgilt with gold and precious
+          stoon and margaritis.<note target="#275" type="footnotelink">G</note> [17] For in oon our,
+          so manye riycchessis ben destitute.’<note type="tnote-indicator" n="25">T</note>
+        </ab>
+        <ab><milestone n="6" unit="prose-textblock"/>“And ech governoure and alle that seilen bi
+          ship into place and maryneris and that worchen in the see stooden fer [18] and crieden,
+            seynge<note target="#276" type="footnotelink">G</note> the place of the brennyng of
+            it,<note type="tnote-indicator" n="26">T</note> seynge, ‘What is lyk this greet citee?’
+          [19] And thei kesten<note target="#277" type="footnotelink">G</note> poudir<note
+            target="#278" type="footnotelink">G</note> on her heedis and crieden wepinge and
+          moornynge and seynge, ‘Wo, wo, thilk greet cité in wiche alle that han shippis in the see
+          ben made riche of prices of it, for in oon our it is desolatt.’ [20] Hevene and holie
+          apostlis and profetis, make ye ful out joie on it! For God hath demed<note target="#279"
+            type="footnotelink">G</note> yor doom<note target="#280" type="footnotelink">G</note> on
+          it.”</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[21] And oo strong aungel took up a stoon as a
+          greet mylnestoon<note target="#281" type="footnotelink">G</note> and caste into the see
+          and seide, “In this greet bire,<note target="#282" type="footnotelink">G</note> thilk
+          greet cité Babilon shal be sent, and now it shal no more be founden. [22] And the vois of
+          harpis and of men of music and synginge with pipe and trumpe shal no more be herd in it.
+          And ech crafti man<note target="#283" type="footnotelink">G</note> and ech crafte shal no
+          more be founden in it, and the vois of mylnestoon<note target="#284" type="footnotelink"
+            >G</note> shal no more be herd in thee. [23] And the light of lanterne shal no more
+          shyne to thee, and the vois of the hosebonde and of the wyf shal no more yit be herd in
+          thee. For thi marchaundis weren princis of the erthe, for in thi wiycchecraftis<note
+            type="tnote-indicator" n="27">T</note> alle folkis erriden.<note target="#285"
+            type="footnotelink">G</note> [24] And the blood of profetis and seyntis is founden in
+          it, and of alle men that ben slayn in erthe.”</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="255"><space rend="indent1"/><gloss>habitation</gloss></note>
+        <note type="footnote" n="256"><space rend="indent1"/><gloss>bird</gloss></note>
+        <note type="footnote" n="257"><space rend="indent1"/><gloss>merchants</gloss></note>
+        <note type="footnote" n="258"><space rend="indent1"/><gloss>luxuries</gloss></note>
+        <note type="footnote" n="259"><space rend="indent1"/><gloss>partakers</gloss></note>
+        <note type="footnote" n="260"><space rend="indent1"/>Yelde ye to it, <gloss>Give back to
+            her</gloss></note>
+        <note type="footnote" n="261"><space rend="indent1"/><gloss>mixed</gloss></note>
+        <note type="footnote" n="262"><space rend="indent1"/><gloss>mix</gloss></note>
+        <note type="footnote" n="263"><space rend="indent1"/><gloss>luxuries</gloss></note>
+        <note type="footnote" n="264"><space rend="indent1"/><gloss>experience</gloss></note>
+        <note type="footnote" n="265"><space rend="indent1"/><gloss>judge</gloss></note>
+        <note type="footnote" n="266"><space rend="indent1"/><gloss>merchandise</gloss></note>
+        <note type="footnote" n="267"><space rend="indent1"/><gloss>linen</gloss></note>
+        <note type="footnote" n="268"><space rend="indent1"/><gloss>purple cloth</gloss></note>
+        <note type="footnote" n="269"><space rend="indent1"/><gloss>scarlet cloth</gloss></note>
+        <note type="footnote" n="270"><space rend="indent1"/>tre tyme, <gloss>sandarac (tree with
+            fragrant wood)</gloss></note>
+        <note type="footnote" n="271"><space rend="indent1"/><gloss>ivory</gloss></note>
+        <note type="footnote" n="272"><space rend="indent1"/><gloss>cinnamon</gloss></note>
+        <note type="footnote" n="273"><space rend="indent1"/><gloss>aromatic plants</gloss></note>
+        <note type="footnote" n="274"><space rend="indent1"/><gloss>far away</gloss></note>
+        <note type="footnote" n="275"><space rend="indent1"/><gloss>pearls</gloss></note>
+        <note type="footnote" n="276"><space rend="indent1"/><gloss>seeing</gloss></note>
+        <note type="footnote" n="277"><space rend="indent1"/><gloss>threw</gloss></note>
+        <note type="footnote" n="278"><space rend="indent1"/><gloss>dust</gloss></note>
+        <note type="footnote" n="279"><space rend="indent1"/><gloss>judged
+          (commanded)</gloss></note>
+        <note type="footnote" n="280"><space rend="indent1"/><gloss>judgment</gloss></note>
+        <note type="footnote" n="281"><space rend="indent1"/><gloss>millstone</gloss></note>
+        <note type="footnote" n="282"><space rend="indent1"/><gloss>violence</gloss></note>
+        <note type="footnote" n="283"><space rend="indent1"/>crafti man,
+          <gloss>craftsman</gloss></note>
+        <note type="footnote" n="284"><space rend="indent1"/>vois of mylnestoon, <gloss>sound of the
+            millstone</gloss></note>
+        <note type="footnote" n="285"><space rend="indent1"/><gloss>went astray</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="20">
+        <head type="rubric">Chapter 19</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] Aftir thes thingis, I herde as a greet vois
+          of many trumpis in hevene seynge, “Alleluya! Heryng<note target="#286" type="footnotelink"
+            >G</note> and glorie and vertu is to oure God. [2] For trewe and just ben the domes<note
+            target="#287" type="footnotelink">G</note> of him wich demede<note target="#288"
+            type="footnotelink">G</note> of the greet hoore that defoulide the erthe in hir
+          leyccherie and vengede the blood of his servauntis of the hondis of hir.” [3] And eft<note
+            target="#289" type="footnotelink">G</note> thei seide, “Alleluya! And the smoke of it
+          stieth up into the worldis of worldis.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] And the foure and twenti senyours and foure
+          beestis fellen doun and worshipiden God sitting on the trone and seiden, “Amen,
+          Alleluya!”</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[5] And a vois wente out of the trone and
+          seide, “Alle the servauntis of oure Lord God, seie<note target="#290" type="footnotelink"
+            >G</note> ye heryngis<note target="#291" type="footnotelink">G</note> to oure God, and
+          ye that dreden God, smale and greete.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[6] And I herde a vois of a greet trumpe, as
+          the vois of manye watris and as the vois of grete thundris seynge, “Alleluya! For oure
+          Lord God almighti hath regned. [7] Joye we and make we mirthe, and gife we glorie to him.
+          For the weddingis of the Lomb camen and the wyf of him made redi hirself. [8] And it is
+          gofen to hir that she kyvere<note target="#292" type="footnotelink">G</note> hir with whyt
+            bissyn<note target="#293" type="footnotelink">G</note> shynynge.” Forwhi<note
+            target="#294" type="footnotelink">G</note> bissyn is justifyngis<note target="#295"
+            type="footnotelink">G</note> of seyntis.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[9] And he seide to me, “Write thou, ‘Blessid
+          be thei that ben clepid<note target="#296" type="footnotelink">G</note> to the soper of
+          the weddingis of the Lomb.’” And <locus type="foliation">[fol. 384va]</locus> he seide to
+          me, “Thes wordis of God ben trewe.”</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[10] And I fel doun bifore his feet to worshipe
+          him, and he seide to me, “Se thu that thu do not! I am a servaunt with thee and of thi
+          brethren havynge the wittnessing of Jhesu. Worshipe thu God, for the wittnessing of Jhesu
+          is spiritt of profecie.”</ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[11] And I saw hevene opened and lo, a whiyt
+          hors, and he that satt on him was clepid Feithful and Soithfast.<note target="#297"
+            type="footnotelink">G</note> And with rightwesnesse he demeth and fighteth. [12] And the
+          iyen of him weren as flawme of fyr and in his heed manye diademes. And he hadde a name
+          writen wich no man knew but he. [13] And he was clothed in a clooth spreynd<note
+            target="#298" type="footnotelink">G</note> with blood, and the name of him was clepid
+          the Sone of God. [14] And the oostis<note target="#299" type="footnotelink">G</note> that
+          ben in hevene sweden<note target="#300" type="footnotelink">G</note> him on white horsis
+          clothed with bissyn white and clene. [15] And a swerd sharp on ech aside cam forth of his
+          mouth, that with it he smite folkis. And he shal reule hem with a iren yarde, and he
+          tredith the pressour of wyn of strong vengeaunce of the wraththe of almighti God. [16] And
+          he hath writen in his clooth and in his hemme: “King of Kingis and Lord of Lordis.”</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[17] And I saw an aungel stonding in the sonne,
+          and he criede with a greet vois and seide to alle briddis that flowen bi the middel of
+          hevene, “Come ye and be ye gederid to the greet soper of God, [18] that ye ete the
+            fleiyss<note target="#301" type="footnotelink">G</note> of kingis and fleiyss of
+          tribunes and fleiyss of stronge men and fleiyss of horsis and of tho that sitten of hem,
+          and the fleiyss of alle free men and boonde men and of smale and of grete.”</ab>
+        <ab><milestone n="9" unit="prose-textblock"/>[19] And I saw the beest and the kingis of the
+          erthe and the oostis of hem gederid to make batele with him that satt on the horse and
+          with his oost. [20] And the beest was caught and with hir the fals profete that made
+          signes bifore hir in wiche he disceyvede hem that tooken the carect of the beest and that
+          worshipiden the ymage of it. Thes tweyne weren sente quyke into the pool of fyr brennynge
+          with brymstoon, [21] and the tother<note target="#302" type="footnotelink">G</note> weren
+          slayn with the swerd of him that satt on the hors, that cometh forth of the mouth of him.
+          And alle briddis weren fillid with the fleiyss of hem.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="286"><space rend="indent1"/><gloss>Praise</gloss></note>
+        <note type="footnote" n="287"><space rend="indent1"/><gloss>judgments</gloss></note>
+        <note type="footnote" n="288"><space rend="indent1"/><gloss>judged</gloss></note>
+        <note type="footnote" n="289"><space rend="indent1"/><gloss>again</gloss></note>
+        <note type="footnote" n="290"><space rend="indent1"/><gloss>speak</gloss></note>
+        <note type="footnote" n="291"><space rend="indent1"/><gloss>praises</gloss></note>
+        <note type="footnote" n="292"><space rend="indent1"/><gloss>cover (clothe)</gloss></note>
+        <note type="footnote" n="293"><space rend="indent1"/><gloss>fine linen</gloss></note>
+        <note type="footnote" n="294"><space rend="indent1"/><gloss>Because</gloss></note>
+        <note type="footnote" n="295"><space rend="indent1"/><gloss>righteousness</gloss></note>
+        <note type="footnote" n="296"><space rend="indent1"/><gloss>invited</gloss></note>
+        <note type="footnote" n="297"><space rend="indent1"/><gloss>True</gloss></note>
+        <note type="footnote" n="298"><space rend="indent1"/><gloss>sprinkled</gloss></note>
+        <note type="footnote" n="299"><space rend="indent1"/><gloss>hosts</gloss></note>
+        <note type="footnote" n="300"><space rend="indent1"/><gloss>followed</gloss></note>
+        <note type="footnote" n="301"><space rend="indent1"/><gloss>flesh</gloss></note>
+        <note type="footnote" n="302"><space rend="indent1"/><gloss>others</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="21">
+        <head type="rubric">Chapter 20</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw another aungel comynge doun fro
+          hevene havynge the keie of depnes and a greet cheyne in his hond. [2] And he caughte the
+          dragon, the oolde serpent that is the devel and Sathanas, and he boond him bi a thousand
+          yeris. [3] And he sente him into depnesse and closede<note target="#303"
+            type="footnotelink">G</note> and markide on him that he disceyve no more the folkis til
+          a thousande yeris be fillid. After thes thingis, it bihoveth him to be unbounden a litel
+          tyme.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[4] And I saw seetis and thei saten on hem, and
+            doom<note target="#304" type="footnotelink">G</note> was gofen to hem. And the soulis of
+          men biheedide<note target="#305" type="footnotelink">G</note> for the wittnessing of Jhesu
+          and for the word of God, and hem that worshipiden not the beest nether the ymage of it,
+          nether tooken the carect of it in her forheedis nether in her hondis, and thei lifeden and
+          regneden with Crist a thusande yeris. [5] Othere of dede<note target="#306"
+            type="footnotelink">G</note> men lifeden not til a thusande yeris ben endid. This is the
+          first agenrising.<note target="#307" type="footnotelink">G</note> [6] Blessid and holi is
+          he that hath part in the firste agenrising. In these men, the secounde deeth hath not
+          power, but thei shulen be prestis of God and of Crist, and thei shulen regne with him a
+          thusande yeris.</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[7] And whanne a thou|sande <locus
+            type="foliation">[fol. 384vb]</locus> yeris shulen be endid, Sathanas shal be unbounden
+          of his prison. And he shal go out and shal disceyve folkis that ben on foure corners of
+          the erthe, Gog and Magog. And he shal gedere hem into batel, whois noumbre is as the
+            gravel<note target="#308" type="footnotelink">G</note> of the see. [8] And thei stieden
+          up on the broodnesse of erthe<note target="#309" type="footnotelink">G</note> and
+            envirounden<note target="#310" type="footnotelink">G</note> the castels<note
+            target="#311" type="footnotelink">G</note> of seyntis and the loved citee, [9] and fyr
+          cam doun of God<note type="tnote-indicator" n="28">T</note> fro hevene and devouride hem.
+          And the devel that disceyvede hem was sent into the pool of fyr and of brimstoon where
+          bothe the beest [10] and false profetis shulen be turmentide dai and night into worldis of
+          worldis. Amen.</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[11] And I saw a greet whyt trone and oon
+          sittinge on it, fro whois sight the erthe fleigh<note target="#312" type="footnotelink"
+            >G</note> and hevene, and the place is not founden of hem. [12] And I saw dede<note
+            target="#313" type="footnotelink">G</note> men greete and smale stondinge in the sight
+          of the trone. And bokis weren opened and dede men weren demed of thes thingis that weren
+          writen in the bokis, aftir the werkis of hem. [13] And the see gaf<note target="#314"
+            type="footnotelink">G</note> hise dede men that weren in it, and Deeth and helle gafen
+          her dede men that weren in hem, and it was demed of eche aftir the werkis of hem. [14] And
+          helle and Deeth weren sente into a pool of fyr. This is the secunde deeth. [15] And he
+          that was not founden writen in the book of lyf was sent into the pool of fyr.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="303"><space rend="indent1"/><gloss>imprisoned</gloss></note>
+        <note type="footnote" n="304"><space rend="indent1"/><gloss>power to judge</gloss></note>
+        <note type="footnote" n="305"><space rend="indent1"/><gloss>beheaded</gloss></note>
+        <note type="footnote" n="306"><space rend="indent1"/><gloss>dead</gloss></note>
+        <note type="footnote" n="307"><space rend="indent1"/><gloss>resurrection</gloss></note>
+        <note type="footnote" n="308"><space rend="indent1"/><gloss>sand</gloss></note>
+        <note type="footnote" n="309"><space rend="indent1"/>broodnesse of erthe, <gloss>the whole
+            earth (breadth of the earth)</gloss></note>
+        <note type="footnote" n="310"><space rend="indent1"/><gloss>surrounded</gloss></note>
+        <note type="footnote" n="311"><space rend="indent1"/><gloss>fortified camps</gloss></note>
+        <note type="footnote" n="312"><space rend="indent1"/><gloss>fled</gloss></note>
+        <note type="footnote" n="313"><space rend="indent1"/><gloss>dead</gloss></note>
+        <note type="footnote" n="314"><space rend="indent1"/><gloss>gave up</gloss></note>
+
+
+      </div>
+
+
+      <div type="chapter" n="22">
+        <head type="rubric">Chapter 21</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And I saw new hevene and new erthe, for the
+          firste hevene and the firste erthe wente awei, and the see is not now. [2] And I, Joon,
+          saw the holi citee Jerusalem new comynge doun fro hevene maad redi of God as a wyf
+            ourned<note target="#315" type="footnotelink">G</note> to hir hosebonde. [3] And I herde
+          a greet vois fro the trone seynge, “Lo, the tabernacle of God is with men, and he shal
+          duelle with hem, and thei shulen be his puple and he God with hem shal be her God. [4] And
+          God shal wipe awei eche teer fro the iyen of hem, and deeth shal no more be, nether
+          moornyng nether cryng nether sorowe shal be over, wich firste thingis wenten awei.”</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[5] And he seide that satt in the trone, “Lo, I
+          make alle thingis newe.” And he seide to me, “Write thu, for thes wordis ben moost
+          feithful and trewe.”</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[6] And he seide to me, “It is doon. I am alpha
+          and oo,<note target="#316" type="footnotelink">G</note> the bigynnyng and eende. I shal
+          gife freli of the welle of qwik<note target="#317" type="footnotelink">G</note> watir to
+          him that thirsteth. [7] He that shal overcome shal welde<note target="#318"
+            type="footnotelink">G</note> thes thingis, and I shal be God to him and he shal be sone
+          to me. [8] But to feerdful<note target="#319" type="footnotelink">G</note> men and
+            unbileveful<note target="#320" type="footnotelink">G</note> and curside<note
+            target="#321" type="footnotelink">G</note> and manquellers<note target="#322"
+            type="footnotelink">G</note> and fornicatours and to wiycchis<note target="#323"
+            type="footnotelink">G</note> and worshipers of idols and to alle liers, the part of hem
+          shal be in the pool brennynge with fyr and brimstoon, that is the secunde deeth.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[9] And oon cam of the sevene aungelis havynge
+          viols fulle of sevene the laste<note target="#324" type="footnotelink">G</note>
+          vengeauncis, and he spac with me and seide, “Come thu, and I shal shewe to thee the
+            spousesse,<note target="#325" type="footnotelink">G</note> the wyf of the Lomb.” [10]
+          And he took me up in spiritt into a greet hil and high, and he shewide to me the holi
+          citee Jerusalem comynge doun fro hevene of God, [11] havyng the clereté<note target="#326"
+            type="footnotelink">G</note> of God and the <locus type="foliation">[fol. 385ra]</locus>
+          light of it lyk a preciouse stoon, as the stoon jaspis<note target="#327"
+            type="footnotelink">G</note> as cristal. [12] And it hadde a wal greet and high, havynge
+          twelfe gatis and in the gatis of it twelfe aungelis and names writen in that ben the
+          twelfe names of twelfe lynagis of the sones of Israel. [13] And fro the eest thre gatis,
+          and fro the north thre gatis, and fro the south thre gatis, and fro the west thre gatis.
+          [14] And the wal of the citee hadde twelfe foundementis<note target="#328"
+            type="footnotelink">G</note> and in hem the twelfe names of twelfe apostlis and of the
+          Lomb.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[15] And he that spac with me hadde a golden
+          mesure of a reud<note target="#329" type="footnotelink">G</note> that he shulde mete<note
+            target="#330" type="footnotelink">G</note> the citee and the gatis of it and the wal.
+          [16] And the citee was sett in square, and the lengthe of it is so miche as miche as is
+          the breede.<note target="#331" type="footnotelink">G</note> And he matt<note target="#332"
+            type="footnotelink">G</note> the citee with the reud bi furlongis twelfe thusandis, and
+          the heighte and the lengthe and the breede of it ben evene.<note target="#333"
+            type="footnotelink">G</note> [17] And he matt the wallis of it of an hundrid and foure
+          and fourti cubitis<note target="#334" type="footnotelink">G</note> bi mesure of man, that
+          is of an aungel. [18] And the bilding of the wal thereof was of the stoon jaspis, and the
+          citee itself was clene<note target="#335" type="footnotelink">G</note> gold lyk clene
+          glas. [19] And the foundementis of the wal of the citee weren ourned with al precious
+          stoon, the first foundement jaspis, the secounde safirus,<note target="#336"
+            type="footnotelink">G</note> the thridde calcedonyes,<note target="#337"
+            type="footnotelink">G</note> the fourthe smaragdus,<note target="#338"
+            type="footnotelink">G</note> [20] the fyvethe sardony,<note target="#339"
+            type="footnotelink">G</note> the sixte sardyus,<note target="#340" type="footnotelink"
+            >G</note> the seventhe crisolitus,<note target="#341" type="footnotelink">G</note> the
+          eightthe berillus,<note target="#342" type="footnotelink">G</note> the nynthe
+            topasius,<note target="#343" type="footnotelink">G</note> the tenthe crisopassus,<note
+            target="#344" type="footnotelink">G</note> the elleventhe jacinctus,<note target="#345"
+            type="footnotelink">G</note> the twelfthe ametistus.<note target="#346"
+            type="footnotelink">G</note> [21] And twelfe gatis ben twelfe margaritus<note
+            target="#347" type="footnotelink">G</note> bi eche, and eche gate was of<note
+            target="#348" type="footnotelink">G</note> ech margarite. And the stretis of the citee
+          weren clene gold as of glas ful shynyng.</ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[22] And I saw no temple in it, for the Lord
+          God almighti and the Lomb is the temple of it. [23] And the citee hath noo nede of sonne
+          nether moone that thei shyne in it, for the clerenesse<note target="#349"
+            type="footnotelink">G</note> of God shal lightne it, and the Lomb is the lanterne of it.
+          [24] And folkis shulen walke in light of it, and the kingis of erthe shulen bringe her
+          glorie and onour into it. [25] And the gatis of it shulen not be closid bi dai, and night
+          shal not be there. [26] And thei shulen bringe the glorie and onour of folkis into it.
+          [27] Nether any man defoulid and doing abhominacion and leesing<note target="#350"
+            type="footnotelink">G</note> shal entre into it, but thei that ben writen in the book of
+          lyf and of the Lomb.</ab>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="315"><space rend="indent1"/><gloss>adorned</gloss></note>
+        <note type="footnote" n="316"><space rend="indent1"/><gloss>omega</gloss></note>
+        <note type="footnote" n="317"><space rend="indent1"/><gloss>living</gloss></note>
+        <note type="footnote" n="318"><space rend="indent1"/><gloss>possess</gloss></note>
+        <note type="footnote" n="319"><space rend="indent1"/><gloss>fearful
+          (cowardly)</gloss></note>
+        <note type="footnote" n="320"><space rend="indent1"/><gloss>unbelieving
+          (unfaithful)</gloss></note>
+        <note type="footnote" n="321"><space rend="indent1"/><gloss>damned (wicked)</gloss></note>
+        <note type="footnote" n="322"><space rend="indent1"/><gloss>murderers</gloss></note>
+        <note type="footnote" n="323"><space rend="indent1"/><gloss>witches</gloss></note>
+        <note type="footnote" n="324"><space rend="indent1"/>sevene the laste, <gloss>the last
+            seven</gloss></note>
+        <note type="footnote" n="325"><space rend="indent1"/><gloss>bride</gloss></note>
+        <note type="footnote" n="326"><space rend="indent1"/><gloss>glory</gloss></note>
+        <note type="footnote" n="327"><space rend="indent1"/><gloss>jasper</gloss></note>
+        <note type="footnote" n="328"><space rend="indent1"/><gloss>foundations</gloss></note>
+        <note type="footnote" n="329"><space rend="indent1"/><gloss>measuring rod</gloss></note>
+        <note type="footnote" n="330"><space rend="indent1"/><gloss>measure</gloss></note>
+        <note type="footnote" n="331"><space rend="indent1"/><gloss>breadth</gloss></note>
+        <note type="footnote" n="332"><space rend="indent1"/><gloss>measured</gloss></note>
+        <note type="footnote" n="333"><space rend="indent1"/><gloss>equal</gloss></note>
+        <note type="footnote" n="334"><space rend="indent1"/><gloss>ancient measure (arm’s
+            length)</gloss></note>
+        <note type="footnote" n="335"><space rend="indent1"/><gloss>pure</gloss></note>
+        <note type="footnote" n="336"><space rend="indent1"/><gloss>sapphire</gloss></note>
+        <note type="footnote" n="337"><space rend="indent1"/><gloss>chalcedony</gloss></note>
+        <note type="footnote" n="338"><space rend="indent1"/><gloss>emerald</gloss></note>
+        <note type="footnote" n="339"><space rend="indent1"/><gloss>sardonyx</gloss></note>
+        <note type="footnote" n="340"><space rend="indent1"/><gloss>sard (carnelian)</gloss></note>
+        <note type="footnote" n="341"><space rend="indent1"/><gloss>chrysolite</gloss></note>
+        <note type="footnote" n="342"><space rend="indent1"/><gloss>beryl</gloss></note>
+        <note type="footnote" n="343"><space rend="indent1"/><gloss>topaz</gloss></note>
+        <note type="footnote" n="344"><space rend="indent1"/><gloss>chrysoprase</gloss></note>
+        <note type="footnote" n="345"><space rend="indent1"/><gloss>jacinth</gloss></note>
+        <note type="footnote" n="346"><space rend="indent1"/><gloss>amethyst</gloss></note>
+        <note type="footnote" n="347"><space rend="indent1"/><gloss>pearls</gloss></note>
+        <note type="footnote" n="348"><space rend="indent1"/><gloss>made of</gloss></note>
+        <note type="footnote" n="349"><space rend="indent1"/><gloss>brightness</gloss></note>
+        <note type="footnote" n="350"><space rend="indent1"/><gloss>lying</gloss></note>
+
+
+      </div>
+
+
+
+      <div type="chapter" n="23">
+        <head type="rubric">Chapter 22</head>
+        <ab><milestone n="1" unit="prose-textblock"/>[1] And he shewide to me a flood<note
+            target="#351" type="footnotelink">G</note> of qwik<note target="#352"
+            type="footnotelink">G</note> water shynynge as cristal comyng forth of the seete of God
+          and of the Lomb [2] in the middel of the strete of it, and on eche side of the flood, the
+          tre of lyf bringinge forth twelfe fruyytis, yeldinge his fruyyt bi ech moneth.<note
+            target="#353" type="footnotelink">G</note> And the leeves of the tree ben to the heelthe
+          of folkis. [3] And eche cursid thing shal no more be. But the seetis of God and of the
+          Lomb shulen be in it, and the servauntis of him shulen serve to him, [4] and thei shulen
+          se his face and his name in her forheedis. [5] And night shal no more be. And thei shulen
+          not have nede to the light of lanterne nether to light of the sonne, for the Lord God shal
+          lightne hem. And thei shulen regne into worldis of worldis.</ab>
+        <ab><milestone n="2" unit="prose-textblock"/>[6] And he seide to me, “Thes wordis ben moost
+          feithful and trewe. And the Lord God of spiritis of profetis sente his aungel to shewe
+          hise servauntis whate thingis it bihoveth to be doon soone. [7] And lo, I come <locus
+            type="foliation">[fol. 385rb]</locus> swifteli. Blessid is he that kepith the wordis of
+          profecie of this book.”</ab>
+        <ab><milestone n="3" unit="prose-textblock"/>[8] And I am Joon that herde and saw thes
+          thingis. And aftirward that I hadde herd and seyn, I fel doun to worshipe bifore the feet
+          of the aungel that shewide to me thes thingis. [9] And he seide to me, “Se thu that thu do
+          not! For I am servaunt with thee and of thi brethren profetis and of hem that kepen the
+          wordis of profecie of this book. Worshipe thu God.”</ab>
+        <ab><milestone n="4" unit="prose-textblock"/>[10] And he seide to me, “Signe<note
+            target="#354" type="footnotelink">G</note> ether seele thu not the wordis of profecie of
+          this book, for the tyme is nigh. [11] He that noieth,<note target="#355"
+            type="footnotelink">G</note> noie he yit, and he that is in filthes, waxe he foul yit,
+          and a just man be justified yit, and the holi be halowid yit.</ab>
+        <ab><milestone n="5" unit="prose-textblock"/>[12] “Lo, I come soone and my mede with me, to
+          yelde to ech man aftir his werkis. [13] I am alpha and oo, the firste and the laste,
+          bigynnyng and eende. [14] Blessid be thei that waiysshen her stoolis, that the power of
+          hem be in the tre of lyf, and entren bi the gatis into the citee. [15] For
+            withoutforth<note target="#356" type="footnotelink">G</note> houndis<note
+            type="tnote-indicator" n="29">T</note> and wiycchis<note type="tnote-indicator" n="30"
+            >T</note> and unchaste men and manquellers and servynge to idols and eche that loveth
+          and maketh leesing.<note target="#357" type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="6" unit="prose-textblock"/>[16] “I, Jhesus, sente myn aungel to witnesse
+          to you thes thingis in chirchis. I am the rote<note target="#358" type="footnotelink"
+            >G</note> and kyn of Davith and the shynyng morowe sterre.”<note target="#359"
+            type="footnotelink">G</note>
+        </ab>
+        <ab><milestone n="7" unit="prose-textblock"/>[17] And the Spiritt and the spousesse<note
+            target="#360" type="footnotelink">G</note> seyn, “Come thou.” And he that heerith, seie
+          he, “Come thou.” And he that thirsteth, come he, and he that wole, take he freli the water
+          of lyf.</ab>
+        <ab><milestone n="8" unit="prose-textblock"/>[18] And I wittnesse to ech man heringe the
+          wordis of the profecie of this book, if any man shal putte<note target="#361"
+            type="footnotelink">G</note> to thes thingis, God shal putte on him the vengeauncis
+          writen in this book. [19] And if any man do awei of the wordis of the book of this
+          profecie, God shal take awei the paart of him from the book of lyf and fro the holi citee
+          and fro thes thingis that ben writen in this book.</ab>
+        <ab><milestone n="9" unit="prose-textblock"/>[20] He seith that berith wittnessing of thes
+          thingis, “Yhe,<note target="#362" type="footnotelink">G</note> Amen. I come soone.” Amen.
+          Come thu, Lord Jhesu.</ab>
+        <ab><milestone n="10" unit="prose-textblock"/>[21] The grace of oure Lord Jhesu Crist be
+          with you alle. Amen.</ab>
+        <postscript>
+          <ab>Here endeth the Apocalips.<note type="tnote-indicator" n="31">T</note>
+          </ab>
+        </postscript>
+        <postscript>
+          <ab>The eer<note target="#363" type="footnotelink">G</note> of the Lord M.CCCC<note
+              type="tnote-indicator" n="32">T</note> and viii<note target="#364" type="footnotelink"
+              >G</note> this book was endid.</ab>
+        </postscript>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="351"><space rend="indent1"/><gloss>river</gloss></note>
+        <note type="footnote" n="352"><space rend="indent1"/><gloss>living</gloss></note>
+        <note type="footnote" n="353"><space rend="indent1"/><gloss>month</gloss></note>
+        <note type="footnote" n="354"><space rend="indent1"/><gloss>Seal up in order to
+          hide</gloss></note>
+        <note type="footnote" n="355"><space rend="indent1"/><gloss>does harm</gloss></note>
+        <note type="footnote" n="356"><space rend="indent1"/><gloss>outside</gloss></note>
+        <note type="footnote" n="357"><space rend="indent1"/><gloss>lies</gloss></note>
+        <note type="footnote" n="358"><space rend="indent1"/><gloss>root</gloss></note>
+        <note type="footnote" n="359"><space rend="indent1"/>morowe sterre, <gloss>morning
+            star</gloss></note>
+        <note type="footnote" n="360"><space rend="indent1"/><gloss>bride</gloss></note>
+        <note type="footnote" n="361"><space rend="indent1"/><gloss>add</gloss></note>
+        <note type="footnote" n="362"><space rend="indent1"/><gloss>Yea</gloss></note>
+        <note type="footnote" n="363"><space rend="indent1"/><gloss>year</gloss></note>
+        <note type="footnote" n="364"><space rend="indent1"/>M.CCCC and viii,
+          <gloss>1408</gloss></note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
